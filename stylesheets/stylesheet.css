@@ -246,7 +246,8 @@ hr {
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  opacity: 0.5;
+  text-decoration: none; /* */
+/*  opacity: 0.5; */
 }
 
 /* Clearfix */
@@ -264,10 +265,10 @@ a {
   zoom:1;
 }
 
-/* LOWER MENU */
+/* LOWER MENU 
 nav#menu-inferior {
 display: block;
 position: absolute;
 bottom: -170px;
 left: 400px;
-}
+} */
