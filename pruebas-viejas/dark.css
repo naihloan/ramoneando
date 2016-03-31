@@ -1,0 +1,122 @@
+* { 
+	padding: 0;
+	margin: 0;
+}
+
+hr {
+color: #d75656;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #d75656;
+    margin: 1em 0;
+    padding: 0; 
+    width: 100%;
+}
+
+body { 
+font: 4em  
+font-family: monospace, serif;
+  _font-family: 'courier new', monospace;
+background: #22272a;
+   text-align:justify;
+}
+
+h2 { font-size: 1em; }
+a { color: #FF9621; }
+
+#wrap {	margin: 20px auto;	width: 75%; background: #22272a; }
+
+#header {
+height: 100px;
+margin: 0;
+padding: 0;
+color: #e85151;
+background: #22272a; /*transparent?*/
+padding-bottom: 130px;
+border-bottom: 1px solid white;
+}
+
+#header h1 { margin: 0; padding-left: 1px; padding-top: 12px; font-size: 2.1em; color: #d75656;}
+#header h1 a { font-size: 1.1em; color: #e85151; text-decoration: none;  letter-spacing:-1px;}
+#header h1 a:hover {color : red;}
+#header h2 { margin: 0; padding-left: 1px; padding-top: 3px; 
+font-size: .9em; color: #d75656;}
+
+
+
+h4{ 
+margin: 0; padding-left: 1px; padding-top: 3px; padding-bottom: 150px;
+font-size: 5.9em; color: white;
+}
+
+#topmenu a { 
+color: #FFF;
+text-decoration: none;
+line-height: 22px;
+} 
+
+#topmenu a:hover {color: #aaa;}
+#topmenu a:visited {color: #ddd;}
+
+#topmenu {  
+font: .8em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+text-align: center;
+background: #22272a;
+margin-bottom: 5px;
+color: #fff;
+height: 22px;
+}
+
+h3{
+  text-transform: uppercase;
+  color: #d75656;
+  letter-spacing:-1px
+}
+
+#right {
+font: .8em 
+font-family: monospace, serif;
+  _font-family: 'courier new', monospace;
+float: right;
+width: 60%;
+margin-top: 5px;
+margin-left: 10px;
+color: #f4f4f4;
+}
+
+p {
+  margin-top: 0em;
+  margin-bottom: 1.2em;
+}
+
+
+#left { 
+font: .8em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+width: 37%;
+padding: 1px;
+line-height: 1.4em; 
+}
+
+
+
+#left li { list-style-type: none; color : white}
+#left li a {text-decoration: none; color : white}
+#left li a:hover {color : #FFEB31;}
+
+
+ .iconDetails {
+ margin-left:2%;
+float:right; 
+width: 19%;	
+} 
+
+.container2 {
+	width:100%;
+	height:auto;
+	padding:0%;
+}
+
+h4 {
+    margin:0px;
+}

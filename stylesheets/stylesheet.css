@@ -9,6 +9,10 @@ body {
 /*  text-align:justify; /* added */
 }
 
+p {
+  opacity: 0.9;
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
@@ -77,8 +81,7 @@ header h2 {
   margin: 0;
 }
 
-/* Main Content
-*/
+/* Main Content*/
 
 #main_content {
   width: 100%;
@@ -101,6 +104,10 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
+}
+
+h6 {
+  opacity: 0.7;
 }
 
 #main_content h1 {
@@ -137,12 +144,14 @@ dt {
   font-weight: bold;
 }
 
+
+
 ul li {
-  list-style: none;
+  list-style: disc;
 }
 
 ul li:before {
-  content: ">>";
+/*  content: ">>"; */
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
   color: #b5e853;
@@ -253,4 +262,12 @@ a {
 
 .cf {
   zoom:1;
+}
+
+/* LOWER MENU */
+nav#menu-inferior {
+display: block;
+position: absolute;
+bottom: -170px;
+left: 400px;
 }
