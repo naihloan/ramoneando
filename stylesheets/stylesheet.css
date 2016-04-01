@@ -240,9 +240,10 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
-/* Links
-   a, a:hover, a:visited
-*/
+ Links
+   a, a:hover, 
+/*   a:visited*/
+
 
 a {
   color: #63c0f5;
@@ -250,6 +251,11 @@ a {
   text-decoration: none; /* */
 /*  opacity: 0.5; */
 }
+
+a:hover {
+  text-decoration: underline;
+}
+
 
 /* Clearfix */
 
