@@ -1,9 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: black;
-  /* background: #151515 url("../images/bkg.png") 0 0; 
-   AUGI: separación entre header y cuerpo */
+  background: #151515 url("../images/bkg.png") 0 0;
   color: #eaeaea;
   font: 16px;
   line-height: 1.5;
@@ -23,9 +21,6 @@ margin-bottom: 1cm; /* margin-bottom: 5%; */
   max-width: 600px;
   margin: 0 auto;
 }
-
-
-
 
 section {
   display: block;
@@ -49,9 +44,8 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  /* border-bottom: 1px groove #b5e853; old */
-  /* border-bottom: 1px groove gray; */
-    /* border-bottom: 1px dashed #b5e853; */
+  border-bottom: 1px groove #b5e853; 
+  /* border-bottom: 1px dashed #b5e853; */
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -151,16 +145,10 @@ dt {
   font-weight: bold;
 }
 
-/*
-.archivo.ul
-	{
-	list-style-type: none;
-	}
-*/
+
 
 ul li {
-  /* list-style: disc; */
-  list-style-type: none;
+  list-style: disc;
 }
 
 ul li:before {
@@ -284,19 +272,6 @@ a:hover {
   zoom:1;
 }
 
-/*
-footer {
-background-color: #FFF;
-position:fixed;
-bottom: 0px;
-width: 100%;
-text-align: center;
-}
-<footer align="center">
-    <p>March 25, 2</p>
-</footer>
-* */
-
 /* LOWER MENU 
 nav#menu-inferior {
 display: block;
@@ -304,13 +279,3 @@ position: absolute;
 bottom: -170px;
 left: 400px;
 } */
-
-footer {
-  background: rgba(0, 0, 0, 0.1);
-  width: 100%;
-  /* border-top: 1px groove #b5e853; 
-  border-top-color: #eaeaea; /* #b5e853; */ 
-  /* border-bottom: 1px dashed #b5e853; */
-  padding: 20px 0;
-  margin: 0 0 40px 0;
-}
