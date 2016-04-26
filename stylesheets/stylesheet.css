@@ -1,8 +1,6 @@
-a {color: #63c0f5; text-decoration: none;}
-h2{color: #b5e853;}
-ul li {list-style-type: none}   /* list-style: disc; */
-aside, hr{color: #b5e853;opacity: 0.45;line-height: 1;font-size: 15px;}
-h1,h2,h3{line-height:1.2}
-body{background-color: black; margin:40px auto;max-width:650px;line-height:1.6;font-size:18px; color: #c4c4c4;
-font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-padding:0 10px}
+a{color: #63c0f5; text-decoration: none;}ul li{list-style-type: none}
+aside,hr{color: #b5e853;opacity: 0.45;line-height: 1;font-size: 15px;}
+h1,h2,h3{line-height:1.2}h2{color: #b5e853;}
+body{background-color: black; margin:40px auto;max-width:650px;line-height:1.6;font-size:18px; color: #c4c4c4;padding:0 10px;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace}
+figcaption{display: block;}
