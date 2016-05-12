@@ -9,11 +9,15 @@ Add, commit, and push your changes:
 
 git add --all
 
-git commit -m "Initial commit"
-
+git commit -m "any commit"
+*
 git push -u origin 
 ...(master)
 
+
+
+* instead of ...
+git commit -m "Initial commit"
 
 
 
