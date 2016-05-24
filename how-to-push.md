@@ -9,7 +9,7 @@ Add, commit, and push your changes:
 
 git add --all
 
-git commit -m "any commit"
+git commit -m "many commits"
 
 git push -u origin 
 ...(master)
