@@ -14,6 +14,10 @@ git commit -m "many commits"
 git push -u origin 
 ...(master)
 
+ó bien
+
+git add --all && git commit -m "many commits" && git push -u origin 
+
 
 
 * instead of ...
