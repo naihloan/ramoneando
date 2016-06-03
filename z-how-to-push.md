@@ -1,3 +1,8 @@
+I created a script and placed it at /bin under the name of ramon. basically like this:
+#!/bin/bash # My first script
+echo "git add --all && git commit -m 'many commits' && git push -u origin"
+
+
 git add --all && git commit -m "many commits" && git push -u origin 
 
 ramoneando
