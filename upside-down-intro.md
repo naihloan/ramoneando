@@ -1,3 +1,5 @@
+_Qué chico es el mundo cuando solamente entendemos lo que nos gusta, manejamos y estamos acostumbrados_
+-- Eusebio Sanój
 
 > 
   --------
