@@ -1,2 +1,2 @@
 # ramoneando
-apunte de calle y el más allá
+apuntes de calle y el más allá
