@@ -7,4 +7,22 @@ h1,h2,h3{line-height:1.2}h2{color: #b5e853;}h3,h4{font-variant: small-caps}
 ul{list-style-type:disc}figcaption,nav{display: block;}
 body{background-color: black; margin:40px auto;max-width:650px;line-height:1.6;font-size:18px; color: #c4c4c4;padding:0 10px;
 font-family: "Courier New", Courier, monospace /*Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace*/}
-div{height: 100px;}span{display: inline-block;vertical-align: middle;line-height: normal;} /*a#link{color:white}a#link:hover {color:red}*/
+div{height: 100px;}
+span{display: inline-block;vertical-align: middle;line-height: normal;} /*a#link{color:white}a#link:hover {color:red}*/
+
+
+#navigation ul{margin: 0;padding: 0;}
+#navigation ul li{list-style-type: none;display: inline;}
+#navigation li:before {content: " | ";}
+#navigation li:first-child:before {content: none;}
+
+.nav ul {list-style: none;background-color: none;text-align: center;padding: 0;margin: 0;}
+/* .nav li {font-size: 1.2em;line-height: 40px;height: 40px;border-bottom: 1px solid #888;} */ 
+.nav a {display: block;}
+.nav a:hover {background-color: #yellow;}
+.nav a.active {background-color: #fff;color: #444;cursor: default;} 
+ 
+@media screen and (min-width: 600px) {
+  .nav li {width: 120px;border-bottom: none;height: 50px;line-height: 50px;font-size: 1.4em;} 
+  .nav li {display: inline-block;margin-right: -4px;} 
+  }
