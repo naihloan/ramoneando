@@ -29,18 +29,42 @@ ___
 
 # 2. Autoethnography
 
-The plan of work proposed here sets axis on which to develop future ideas, these axis being: materiality, affect and the body. These _sensitizing concepts_ (rather than restrictive prescriptions) shall be guiding points to suggest directions where to look at, as germs of analysis on how and where to collect information. Data finding also relies on the researcher's agenda: "What sorts of pattern one is looking for depends, of course, on research focus and theoretical orientation". Benefits of in field immersion include natural conversations in which "[unusual participant terms] may mark theoretically important or interesting phenomena". In the same coin concepts may also be, alternitavely, "observer-identified"[^4].
+The plan of work proposed here sets axis on which to develop future ideas, these axis being: materiality, affect and the body. These _sensitizing concepts_ (rather than restrictive prescriptions) shall be guiding points to suggest directions where to look at, as germs of analysis on how and where to collect information. Data finding also relies on the researcher's agenda: "What sorts of pattern one is looking for depends, of course, on research focus and theoretical orientation". Benefits of in-field immersion include not only direct access in general but additionaly to non-structured conversations in which "[unusual participant terms] may mark theoretically important or interesting phenomena". In the same coin concepts may also be, alternitavely, "observer-identified"[^4].
 
 [^4]: Hammersley and Atkinson. _Ethnography: principles in practice_. 3rd ed. London; New York, NY: Routledge, 2007. P. 164 ("Sensitizing concepts" is Blumer's), 163. 
 
-However, these axis-concepts shall not be used as fixed tautologies to give a taken-for-granted understanding of behaviours. The approach here is first _exploratory_, before than explanatory. This other point shall come later, during research. The intention is first to gather data, concepts, and a series of insights from in-field work. 
+The axial concepts are not be used as fixed tautologies to give a taken-for-granted understanding of behaviours. The approach here is first _exploratory_, before than explanatory. The deeper understanding of behaviours and use of tools, resources and knowledge in general shall come later, during research. The intention is first to gather data, concepts, and a series of insights from in-field work. 
 
-The _in situ_ work is intended to be at least two fold, that is, in two areas/timings of ultrarunning: 1st, during training; and 2nd, during specific ultrarunning events. The first, is to be tackled through autoethnography, not as an biographical account, but as means to grasp the main topics that are dealt with. The second, there is very little research in academic research on events from a qualitative approach (in scarce occasions, and when so, only through surveys or measurement based), hence the importance to move forward. Some of the key features of an _ethnographic approach_ are taken into account in the present approach: to prioritize the insider perspective highlighting the experiential, an active immersion in the field during a reasonable amount of time, minimal interference to gather data to be triangulated[^5].
+Ultrarunning has a certain tension in the way it connects participants with people from the outside social worlds. 
 
-[^5]: Holloway, Imma; Brown, Lorraine; and Shipway, Richard. "Meaning not measurement: Using ethnography to bring a deeper understanding to the participant experience of festivals and events". _International Journal of Event and Festival Management_. Vol. 1 Nº 1, 2010. Pp. 75-76.
-___
+- On one side, it is a very public activity, runners are exposed to permanent contact with other runners (and nonrunners as well) in the open, and races depend on a wide amount of actors, both participating and non-race related: in sum a very wide orchestrated and coordinated social activity. 
 
-Ultrarunning may well be one of the most _outdoor_ activities or sports ever. It envolves several hours, even days sometimes "out in the blue", amongst the almost untouched nature and wild green spaces afar from city in country-side races. And in training season, even in city context: the silent early night-to-dawn moment (from 4 to 6 am) is when nearly no normal person is going about, and birds have not even began to chirp. In the same coin with lonely spaces, running has many many solitary moments in which runners get to collect themselves and revolve in their thoughts, the bareness of the surroundings, and at many flowing times: to just not think in anything and be in the moment.
+- On the other side, ultrarunning entails a certain _Loneliness of the long distance runner_[^5]. Running ultra distances may well be among the most _outdoor_ activities or sports. It involves several hours, even days sometimes "out in the blue", amongst the almost untouched nature and wild green spaces afar from city in country-side races. And in training season, even in city context: the silent early night-to-dawn moment (from 4 to 6 am) is when nearly no normal person is going about, and birds have not even began to chirp. In the same coin with lonely spaces, running has many many solitary moments in which runners get to collect themselves and revolve in their thoughts, the bareness of the surroundings, and at many flowing times: to just not think in anything and be in the moment.
+
+[^5]: Short story by Alan Sillitoe, published in 1959.
+
+The _in situ_ work is intended to grasp these two areas (intimate-personal; and social-network-dependent) in ultrarunning: the 1st, during training; and the 2nd, during specific ultrarunning events. 
+
+1. The first aspect, training, is to be tackled through autoethnography, not as a biographical account, but as means to grasp the main topics that are dealt with. Many of the available material on ultrarunning in text and video documentary depict narratives from the sole perspective of runners, in 1st person, and how they prepare their practices with various ways of running and post exercise cool downs and stretching as well as general nutrition and rest time. The researcher may well take a similar approach without being an outsider of common practice in this social world. 
+
+>> Gertrude Kurath (1960) recommended etnographers to "learn the movements" and  Adrienne Kaeppler (1978) proposed that etnographers learn certain movements and to recieve instructions of what is done "incorrectly", or "differently" with a methodology that would allow to understand better. [José Bizerril has argued that the practical formation of the researcher has its advantages.]
+This knowledge allows an access to aspects of the research topic that otherwise would pass unnoticed if only done with a distant approach based on observation and interview. [the vivential dimension makes it possible to get entry to the experience and] "to the psico-physic and -why not say so-, to the spiritual states that that this experience triggers[^*].
+
+[^*]: Aschieri, Patricia. "Hacia una etnografía encarnada: La corporalidad del etnógrafo/a como dato en la investigación". _X RAM- Reunión de Antropología del Mercosur_. Córdoba, Argentina, 2013. P. 16.
+
+
+Of course autoethnography may work with a potential source for bias, but at the same time provides both the most inner side view possible, and reveals the teller's interests, perspectives and presuppositions; to which one can always add contrast with other references to compare and find the most reliable common ground[^7].
+
+[^7]: Hammersley and Atkinson. _Ethnography: principles in practice_. 3rd ed. London; New York, NY: Routledge, 2007. P. 164 ("Sensitizing concepts" is Blumer's), 124. 
+
+
+2. On the second aspect, on racing events, there is very little material in academic research on events from a qualitative approach. There are scarce material, and when so, only done through surveys or measurement based. Hence the importance to move forward. Some of the key features of an _ethnographic approach_ are taken into account in the present approach: to prioritize the insider perspective highlighting the experiential, an active immersion in the field during a reasonable amount of time, minimal interference to gather data to be triangulated[^8]. And not to focus on _measuring_ variables, but rather on _collecting and constructing new variables_ to build up ever more complex concepts: this adds nuance to the understanding of the phenomenon, and provides material to suggest new  questions and aspects to be worked on[^**].
+
+[^**]: Becker, Howard S. _What About Mozart? What About Murder? Reasoning From Cases_. The University of Chicago Press, Chicago, 2014. Pp. 13-14, 18. 
+
+
+
+[^8]: Holloway, Imma; Brown, Lorraine; and Shipway, Richard. "Meaning not measurement: Using ethnography to bring a deeper understanding to the participant experience of festivals and events". _International Journal of Event and Festival Management_. Vol. 1 Nº 1, 2010. Pp. 75-76.
 
 
 
@@ -50,13 +74,17 @@ Ultrarunning may well be one of the most _outdoor_ activities or sports ever. It
 law-latour, deleuze/guattari-tarde, hennion-latour
 )
 
-[//]: # "A main concern underlying this project is that...
+[///]: # "A main concern underlying this project is that...
 In day-to-day life there is a prevalent automatism and standarization of ways of using transport, working and percieving the body and the city in general. "
 
 
 ___
 
 # Bibliography
+
+ASCHIERI, Patricia. "Hacia una etnografía encarnada: La corporalidad del etnógrafo/a como dato en la investigación". _X RAM- Reunión de Antropología del Mercosur_. Córdoba, Argentina, 2013. 
+
+BECKER, Howard S. _What About Mozart? What About Murder? Reasoning From Cases_. The University of Chicago Press, Chicago, 2014.
 
 ETTEMA, Dick. "Runnable Cities. How Does the Running Environment Influence Perceived Attractiveness, Restorativeness, and Running Frequency?" _Environment and Behaviour_. Pp. 1-21. 2015.
 
@@ -69,9 +97,9 @@ HOLLOWAY, Imma; BROWN, Lorraine; and SHIPWAY, Richard. "Meaning not measurement:
 SHELLER, Mimi; URRY, John. "The new mobilities paradigm". In _Environment and Planning_. volume 38, pages 207-226, 2006.
 
 
-[//]: # "COMMENT
+[////]: # "COMMENT
 COMMENT
 " 
 
-[//]: # (# COMMENT
+[/////]: # (# COMMENT
 )
