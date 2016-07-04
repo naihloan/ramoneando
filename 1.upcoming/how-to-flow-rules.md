@@ -1,4 +1,27 @@
+Hola Lore,
+te mando el texto que te comenté para lanzarse a escribir: es un libro de Howard Becker. Básicamente el libro es un libro de (re-)escritura. Está dirigido a científicos sociales, pero también a otros científicos y eventualmente a otros géneros también. Moraleja principal es que escribir es tan fácil como hablar, sólo implica otros compromisos. Y también el proceso de revisar lo escupido y editar y reescribir hasta satisfecho. Y animarse a compartir con colegas bien dispuestos para recibir feedback. Y estar dispuesto a darlo en la misma sintonía.
+
+Te recomiendo especialmente dos capítulos.
+
+3. Citas directas que sintetizan lo mejor del capítulo:
+
+> tengo que descubrir lo que quiero decir 
+
+> [dar carandura a las palabras] nos permitirá despejar nuestros pensamientos con más facilidad
+
+> en vez de intentar resolver lo irresoluble hablar de eso [como un atractivo dilema]. en el campo los obstáculos aportan pistas valiosas 
+
+6. Escribe Pamela Richards. Básicamente es emocional y por qué nos bloqueamos.
+
+Capítulo adicional:
+
+8. 
+
+> use la bibliografía, no deje que la bibliografía lo use a ud.
+
 ___
+
+Otras ideas que esbozé en inglés tomando citas online.
 
 # Good ideas for how to flow
 
@@ -19,6 +42,12 @@ ___
 
 ## 2
 
+- Get into **the habit of writing**. [Don't wait and don't be afraid of producing only crap (Video Vlog, 4 mins).](https://www.youtube.com/watch?v=KM1j4KsKNjo)
+
+___
+
+## 3
+
 - [There are **three** _main psychological reasons for writer's block_: indecision, the blank page syndrome and burnout. Procrastination just looks like writer's block.](http://writers.stackexchange.com/questions/17128/what-are-the-reasons-behind-writers-block)
 
 	- **Indecision** comes from having too many choices. Enumerating your choices often helps with this. In extreme cases Enumerating the impossibilities help (the pixar method).
@@ -27,19 +56,21 @@ ___
 
 ___
 
-## 3
+## 4
 
 - [Crappy and hasty first draft is perfectly fine, block time every day for writing and do nothing else,use public commitment](http://academia.stackexchange.com/questions/7656/resources-on-how-to-overcome-writers-block-especially-for-non-native-english-s)
 
 ___
 
-## 4
+## 5
 
 - [On “familiarity” (or How to avoid “going down the Math Rabbit Hole”?)](http://math.stackexchange.com/questions/617625/on-familiarity-or-how-to-avoid-going-down-the-math-rabbit-hole)
 
 ___
 
-## [How to _not_ overcome writer’s block: some anti-solutions](http://goinswriter.com/how-to-overcome-writers-block/)
+# How to not overcome writer’s block 
+
+[anti-solutions](http://goinswriter.com/how-to-overcome-writers-block/)
 
 - You do not overcome writer’s block by reading articles on how to overcome writer’s block. (Kinda shot myself in the foot there, huh?)
 - You do not overcome writer’s block by watching TV.
@@ -57,3 +88,9 @@ ___
 There is also [hypergraphia](https://en.wikipedia.org/wiki/Hypergraphia), which is the overwhelming urge to write.
 
 And also [graphorrhea](http://www.thefreedictionary.com/graphorrhea): writing in excessive amounts, sometimes incoherently.
+
+___
+
+espero sirva!!! nos escribimos,
+bss,
+Benja
