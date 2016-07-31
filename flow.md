@@ -62,64 +62,70 @@ Of course autoethnography may work with a potential source for bias, but at the 
 
 [^**]: Becker, Howard S. _What About Mozart? What About Murder? Reasoning From Cases_. The University of Chicago Press, Chicago, 2014. Pp. 13-14, 18. 
 
-
-
 [^8]: Holloway, Imma; Brown, Lorraine; and Shipway, Richard. "Meaning not measurement: Using ethnography to bring a deeper understanding to the participant experience of festivals and events". _International Journal of Event and Festival Management_. Vol. 1 Nº 1, 2010. Pp. 75-76.
-
-
-
-
 
 [//]: # (# 3. Key concepts: materiality, affect, body
 law-latour, deleuze/guattari-tarde, hennion-latour
 )
 
 [///]: # "A main concern underlying this project is that...
-In day-to-day life there is a prevalent automatism and standarization of ways of using transport, working and percieving the body and the city in general. "
+In day-to-day life there is a prevalent automatism and standarization of ways of using transport, working and percieving the body and the city in general."
 
-# 3. Conceptual approach: body, affect, materiality
+# 3. Concepts: affect, body, materiality
 
-### AFFECT
+A main concern underlying this project is that in day-to-day life there is a prevalent automatism and standarization of ways of using transport, working and percieving the body and the city in general. Each one of these elements that compose urban rythms are more or less taken for granted, and considered as mere objects and rutines that function under fixed ways that change little. However, the city concert also has a deal of potentials that are reactualized moment to moment. The city has a way of constantly creating its own character: that is, people and things create a full working network and at the same time the city itself is a living being. There is no intention to humanize a non-human, but to understand the influence under which it is subject and how it creates effects upon _all  citizens_.
 
-- ParrAdrian.2010.The Deleuze Dictionary-Edinburgh University Press.337
+Emotions also are boiling on the surface of city activity, but it is not this alone that imprints a distinction on how urban flows act, react, change directions and sizes, stop, and come back under different ways. Their are certain properties and activities that make a city closer to "all that it can be", or rather those that just keep it at a minimum. _Emotions are not the same than affections_ repeat Deleuzian texts and their readers: while the first are needed for a qualitative detection of lively experiences and themes, they are not the points that show how far an entity can reach to the infinite of possibilities to be developed. Each atom of this "life of associations", to use a Tardean idea, can have a strength and hability to propagate itself, or just die alone from internal implosion. Affect can be on one extreme the potential for sadness, but most commonly cited as the contrary potential for joy, expansion, and freedom to do what is desired and desirable.
 
-> _In accounting for experience in a non-interpretive manner, Deleuze’s
-conception of affect exposed the limits of semiotics that tends to structure
-emotional responses to aesthetic and physical experiences. Undeniably a
+> _Affectivity is understood as intrinsically positive: it is the force that
+aims at fulfilling the subject's capacity for interaction and freedom. [...] The positivity of
+this desire to express one's innermost and constitutive freedom can be
+termed as conatus, potentia or becoming._[^9]
+
+[^9] BRAIDOTTI, Rosi. _Transpositions: On Nomadic Ethics_. Polity, Cambridge, 2006. P. 148.
+
+One of the primary motors that allow to these realizations is desire, highlighted as the primer trigger that enables subsequent proceses in human society. Hence one can make a direct relation linking affections and desire to produce societal outcomes, be them productive for liberation or, on the other hand, even for alienating, controlling and impeding the liberation of desire:
+
+> _Undeniably a 
 romantic concept within his discussion of the regulation and production
-of desire and energy within a social field, Deleuze’s writings of affect and
+of desire and energy within a social field, Deleuze’s writings affect and
 affection nevertheless enable a material, and therefore political critique of
 capital and its operations. Within a Deleuzian framework, affect operates
 as a dynamic of desire within any assemblage to manipulate meaning and
 relations, inform and fabricate desire, and generate intensity – yielding
-different affects in any given situation or event. Perception is a non-
-passive continual moulding, driven and given by affect. [...]
-this end, affect describes the forces behind all forms of social production
-in the contemporary world, and these affective forces’ ethical, ontological,
-cognitive, and physiological powers. In Deleuze’s singular and collabora-
-tive work with Guattari, affective forces are depicted as reactive or active
+different affects in any given situation or event. [...] In Deleuze’s singular and collaborative 
+work with Guattari, affective forces are depicted as reactive or active
 (following Nietzsche), tacit or performed. As Deleuze portrays it, affective
-power can be utilised to enable ability, authority, control and creativity.
-Embrace me._ 13 (22)
+power can be utilised to enable ability, authority, control and creativity._[^10]
 
-- BraidottiRosi.2006.Transpositions: On Nomadic Ethics.Polity.315
+[^10] PARR, Adrian. _The Deleuze Dictionary_ [2005]. Edinburgh University Press, Edinburgh, 2010. P. 13
 
-> _Affectivity is understood as intrinsically positive: it is the force that
-aims at fulfilling the subject's capacity for interaction and freedom. It is
-Spinoza's conatus, or the notion of potentia as the affirmative aspect of
-power. It is joyful and pleasure-prone and it is immanent in that it coin-
-cides with the terms and modes of its expression. This means concretely
-that ethical behaviour confirms, facilitates and enhances the subject's
-potentia, as the capacity to express his or her freedom. The positivity of
-this desire to express one's innermost and constitutive freedom can be
-termed as conatus, potentia or becoming._ 148
+
+The city and its components, humans and non-humans, have a number of potentials working at several levels of networks. And these network points even have the ability to interchange properties and labels: a passive human-car annexed together can be more of a block in the system of flows than an active non-human river that transports water to the industries and thirsty people. Even separating humans from non-humans is fictional: they are structured ways of understanding agents that are not actually very easily separated, a cyborg human becomes undestinguishable from a poshuman, or even a simple human. 
+
+[////]: #### (#### All these references of a human do not refer to the object of anatomy, but to ...)
+
+
+The research suggested here intends to explore the capabilities in urban life and seek how it may unfold: 
+it's a search that goes to several components of a network and see how they may render multiple layers of possible outcomes.
+
+
+
+
+
+
+
+### AFFECT
+
+
+
 
 - BraidottiRosi.2006.Metamorfosis: hacia una teoría materialista del devenir.Ediciones AKAL.345
 
 > _El desdibujamiento de estas divisiones categóricas entre el yo y los otros crea una
 especie de heteroglosia de las especies, una hibridación colosal. La tecnologia está en
 el corazón de este proceso que combina monstruos, insectos y máquinas en un acerca-
-rniento poderosamente poshumano a lo que solíamos 11amar «cl cuerpo»._ 263 (258)
+rniento poderosamente poshumano a lo que solíamos 11amar «el cuerpo»._ 263 (258)
 
 - RoseNikolas.2007.The Politics of Life Itself: Biomedicine, Power, and Subjectivity in the Twenty-First Century
 
@@ -140,7 +146,7 @@ older senses of the self,_ 222 (239)
 > _Marginal is distinguished from minor in Guattaris thought inasmuch as
 a minority (for example, first-wave gay rights activists in the US) refuse their mar-
 ginality because it is tied to repressive recentrings on normative models of sexuality
-and lifestyle (Guattari 1977a: 185-6; 1978: 57). The transition from margin to minor_
+and lifestyle (Guattari 1977a: 185-6; 1978: 57)._
 
 > _For Guattari, cinema is a minor art that "perhaps serves the people who constitute
 a minority, and this is not at all pejorative. A major art is at the service of power ... A
@@ -183,6 +189,8 @@ ASCHIERI, Patricia. "Hacia una etnografía encarnada: La corporalidad del etnóg
 
 BECKER, Howard S. _What About Mozart? What About Murder? Reasoning From Cases_. The University of Chicago Press, Chicago, 2014.
 
+BRAIDOTTI, Rosi. _Transpositions: On Nomadic Ethics_. Polity, Cambridge, 2006.
+
 ETTEMA, Dick. "Runnable Cities. How Does the Running Environment Influence Perceived Attractiveness, Restorativeness, and Running Frequency?" _Environment and Behaviour_. Pp. 1-21. 2015.
 
 ATKINSON, Paul; HAMMERSLEY, Martyn. _Ethnography: principles in practice_. 3rd ed. London; New York, NY: Routledge, 2007.
@@ -191,12 +199,7 @@ HANNERZ, Ulf. “The City as Theater: Tales of Goffmann”. In _Exploring the ci
 
 HOLLOWAY, Imma; BROWN, Lorraine; and SHIPWAY, Richard. "Meaning not measurement: Using ethnography to bring a deeper understanding to the participant experience of festivals and events". _International Journal of Event and Festival Management_. Vol. 1 Nº 1, 2010.
 
+PARR, Adrian. _The Deleuze Dictionary_ [2005]. Edinburgh University Press, Edinburgh, 2010.
+
 SHELLER, Mimi; URRY, John. "The new mobilities paradigm". In _Environment and Planning_. volume 38, pages 207-226, 2006.
 
-
-[////]: # "COMMENT
-COMMENT
-" 
-
-[/////]: # (# COMMENT
-)
