@@ -28,7 +28,7 @@ Share this letter - read it in public - leave it in the printer. Share your writ
 
 Dušan Barok, Josephine Berry, Bodó Balázs, Sean Dockray, Kenneth Goldsmith, Anthony Iles, Lawrence Liang, Sebastian Lütgert, Pauline van Mourik Broekman, Marcell Mars, spideralex, Tomislav Medak, Dubravka Sekulić, Femke Snelting...
 
-    1. Larivière, Vincent, Stefanie Haustein, and Philippe Mongeon. “The Oligopoly of Academic Publishers in the Digital Era.” PLoS ONE 10, no. 6 (June 10, 2015): e0127502. doi:10.1371/journal.pone.0127502.,
+    1. Larivière, Vincent, Stefanie Haustein, and Philippe Mongeon. “The Oligopoly of Academic Publishers in the Digital Era.” PLoS ONE 10, no. 6 (June 10, 2015): e0127502. <doi:10.1371/journal.pone.0127502.>,
     “The Obscene Profits of Commercial Scholarly Publishers.” svpow.com. Accessed November 30, 2015.  
     2. Sample, Ian. “Harvard University Says It Can’t Afford Journal Publishers’ Prices.” The Guardian, April 24, 2012, sec. Science. theguardian.com.  
     3. “Academic Paywalls Mean Publish and Perish - Al Jazeera English.” Accessed November 30, 2015. aljazeera.com.  

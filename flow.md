@@ -4,14 +4,14 @@
 
 The total amount of runners moving through any space seem to be an independent flow from the rest of city's circulation. 
 This is true in the sense that green spaces are mainly designed for leisure and as out-of-traffic zones.
-On another hand, yet, it is not quite true that runners are independent from other flows because car-traffic and other types of non-running traffic intercept the runners way and, hence, make them stop: breaking runners' momentum[^1]. Runnners, just as all others, depend on getting path available as they go. This has two major implications:
+On another hand, yet, it is not quite true that runners are independent from other flows because car-traffic and other types of non-running traffic intercept the runners way and, hence, make them stop: breaking runners' momentum[^1]. Runners, just as all others, depend on getting path available as they go. This has two major implications:
 
 [^1]: Ettema, Dick. "Runnable Cities. How Does the Running Environment Influence Perceived Attractiveness, Restorativeness, and Running Frequency?" _Environment and Behaviour_. Pp. 1-21. 2015. P. 17.
 
 - To move through the city there needs to be paths to begin with
 
 ## The need for paths to circulate in 
-This has a huge dimension in which nonhumans get into play. For each space that is used in the city one could follow a science studies method: to determinate all the objects and people that came into action to deliver a single object. The generic city as a civilized construction has always a setter of layers upon which it has been built: be it an arid, or rocky, or damp or even forest-like, or any kind of environment there are ways of setting in. Humans have customized spaces for millennia. Only the past couple of centuries, at the most, have taken into account the use of delimited areas of public space for new purposes such as leisure. 
+This has a huge dimension in which non-humans get into play. For each space that is used in the city one could follow a science studies method: to determinate all the objects and people that came into action to deliver a single object. The generic city as a civilized construction has always a setter of layers upon which it has been built: be it an arid, or rocky, or damp or even forest-like, or any kind of environment there are ways of setting in. Humans have customized spaces for milennia. Only the past couple of centuries, at the most, have taken into account the use of delimited areas of public space for new purposes such as leisure. 
 
 - No two objects/people can be at the same in the same place
 
@@ -77,8 +77,105 @@ law-latour, deleuze/guattari-tarde, hennion-latour
 [///]: # "A main concern underlying this project is that...
 In day-to-day life there is a prevalent automatism and standarization of ways of using transport, working and percieving the body and the city in general. "
 
+# 3. Conceptual approach: body, affect, materiality
+
+### AFFECT
+
+- ParrAdrian.2010.The Deleuze Dictionary-Edinburgh University Press.337
+
+> _In accounting for experience in a non-interpretive manner, Deleuze’s
+conception of affect exposed the limits of semiotics that tends to structure
+emotional responses to aesthetic and physical experiences. Undeniably a
+romantic concept within his discussion of the regulation and production
+of desire and energy within a social field, Deleuze’s writings of affect and
+affection nevertheless enable a material, and therefore political critique of
+capital and its operations. Within a Deleuzian framework, affect operates
+as a dynamic of desire within any assemblage to manipulate meaning and
+relations, inform and fabricate desire, and generate intensity – yielding
+different affects in any given situation or event. Perception is a non-
+passive continual moulding, driven and given by affect. [...]
+this end, affect describes the forces behind all forms of social production
+in the contemporary world, and these affective forces’ ethical, ontological,
+cognitive, and physiological powers. In Deleuze’s singular and collabora-
+tive work with Guattari, affective forces are depicted as reactive or active
+(following Nietzsche), tacit or performed. As Deleuze portrays it, affective
+power can be utilised to enable ability, authority, control and creativity.
+Embrace me._ 13 (22)
+
+- BraidottiRosi.2006.Transpositions: On Nomadic Ethics.Polity.315
+
+> _Affectivity is understood as intrinsically positive: it is the force that
+aims at fulfilling the subject's capacity for interaction and freedom. It is
+Spinoza's conatus, or the notion of potentia as the affirmative aspect of
+power. It is joyful and pleasure-prone and it is immanent in that it coin-
+cides with the terms and modes of its expression. This means concretely
+that ethical behaviour confirms, facilitates and enhances the subject's
+potentia, as the capacity to express his or her freedom. The positivity of
+this desire to express one's innermost and constitutive freedom can be
+termed as conatus, potentia or becoming._ 148
+
+- BraidottiRosi.2006.Metamorfosis: hacia una teoría materialista del devenir.Ediciones AKAL.345
+
+> _El desdibujamiento de estas divisiones categóricas entre el yo y los otros crea una
+especie de heteroglosia de las especies, una hibridación colosal. La tecnologia está en
+el corazón de este proceso que combina monstruos, insectos y máquinas en un acerca-
+rniento poderosamente poshumano a lo que solíamos 11amar «cl cuerpo»._ 263 (258)
+
+- RoseNikolas.2007.The Politics of Life Itself: Biomedicine, Power, and Subjectivity in the Twenty-First Century
+
+> _The psy discourses that took shape across the twentieth century
+brought into existence a whole new way of relating to ourselves—in terms
+of neuroses, trauma, unconscious desires, repression, and, of course, the
+theme of the centrality of sexuality to our psychic life. To say we have
+become “neurochemical selves” is not to say that this way of relating to
+ourselves has now displaced or replaced all others: different practices and
+locales embody and enjoin different senses of selfhood, and the idea that
+each culture or historical period is characterized by a single way of under-
+standing and relating to ourselves is clearly mistaken.51 But I suggest that a
+neurochemical sense of ourselves is increasingly being layered onto other,
+older senses of the self,_ 222 (239)
+
+- ColmanFelicity.2009.Film, Theory, and Philosophy: The Key Thinkers.415 >> Genosko
+
+> _Marginal is distinguished from minor in Guattaris thought inasmuch as
+a minority (for example, first-wave gay rights activists in the US) refuse their mar-
+ginality because it is tied to repressive recentrings on normative models of sexuality
+and lifestyle (Guattari 1977a: 185-6; 1978: 57). The transition from margin to minor_
+
+> _For Guattari, cinema is a minor art that "perhaps serves the people who constitute
+a minority, and this is not at all pejorative. A major art is at the service of power ... A
+minor cinema for minorities ... and for the rest of us, too, since all of us participate in
+these minorities in one way or another" (Guattari 1996b: 180)._
+
+### BODY
+
+- Grosz?
+
+### MATERIALITY
+
+- Latham-etal.2004.Moving cities: Rethinking the materialities of urban geographies.26
+
+> _To speak of the material is, therefore, to have already invoked the excessive potential 
+of the immaterial. Or, as Guattari (1995: 103) puts it, 'there is no effort bearing on
+material forms that does not bring forth immaterial entities'._ 705 (7)
+
+- BIJKER en JasanoffMarklePetersonPinch (Eds.).2001.Handbook of Science and Technology Studies-SAGE Publications.849
+
+- DomenechTirado(comps.).1998.Sociologia Simétrica.Book-CallonLawLatour.307
+
+- MichaelMike.2000.Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity-Routledge
+
+- Kärrholm, Mattias.2007.The Materiality of Territorial Production - A Conceptual Discussion of Territoriality, Materiality and the Everyday Life of Public Space.32
+
+- Schmidgen.2013.The materiality of things... Bruno Latour, Charles Péguy and the history of science.DurkheimBergsonDeleuze.27
+
+> _On the feet of humans, as components in boot–human co(a)gents, walking
+boots have a culturally and technologically mediated ‘tendency’ to congregate.
+With almost every community of souls, there is a collective of soles._ 52 (58)
 
 ___
+
+
 
 # Bibliography
 
