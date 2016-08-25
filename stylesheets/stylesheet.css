@@ -2,6 +2,7 @@ a{color: #63c0f5; text-decoration: none;}a:hover{color: #9ACD32}
 strong{font-weight: bold; /*font-variant: small-caps;/*color: yellow;opacity:.8*/}
 /*blockquote{font-style: normal}*/
 /*blockquote{font-style: oblique}*/
+em em {font-style: normal} 
 aside,hr{color: #b5e853;opacity: 0.65;line-height: 1;font-size: 15px;}
 h1{font-family:"Courier New", Courier, monospace Monaco;}
 h1,h2,h3{line-height:1.2}h2{color: #b5e853;}h3,h4{font-variant: small-caps}
