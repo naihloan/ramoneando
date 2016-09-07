@@ -58,7 +58,7 @@ ___
 
 ## 4
 
-- [Crappy and hasty first draft is perfectly fine, block time every day for writing and do nothing else,use public commitment](http://academia.stackexchange.com/questions/7656/resources-on-how-to-overcome-writers-block-especially-for-non-native-english-s)
+- [Crappy and hasty first draft is perfectly fine, block time every day for writing and do nothing else, use public commitment](http://academia.stackexchange.com/questions/7656/resources-on-how-to-overcome-writers-block-especially-for-non-native-english-s)
 
 ___
 
