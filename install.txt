@@ -1,0 +1,24 @@
+
+
+latex
+kile
+gedit
+geany
+
+okular
+gimp
+
+markdown
+pandoc
+clementine
+browser
+
+dropbox
+
+github
+bookmarks
+
+yahoo
+gmail
+chess
+stack exchange
