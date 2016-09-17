@@ -4,7 +4,6 @@ echo "git add --all && git commit -m 'many commits' && git push -u origin"
 
 y después hay que darle permisos de ejecución...
 
-
 git add --all && git commit -m "many commits" && git push -u origin 
 
 ramoneando
