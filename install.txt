@@ -1,4 +1,9 @@
+https://antergos.com/wiki/install/create-a-working-live-usb/
 
+sudo fdisk -l
+
+sudo dd bs=4M if=/path/to/antergos-x86_64.iso of=/dev/sdX && sync
+sudo dd bs=4M if=/media/nilon/archbang of=/dev/sdb && sync
 
 latex
 kile
@@ -22,3 +27,8 @@ yahoo
 gmail
 chess
 stack exchange
+
+http://distrowatch.com/table.php?distribution=antergos
+http://distrowatch.com/table.php?distribution=archbang
+
+http://distrowatch.com/table.php?distribution=BunsenLabs
