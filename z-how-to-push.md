@@ -2,7 +2,7 @@ I created a script and placed it at /bin under the name of ramon. basically like
 #!/bin/bash # My first script
 echo "git add --all && git commit -m 'many commits' && git push -u origin"
 
-y después hay que darle permisos de ejecución...
+y después hay que darle permisos de ejecución... ouch
 
 git add --all && git commit -m "many commits" && git push -u origin 
 
