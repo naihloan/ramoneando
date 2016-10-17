@@ -1,0 +1,296 @@
+
+# La perspectiva de instructores sobre el _running_ y el circuito de corredores amateurs
+
+## Entrevistas y categorías para trabajar en running
+
+### Visión crítica de lo que es el _running_, como moda
+
+En la definición de las propias actividades los entrendores tienen una visión común de que lo que ellos hacen no es entrenar a grupos de atletas de elite sino brindar orientación para una actividad física. En esta diferenciación surge la oposición siempre entre dos polos: 
+
+- lo formal, que es el **atletismo** hecho en pista y con orientación técnica con un equipo de profesionales de distintas disciplinas: como ser de nutrición, kinesiología, preparador físico, etc.
+- lo informal, que es el **running**, bajo diferentes nombres y épocas, que es una moda, y que es una actividad física, pero no necesariamente un deporte en el sentido estricto de la palabra, con reglas, campeonatos oficiales, etc.
+
+> Yo no soy entrenador de running,
+no existe eso. Vos podés ser entrenador de atletismo, de disciplinas
+atléticas. No es lo mismo que el atletismo que es un deporte, formal,
+que tiene sus reglas y tiene sus olimpíadas, campeonatos y demás. El
+running es una moda. O es una actividad física, ¿sí? Pero no está
+englobada en un deporte. _Es correr. Antes fue footing, jogging_. Fue
+cambiando ante la época de moda, digamos. [...]
+yo me planteo frente a un grupo de entrenamiento de running como docente de
+educación física con la experiencia en running, ¿sí? Pero existe, uno
+puede seguir especializándose. Hoy, el mercado no demanda de un
+especialista en running o atletismo, porque sino vos tendrías la gente
+corriendo adentro de una pista en un estadio. ¿Te das cuenta? Eso
+sería un atletismo formal. Harían formación deportiva. Lo que la
+gente está haciendo es running como una actividad de auge que
+escapa absolutamente de eso. Entonces la demanda de un profesional,
+como yo lo veo, es que el profesional tiene que cubrir esa necesidad
+de estar formado como un docente en educación física o en la
+actividad física para poder hacer esa prescripción de ese running
+correctamente. ¿sí? Básicamente es eso. Es decir que me formación
+fue profe de educación física y sigue siiendo como profe de educación
+física orientándonos más a la parte de salud y demás, con aristas en
+este caso en mi experiencia como corredor. [.....]
+mi filosofía de trabajo es que ellos
+_trabajen la **capacidad funcional-aeróbica**_, directamente asociado con
+la salud, desde el medio del running. Entonces planifico en ese
+sentido. (Martín Barbeito)
+
+### Motivación y lesiones
+
+El gusto por correr parece ser algo que se contagia de una persona a otra, y que apareció porque antes corrían pocos pero esto se empezó a copiar por gusto.
+Pero siempre hay un balance o más bien una tensión entre disfrute y esfuerzo, entre placer y sacrificio:
+
+> Yo como profe estaba trabajando mucho como entrenador personal,
+trabajaba en el área de salud. Y a partir de ahí, como yo ya corría, la
+gente que se empezó a entusiasmar con lo que ya hacía me pidió que
+la entrenara. Entonces empezamos a juntarnos en el parque y
+empezamos cuatro personas y bueno, una cosa fue llevando a la otra y
+empezó a caer gente, empezó a caer gente, y cuando me lo planteé
+como un trabajo ya había sido accidental y yo ya tenía grupo formal
+de entrenamiento que me fueron llevando cada vez más tiempo, cada
+vez más tiempo, y yo de golpe, de buenas a primeras dejé de hacer
+otras cosas y me dediqué a esto casi full time. [...]
+> - 26) ¿El running es un placer o un sacrificio?
+> - Metafóricamente sacrificio, muy metafóricamente. No por lo que
+implica la palabra, del significado enciclopédico del sacrificio. Uno
+invierte tiempo, invierte dinero, sacrifica otras cosas para hacer
+running, o correr. Pero es un placer absolutamente. Es un placer.
+Biológicamente este tipo de actividades genera neurotransmisores y
+eso genera a nivel biológico una sensación de placer. Entonces eso
+está argumentado desde lo biológico, y uno se hace dependiente de
+esas situaciones. El que practica me va a entender fácil. Pero bueno,
+hay ciertas endorfinas que se asocian, receptores a nivel neurológico
+que estimulan un montón de centros que generan esta situación. Y por
+eso podemos hablar de ciertas adicciones a veces. Pero bueno, en esto
+del placer y el sacrifico está íntimamente ligado. Uno invierte el
+tiempo, se cansa, se fatiga, entrena, a veces se lesiona, se
+desmoraliza, entonces uno busca permanentemente. (Martín Barbeito)
+
+Los instructores tienen noción de que _no hace falta empujar/motivar_ demasiado a los corredores. 
+Cada uno tiene su nivel de entrenamiento, simplemente se apoyan en la compañía de amigos o compañeros de grupo, y las indicaciones del profe.
+Pero cuada cual tiene sus propias razones para correr y lo hace a su ritmo.
+Lo que sí hace falta del instructor es cuidar de que en la libertad de querer correr todas las distancias sin límite _que los corredores no se lastimen_.
+
+> conozco a gente, por ahí similar a tu caso, vienen de vidas sumamente
+sedentarias y han encontrado en esta actividad una contención que
+muchas veces lo ha llevado a un fanatismo en donde todo el entorno
+de su vida gira en torno al running. Es un arma de doble filo [...] me dedico a la
+parte de prevención y rehabilitación de lesiones y es una actividad
+sumamente agresiva para el cuerpo, el impacto que genera. [hay gente que] 
+no respeta sus tiempos de adaptación y vos ves
+gente que corre una carrera de 10 K y a los tres meses ya quiere
+correr un 42. Y no está cursando un proceso adaptativo que le permita
+soportar esas cargas. (Ale Paz)
+
+### Relajación compartida y uso del tiempo extra-laboral 
+
+Junto con la motivación personal de los corredores hay un componente social que está siempre presente, y es lo que los horarios laborales generales permiten: salir a un espacio verde a dispersarse mentalmente en compañía de otra gente que está en igual situación.
+
+> El 95% de la gente que yo manejo lo hace por una
+cuestión social. Por supuesto que la actividad física del running les
+gusta, está metida. Empiezan por eso pero es una cuestión social
+básicamente, de esparcimiento, camaradería, compartir, es algo que
+para mí me llama poderosamente la atención: yo tengo diferentes
+grupos de diferentes calidades de sujetos que los integran y demás
+pero todos funcionan de la misma forma. [...] Entonces responde a una
+necesidad hoy pero absolutamente latente que es esto de salir del
+encasillamiento de la jornada laboral. 
+[...] ir a entrenar después de las 7 de la tarde
+cuando estás cansado no es una situación simple. Entonces si vos los
+hicieras solo...normalmente no lo hacés. Entonces ahí es donde está el
+fenómeno social. Después te enganchás. 
+(Martín Barbeito)
+
+Un tema general que se presenta es el de _la administración del tiempo_. 
+Si bien hay una idea común que es la de disfrutar la actividad y de hacerlo como algo recreativo, también hay que coordinar esta actividad del running,
+que es en gran medidad lúdica, con el resto de las actividades laborales y hasta sociales.
+Esto se vive con una cierta idea de sacrificio, pero que no deja de tener sus beneficios:
+por ahí no se sale tanto con amigos o de noche pero el running sirve como una forma de bajar cambios, pensar, hacer terapia.
+Y también es una manera de dedicarse un tiempo para uno mismo, para mantener la sanidad mental, además de física.
+
+> para mí es una forma de vida. O sea a mí el hecho de
+practicar esta actividad me determina también mis tiempos. Muchas
+veces en el sentido de que en el fin de semana por ahí te tenés que
+juntar con algunos amigos. Salir a mí no me gusta. Prefiero muchas
+veces acostarme temprano y salir un sábado o domingo temprano a la
+montaña. Yo lo veo como una forma de terapia. Y[...] Hay
+un dicho que dice: si tenés un problema y no lo solucionaste en el
+fondo de 25 Kms no te gastes más porque no tiene solución. A mí me
+ha pasado mucho eso. Por ahí viste en el trajín diario, de la semana,
+uno no tiene el tiempo, no se hace el tiempo para sentarse con la
+cabeza realmente a resolver ese tipo de cosas. [...] Son momentos en los cuales, me
+los dedico para mí, y disfruto muchísimo. Obviamente hay momentos
+que uno está cansado, y no tiene ganas de ir a entrenar. [Me ha pasado de]
+no estar motivado para el entrenamiento y te encontrás con alguien 
+que corre al mismo ritmo que vos normalmente y [...] 
+_te va tirando_ como se dice en la jerga del running. Así
+que eso es para mí, una especie de terapia. (Ale Paz)
+
+> hay una racionalidad. Podría
+decirte que hay una cuestión de una capacidad volitiva. O la tienen o
+la empiezan a desarrollar. Esta capacidad volitiva que por ahí es difícil
+de definir tiene que ver con esto del auto-sacrificio en el buen sentido.
+De la **auto-superación**, ponerse metas, _de poder enfrentarse por ahí
+con una sensación agónica de la fatiga_. No es lo mismo la resistencia
+que la capacidad psico-física de tolerar la fatiga, lo cual uno entrena.
+[...] creo que tiene que ver
+con todos los deportes en común. O cualquier tipo de actividad que
+uno desarrolla. Sentarse a estudiar también necesita de ciertas
+características, para poder sentarse y invertir tiempo. Esto es un poco
+lo mismo, así que sí hay una.
+
+### Entrenamiento progresivo, pero no control total de las variables
+
+No hay que empujar, como se dijo antes, a los corredores porque cada persona y grupo tiene su propia motivación.
+En lo que sí hay que ayudar es a que _al que quiere cumplir un objetivo especial lo busca de forma gradual, progresiva_, pero son minoría: el 80% de un grupo de running puede ser recreacional. Y a ninguno se le exige más allá de lo que quiere ni de lo que puede.
+Pero eso se hace solamente en cierta medida el entrenamiento puntualizado y de cerca, porque en ciertas dimensiones el entrenador no puede tener todo el control sobre sus corredores. Es simplemente porque los factores de entrenamiento, al no ser de alto rendimiento, se escapan: la nutrición, el descanso, el trabajo complementario de fuerza y/o elasticidad:
+
+> Cuando uno planifica lo hace de manera sistemática,
+gradual, para ir incrementando los niveles de condición física, ¿sí?
+Pero nosotros al no tener en cuenta, ... [no es que no lo tengamos en
+cuenta...] al no poder controlar muchas variables como ser el
+descanso, como ser la alimentación del entrenado, no le podés exigir.
+Porque vos no sabés cómo está esa persona para poder rendir. ¿Se
+entiende, o no? A un deportista cuando vos lo tenés encasillado en una
+dieta, en un descanso y trabajás con alto rendimiento sí le podés
+exigir. Pero me parece una locura exigirle a gente que no tiene ese
+objetivo. (Ale Paz)
+
+### Disfrutar la actividad, _no quemarse_
+
+Hay una conciencia general entre los entrenadores de running de que correr es una actividad que se puede hacer de manera relajada o intensa.
+Y el manejo de esa graduación es lo que permite _alejarse del stress_ físico o mental, o empeorarlo. El que sabe por qué hace la actividad realmente puede disfrutarlo de manera social, compartiendo, y evitando el extremo del catabolismo, con un manejo razonable de expectativas, sin _quemarse_:
+
+> otra frase que yo también uso mucho es: 
+"los 10 kms los puede correr cualquiera, no cualquiera
+puede entrenar para un 42 kms". Y vos que corriste 42 kms sabés el
+sacrificio que implica. Desde todas las tareas que tenés que hacer el
+fin de semana. Y yo siempre cuando se van a plantear estos desafíos
+les pido que analicen cómo están en todas las otras áreas de su vida.
+Si vos estás cambiando de trabajo y necesitás toda tu energía
+enfocada en eso, no te expongas a eso. Después te vas a terminar
+frustrando. Si vos estás con problemas personales y por ahí no es el
+momento, porque no vas a tener las energías puestas para poder
+realizar esto, siempre que lo hagas de manera conciente. No vas a ir a
+tirarte a los 42 para ver qué onda. [risas de entrevistadora] [...]
+nosotros les insistimos mucho en eso, que sean criteriosos, ¿sí? Porque
+**la actividad física en sí es un stress**. Si vos venís con otros tipos de
+factores que estresan: el trabajo y demás, y encima vas al
+entrenamiento y te querés sobre-estresar, la verdad es que vas a
+terminar dejando la actividad. Es insostenible. Es insostenible. [...]
+Gente que empieza a correr y al poco tiempo empieza a
+entrenar sistemáticamente para alguna distancia, llámese un 42,
+terminan los 42 y el famoso que le decimos: este se quemó. No vuelve
+más a entrenar. No entrenan más. Se cansaron. Se cansaron. Por eso
+nosotros les insistimos que el desarrollo del corredor son
+aproximadamente 10 años, para llegar a tu mejor forma física. No es
+casualidad que hoy los de punta, los mejores del mundo están entre
+los 35 y 45 años. Que son personas que vienen corriendo desde los 25
+o 20 años. Pero qué pasa, como esto es moda mucha gente que
+empieza a correr ahora quiere transcurrir en esos 2, 3 años siendo
+generoso todo ese proceso y terminan quemandosé. Terminan
+quemandosé. Generando un rechazo hacia la actividad. Y eso puede
+también un poco determinar cuál es el futuro del running. [...]
+Hay otra gente que va a
+todas las carreras pero tiene bien en claro que va disfrutar, va con el
+mate, que esto y lo otro, más la parte social. (Ale Paz)
+
+> - ¿Qué sentís que te dio el running a lo largo de estos años?
+> - Si lo pudiera meter en una sola palabra diría que satisfacción.....
+**Autoconocimiento**, confianza. También te diría voluntad, mucha.
+Disfrute. Pero sobretodo autoconocimiento, básicamente.
+Autoconocimiento. Eso desde el punto de vista muy personal, ¿no?
+Después desde el punto de vista profesional bueno, muchísimas cosas:
+[...] incluso actualmente la investigación. Que eso es hoy lo más
+desafiante para mí desde el punto de vista profesional. (Martín Barbeito)
+
+### Hacer bien, responsablemente: _addición_ sana
+
+Running en suma es un buena solución, a veces tal vez adictiva, pero de la que hay que ser responsable,
+y no hacerlo simplemente para que se avive un circuito económico, sino para hacer bien:
+
+>  uno también tiene que ... más si uno está en
+frente de un grupo: tiene que pregonar con el ejemplo- me gusta que
+la gente se mueva. Creo que **la mejor droga** hoy en día para todas las
+problemáticas metabólicas que hay hoy en día es la actividad física.
+Siempre y cuando esa actividad física esté bien prescripta. Nosotros
+como profesionales de la salud tenemos que alentar que la gente se
+siga moviendo, que se mueva más y que se mueva mejor. Por ende
+tenemos que ser muy muy criteriosos a la hora de prescribir [...] 
+hay que actuar de manera responsable, de manera profesional a
+la hora de prescribir, a la hora de recomendar. Porque mucha gente
+también a nosotros nos pasa que ven en nosotros... vienen y te
+preguntan hasta ... desde qué zapatillas comprarse hasta qué carreras
+correr. Por ahí no ...vos me preguntabas si es rentable o no. _Es
+rentable pero nosotros no lo tenemos que ver desde ese punto de
+vista_. O sea, va a ser rentable siempre y cuando vos como profesional
+seas idóneo. (Ale Paz)
+
+> Después el gimnasio me aburrió. Y no me daba lo que te da la
+sensación de correr. El placer de una actividad aeróbica, ¿no? Cuando
+terminás extenuado, con endorfinas, entonces me hice adicto a esas
+cuestiones (Martín Barbeito)
+
+### Contra-comercial, contra el marketing excesivo
+
+Cuando lo que se busca cuidar en los corredores es que se mantengan sanos hay diferentes variables que son a veces innecesarias, o que están sobre-dimensionadas. La ropa podría ser un caso, pero también las carreras. En ambas habría, según los instructores, una sobre-oferta de opciones y de posibilidades que enfocan hacia la imagen o a mostrar que los corredores pueden correr tal o cual distancia. En esto pesa para algunos instructores más el control de salud que el flujo de capitales entre los que manejan la economía de este mundo social:
+
+> Hoy la oferta de estos eventos es masiva. Hay que admitir que
+es una instancia comercial muy grande para los organizadores. Los
+atrae, lógicamente como masa, que es otro problema a analizar [...]
+Hoy tenemos carreras cada vez más largas, más técnicas, más dificultosas, 
+para gente que está cada vez
+menos entrenada. Porque es gente nueva, entonces ahí hay un gran
+problema [...] Oriento a mis alumnos. Me enojo con mis alumnos, se
+enojan conmigo cuando les digo que no. Pero yo prefiero seguir con
+mi objetivización y yo voy a argumentar por qué no. Y más de una vez
+me toca discutir con algún organizador.
+
+
+___
+
+
+#  El sí mismo como empresa
+
+2. ¿anarcoliberalismo?
+
+3. ¿universo managerial?
+
+### Del _rendimiento_ de los runners como grupo y como individuos
+
+18. 
+
+> "líder e instructor presentan
+el rendimiento general de su grupo de trabajo y no el de cada cuerpo individual. Por lo
+tanto, en caso de que su grupo no alcance los estándares de medición demandados, es el
+líder el encargado de identificar y corregir el desperfecto, ya que de eso depende no solo
+el desempeño adecuado de la tarea que tiene encomendada, sino también su continuidad
+en el cargo."
+
+Sí hay estándares entre los grupos de runners para que el instructor determine el nivel en el que están diferentes segmentos de practicantes. 
+Así puede armar grupos de nivel inicial, medio y avanzado; donde a cada subida de nivel se pueden agregar bien sea distancia, o bien sea velocidad, o bien sean ambas.
+Pero no hay una meta impuesta por el instructor. El profesor simplemente da herramientas para que los grupos y los individuos 
+puedan sanamente funcionar bajo ciertos parametros de normalidad.
+El nivel de exigencia no está determinada por el instructor de running sino que está determinado por el propio nivel de entrenamiento y buscando cumplir metas autoimpuestas por los corredores, y es el profesor el que busca que no se lastimen en el proceso.
+
+18. y 19
+
+> De la mano de estas performances del liderazgo, el modelo managerial de la nueva
+empresa adquiere una fisonomía más parecida a la de un arte que a la de una ciencia
+metódica. Atributos tales como inventiva, ingenio, imaginación e intuición funcionan
+como condiciones indispensables para gestionar el colectivo humano. Como un
+ajedrecista profesional, el líder y el instructor realizan un continuo movimiento de
+piezas en el marco de una estrategia general de desempeño, que tiene como horizonte el
+logro de los objetivos productivos.
+
+_¿Es decir que el ajedrecista profesional responde al modelo managerial?_
+
+20. y 21
+
+> El instructor de fitness produce a otros cuerpos con
+los atributos de su encarnación: salud, bienestar, proactividad, flexibilidad,
+compromiso, firmeza, belleza, juventud, voluntad y dinamismo. Todos estos atributos
+corporales y subjetivos están asociados con el sujeto emprendedor requerido en los
+diversos espacios laborales y de consumo emergentes en el contexto productivo contemporáneo.
