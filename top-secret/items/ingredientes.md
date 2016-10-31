@@ -1,0 +1,40 @@
+- Alga spirulina 
+- aloe 
+- Ananá 
+- apio 
+- azúcar 
+- arándanos 
+- Banana 
+- Cerezas 
+- col (repollo colorado) 
+- espinaca 
+- estevia 
+- frambuesas 
+- frutilla 
+- hielo 
+- jengibre
+- Jugo de naranja 
+- kiwi 
+- lechuga 
+- Lima 
+- limón 
+- mango 
+- Manzana 
+- Maracuya 
+- menta
+- miel 
+- naranjas 
+- pepino 
+- Peras 
+- perejil 
+- Pimienta De Cayena 
+- Pimiento rojo
+- pomelo 
+- remolacha 
+- sandía 
+- semilas de chia 
+- uvas verdes congeladas 
+- tomate
+- uvas 
+- yogurt sin Azucar 
+- zanahoria
