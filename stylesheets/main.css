@@ -1,6 +1,7 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /* html{font-family:sans-serif;text-size-adjust:100%} */
 html{font-family:'Montserrat',sans-serif;text-size-adjust:100%}
+
 body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,
 summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}h2{text-align:center}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}
 /*hr{box-sizing:content-box;height:0}*/
@@ -11,7 +12,5 @@ color:#333;font-size:16px;line-height:1.5}.wrapper:before,.wrapper:after{content
 .section-header h2{font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:900;font-size:1.75rem;letter-spacing:-.05rem;margin:0;}.page-header{padding:1.5rem 0}
 .page-header .avatar{width:95px;max-width:100%;overflow:hidden;-webkit-border-radius:100px;-moz-border-radius:100px;border-radius:100px;margin:0 auto;display:block}
 .page-header .header-name{font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:3rem;font-weight:900;text-align:center;letter-spacing:-.15rem;line-height:1;margin:1rem 0 2rem}.page-header .title-bar{border-top:4px solid #c7c7c7;border-bottom:2px solid #c7c7c7;padding:.2rem 0 .4rem;padding:.4rem 0}.page-header .title-bar:before{display:table;content:""}.page-header .title-bar:after{display:table;clear:both;content:""}.page-header .title-bar .header-title{font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:300;font-size:1.75rem;line-height:2rem;letter-spacing:-.05rem;text-align:center;margin:0 0 .5rem}@media (min-width: 600px){.page-header .title-bar .header-title{float:left;margin:0}}@media (min-width: 600px){.page-header .executive-summary{font-size:1.125rem}}
-
-
 
 .page-footer{border-top:4px solid #c7c7c7;padding-top:1.5rem;text-align:center;margin-bottom:3rem}.page-footer .footer-line{margin:0;font-size:.875rem;color:#999}.page-footer .footer-line>a{font-weight:700;color:#333}
