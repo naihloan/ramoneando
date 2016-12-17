@@ -6,6 +6,7 @@ a {
     text-decoration:none;
 }
 a:hover, a:focus {
+    color:gray;
     text-decoration:underline;
 }
 body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,
