@@ -1,99 +1,39 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta name="description" content="a comerla">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@wigggins" />
+    <meta property="og:site_name" content="404 | ERROR"/>
+    <meta property="og:title" content="404 | ERROR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="ramoneando/top-secret/" />
+    <meta property="og:image" content="og.jpg" />
 
-<head>
-	<meta charset="UTF-8">
-	
-	<title>404 | ERROR </title>
-	
-	<style>
-		* { margin: 0; padding: 0; }
-		
-		html { 
-			background: url(homer-404-error-page.jpg) no-repeat center center fixed; 
-			-webkit-background-size: cover;
-			-moz-background-size: cover;
-			-o-background-size: cover;
-			background-size: cover;
-		}
-		
-		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
-		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
-	</style>
-</head>
+    <title>404 | ERROR</title>
 
-<body>
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
 
-<!--
-    <div id="page-wrap">
-           <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
-           <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
-           <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
-    </div>
-    -->
-	
- <style type="text/css" style="display: none !important;">
-	* {
-		margin: 0;
-		padding: 0;
-	}
-	body {
-		overflow-x: hidden;
-	}
-	#demo-top-bar {
-		text-align: left;
-		background: #222;
-		position: relative;
-		zoom: 1;
-		width: 100% !important;
-		z-index: 6000;
-		padding: 20px 0 20px;
-	}
-	#demo-bar-inside {
-		width: 960px;
-		margin: 0 auto;
-		position: relative;
-		overflow: hidden;
-	}
-	#demo-bar-buttons {
-		padding-top: 10px;
-		float: right;
-	}
-	#demo-bar-buttons a {
-		font-size: 12px;
-		margin-left: 20px;
-		color: white;
-		margin: 2px 0;
-		text-decoration: none;
-		font: 14px "Lucida Grande", Sans-Serif !important;
-	}
-	#demo-bar-buttons a:hover,
-	#demo-bar-buttons a:focus {
-		text-decoration: underline;
-	}
-	#demo-bar-badge {
-		display: inline-block;
-		width: 302px;
-		padding: 0 !important;
-		margin: 0 !important;
-		background-color: transparent !important;
-	}
-	#demo-bar-badge a {
-		display: block;
-		width: 100%;
-		height: 38px;
-		border-radius: 0;
-		bottom: auto;
-		margin: 0;
-		background: url(/images/examples-logo.png) no-repeat;
-		background-size: 100%;
-		overflow: hidden;
-		text-indent: -9999px;
-	}
-	#demo-bar-badge:before, #demo-bar-badge:after {
-		display: none !important;
-	}
-</style>
-</body>
+  <body>
+    
 
+
+    <!-- I always feel like - somebody's watching meeee. Tell me is it just a dream? -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-51155303-2', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
 </html>
