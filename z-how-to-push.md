@@ -4,6 +4,8 @@ echo "git add --all && git commit -m 'many commits' && git push -u origin"
 
 y después hay que darle permisos de ejecución... ouch
 
+...  chmod 755 my_script
+
 git add --all && git commit -m "many commits" && git push -u origin 
 
 ramoneando
