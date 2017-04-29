@@ -1,0 +1,31 @@
+% https://tex.stackexchange.com/questions/45961/preprocessor-for-latex?noredirect=1&lq=1
+% en estas dos primeras líneas esta la clave entre el borrador propio y el que se pasa a otros
+% \documentclass{article}
+\documentclass[draft]{article}
+
+\usepackage{ifdraft}
+\usepackage{blindtext}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+
+\ifdraft{
+    \lfoot{
+        % insert subversion code here
+    }
+}{
+    \lfoot{Written by nilon, do not distribute.}
+}
+
+\newcommand\mytodo[1]{
+    \ifdraft{
+        \textbf{#1}
+    }{}
+}
+
+\begin{document}
+    \blindtext
+    \mytodo{I have to remember this!}
+\end{document}
