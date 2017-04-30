@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage{xcolor}
+\usepackage{schemata} %for brackets on margin lines
+\usepackage{lipsum}
+
+\newcommand\myworries[1]{\textcolor{red}{#1}}
+% \renewcommand\myworries[1]{} 
+%uncomment for notes to dissapear
+\begin{document}
+Here is some text.
+\myworries{But I'm worried about the text} %%% posible comment
+
+% % % % % % % % % % % % % 
+% https://tex.stackexchange.com/questions/10606/putting-a-bar-in-the-margin?noredirect=1&lq=1
+% Another possibility for indicating an example: If your document has anything to do with code, you might want to consider use of \verb and the verbatim environment. All it does is place the example in monospaced font, and it's wysiwyg. So you can also type up LaTeX examples as-is. I use the \verb command for short, in-line examples, and the verbatim environment for longer ones like this:
+
+This is the explanation for the \verb#lambda# function:
+\begin{verbatim}
+>>> #this is a comment 
+...
+>>> sq = lambda x: x**2
+>>> sq(2)
+\end{verbatim}
+will return \verb#4#.
+
+% https://tex.stackexchange.com/questions/1559/adding-a-large-brace-next-to-a-body-of-text?noredirect=1&lq=1
+
+\paragraph*{Margin comments}
+
+
+\subsubsection*{1.}
+
+
+\schema[close]{\lipsum[4] body text}{$<$ margin text}
+
+\subsubsection*{2. }
+
+
+$\left.\begin{tabular}{l}
+line \\
+one more line
+\end{tabular}\right\}$
+
+\end{document}
