@@ -1,14 +1,23 @@
 \documentclass[english,a4paper,nologo]{europasscv}
 \usepackage[english]{babel}
+% \usepackage{url}
+\usepackage{hyperref}
 
 \ecvname{Benjamin Juarez}
 \ecvaddress{Crisol 305, Nueva Córdoba, Córdoba, Argentina}
 \ecvmobile{+54 9 351 310-4043}
 \ecvemail{benjij\_1980@yahoo.com}
 
+\ecvhomepage{http://ramoneando.com/}
 \ecvdateofbirth{16 July 1980}
 \ecvnationality{United States of America}
 \ecvgender{Male}
+
+\ecvfootnote{* Master degree full text link: 
+% \textit{Urban Art -- Expressive uses of public space} %, % [in Spanish]: 
+\href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{ramoneando.com/docs/Juarez,Benjamin\_M.pdf}}
+}
+
 
 % \ecvpicture[width=3.8cm]{picture.jpg} % \ecvpictureright
 
@@ -16,12 +25,24 @@
   \begin{europasscv}
   \ecvpersonalinfo
   \ecvbigitem{Position applied for}{PhD Sociology}
+  \ecvbigitem{PhD Supervisor}{Professor Michael Schillmeier [University of Exeter]}
+  \ecvbigitem{PhD Project Title}{\textit{Distance athlete’s æffect on urban rhythm:}} \vspace*{-3mm}
+  \ecvbigitem{}{\textit{How do ultrarunners run in automatized cities?}}
+  
+  
+  
+
     
 			\ecvsection{Education and training}
   
-  \ecvtitlelevel{2012--2014}{Master - Disertation Title: 'Urban Art. Expressive uses of public space’, Empirical research on graffiti/pixação}{%ISCED~6
-  }
-  \ecvitem{}{Universidade Estadual de Campinas [UNICAMP], São Paulo Brazil}
+%   \ecvtitlelevel{2012--2014}{Master in Sociology. Dissertation Title: 'Urban Art. Expressive uses of public space’, 
+%   Empirical research on graffiti/pixação}{\href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{*online pdf link}}
+%   }
+  \ecvtitlelevel{2012--2014}{Master in Sociology. Dissertation Title:}{ } \vspace*{-4mm}
+  \ecvtitlelevel{}{\textit{Urban Art. Expressive uses of public space}}{\href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{*online pdf link}}   }   %\vspace*{-4mm}
+%   \ecvtitlelevel{}{Empirical research on graffiti/pixação}{}
+  \ecvitem{}{Empirical research on graffiti/pixação. São Paulo, São Paulo. Brazil}
+  \ecvitem{}{Universidade Estadual de Campinas [UNICAMP]. Campinas, São Paulo. Brazil}
   \ecvitem{}{
       \begin{ecvitemize}
 	\item Urban Sociology \&
@@ -97,7 +118,7 @@ Reunión de Antropología del Mercosur. [X RAM] – Córdoba, July.}
 		  \ecvsection{Translations (to Spanish)}
  
   \ecvblueitem{2017}{Becker, Howard. ``23 ideas sobre la juventud''
-  In preparation. %\textit{Sociológica}, Mexico D.F., pp. 207-246. 
+  Sent to \textit{Apuntes de Investigación del CECYP}, Buenos Aires. 
   [Original version: 2008, ``Twenty Three Thoughts About Youth.'' 
   \textit{La marque jeune}, edited by Marc-Olivier Gonseth, Yann Laville and Grégoire Mayor (Neuchâtel: Musée d'ethnographieNeuchâtel).}
  
@@ -105,26 +126,45 @@ Reunión de Antropología del Mercosur. [X RAM] – Córdoba, July.}
  
  \ecvblueitem{2005}{Kalberg, Stephen. ``Los tipos de racionalidad de Max Weber: piedras angulares para el análisis del proceso de racionalización de la historia'', in Aronson y Weisz (comp.) ́``Sociedad y religión: un siglo de controversias en torno a la noción weberiana de racionalización''. Prometeo, Bs. As., Pp. 73-116. [Original version: 1980, ``Max Weber’s Types of Rationality: Cornerstones for the Analysis of Rationalization Processes in History.'' American Journal of Sociology 85:1145-79.]}
 
-  \ecvsection{Work experience}
+ \pagebreak
+ 
+  \ecvsection{%Work experience
+  Academic Positions}
   
-  \ecvtitle{August 2002 -- Present}{Independent consultant}
-  \ecvitem{}{British Council\newline 123, Bd Ney, 75023 Paris (France)}
-  \ecvitem{}{Evaluation of European Commission youth training support measures for youth national agencies and young people}
-   
-  \ecvtitle{March 2002 -- July 2002}{Internship}
-  \ecvitem{}{European Commission, Youth Unit, DG Education and Culture \newline 200, Rue de la Loi, 1049 Brussels (Belgium)}
-  \ecvitem{}{
-  \begin{ecvitemize}
-      \item evaluating youth training programmes for SALTO UK and the partnership between the Council of Europe and European Commission
-      \item organizing and running a 2 day workshop on non-formal education for Action 5 large scale projects focusing on quality, assessment and recognition
-      \item contributing to the steering sroup on training and developing action plans on training for the next 3 years. Working on the Users Guide for training and the support measures
-  \end{ecvitemize}
+  \ecvtitle{March 2016 – Present}{Research team} 
+  \ecvitem{}{CIECS at CONICET Research Center [Córdoba. Argentina]}
+  \ecvitem{}{%Prácticas de gestión corporal y procesos de subjetificación en la cultura contemporánea
+  \textit{Corporeal management practices and processes of subjectification in the contemporary culture}
   }
-  \ecvitem{}{\ecvhighlight{Business or sector}\quad European institution}
   
-  \ecvtitle{Oct 2001 -- Feb 2002}{Researcher / Independent Consultant}
-  \ecvitem{}{Council of Europe, Budapest (Hungary)}
-  \ecvitem{}{Working in a research team carrying out in-depth qualitative evaluation of the 2 year Advanced Training of Trainers in Europe using participant observations, in-depth interviews and focus groups. Work carried out in training courses in Strasbourg, Slovenia and Budapest.}
+  \ecvtitle{March 2016 – Present}{Appointed assistant} 
+  \ecvitem{}{Faculty of Sociology. Universidad Nacional de Villa María -- UNVM [Córdoba. Argentina]}
+  \ecvitem{}{\textit{Workshop in Methods and Techniques in Social Research} -- with Angelita Alessio}
+  
+  \ecvtitle{March 2013 – July 2013}{Teaching assistant} 
+  \ecvitem{}{Faculty of Sociology. Universidade Estadual de Campinas -- UNICAMP [Campinas, Brazil]}
+  \ecvitem{}{\textit{Introduction to the study of the city}  – with Professor Silvana Rubino}
+   
+  \ecvtitle{March 2013 – July 2013}{Teaching assistant} 
+  \ecvitem{}{Faculty of Sociology. Universidade Estadual de Campinas -- UNICAMP [Campinas, Brazil]}
+  \ecvitem{}{\textit{Introduction to the study of the city}  – with Professor Silvana Rubino}
+                 
+%   \ecvtitle{March 2002 -- July 2002}{Internship}
+%   \ecvitem{}{European Commission, Youth Unit, DG Education and Culture \newline 200, Rue de la Loi, 1049 Brussels (Belgium)}
+%   \ecvitem{}{
+%   \begin{ecvitemize}
+%       \item evaluating youth training programmes for SALTO UK and the partnership between the Council of Europe and European Commission
+%       \item organizing and running a 2 day workshop on non-formal education for Action 5 large scale projects focusing on quality, assessment and recognition
+%       \item contributing to the steering sroup on training and developing action plans on training for the next 3 years. Working on the Users Guide for training and the support measures
+%   \end{ecvitemize}
+%   }
+%   \ecvitem{}{\ecvhighlight{Business or sector}\quad European institution}
+%   
+%   \ecvtitle{Oct 2001 -- Feb 2002}{Researcher / Independent Consultant}
+%   \ecvitem{}{Council of Europe, Budapest (Hungary)}
+%   \ecvitem{}{Working in a research team carrying out in-depth qualitative evaluation of the 2 year Advanced Training of Trainers in Europe using participant observations, in-depth interviews and focus groups. Work carried out in training courses in Strasbourg, Slovenia and Budapest.}
+%   
+  
   
 % \end{europasscv}
 % \end{document}  
@@ -132,39 +172,46 @@ Reunión de Antropología del Mercosur. [X RAM] – Córdoba, July.}
   \pagebreak
   
   \ecvsection{Personal skills}
-  \ecvmothertongue{English}
+  \ecvmothertongue{Spanish-English}
   \ecvlanguageheader
-  \ecvlanguage{French}{C1}{C2}{B2}{C1}{C2}
-  \ecvlanguagecertificate{Diplôme d'études en langue française (DELF) B1}
-  \ecvlastlanguage{German}{A2}{A2}{A2}{A2}{A2}
+  \ecvlanguage{Portuguese}{B2}{C2}{C1}{C1}{B2}
+  \ecvlanguage{French}{B1}{B2}{A2}{A2}{A2}
+  \ecvlanguage{Italian}{B1}{B1}{A2}{A1}{A2}
+  \ecvlastlanguage{German}{A1}{B1}{A1}{A1}{A1}
+%   \ecvlanguagecertificate{Diplôme d'études en langue française (DELF) B1}
   \ecvlanguagefooter
    
-  \ecvblueitem{Communication skills}{
-  \begin{ecvitemize}
-    \item team work: I have worked in various types of teams from research teams to national league hockey. For 2 years I coached my university hockey team
-    \item mediating skills: I work on the borders between young people, youth trainers, youth policy and researchers, for example running a 3 day workshop at CoE Symposium ``Youth Actor of Social Change'', and my continued work on youth training programmes 
-    \item intercultural skills: I am experienced at working in a European dimension such as being a rapporteur at the CoE Budapest ``youth against violence seminar'' and working with refugees.
-  \end{ecvitemize}
-  }
-  
-  \ecvblueitem{Organisational / managerial skills}{
-  \begin{ecvitemize}
-    \item whilst working for a Brussels based refugee NGO ``Convivial'' I organized a ``Civil Dialogue'' between refugees and civil servants at the European Commission 20th June 2002
-    \item during my PhD I organised a seminar series on research methods
-  \end{ecvitemize}
-  }
-
-  \ecvdigitalcompetence{\ecvBasic}{\ecvIndependent}{\ecvProficient}{\ecvIndependent}{\ecvBasic}
+%   \ecvblueitem{Communication skills}{
+%   \begin{ecvitemize}
+%     \item team work: I have worked in various types of teams from research teams to national league hockey. For 2 years I coached my university hockey team
+%     \item mediating skills: I work on the borders between young people, youth trainers, youth policy and researchers, for example running a 3 day workshop at CoE Symposium ``Youth Actor of Social Change'', and my continued work on youth training programmes 
+%     \item intercultural skills: I am experienced at working in a European dimension such as being a rapporteur at the CoE Budapest ``youth against violence seminar'' and working with refugees.
+%   \end{ecvitemize}
+%   }
+%   
+%   \ecvblueitem{Organisational / managerial skills}{
+%   \begin{ecvitemize}
+%     \item whilst working for a Brussels based refugee NGO ``Convivial'' I organized a ``Civil Dialogue'' between refugees and civil servants at the European Commission 20th June 2002
+%     \item during my PhD I organised a seminar series on research methods
+%   \end{ecvitemize}
+%   }
+% 
+%   \ecvdigitalcompetence{\ecvBasic}{\ecvIndependent}{\ecvProficient}{\ecvIndependent}{\ecvBasic}
   
   \ecvblueitem{Computer skills}{
   \begin{ecvitemize}
-    \item competent with most Microsoft Office programmes
-    \item experience with HTML
+    \item \LaTeX | professional word processor 
+    \item \texttt{markdown} | markup language 
+    \item \texttt{pandoc} | transformation of code language 
+    \item \texttt{html, css} | construction and use of web content
+    \item Proficient user of several coding languages, used in a daily basis 
+    \item \url{http://ramoneando.com/} | I run my personal blog with general info and fieldnotes 
+    \item \texttt{Gimp, Inkscape} | Independent user of graphic programs [linux based]
   \end{ecvitemize}
   }
   
   
-  \ecvblueitem{Other skills}{Creating pieces of Art and visiting Modern Art galleries. Enjoy all sports particularly hockey, football and running. Love to travel and experience different cultures.}
+  \ecvblueitem{Other skills}{I enjoy several sports particularly ultrarunning, soccer. I also practice tai chi. Another related hobbie is cooking. Traveling and experiencing different cultures is also a plus.}
 
   
   
