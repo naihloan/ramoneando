@@ -1,4 +1,10 @@
 
+# Little do we know 
+
+Walls have life, by paintings, by separation of boundaries or whatever other reason. We seem them differently than some centuries ago.
+
+___
+
 # Painted walls say plenty | Walls alone do much alone in fact as well
 
 [White walls say nothing](http://www.imdb.com/title/tt3254710/plotsummary?ref_=tt_ov_pl)
