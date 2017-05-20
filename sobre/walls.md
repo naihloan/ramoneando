@@ -91,6 +91,6 @@ Chalfant goes on that direction.
 
 ###### Coda
 
-The problem is not that you don't understand. It's that you're just not interested.
-The world is vast, intricate and infinite in unfoldings. Join the exploration.
+The problem is not that we don't understand. It's that we're just not that interested.
+The world is vast, intricate and infinite in unfoldings. Shall we join the exploration.
 
