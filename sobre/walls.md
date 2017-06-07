@@ -18,17 +18,19 @@ We see walls differently than some centuries ago. In the past century, the XXth,
 
 Now some see walls with the life of graffiti writers, painters, because of the heritage of the past half century. But what if we could have appreciated the social importance of graffiti and walls before indoctrinated to do so? 
 
-The classic example of an ignored ~artist~ individual is Van Gogh dying poor and valued only as a personal weight to his brother and close acquaintances. Dylan, another growingly recognized artist, was called Judas for experimenting with elecrical sounds when guitars allowed for that exploration. And plenty artists ~and non artists as well~ walk the earth without no one (not even themselves yet) being able to look into the future knowing their _spiritual worth_. Some historians look back to recognize grand idols and their uprising. Anthropolgists look at the present to see how they form in situ. But what is ahead? At least a subtle attentive gaze could be in place. Maybe looking backwards can help to look forward.
+The classic example of an ignored ~artist~ individual is Vincent Van Gogh dying poor and valued only as a personal weight to his brother and close acquaintances. Dylan, another growingly recognized artist, was called Judas for experimenting with elecrical sounds when guitars allowed for that exploration. And plenty artists ~and non artists as well~ walk the earth without no one (not even themselves yet) being able to look into the future knowing their _spiritual worth_. Some historians look back to recognize grand idols and their uprising. Anthropolgists look at the present to see how they form in situ. But what is ahead? At least a subtle attentive gaze could be in place. Maybe looking backwards can help to look forward.
 
 Keeping track on how to first spott graffiti as a new youth urban culture: Two mayor players took pictures, when these were not massively taken, posed, edited, and shared. Early photographers for street art history were Martha Cooper and Henry Chalfant. They made pictures for magazines, books, and movies (see the early _Style Wars_), and what not.
 
-And let us not forget the minor players, graffiti artists in the early days. Some may later become rock stars, and be a social (and market) reference for other growing writers. But what the point is not about the latter success, but the fact that underdogs (~all "dogs"~ everyone) matter(s). No matter who, how many, or why.
+Let us not forget the several unknown and forgotten minor players: graffiti artists in the early days, and many other unnoticed peripheral social actors. Some may later become rock stars, and be a social (and market) reference for other growing writers. But the point is not about the latter success, but the fact that underdogs (~all "dogs"~ everyone) matter(s). No matter who, how many, or why. Just because. 
 
-#### Becoming popular
+#### Becoming popular | But missing the point
 
-Henry Chalfant documented in pictures the american hip-hop culture of the 70s. He stated that breakdancing and people painting on trains were on the spirit of [_competing to do something beautiful_](http://tinyurl.com/z3m95zz). This is how graffiti culture become glorified and placed as street art, in which one of the consequences was to make the city a prettier place. The tagged names and shapes of spray can signatures molded the forms of a somewhat abstract art: a new art form... "which is going to make a lot of ink run: graffiti". 
+No one --or not many at least-- were looking at urban wall painters in the beginning, or today for the case. In the 70s Henry Chalfant documented in pictures the american hip-hop culture as it was coming to life for the first time. He stated that breakdancing and people painting on trains were on the spirit of [_competing to do something beautiful_](http://tinyurl.com/z3m95zz). 
 
-Granted. Graffiti is many times equaled to art. But that's just one small part of the picture. Claiming art for urban interventions is just a glorification of one possible aspect, not always the most valuable. Given that this is true in some amount, hatred against rules and commodified spaces has it's place as well. 
+This is how graffiti culture become glorified and placed as street art, in which one of the consequences was to make the city a prettier place. The tagged names and shapes of spray can signatures molded the forms of a somewhat abstract art: a new art form... "which is going to make a lot of ink run: graffiti". Granted. Graffiti is many times equaled to art. Samo --street name of the more widely known artist by his complete name: Jean-Michel Basquiat-- has entered in the top most valuable painters to have a picture sold for above the line of the 100 M. But market and art is just but a very small fraction of the picture. 
+
+Claiming art for urban interventions is just a glorification of one possible aspect, not always the most valuable. Given that this is true in some amount, hatred against rules and commodified spaces has it's place as well. Not all is fun and games. Abandoned places are also sites for rape, murder, assault, as well as the playground of the forgotten ones. Be it for better or worse, society flourishes among city walls. 
 
 # Painted walls say plenty | Walls alone do much alone in fact as well
 
@@ -49,7 +51,7 @@ You don't get it but it's not such a big deal.
 Not that there's anything wrong with you, quite the contrary: 
 it's only that no one can grasp all that a wall entails.
 
-nd graffiti defensors even say that colors on a wall is not the problem but the context.
+Graffiti advocates even say that colors on a wall is not the problem but the context.
 Chalfant goes on that direction.
 
 > Everybody says "oh graffiti: big crime, vandalism" and everything. But the fact is, from the point of view of you know from the big picture the biggest crime was the abandonment of neighbourhoods by both the federal government and the local government. **I have no patience with people who really complain and complain bitterly about graffiti as such of a big problem.** 
