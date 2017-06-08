@@ -22,7 +22,7 @@ The classic example of an ignored ~artist~ individual is Vincent Van Gogh dying 
 
 Keeping track on how to first spott graffiti as a new youth urban culture: Two mayor players took pictures, when these were not massively taken, posed, edited, and shared. Early photographers for street art history were Martha Cooper and Henry Chalfant. They made pictures for magazines, books, and movies (see the early _Style Wars_), and what not.
 
-Let us not forget the several unknown and forgotten minor players: graffiti artists in the early days, and many other unnoticed peripheral social actors. Some may later become rock stars, and be a social (and market) reference for other growing writers. But the point is not about the latter success, but the fact that underdogs (~all "dogs"~ everyone) matter(s). No matter who, how many, or why. Just because. 
+Let us not forget the several unknown and forgotten minor players: graffiti artists in the early days, and many other unnoticed peripheral social actors such as bombers, bathroom scribblers, and occasional love messengers. Of many urban presences no historic record will remain. Some may later become iconized as rock stars, and be a social (and market) reference for other growing writers. But the point is not about the latter success, but the fact that underdogs (~all "dogs"~ everyone) matter(s). No matter who, how many, or why. Just because. Walls can help to forget this point, or remember to look at the social life that surround them. 
 
 #### Becoming popular | But missing the point
 
@@ -30,34 +30,28 @@ No one --or not many at least-- were looking at urban wall painters in the begin
 
 This is how graffiti culture become glorified and placed as street art, in which one of the consequences was to make the city a prettier place. The tagged names and shapes of spray can signatures molded the forms of a somewhat abstract art: a new art form... "which is going to make a lot of ink run: graffiti". Granted. Graffiti is many times equaled to art. Samo --street name of the more widely known artist by his complete name: Jean-Michel Basquiat-- has entered in the top most valuable painters to have a picture sold for above the line of the 100 M. But market and art is just but a very small fraction of the picture. 
 
-Claiming art for urban interventions is just a glorification of one possible aspect, not always the most valuable. Given that this is true in some amount, hatred against rules and commodified spaces has it's place as well. Not all is fun and games. Abandoned places are also sites for rape, murder, assault, as well as the playground of the forgotten ones. Be it for better or worse, society flourishes among city walls. 
-
-# Painted walls say plenty | Walls alone do much alone in fact as well
-
-[White walls say nothing](http://www.imdb.com/title/tt3254710/plotsummary?ref_=tt_ov_pl)
-
-> _Buenos Aires is a complex, chaotic city. It has European style and a Latin American heart. It has oscillated between dictatorship and democracy for over a century, and its citizens have barely known political or economic stability. Throughout Buenos Aires' turbulent history, successive generations of activists and artists have taken to the streets to express themselves, through words and through art. This has given the walls a powerful and symbolic role. They have become the city's voice. This powerful tradition of expression in public space; of art and activism, has made the streets of Buenos Aires into a riot of colour and communication._
-
-# Walls with people
-
-Walls don't actually have people inside them, they're just on the other side. 
-
-## Surrender and dive into the streets
-#### On the inscriptions (and other artifacts) of the walls
-
-**You just don't get it. You simply don't understand walls** 
-
-You don't get it but it's not such a big deal.
-Not that there's anything wrong with you, quite the contrary: 
-it's only that no one can grasp all that a wall entails.
-
-Graffiti advocates even say that colors on a wall is not the problem but the context.
-Chalfant goes on that direction.
+Claiming art for urban interventions is just a glorification of one possible aspect, not always the most valuable. Given that this is true in some amount, hatred against rules and commodified spaces has it's place as well. Not all is fun and games. Abandoned places are also sites for rape, murder, assault, as well as the playground of the forgotten ones. Be it for better or worse, society flourishes among city walls. Graffiti advocates even say that colors on a wall is not the problem but the context. Chalfant goes on that direction.
 
 > Everybody says "oh graffiti: big crime, vandalism" and everything. But the fact is, from the point of view of you know from the big picture the biggest crime was the abandonment of neighbourhoods by both the federal government and the local government. **I have no patience with people who really complain and complain bitterly about graffiti as such of a big problem.** 
 
+## Graffiti consideration list
+- Beware of the search for beauty. That is a very outdated artistic concept. Today art isn't about beauty, or at least not about that alone. Fireworks can be just for magic tricks. The streets aren't about pretty places alone either. There's much more to the picture than that. And it's well worth attending to. There are people too.
+- Consider experimentation as a value to ponder walls and streets. Hendrix did so with an electrical guitar and went a very long way. 
+- The painted wall is where you are at, as well as that of the painter. "Hi neighbour", or a slight nod, once in a while is not pushing sociality to far away for a sane citizen life. Hence the following,
+- Some homeless don't even have a temporary roof, so a near-by wall can be the presence of close social companionship. "Kilroy was here" can be the reflex of a past presence. And it's in some strange way, company.
+- Discover elements beyond paint, wall, graffiti-doers and go beyond the few elements of this list. Imagine.
+- City scribbling and scratching ~shows the flow of city self-consciousness. It~ is not supposed to be properly and harmonically composed. Ideas and city paintings change, get ~crossed~ striked out, covered by gray painting forming layers over layers. That's why straight lines and curly cross overs, even when pushing for space against each other, live together in the same space. 
+- Strike throughs beyond walls: ~in paper~ in digital media have a place as well. It's all in the on going process. ~Live with it. Actually, sorry, I can't tell you what to do.~
+
+## Surrender and dive into the streets
+
+The problem is not that we don't grasp the huge social challenge around walls. It's that we're just not that interested. We, not the walls, are somewhat inert. Not that there's anything wrong with you, me or some wrongdoer people, quite the contrary: it's only that no one can grasp all that a wall relates to and entails. The world is vast, intricate and infinite in unfoldings. Shall we join an exploration.
+
+___
+#### On the inscriptions (and other artifacts) of the walls
+# Painted walls say plenty | Walls alone do much alone in fact as well
+[White walls say nothing](http://www.imdb.com/title/tt3254710/plotsummary?ref_=tt_ov_pl)
+> _Buenos Aires is a complex, chaotic city. It has European style and a Latin American heart. It has oscillated between dictatorship and democracy for over a century, and its citizens have barely known political or economic stability. Throughout Buenos Aires' turbulent history, successive generations of activists and artists have taken to the streets to express themselves, through words and through art. This has given the walls a powerful and symbolic role. They have become the city's voice. This powerful tradition of expression in public space; of art and activism, has made the streets of Buenos Aires into a riot of colour and communication._
+# Walls with people
+Walls don't actually have people inside them, they're just on the other side. **You just don't get it. You simply don't understand walls** ~You don't get it but it's not such a big deal.~ 
 ###### Coda
-
-The problem is not that we don't understand. It's that we're just not that interested.
-The world is vast, intricate and infinite in unfoldings. Shall we join the exploration.
-
