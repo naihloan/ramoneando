@@ -5,10 +5,10 @@
 
 \ecvname{Benjamin Juarez}
 \ecvaddress{Crisol 305, Nueva Córdoba, Córdoba, Argentina}
-\ecvmobile{+54 9 351 310-4043}
+% \ecvmobile{+54 9 351 310-4043}
 \ecvemail{benjij\_1980@yahoo.com}
 
-\ecvhomepage{http://ramoneando.com/}
+% \ecvhomepage{http://ramoneando.com/}
 \ecvdateofbirth{16 July 1980}
 \ecvnationality{United States of America}
 \ecvgender{Male}
@@ -24,14 +24,15 @@
 \begin{document}
   \begin{europasscv}
   \ecvpersonalinfo
-  \ecvbigitem{Position applied for}{PhD Sociology}
-  \ecvbigitem{PhD Supervisor}{Professor Michael Schillmeier [University of Exeter]}
   \ecvbigitem{PhD Project Title}{\textit{Distance athlete’s æffect on urban rhythm:}} \vspace*{-3mm}
   \ecvbigitem{}{\textit{How do ultrarunners run in automatized cities?}}
+%   \ecvbigitem{Position applied for}{PhD Sociology}
+  \ecvbigitem{PhD Supervisor}{Professor Michael Schillmeier [University of Exeter]}
+  \ecvbigitem{PhD Co-Supervisor}{Professor Mike Michael [University of Exeter]}
   
   
   
-
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
     
 			\ecvsection{Education and training}
   
@@ -39,25 +40,80 @@
 %   Empirical research on graffiti/pixação}{\href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{*online pdf link}}
 %   }
   \ecvtitlelevel{2012--2014}{Master in Sociology. Dissertation Title:}{ } \vspace*{-4mm}
-  \ecvtitlelevel{}{\textit{Urban Art. Expressive uses of public space}}{\href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{*online pdf link}}   }   %\vspace*{-4mm}
+  \ecvtitlelevel{}{\textit{Urban Art. Expressive uses of public space}}%
+  {\href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{*online pdf link}}   }   %\vspace*{-4mm}
 %   \ecvtitlelevel{}{Empirical research on graffiti/pixação}{}
-  \ecvitem{}{Empirical research on graffiti/pixação. São Paulo, São Paulo. Brazil}
+%   \ecvitem{}{Empirical research on graffiti/pixação. São Paulo, São Paulo. Brazil}
   \ecvitem{}{Universidade Estadual de Campinas [UNICAMP]. Campinas, São Paulo. Brazil}
-  \ecvitem{}{
-      \begin{ecvitemize}
-	\item Urban Sociology \&
-% 	\item anthropology
-% 	\item sociology of scientific knowledge / information society
-% 	\item 
-	Science and Technology Studies (STS)
-	\item Research Scholarship given by CNPq 
-	\item Supervisor: Dr. Pedro Peixoto Ferreira
-
-      \end{ecvitemize}
-  }
+%   \ecvitem{}{
+%       \begin{ecvitemize}
+% 	\item Urban Sociology \& Science and Technology Studies (STS)
+% 	\item Research Scholarship given by CNPq 
+% 	\item Supervisor: Dr. Pedro Peixoto Ferreira
+%       \end{ecvitemize}
+%   }
 
   \ecvtitle{2002--2009}{Bachelor of Science in Sociology}
   \ecvitem{}{Universidad de Buenos Aires [UBA], Buenos Aires Argentina}
+  
+  \ecvsection{\fbox{Teaching Positions}}
+  
+  \ecvitem{ACADEMIC}{%
+  \noindent\fbox{%
+    \parbox{0.7\textwidth}{%
+  Over the past 5 years I have assisted students with graduate level projects. I read their texts and made observations on methodological and empirical topics, pointing out contents and readings, following up on each student.}}
+  }
+  %   Feedback was normally weekly, and sometimes monthly, depending on the frequency of writing by part of the students.
+  
+  \ecvtitle{March 2016 – Present}{Appointed assistant} 
+  \ecvitem{}{Faculty of Sociology. Universidad Nacional de Villa María -- UNVM [Córdoba. Argentina]}
+  \ecvitem{}{\textit{Workshop in Methods and Techniques in Social Research} -- with Professor Angelita Alessio}
+  
+  \ecvtitle{March 2013 – July 2013}{Teaching assistant} 
+  \ecvitem{}{Faculty of Sociology. Universidade Estadual de Campinas -- UNICAMP [Campinas, Brazil]}
+  \ecvitem{}{\textit{Introduction to the study of the city}  – with Professor Silvana Rubino}
+   
+  \ecvtitle{August 2012 – December 2012}{Teaching assistant} 
+  \ecvitem{}{Faculty of Sociology. Universidade Estadual de Campinas -- UNICAMP [Campinas, Brazil]}
+  \ecvitem{}{\textit{Research Methodology}  – with Professor Roberto Di Carmo}
+  
+%   \ecvtitle{March 2010 – December 2011}{Appointed assistant} 
+%   \ecvitem{}{Faculty of Law. Universidad Nacional de Córdoba -- UNC [Córdoba. Argentina]}
+%   \ecvitem{}{\textit{Juridical Sociology} -- with Professor Carlos Lista}
+
+%   \pagebreak
+  \ecvsection{Teaching Positions}
+  \ecvitem{EXTRA ACADEMIC}%
+  {\noindent\fbox{\parbox{0.7\textwidth}{%
+  The last two years I have been giving Sociology classes at an institution for the general \mbox{public}. The responses of the students and staff have been very positive and the experience of teaching has been personaly very grateful. I see it as a posibility to put research questions into play and to probe the general feeling that sociological research has for a wider public.
+  }} }
+  \ecvitem{}%
+  {\noindent\fbox{\parbox{0.7\textwidth}{Over the past 4 years I have given a number of Workshops on Running. I instruct on the Technique ChiRunning, and have traveled through the country assisting runners of various levels, from beginners to advanced. Which favors my research purpose, on ultrarunning. }} }
+  \ecvitem{}{
+  \noindent\fbox{%
+    \parbox{0.7\textwidth}{%
+  Additionaly, as a native american living in Argentina I have given conversation classes en English, for scholars and the general public, with a range of academic students ranging from philosophy, to tourism and biochemistry. }}
+  }
+
+  \pagebreak
+  \ecvsection{Research Positions}
+  
+  \ecvtitle{March 2016 – Present}{Research team -- with María Inés Landa} 
+  \ecvitem{}{CIECS at CONICET Research Center [Córdoba. Argentina]}
+  \ecvitem{}{%Prácticas de gestión corporal y procesos de subjetificación en la cultura contemporánea
+  \textit{Corporeal management practices and processes of subjectification in the contemporary culture} }
+  
+  
+  \ecvtitle{March 2011 – December 2011}{Research team -- with Gustavo Blázquez} 
+  \ecvitem{}{SECYT / Universidad Nacional de Córdoba -- UNC [Córdoba. Argentina]}
+  \ecvitem{}{\textit{Contemporary subjectivities} }
+   
+  \ecvtitle{October 2004 – April 2007}{Undergraduate researcher -- with Carlos Belvedere} 
+  \ecvitem{}{Instituto de Investigación Gino Germani -- IIGG  [Buenos Aires. Argentina]}
+  \ecvitem{}{\textit{UBACyT Project: Action, structure and the problem of social order}}
+            
+%   \pagebreak
+
 
 			\ecvsection{Publications}
     
@@ -67,10 +123,12 @@
   In \textit{Street Art \& Urban Creativity Scientific Journal} – Lisboa. Center Periphery: Practice | Vol. 2 Nº 1. %November.
   }
 
-  \ecvblueitem{2008}{``The legacy of Durkheim in Schutz: towards a horizon in dialog'', In peer-reviewed [Latindex] \textit{Enfoques} – Entre Ríos, Argentina.}
+  \ecvblueitem{2008}{``The legacy of Durkheim in Schutz: towards a horizon in dialog'', In peer-reviewed [Latindex] \textit{Enfoques} – Entre Ríos, Argentina. 
+  Vol. 20, Núm. 1-2.}
     %: uap.edu.ar/es/enfoques/ –
   
-  \ecvblueitem{2008}{``Observations on public opinion as from The Well Informed Citizen'', In peer-reviewed [Latindex] \textit{Question} – La Plata, Argentina.}
+  \ecvblueitem{2008}{``Observations on public opinion as from The Well Informed Citizen'', In peer-reviewed [Latindex] \textit{Question} – La Plata, Argentina. 
+  Vol. 1, Núm. 18. }
     
     
 			\ecvsection{Presentations}
@@ -88,22 +146,21 @@
  
   \ecvblueitem{2013}{\textit{1978-2013 Paulistano urban art: between urban degradation and turistic landscaping}. At \textsc{X Reunión de Antropología del Mercosur}. RAM 2013 – Córdoba, Argentina.}
 
-  \ecvblueitem{2012}{Workshop: \textit{Urban Geopolitics: Recongurations from Art, Activism, and Research. Hemispheric Institute of Performance \& Politics / Convergence. The geo/body politics of emancipation}. Duke University – Durham USA.}
+  \ecvblueitem{2012}{Workshop: \textit{Urban Geopolitics: Recongurations from Art, Activism, and Research. Hemispheric Institute of Performance \& Politics / Convergence. The geo/body politics of emancipation}. Duke University – Durham, USA.}
 
-  \ecvblueitem{2011}{``Is there a juridical order? Looking back at the terrain, foundations of the socio-legal''. At \textit{1er Encuentro-Debate en Estudios de Posgrado en Sociología Jurídica}. Córdoba.%, November
-  }
+  \ecvblueitem{2011}{``Is there a juridical order? Looking back at the terrain, foundations of the socio-legal''. At \textit{1er Encuentro-Debate en Estudios de Posgrado en Sociología Jurídica}. Córdoba, Argentina. }
   
-  \ecvblueitem{2011}{\textit{It is (not) so easy to be a graffiti artist}. At \textsc{III Jornadas de Antropología Social del Centro}. Campus Olavarría – Provincia de Buenos Aires.}
+  \ecvblueitem{2011}{\textit{It is (not) so easy to be a graffiti artist}. At \textsc{III Jornadas de Antropología Social del Centro}. Campus Olavarría – Provincia de Buenos Aires, Argentina.}
   
 % % % % % % % % % % % % % %   
 			\ecvsection{Collaborations at Events}
   
   \ecvblueitem{2013}{\textit{Visual Anthropology: Posters Committee}.  
-Reunión de Antropología del Mercosur. [X RAM] – Córdoba, July.}
+Reunión de Antropología del Mercosur. [X RAM] – Córdoba, Argentina. July.}
   
   \ecvblueitem{2011}{%
   Organizer \& Moderator. 
-  \textit{1er Encuentro-Debate en Estudios de Posgrado en Sociología Juridica}. Córdoba, November. }
+  \textit{1er Encuentro-Debate en Estudios de Posgrado en Sociología Juridica}. Córdoba, Argentina. November. }
   
   \ecvblueitem{2005}{%
   General Visual Theme of Event and presentations. 
@@ -114,62 +171,22 @@ Reunión de Antropología del Mercosur. [X RAM] – Córdoba, July.}
 			  \ecvsection{Divulgation}
 
 \ecvblueitem{2017}{\textit{Have you seen your city walls lately? The changing life of street art}, In Graphic Design website: \textsc{FiveStone}, Atlanta, Georgia. USA. }
+\ecvblueitem{2016}{\textit{Exhalations}} \vspace*{-5mm}
+\ecvblueitem{Book}{Independent Publication \textsc{Unexplicable Publishers}.} \vspace*{-5mm}
+\ecvblueitem{}{Córdoba, Argentina.}
+
+
   
 		  \ecvsection{Translations (to Spanish)}
  
-  \ecvblueitem{2017}{Becker, Howard. ``23 ideas sobre la juventud''
-  Sent to \textit{Apuntes de Investigación del CECYP}, Buenos Aires. 
-  [Original version: 2008, ``Twenty Three Thoughts About Youth.'' 
-  \textit{La marque jeune}, edited by Marc-Olivier Gonseth, Yann Laville and Grégoire Mayor (Neuchâtel: Musée d'ethnographieNeuchâtel).}
+%   \ecvblueitem{2017}{Becker, Howard. ``23 ideas sobre la juventud'' Sent to \textit{Apuntes de Investigación del CECYP}, Buenos Aires. [Original version: 2008, ``Twenty Three Thoughts About Youth.'' \textit{La marque jeune}, edited by Marc-Olivier Gonseth, Yann Laville and Grégoire Mayor (Neuchâtel: Musée d'ethnographieNeuchâtel).}
  
  \ecvblueitem{2011}{Kalberg, Stephen. ``La influencia de las cosmovisiones en el pasado y en el presente según Max Weber.'' In \textit{Sociológica}, Mexico D.F., pp. 207-246. [Original version: 2004, ``The Past and Present Influence of World Views: Max Weber on a Neglected Sociological Concept.'' Journal of Classical Sociology 4:139-64.] }
  
  \ecvblueitem{2005}{Kalberg, Stephen. ``Los tipos de racionalidad de Max Weber: piedras angulares para el análisis del proceso de racionalización de la historia'', in Aronson y Weisz (comp.) ́``Sociedad y religión: un siglo de controversias en torno a la noción weberiana de racionalización''. Prometeo, Bs. As., Pp. 73-116. [Original version: 1980, ``Max Weber’s Types of Rationality: Cornerstones for the Analysis of Rationalization Processes in History.'' American Journal of Sociology 85:1145-79.]}
 
- \pagebreak
+%  \pagebreak
  
-  \ecvsection{%Work experience
-  Academic Positions}
-  
-  \ecvtitle{March 2016 – Present}{Research team} 
-  \ecvitem{}{CIECS at CONICET Research Center [Córdoba. Argentina]}
-  \ecvitem{}{%Prácticas de gestión corporal y procesos de subjetificación en la cultura contemporánea
-  \textit{Corporeal management practices and processes of subjectification in the contemporary culture}
-  }
-  
-  \ecvtitle{March 2016 – Present}{Appointed assistant} 
-  \ecvitem{}{Faculty of Sociology. Universidad Nacional de Villa María -- UNVM [Córdoba. Argentina]}
-  \ecvitem{}{\textit{Workshop in Methods and Techniques in Social Research} -- with Angelita Alessio}
-  
-  \ecvtitle{March 2013 – July 2013}{Teaching assistant} 
-  \ecvitem{}{Faculty of Sociology. Universidade Estadual de Campinas -- UNICAMP [Campinas, Brazil]}
-  \ecvitem{}{\textit{Introduction to the study of the city}  – with Professor Silvana Rubino}
-   
-  \ecvtitle{March 2013 – July 2013}{Teaching assistant} 
-  \ecvitem{}{Faculty of Sociology. Universidade Estadual de Campinas -- UNICAMP [Campinas, Brazil]}
-  \ecvitem{}{\textit{Introduction to the study of the city}  – with Professor Silvana Rubino}
-                 
-%   \ecvtitle{March 2002 -- July 2002}{Internship}
-%   \ecvitem{}{European Commission, Youth Unit, DG Education and Culture \newline 200, Rue de la Loi, 1049 Brussels (Belgium)}
-%   \ecvitem{}{
-%   \begin{ecvitemize}
-%       \item evaluating youth training programmes for SALTO UK and the partnership between the Council of Europe and European Commission
-%       \item organizing and running a 2 day workshop on non-formal education for Action 5 large scale projects focusing on quality, assessment and recognition
-%       \item contributing to the steering sroup on training and developing action plans on training for the next 3 years. Working on the Users Guide for training and the support measures
-%   \end{ecvitemize}
-%   }
-%   \ecvitem{}{\ecvhighlight{Business or sector}\quad European institution}
-%   
-%   \ecvtitle{Oct 2001 -- Feb 2002}{Researcher / Independent Consultant}
-%   \ecvitem{}{Council of Europe, Budapest (Hungary)}
-%   \ecvitem{}{Working in a research team carrying out in-depth qualitative evaluation of the 2 year Advanced Training of Trainers in Europe using participant observations, in-depth interviews and focus groups. Work carried out in training courses in Strasbourg, Slovenia and Budapest.}
-%   
-  
-  
-% \end{europasscv}
-% \end{document}  
-  
-  \pagebreak
   
   \ecvsection{Personal skills}
   \ecvmothertongue{Spanish-English}
@@ -200,18 +217,21 @@ Reunión de Antropología del Mercosur. [X RAM] – Córdoba, July.}
   
   \ecvblueitem{Computer skills}{
   \begin{ecvitemize}
-    \item \LaTeX | professional word processor 
-    \item \texttt{markdown} | markup language 
-    \item \texttt{pandoc} | transformation of code language 
-    \item \texttt{html, css} | construction and use of web content
-    \item Proficient user of several coding languages, used in a daily basis 
-    \item \url{http://ramoneando.com/} | I run my personal blog with general info and fieldnotes 
-    \item \texttt{Gimp, Inkscape} | Independent user of graphic programs [linux based]
+    \item \LaTeX $ $ [professional word processor] |
+%     \item 
+    \texttt{markdown} [markup language] |
+    \texttt{pandoc} [transformation of code language] | 
+    \texttt{html, css} [construction and use of web content] |
+    \texttt{vim} [text editor]
+    \item Proficient user of several coding languages, used on a daily basis 
+    \item  \url{http://ramoneando.com/} | I run my personal blog with %sociological observations, 
+    general information and fieldnotes 
+    \item     \texttt{Gimp, Inkscape} | Independent user of graphic programs [linux based]
   \end{ecvitemize}
   }
   
   
-  \ecvblueitem{Other skills}{I enjoy several sports particularly ultrarunning, soccer. I also practice tai chi. Another related hobbie is cooking. Traveling and experiencing different cultures is also a plus.}
+%   \ecvblueitem{Other skills}{I enjoy several sports particularly ultrarunning, soccer. I also practice tai chi. Another related hobbie is cooking. Traveling and experiencing different cultures is also a plus.}
 
   
   
