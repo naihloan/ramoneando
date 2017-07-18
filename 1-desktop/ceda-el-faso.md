@@ -5,6 +5,7 @@ Monsters are real. Ghosts are too. They live inside of us, and sometimes, they w
 # 2 candidates for linux distros on old pcs:
 - antergos
 - antix
+- porteus
 
 ___
 
