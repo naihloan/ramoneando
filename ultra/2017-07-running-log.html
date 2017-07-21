@@ -11,7 +11,22 @@
 	<li><em>TOTAL SEMANAL. 18 KMS</em></li>
 </ul>
 <ul>
-
+<script type="text/javascript">
+var y = document.getElementById("txt1").value;
+var z = document.getElementById("txt2").value;
+var x = y + z;
+document.getElementById("demo").innerHTML = x;
+</script>
 </ul>
-
+<p>
+  Click the button to calculate x.
+  <button onclick="myFunction()">Try it</button>
+</p>
+<p>
+  Enter first number:
+  <input type="text" id="txt1" name="text1" value="1"><br>
+  Enter second number:
+  <input type="text" id="txt2" name="text2" value="2">
+</p>
+<p id="demo"></p>
 <!-- script from BoogieJack.com + css in http://bettermotherfuckingwebsite.com/ --></body></html>
