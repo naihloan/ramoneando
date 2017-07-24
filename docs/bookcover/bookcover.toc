@@ -1,0 +1,52 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Book cover parts}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Book cover sizes}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Loading class}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Main method}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Commands}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Parts in the main method}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Base background parts}{4}{subsubsection.2.2.1}
+\contentsline {paragraph}{With flaps}{4}{section*.3}
+\contentsline {paragraph}{Without flaps}{4}{section*.4}
+\contentsline {subsubsection}{\numberline {2.2.2}Base foreground parts}{5}{subsubsection.2.2.2}
+\contentsline {paragraph}{With flaps}{5}{section*.5}
+\contentsline {paragraph}{Without flaps}{5}{section*.6}
+\contentsline {subsubsection}{\numberline {2.2.3}Combined parts}{5}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Component types}{5}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}color}{5}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}picture}{6}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}tikz}{6}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}tikz clip}{6}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}normal}{7}{subsubsection.2.3.5}
+\contentsline {subsubsection}{\numberline {2.3.6}center}{7}{subsubsection.2.3.6}
+\contentsline {subsubsection}{\numberline {2.3.7}ruler}{7}{subsubsection.2.3.7}
+\contentsline {subsection}{\numberline {2.4}Defining component type}{8}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Defining part}{9}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Full examples}{10}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}A dust jacket}{10}{subsubsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.2}A two-sided book cover}{12}{subsubsection.2.6.2}
+\contentsline {subsubsection}{\numberline {2.6.3}Drawing bar code by pst-barcode package}{14}{subsubsection.2.6.3}
+\contentsline {section}{\numberline {3}Old method}{16}{section.3}
+\contentsline {subsection}{\numberline {3.1}Commands}{16}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Background colors}{16}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Background pictures}{16}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Background Ti\emph {k}Z figures}{16}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}First foreground}{17}{subsubsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.5}Second foreground}{17}{subsubsection.3.1.5}
+\contentsline {subsubsection}{\numberline {3.1.6}Making book cover}{18}{subsubsection.3.1.6}
+\contentsline {subsection}{\numberline {3.2}Parts in the old method}{18}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Background parts}{18}{subsubsection.3.2.1}
+\contentsline {paragraph}{With flaps}{18}{section*.14}
+\contentsline {paragraph}{Without flaps}{18}{section*.15}
+\contentsline {subsubsection}{\numberline {3.2.2}Foreground parts}{19}{subsubsection.3.2.2}
+\contentsline {paragraph}{With flaps}{19}{section*.16}
+\contentsline {paragraph}{Without flaps}{19}{section*.17}
+\contentsline {subsection}{\numberline {3.3}Layers}{19}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Full examples}{20}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}A dust jacket}{20}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}A two-sided book cover}{21}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Drawing bar code by pst-barcode package}{23}{subsubsection.3.4.3}
+\contentsline {section}{Appendix}{25}{section*.18}
+\contentsline {subsection}{Background parts in the main method (width flaps)}{26}{section*.19}
+\contentsline {subsection}{Background parts in the main method (widthout flaps)}{30}{section*.23}
