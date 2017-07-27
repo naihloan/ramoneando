@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  24 JUL 2017 14:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  24 JUL 2017 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -427,18 +427,18 @@ Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 ) (./example1-oldmethod.aux)
 \openout1 = `example1-oldmethod.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -450,7 +450,7 @@ LaTeX Font Info:    ... okay on input line 6.
 * modes: 
 * h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
 * v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
-* \paperwidth=1351.50581pt
+* \paperwidth=1010.07277pt
 * \paperheight=654.41333pt
 * \textwidth=430.00462pt
 * \textheight=556.47656pt
@@ -522,205 +522,48 @@ ABD: EveryShipout initializing macros
 File: ./figures/1-peacock-dean-nahum-unsplash-4226.jpg Graphic file (type jpg)
 <use ./figures/1-peacock-dean-nahum-unsplash-4226.jpg>
 Package pdftex.def Info: ./figures/1-peacock-dean-nahum-unsplash-4226.jpg used 
-on input line 80.
+on input line 81.
 (pdftex.def)             Requested size: 426.79134pt x 283.60083pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\OT1/cmr/m/n/12 Nam dui ligula,
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 fringilla a, eu-is-mod
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 so-dales, sol-lic-i-tudin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 Nam la-cus libero,
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 pretium at, lobor-tis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 vi-tae, ul-tricies et,
- []
-
-
-Underfull \hbox (badness 1603) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 tor-tor sed ac-cum-san
- []
-
-
-Underfull \hbox (badness 1360) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 mi. Morbi ac orci
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 et nisl hen-drerit
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 mol-lis. Sus-pendisse
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 ante. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 montes, nasce-tur
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 ridicu-lus mus. Ali-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 Nulla ul-lam-cor-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 vestibu-lum turpis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 Pel-len-tesque cur-sus
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 80.
+(Font)              <12> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 80.
+(Font)              <8> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 80.
+(Font)              <6> on input line 81.
+
 contour: Using 120 copies for ` \color {title}\relax \fontsize {24.88}{30}\sele
-ctfont \sffamily \bfseries Rose Taylor -- Probability Theory' on input line 80.
+ctfont \sffamily \bfseries Anatoliy Protopopov | \textsc {Tratado Sobre el Amor
+}' on input line 81.
 
-contour: Using 120 copies for `Rose Taylor' on input line 80.
-contour: Using 120 copies for `tratado sobre' on input line 80.
-contour: Using 120 copies for `el amor' on input line 80.
+LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 81.
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]\OT1/cmr/m/n/12 Nam dui ligula,
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 fringilla a, eu-is-mod
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 so-dales, sol-lic-i-tudin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 Nam la-cus libero,
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 pretium at, lobor-tis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 vi-tae, ul-tricies et,
- []
-
-
-Underfull \hbox (badness 1603) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 tor-tor sed ac-cum-san
- []
-
-
-Underfull \hbox (badness 1360) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 mi. Morbi ac orci
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 et nisl hen-drerit
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 mol-lis. Sus-pendisse
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 ante. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 montes, nasce-tur
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 ridicu-lus mus. Ali-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 Nulla ul-lam-cor-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 vestibu-lum turpis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 Pel-len-tesque cur-sus
- []
-
-<./figures/dice.png, id=5, 642.4pt x 400.49625pt>
-File: ./figures/dice.png Graphic file (type png)
- <use ./figures/dice.png>
-Package pdftex.def Info: ./figures/dice.png used on input line 80.
-(pdftex.def)             Requested size: 85.35826pt x 53.21521pt.
-
+contour: Using 120 copies for `Anatoliy Protopopov' on input line 81.
+contour: Using 120 copies for `\textsc {tratado sobre}' on input line 81.
+contour: Using 120 copies for `\textsc {el amor}' on input line 81.
 [1{/home/nilon/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./figures/1-peacock-dean-nahum-unsplash-4226.jpg> <./figures/dice.png>]
-(./example1-oldmethod.aux) ) 
+ <./figures/1-peacock-dean-nahum-unsplash-4226.jpg>] (./example1-oldmethod.aux)
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 12946 strings out of 493013
- 255441 string characters out of 6139317
- 445362 words of memory out of 5000000
- 16240 multiletter control sequences out of 15000+600000
- 7876 words of font info for 28 fonts, out of 8000000 for 9000
+ 12875 strings out of 493013
+ 253066 string characters out of 6139317
+ 446808 words of memory out of 5000000
+ 16170 multiletter control sequences out of 15000+600000
+ 8177 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,56p,461b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
->
-Output written on example1-oldmethod.pdf (1 page, 7236623 bytes).
+ 62i,8n,56p,461b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on example1-oldmethod.pdf (1 page, 7178033 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

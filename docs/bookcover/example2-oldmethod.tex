@@ -20,9 +20,13 @@
 % Yellow background color on the spine
 % \setbookcover{bgcolor}{spine}{color=amiyellow}
 
+% \setbookcover{fgfirst}{above front}{
+%     \color{blue} Protopopov 1996--1999 | \textsc{Tratado}}
+
 % Remark
 \setbookcover{fgfirst}{above front}{
-    \color{red}\textsc{TRATADO SOBRE EL AMOR} book cover -- outside}
+    \color{red}Protopopov 1996--1999 | \textsc{Tratado Sobre el Amor} %book cover -- outside
+    }
 
 % Text on the spine
 \setbookcover{fgfirst}{spine}{
@@ -30,13 +34,13 @@
     \centering
     \rotatebox[origin=c]{90}{
         \footnotesize\bfseries 
-        TRATADO SOBRE EL AMOR }
+        TRATADO SOBRE EL AMOR | Anatoliy Protopopov}
     \vfill}
     
 \setbookcover{fgfirst}{back}{
     \centering
     \vspace{20mm}
-    \parbox{110mm}{\color{white}
+    \parbox{110mm}{%\color{white}
     \lipsum[2-4]
     }}
 
@@ -44,7 +48,8 @@
 \setbookcover{fgfirst}{front}{
     \vspace{20.5mm}
     \centering
-    {\huge\bfseries \textsc{Tratado} \textsc{Sobre} \\ \textsc{El Amor} \\
+    {\huge\bfseries \textsc{Tratado} \textsc{Sobre} %\\ 
+    \textsc{El Amor} \\
     {\large \textsc{como lo entiende una persona terriblemente aburrida}}\\
     [13mm]}
     {\LARGE\bfseries Anatoliy Protopopov
@@ -60,9 +65,9 @@
   % AAVV
 }
     \vfill
-    \includegraphics[height=20mm]{./figures/logo.pdf}
+    {\large\bfseries ediciones intratables} \\ \vfill
+    \includegraphics[height=20mm]{./figures/logo.png}
     \vfill
-    {\large\bfseries ediciones intratables}
     \vfill}
 
 % Making the outside book cover 
@@ -91,15 +96,7 @@
     \bigskip
     \begin{center}
         \parbox{126mm}{
-            The journal of the Institute of Mathematics and Informatics of 
-            Eszterházy Károly University is open for scientific publications 
-            in mathematics and computer science, where the field of number 
-            theory, group theory, constructive and computer aided geometry 
-            as well as theoretical and practical aspects of programming 
-            languages receive particular emphasis. Methodological papers 
-            are also welcome. Papers submitted to the journal should be 
-            written in English. Only new and unpublished material can be
-            accepted.}
+            The journal of the Institute of Mathematics and Informatics of Eszterházy Károly University is open for scientific publications in mathematics and computer science, where the field of number theory, group theory, constructive and computer aided geometry as well as theoretical and practical aspects of programming languages receive particular emphasis. Methodological papers are also welcome. Papers submitted to the journal should be written in English. Only new and unpublished material can be accepted.}
     \end{center}}
 
 % Making the inside book cover 

@@ -3,19 +3,8 @@
 535 (atenti ao lupo)
 :%s/foo/bar/g
 
-Manual para los jovenes que estan desconcertados y cansados de
-las extranezas del amor. Se contemplan las bases instintivas del
-comportamiento matrimonial del ser humano como especie biológica. Al
-principio brevemente se contemplan las condiciones biológicas, despues
-se aclara la eleccion de la pareja matrimonial de la persona, se dan
-consejos practicos. La redaccion termina un resumen etologico de los
-motivos instintivos del comportamiento humano.
+Manual para los jóvenes que están desconcertados y cansados de las extrañezas del amor. Se contemplan las bases instintivas del comportamiento matrimonial del ser humano como especie biológica. Al principio brevemente se contemplan las condiciones biológicas, después se aclara la elección de la pareja matrimonial de la persona, se dan consejos prácticos. La redacción termina un resumen etológico de los motivos instintivos del comportamiento humano.
 
-[Fetched from a 2009 archive](http://www.oocities.org/protopop_1999/tratado.html)
-[In English](http://www.oocities.com/Athens/Troy/1813/treatise.html)      
-[escribir al autor](mailto:p_anatol@hotmail.com)      
-[FAQ](http://www.oocities.com/Athens/Troy/1813/faq_tre.htm)  
-[All articles of the author](http://www.oocities.com/protopop_1999)
 
 ------------------------------------------------------------------------
 
@@ -27,63 +16,92 @@ motivos instintivos del comportamiento humano.
 ** Traducción autorizada del ruso de [Irina Italianskaya.](mailto:isabel@nubimar.com)
 
   ------------------------------------------------------------------------
-  Todo lo real es razonable;\\
-  Todo lo razonable es real.\\
+  Todo lo real es razonable
+  Todo lo razonable es real
   *(G. Gegel)*
   La sabiduría real es el saber de las causas
   *(G. Galileo)*
   ------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------
-  **Índice**\\
-  [Breves palabras sobre la etología del ser humano](#M02)\\
-  [De qué trata](#M1)\\
-  [¿Para qué, hablando con propiedad, multiplicarse?](#M1A)\\
-  [Gemificación y proceso sexual.](#M2)\\
-  [Sobre los hermafroditas y la evolución de los tipos de multiplicación.](#M3)\\
-  [Sobre las diferencias del sexo y selección sexual.](#M4)\\
-  [Sobre la diversidad y el riesgo](#M5)\\
-  [Sobre la base de la estrategia matrimonial](#M6)\\
-  [Sobre nuestro “yo” prehistórico](#M7)\\
-  [Sobre la jerarquía de la manada](#M8)\\
-  [Sobre la primariedad y cultura](#M9)\\
-  [Sobre príncipes y princesas](#M10)\\
-  [Sobre la lucha de los dos “yo”](#M11)\\
-  [Sobre el alcohol](#M12)\\
-  [Sobre los niños nacidos fuera del matrimonio y los niños que crecen sin padres](#M13)\\
-  [Sobre los maridos y amantes](#M14)\\
-  [¿Entonces, de quién hay más?](#M15)\\
-  [El origen de la familia, prostitución y promiscuidad](#M15A)\\
-  [Una vez más sobre la elección](#M16)\\
-  [Qué tienen que hacer los hombres que no tienen suerte](#M17)\\
-  [Conclusiones prácticas para las mujeres solteras](#M18)\\
-  [Sobre la valentía y humillación](#M19)\\
-  [Continuación etológica](#M19B)\\
-  [Sobre las ilusiones ópticas y selección contemplativa](#M20)\\
-  [Sobre la peculiaridad de la conducta](#M21)\\
-  [Sobre el egocentrismo](#M22)\\
-  [Esbozos etológicos](#M23)\\
-  [Sobre la agresividad y criminalidad](#M24)\\
-  [Sobre la religión, arte y propaganda](#M25)\\
-  [Literatura recomendada](#M26)\\
+### Índice
+\
+  [Breves palabras sobre la etología del ser humano](#M02)
+  [De qué trata](#M1)
+  [¿Para qué, hablando con propiedad, multiplicarse?](#M1A
+  [Gemificación y proceso sexual.](#M2)
+  [Sobre los hermafroditas y la evolución de los tipos de multiplicación.](#M3)
+\
+  [Sobre las diferencias del sexo y selección sexual.](#M4
+\
+  [Sobre la diversidad y el riesgo](#M5
+\
+  [Sobre la base de la estrategia matrimonial](#M6
+\
+  [Sobre nuestro “yo” prehistórico](#M7
+\
+  [Sobre la jerarquía de la manada](#M8
+\
+  [Sobre la primariedad y cultura](#M9
+\
+  [Sobre príncipes y princesas](#M10
+\
+  [Sobre la lucha de los dos “yo”](#M11
+\
+  [Sobre el alcohol](#M12
+\
+  [Sobre los niños nacidos fuera del matrimonio y los niños que crecen sin padres](#M13
+\
+  [Sobre los maridos y amantes](#M14
+\
+  [¿Entonces, de quién hay más?](#M15
+\
+  [El origen de la familia, prostitución y promiscuidad](#M15A
+\
+  [Una vez más sobre la elección](#M16
+\
+  [Qué tienen que hacer los hombres que no tienen suerte](#M17
+\
+  [Conclusiones prácticas para las mujeres solteras](#M18
+\
+  [Sobre la valentía y humillación](#M19
+\
+  [Continuación etológica](#M19B
+\
+  [Sobre las ilusiones ópticas y selección contemplativa](#M20
+\
+  [Sobre la peculiaridad de la conducta](#M21
+\
+  [Sobre el egocentrismo](#M22
+\
+  [Esbozos etológicos](#M23
+\
+  [Sobre la agresividad y criminalidad](#M24
+\
+  [Sobre la religión, arte y propaganda](#M25
+\
+  [Literatura recomendada](#M26)
+\
   -----------------------------------------------------------------------------------------
 
-**Agradecimientos**
+### Agradecimientos
 
       Creo que es mi deber de agradecer a todos los visitantes del Club
 de discusiones, los lectores que me han escrito sus observaciones
 privadamente. Todos sus comentarios, opiniones y preguntas sirvieron
 para hacer los cambios en la segunda redacción, quiero destacar la ayuda
-de Leonid Ivanov.\\
+de Leonid Ivanov
+\
       Quiero agradecer especialmente a Irina Patseva, sin su ayuda moral
 este Tratado pudo no ser editado.
 
 ------------------------------------------------------------------------
 
-\\
+
+
 []{#M02}
 
-**Breves palabras sobre la etologia del ser humano**\\
+### Breves palabras sobre la etologia del ser humano
 Introduccion escrita para la edición Bulgara en el ano 2002
 
       A la psicología tradicional, así como otras ciencias que estudian
@@ -122,7 +140,8 @@ que surgieron de ella. La etología estudia las bases instintivas de la
 conducta de los seres vivos mediante el método de comparación del
 comportamiento de distintas especies entre sí. El ser humano para un
 etólogo es solamente un mamífero erguido, es decir, es uno entre los
-mamiferos.\\
+mamiferos
+\
       Comparando entre sí la conducta de los representantes de distintos
 tipos zoológicos desde los primitivos hasta los superiores, los
 científicos descubren paralelismos sorprendentes que atestiguan los
@@ -134,7 +153,8 @@ interior del Sol que los geológos la estructura interior de la Tierra. Y
 es que hay muchos astros y comparándolos entre sí se pueden entender
 muchas cosas. La Tierra es única y no hay con qué compararla. Eso pasa
 en los estudios del ser humano. Limitándose al estudio de este mismo nos
-arriesgamos a limitarnos en su comprensión.\\
+arriesgamos a limitarnos en su comprensión
+\
       Pero no es fácil estudiar la etologia. Además de las dificultades
 objetivas que surgen de la enorme influencia de la razon que enmascara y
 modifica muchas manifestaciones instintivas, los científicos chocan con
@@ -155,7 +175,8 @@ la idea de que uno u otro sentimiento es la voz del instinto provoca en
 mucha gente protestas airadas que no encuentran ninguna explicación
 racional. Pero la causa de este rechazo está en el rechazo subconsciente
 de nuestro parentesco con los monos. Recuerden eso, mis estimados
-lectores.\\
+lectores
+\
       ¿Qué más puede contar un etólogo sobre el ser humano? Mucho. Sobre
 la agresividad, sobre la naturaleza del poder, sobre la moralidad innata
 y las fuerzas motoras del nacionalismo e inclusive sobre las extrañezas
@@ -164,7 +185,7 @@ este libro.
 
 []{#M1}
 
-**De qué se trata**
+### De qué se trata
 
   ----------------------------------------------
   Pregunta a la radio de Armenia:
@@ -187,7 +208,8 @@ con contradicciones, y, gracias a unos argumentos subjetivos y con mera
 especulación, poco convincente. Realmente todo se traduce en un consejo
 de vivir juntos mucho tiempo, y “beber agua mineral”. Pero la larga vida
 común no es una garantía que después todo vaya bien, y, mientras tanto
-se pueden perder posibilidades, más de una, realmente válidas.\\
+se pueden perder posibilidades, más de una, realmente válidas
+\
       Durante toda la historia escrita de la humanidad, se consideraba
 oportuno guíarse durante la elección de pareja por el sentimiento de
 amor, y los últimos decenios más todavía, el amor, como conjuro, empezó
@@ -208,23 +230,27 @@ correcto. Concretamente, vamos a hablar de la base instintiva del
 comportamiento matrimonial del ser humano como especie biológica. El
 proceso del coito no vamos a examinar. Tampoco nos va a interesar el
 SENTIMIENTO en sí, es decir, las sensaciones que experimenta una persona
-enamorada, y mecanismos fisiológicos de su aparición.\\
+enamorada, y mecanismos fisiológicos de su aparición
+\
       Estoy convencido de que el saber de toda esta lógica de ninguna
 manera va a empobrecer la percepción del amor como los sentimientos más
 maravillosos, así como el saber la estructura de una flor no impide al
 botánico admirar su belleza, y el saber de las leyes de harmonía y la
 estructura de un instrumento no impide (e, incluso, le ayuda) al músico
-a disfrutar cuando toca una obra maestra.\\
+a disfrutar cuando toca una obra maestra
+\
 
 ##### Las bases instintivas del comportamiento las estudia una ciencia, la etología, pero prácticamente no existen ediciones populares sobre el tema del comportamiento matrimonial del ser humano, y espero que este artículo de algún modo va a llenar este vacío.
 
 []{#M1A}
 
-**¿Y para qué, hablando con propiedad, multiplicarse?**
+### Y para qué, hablando con propiedad, multiplicarse?
 
   ------------------------------------------------------------
-  Del quien viene a este mundo su tristeza es comprensible,\\
-  Debe volver a la inexistencia otra vez…\\
+  Del quien viene a este mundo su tristeza es comprensible
+\
+  Debe volver a la inexistencia otra vez
+\
   *(Omar Khaiam)*
   ------------------------------------------------------------
 
@@ -246,7 +272,7 @@ extinguiría rápidamente, y, mejor dicho, ni aparecería.
 
 []{#M2}
 
-**Gemificación y proceso sexual.**
+### Gemificación y proceso sexual
 
   --------------------------------------------------
   La multiplicación es mejor hacerla por división
@@ -263,7 +289,8 @@ se suprimen y no se transmiten a los descendientes. Solamente después de
 esto la célula se divide en dos. Pero existe una posibilidad bastante
 alta de que todos los ejemplares del gen en los espirales del cromosoma
 resulten dañados, y no habrá posibilidad de disponer de un gen sin
-daños.\\
+daños
+\
       Para excluir o bajar substancialmente la incidencia de esta
 posibilidad, la naturaleza legó al proceso sexual. Su principal
 diferencia del proceso vegetativo consiste en que se intercambian con
@@ -271,7 +298,8 @@ sus partes dos juegos genéticos no idénticos recibidos de dos
 individuos diferentes, en los cuales prácticamente no hay coincidencia
 de fallos en los genes. Además, aparece a posibilidad de combinar en los
 descendientes características y particularidades recibidas de los padres 
-diferentes, que simplifica la adaptación al medio ambiente.\\
+diferentes, que simplifica la adaptación al medio ambiente
+\
       Es necesario pagar por las ventajas del proceso sexual. El
 vegetativo es más simple en su realización, y más seguro, por eso muchos
 seres vivos practican éste y aquél al mismo tiempo. Normalmente se
@@ -288,8 +316,7 @@ todo está bien, estos organismos simplemente se duplican.
 
 []{#M3}
 
-**Sobre los hermafroditas y la evolución de los tipos de
-multiplicación.**
+### Sobre los hermafroditas y la evolución de los tipos de multiplicación
 
   ------------------------------------------------------------------------
   No multipliques la naturaleza sin necesidad **
@@ -304,7 +331,8 @@ sexo! Cada individuo hermafrodita tiene un juego de órganos sexuales
 completo, es decir, puede hacer de macho y hembra con igual éxito, y a
 veces lo hace al mismo tiempo. Por ejemplo, algunas especies de
 caracoles copulan en grupos grandes, uniéndose en grandes cintas y
-círculos.\\
+círculos
+\
       El hermafroditismo no es malo en absoluto. Es más seguro y fácil
 que la diferencia de los sexos. En realidad si todos como norma fuéramos
 hermafroditas, nuestra vida matrimonial se simplificaría muchísimo, pero
@@ -312,7 +340,8 @@ difícilmente se empobrecería. Juzguen ustedes mismos: además de que las
 posibilidades de encontrar al compañero se duplicarían, como mínimo se
 simplificaría todo el proceso de relacionarse y cortejar. ¿Por qué entonces 
 los seres unisexuales no reinan sobre la tierra? Aquí empieza lo
-más interesante para nosotros…\\
+más interesante para nosotros
+\
       La vida sobre la Tierra apareció hace unos 3 – 3,5 mil millones de
 años, y al principio se multiplicaba vegetativamente. El momento del
 “invento” del método sexual no se sabe con exactitud, pero los primeros
@@ -324,7 +353,8 @@ especies de un solo sexo. Su reinado acaba en el período silúrico (hace
 unos 400 millones de años), y junto con él se acaba el reinado de la
 multiplicación unisexual. Desde aquel entonces reina la diferencia
 entre los sexos, esto obviamente aporta algunas ventajas a las especies.
-¿Cuáles?\\
+¿Cuáles
+\
       Una de las ventajas es obvia. Algunos hermafroditas tienen la
 posibilidad del coito con ellos mismos, y, a diferencia de los
 onanistas, tener descendencia. Desde luego, este incesto llevado al
@@ -340,12 +370,15 @@ hermafroditas…
 
 []{#M4}
 
-**Sobre las diferencias del sexo y selección sexual.**
+### Sobre las diferencias del sexo y selección sexual
 
   ------------------------------------------------------------------------
-  - ¿Me quieres?\\
-  - ¡Sí!\\
-  - ¿Dónde andan estas abejas?..\\
+  - ¿Me quieres
+\
+  - ¡Sí
+\
+  - ¿Dónde andan estas abejas?.
+\
   *(de la charla de dos flores)*
   ------------------------------------------------------------------------
 
@@ -364,7 +397,8 @@ cualidades necesarias, y, por consiguiente, no permitir la
 multiplicación de otros individuos, que no tienen las cualidades
 necesarias. Matar a los perdedores, en términos generales, no es
 necesario. Qué humano, ¿no? Además, aún queda la posibilidad de
-enmendar el “error del juicio”, si tal se produce.\\
+enmendar el “error del juicio”, si tal se produce
+\
       Obviamente, la utilización por la misma naturaleza de los métodos
 de la selección parecidos es capaz de aumentar bruscamente el tiempo de
 evolución, y con ello mejorar la adaptación de las especies a las
@@ -379,7 +413,8 @@ pronuncian el veredicto sobre qué macho va a seguir en sus descendientes
 y el que no. Por eso este tipo de selección se llama sexual. Se sabe que
 Darwin le daba mucha importancia a la selección sexual, pero eso no
 encontró por algunas causas una respuesta merecida entre los demás
-científicos.\\
+científicos
+\
       ¿Es posible la selección sexual entre los hermafroditas? Vamos a
 imaginar un individuo hermafrodita, al que hay que desechar como
 semental. Todos le rehusan, pero este encuentra a otro desgraciado, y…
@@ -393,12 +428,14 @@ hembras en una populación es más o menos igual, y, por consiguiente, las
 posibilidades de fertilización son muy excesivas, las hembras siempre
 tienen la posibilidad más o menos amplia de escoger al macho que les
 fertilice. Esta posibilidad puede ser enmascarada, pero siembre tiene
-lugar.\\
+lugar
+\
       Suprimir con fines de selección a las hembras es muy arriesgado,
 ya que a sus hijos que no llegaron a nacer no podría parir otra hembra,
 ésta pare cuanto puede de los suyos, y no puede parir más en vez de
 alguien. El macho es otra cosa. Las crías no concebidas por uno
-gustosamente va a concebir otro macho, y no va a negarse a ello…\\
+gustosamente va a concebir otro macho, y no va a negarse a ello
+\
       En la práctica eso es así. El 1/6 de los machos de focas (nutrias
 del mar) fertilizan a 5/6 de todas las hembras, y los demás deben hacer
 como si la cosa no va con ellos. Una desproporción más grande se ve
@@ -416,7 +453,8 @@ inclusive entre las especies que viven estrictamente en parejas.
 Las plantas, aunque sea dioicas, en la práctica son incapaces de
 realizar tal selección, por eso la diferencia total de los sexos
 (dioicismo) en el mundo vegetal no se hizo la reinante, y se conserva,
-seguramente, como un método de prevenir la autofecundación.\\
+seguramente, como un método de prevenir la autofecundación
+\
       Es decir, la diferencia de los sexos supone en alguna forma clara
 u oculta poliginia, y
 
@@ -428,7 +466,8 @@ u oculta poliginia, y
 en principio fértiles será obligatoriamente excluida del proceso de
 multiplicación con el consiguiente aumento de la parte para los demás.
 
-[comment]: <> (For example...http://www.oocities.com/protopop_1999/adseffe.html\\)
+[comment]: <> (For example...http://www.oocities.com/protopop_1999/adseffe.htm
+\)
 [comment]: <> (Anatoly Protopopov | Some Statistical Data Concerning Marriage Adverts Efficiency)
 [//]: <> (This is also a comment.)
 [//]: # (This may be the most platform independent comment)
@@ -454,7 +493,7 @@ vamos a examinar con más detalle.
 
 []{#M5}
 
-**Sobre la diversidad y el riesgo**
+### Sobre la diversidad y el riesgo
 
   ------------------------------------------------------------------------
   Sin los nacidos para arrastrarse – no pueden volar **
@@ -468,7 +507,8 @@ selección no tendría ningún sentido. Para que la elección tenga sentido,
 es precisa una diferencia necesaria de los individuos de la especie.
 Desde luego, en cientos y miles de generaciones se pueden formar unas
 cualidades óptimas, que aseguren el mayor grado de supervivencia de cada
-individuo, es decir, también de la especie en su totalidad, pero…\\
+individuo, es decir, también de la especie en su totalidad, pero
+\
       Es que las condiciones en las que la especie existe, no son en
 ningún modo estables, y cómo van a cambiar mañana, la naturaleza, pese a
 toda su así llamada “sabiduría” es incapaz de prever. Precisamente para
@@ -479,11 +519,13 @@ bien. Produciendo tales individuos, la naturaleza se arriesga, ya que
 estos individuos en este momento son menos viables, pero es necesario
 arriesgarse, ya que él quien no se arriesga, no gana. La naturaleza no
 conoce otra manera de “predecir” el futuro excepto la búsqueda a ciegas, 
-aunque suelen atribuirle otras cosas.\\
+aunque suelen atribuirle otras cosas
+\
       ¿Cómo además minimizar las consecuencias no deseadas de este
 riesgo? ¿Cómo hacer que las consecuencias de estos experimentos
 caóticos, que son en su mayoría a destiempo, no hagan peligrar la
-supervivencia de la especie en su totalidad?\\
+supervivencia de la especie en su totalidad
+\
       ¡Es elemental! Es necesario que las hembras no se desvíen del
 modelo óptimo, y los machos sean el objeto del experimento. A los machos
 inconvenientes se puede desechar sin miedo, sin temor de que esto pueda
@@ -491,7 +533,8 @@ acarrear la disminución de las crías de toda la populación. Y, al
 contrario, unos pocos machos prominentes pueden en un principio
 convertirse en padres de las crías de toda la populación. Hace mucho han
 notado que la proporción de los machos y las hembras recién nacidas
-depende fuertemente de las condiciones de la existencia de la especie.\\
+depende fuertemente de las condiciones de la existencia de la especie
+\
       En las condiciones adversas la proporción de los machos aumenta,
 de este modo aumenta la diversidad, la selección se hace más rápida y
 más cruel, y, por consiguiente, aumenta la adaptación de la especie a
@@ -512,7 +555,7 @@ aumento de la cantidad de la especie.
 
 []{#M6}
 
-**Sobre la base de la estrategia matrimonial**
+### Sobre la base de la estrategia matrimonial
 
   -------------------------------------- -------------------------------------------------------------------------------
   Profesor:                              “Un buen semental de toro debe realizar hasta doce copulaciones al día…”.
@@ -536,7 +579,8 @@ se parece mucho a la conducta de la gente en el mercado. El vendedor y
 el comprador también buscan uno al otro, pero los dos tratan de sacar el
 máximo provecho para sí, muchas veces sin contemplar las posibles
 pérdidas de otra parte. La naturaleza, desgraciadamente, no es
-sentimental…\\
+sentimental
+\
       Como ya se ha dicho, el principio de la división de los sexos
 supone que una pequeña parte de los machos fecunda a la gran mayoría de
 las hembras, obligando a los demás machos de esta manera fingir unos
@@ -544,7 +588,8 @@ solteros empedernidos. Esta estrategia permite fijar rápidamente en la
 descendencia los rasgos útiles que aparecen, liberando a las hembras de
 la reproducción de los genes innecesarios. Para esto es preciso que los
 machos y las hembras actúen de maneras esencialmente diferentes en la
-búsqueda de la pareja matrimonial.\\
+búsqueda de la pareja matrimonial
+\
       Cualquier macho debe aspirar a cambiar lo más frecuente posible a
 las hembras, como si fuera él el portador de los genes únicos y útiles.
 Vamos a imaginar que en un hombre apareció de alguna manera el gen de
@@ -587,7 +632,8 @@ todos los hombres. Y a cuantos más hombres ella les gusta, cuantos más
 admiradores tiene, tanto más amplia es su posibilidad de elección. Su
 ideal es enamorar a todos, pero dejar acercarse a uno, y, puede ser, a
 ninguno. La cópula, entre tanto, es casi un efecto no deseado de la
-seducción.\\
+seducción
+\
       Es decir, el fin de la estrategia matrimonial de la mujer es
 
   ----------------------------------------------
@@ -596,7 +642,8 @@ seducción.\\
 
       Al apoderarse del corazón masculino la mujer puede perder por él
 un interés activo, manteniéndolo sólo para la colección. Y mientras
-tanto seducir a los demás.\\
+tanto seducir a los demás
+\
       Hay que subrayar que aquí está descrita la base de las diferencias
 de la estrategia matrimonial. Más abajo vamos a examinar los factores
 instintivos, que llenan esta base con un contenido concreto.
@@ -614,13 +661,17 @@ instintivos, que llenan esta base con un contenido concreto.
 
 []{#M7}
 
-**Sobre nuestro “yo” prehistórico.**
+### Sobre nuestro “yo” prehistórico
 
   ------------------------------------------------------------------------
-  En mi hay dos “yo”, dos polos de un planeta\\
-  Dos personas diferentes, dos enemigos,\\
-  Cuando uno quiere ir al ballet,\\
-  Otro va directamente a las carreras…\\
+  En mi hay dos “yo”, dos polos de un planet
+\
+  Dos personas diferentes, dos enemigos
+\
+  Cuando uno quiere ir al ballet
+\
+  Otro va directamente a las carreras
+\
   *(V. Visotckiy)*
   ------------------------------------------------------------------------
 
@@ -634,7 +685,8 @@ chimpancé coinciden en más de 95%. Pero los rasgos que constituyen la
 especie no son sólo los que determinan algunas peculiaridades de la
 estructura de los órganos, sino el comportamiento, las costumbres
 (maneras de cazar, defenderse, rituales matrimoniales y un largo
-etcétera).\\
+etcétera)
+\
       Como todos los rasgos que determinan la especie se heredan
 estrictamente (¡ya que son determinantes de la especie!), entonces toda
 la conducta propia de la especie también se hereda. Por ejemplo, la
@@ -649,7 +701,8 @@ son los instintos. En relación con los programas de conducta
 instintivos se utiliza también el término “modelo innato de conducta”.
 Un acto instintivo muy interesante para nuestro tema, un beso, es una
 parte del ritual innato de la conducta matrimonial de los primates, que
-surge a partir de los rituales de la alimentación.\\
+surge a partir de los rituales de la alimentación
+\
       ¿En qué medida todo esto está relacionado con el ser humano? El
 ser humano tiene conciencia, leyes, buenas o malas, que en un principio
 hacen innecesario seguir los instintos. Pero el ser humano en realidad
@@ -658,7 +711,8 @@ miles de años, y la época histórica dura sólo entre 5 y 7 mil años. No
 obstante, la evolución de los primates empezó más o menos en el período
 terciario, hace unos 20 ó 30 millones de años, y los instintos
 tan importantes como la subordinación a la jerarquía de la manada en
-general existe casi tanto cuanto existe la vida.\\
+general existe casi tanto cuanto existe la vida
+\
       Desde luego que en este período de tiempo tan corto los instintos
 no pueden desaparecer, ya que se forman paulatinamente y despacio por la
 selección natural, así como los rasgos morfológicos, y desaparecen
@@ -670,7 +724,8 @@ muy lógica y explicable en el sistema de coordenadas prehistórica, y
 cumplía su objetivo en aquellos tiempos. Pero en las circunstancias
 modernas el comportamiento realizado según los instintos en muchas
 ocasiones es inadecuado, y nosotros frecuentemente no entendemos por qué
-el amor llega a ser tan ciego y cruel…\\
+el amor llega a ser tan ciego y cruel
+\
       Los instintos de los monos van a vivir en nosotros, mientras
 pertenezcamos al orden de los primates, ya que están sólidamente
 impresos en la memoria genética. Si la humanidad puede liberarse de
@@ -680,7 +735,8 @@ separe del orden de los primates. La evolución de la humanidad exigió
 otras formas del modelo de familia distintas al modelo de la manada
 prehistórica, pero los instintos no desaparecen del subconsciente y
 siguen funcionando, aunque puede que su tiempo ya hubiese pasado a la
-historia.\\
+historia
+\
       La conciencia de un individuo no puede sustituir sus programas
 instintivos, más aún, ¡aquella no sospecha de su existencia! La
 conciencia sólo puede no obedecerles en algunas ocasiones, pero en otros
@@ -691,7 +747,8 @@ del subconsciente (tradiciones y costumbres) pueden sufrir algunos
 cambios en el transcurso del tiempo. La conciencia también utiliza
 frecuentemente los programas disponibles de la conducta, pero para la
 conciencia estos programas son una información para reflexionar, la razón 
-improvisa sobre el tema de programas que los cumple.\\
+improvisa sobre el tema de programas que los cumple
+\
       Los instintos nos gobiernan a través de las emociones sin
 molestarse por la motivación. El instinto que obliga a una mujer a
 adornarse, en particular con maquillaje, no le comunica para qué es
@@ -704,7 +761,8 @@ propósito, a muchos hombres actuales no les agrada el maquillaje en las
 mujeres, pero el instinto no lo quiere saber. Además, debemos prestar
 atención al hecho de que cuanto menor es el nivel cultural de la mujer, más
 vulgar y colorido es su maquillaje, ya que los motivos instintivos en
-este caso no se moderan ni se corrigen por conciencia.\\
+este caso no se moderan ni se corrigen por conciencia
+\
       Las estructuras nerviosas que utilizan los instintos aparecieron
 en la antigüedad más remota, así que razonar, analizar algo o inclusive
 simplemente extrapolar para éstas es un problema superior a sus fuerzas.
@@ -723,7 +781,8 @@ veces torpe) que indica una estrategia de la selección de la pareja
 matrimonial. La conciencia no tiene otra opción que empezar a hacer que
 la respuesta coincida con la pregunta. El ser humano es muy propenso a
 hacerlo cuando trata de explicar su conducta motivada por los
-instintos.\\
+instintos
+\
       El panorama general de la conducta humana se complica y se enreda
 no sólo porque tenemos nuestros dos “yo”, sino porque la frontera entre
 el uno y el otro no es en absoluto clara, y la motivación instintiva
@@ -751,40 +810,51 @@ son contradictorios.
 
 []{#M8}
 
-**Sobre la jerarquía de la manada.**
+### Sobre la jerarquía de la manada
 
   ------------------------------------------------------------------------
   La desfachatez es una especie de felicidad
   *(una trivialidad manifiesta)*
   ------------------------------------------------------------------------
 
-\\
-\\
+
+
+
+
 
   ------------------------------------------------------------------------
-  En el teatro, como en la vida\\
-  Exige más el quien no pagó la entrada\\
+  En el teatro, como en la vid
+\
+  Exige más el quien no pagó la entrad
+\
   *(un dicho francés)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
       En ninguna parte hay igualdad de derechos. Los que se indignan por
 la falta de igualdad de derechos en nuestra sociedad pueden
 tranquilizarse con la idea que en el mundo animal la situación es
-muchísimo peor.\\
+muchísimo peor
+\
       Si a un grupo de ratones se les da la comida, pronto se puede notar
 que los trozos más grandes y mejores se los comen los mismos individuos.
 Estos individuos ocupan los mejores sitios para descansar y copulan más
 veces. Otros individuos se contentan con los restos que quedan después
 de los primeros, hay otros individuos más que se contentan con lo que
-queda de los segundos, etc. Es decir, existe una jerarquía en el grupo.\\
+queda de los segundos, etc. Es decir, existe una jerarquía en el grupo
+\
       Una magnífica descripción de las relaciones jerárquicas da V.R.Dolnik[^footnote].
 
-[^footnote]: Excursiones etológicas por los jardines secretos de los humanitarios, _Naturaleza_, nº 1, 2, 3 del 1993, accesible en el Internet.\\
+[^footnote]: Excursiones etológicas por los jardines secretos de los humanitarios, _Naturaleza_, nº 1, 2, 3 del 1993, accesible en el Internet
+\
 
 Yo sólo estoy en desacuerdo con él en que en el
 ser humano la jerarquía la constituyen sólo los hombres (con más detalle
@@ -798,7 +868,8 @@ la regularidad de la lista alfabética y la clasificación recuerda más a
 una pirámide, donde unos cuantos individuos pueden tener prácticamente
 el mismo rango. A los individuos de alto rango llaman “jerarca”,
 “dominante”, V.R.Dolnik también utiliza el término “cabecilla”, a veces
-este término es más oportuno.\\
+este término es más oportuno
+\
 
       Es obvio que este rango tiene enorme sentido para cada individuo,
 por eso los integrantes de un grupo luchan constantemente entre sí para
@@ -806,11 +877,13 @@ subir su rango, o conservar el alcanzado. Además cuanto más alto es el
 rango, tanto más dura es la lucha. A veces un alfa disfruta menos de
 las alegrías de la vida que un beta, ya que no tiene tiempo, él está
 ocupado en la lucha. Pero él conserva la posibilidad de quitar cualquier
-bocado al beta, aunque sea sólo una posibilidad teórica.\\
+bocado al beta, aunque sea sólo una posibilidad teórica
+\
       El rango que va a ocupar el individuo en el grupo depende de la
 correlación de los potenciales de rango de este individuo y de los
 potenciales de otros individuos, es decir, un mismo individuo va a tener
-un rango diferente en dos grupos distintos.\\
+un rango diferente en dos grupos distintos
+\
       ¿Qué es el potencial de rango? Es obvio que está fuertemente unido
 a la fuerza física pero ésta no es su determinante sine qua non. Por
 ejemplo, en las avispas el potencial de rango se demuestra por los
@@ -825,7 +898,8 @@ seres que no son muy desarrollados (ratones, por ejemplo), la buena
 fuerza física sólo permite escapar de los puestos más bajos en la
 jerarquía, pero no garantiza los más altos. Además, cuanto más
 desarrollado es el ser, tanto menos es la correlación del rango y la
-fuerza física.\\
+fuerza física
+\
       Ya que la conducta jerárquica la tienen especies muy distintas,
 entre ellas (¡especialmente!) las primitivas, que prácticamente son
 incapaces de aprender, se puede asegurar con certeza que la base del
@@ -842,14 +916,16 @@ con mucha frecuencia, esta seguridad no está reforzada con cualidades
 reales, y no está basada en nada. Realmente, la seguridad en sí mismo de
 una persona puede hasta hipnotizar a otra, hasta a sí mismo, sea esta
 seguridad la del estudiante ante un examen, un chófer ante el policía de
-tráfico, un gurú ante el creyente, etc., etc.…\\
+tráfico, un gurú ante el creyente, etc., etc.
+\
       El folklore lo ilustra muy bien. Por ejemplo, un cuento ruso sobre
 el zorro en una casita de hielo, y una liebre en una casita de líber de
 tilo. El zorro le echa a la liebre de su casa, y ésta pide ayuda al lobo
 y al oso. Pero el potencial del rango del zorro es muy alto, y le temen
 los dos animales, pese a ser más fuertes. Pero un gallo, aún con una
 guadaña, no es más peligroso que un oso. Y el gallo le echa al zorro de
-la casita de la liebre.\\
+la casita de la liebre
+\
       Generalmente un alfa con más determinación, más constancia y más
 placer de mantener la lucha es el quien la mantiene entre el grupo, que
 muchas veces se convierte en un fin. A un omega esta lucha no le agrada
@@ -859,12 +935,14 @@ viceversa, de conflictividad). El nivel de tensión de un conflicto
 aceptable para cada individuo está directamente relacionado con el
 potencial de rango, y cuanto más bajo es el rango de un individuo tanto
 menor es la tensión del conflicto que le provoca los sentimientos
-desagradables.\\
+desagradables
+\
       La cantidad de las vacantes en el Olimpo jerárquico es limitada
 por sí, y no depende del potencial medio de rango del grupo. Diciéndolo
 de otra manera, si vamos a aumentar el potencial de rango de todos no
 conseguimos aumentar la cantidad de los individuos de mayor rango. Se
-formará la misma jerarquía, pero más dura y agresiva.\\
+formará la misma jerarquía, pero más dura y agresiva
+\
       La condescendencia de distintos individuos en el grupo tiene un
 sentido biológico muy importante, ya que permite bajar la tensión de la
 lucha en el grupo, y gracias a ello evitar la muerte innecesaria de los
@@ -878,7 +956,8 @@ esta circunstancia, junto con la muerte excesiva de los alfas (por
 ejemplo en los conflictos entre ellos) frena un crecimiento sin líimite
 del potencial medio de rango en la especie. Sobrevivían no sólo los
 individuos más fuertes, sino los grupos más fuertes y con mayor
-cooperación en el grupo.\\
+cooperación en el grupo
+\
       De hecho son posibles dos formas de consolidación del grupo, la
 “militar” e “intelectual”. La primera supone una estructura jerárquica
 férrea de sometimiento de unos integrantes a otros, junto con una
@@ -903,7 +982,8 @@ tiempo para ser grabados debidamente en los genes. Por esta razón el
 altruismo, tan necesario para la humanidad, es necesario transmitir por
 los métodos que no son genéticos, los que entendemos como cultura. Pero
 cuanto más fuerte es la base genética del altruismo tanto más alto es
-el nivel de cultura, si las demás condiciones son iguales.\\
+el nivel de cultura, si las demás condiciones son iguales
+\
       El potencial de rango puede ser inicial, real y visual. El inicial
 aparece al nacer, no es posible enseñarlo y no sufre cambios bajo la
 influencia del medio ambiente. El potencial real de rango se determina
@@ -916,7 +996,8 @@ su total apertura, y hasta potenciarlo. Para los seres humanos el
 potencial real de rango por término medio está condicionado en su 2/3
 por los rasgos innatos y en su 1/3 por las condiciones del crecimiento
 y educación. Pero son datos estadísticos medios, una persona concreta
-puede tener una proporción diferente.\\
+puede tener una proporción diferente
+\
       Como el potencial de rango lo determinan unos parámetros
 diferentes, algunos de ellos no relacionados unos con otros, el aspecto
 jerárquico real del individuo puede ser HETEROGÉNEO, cuando unos rasgos
@@ -927,13 +1008,17 @@ un perdedor que no ha conseguido nada en la vida, es decir, una persona
 de un rango bajo. Pero si este individuo empieza a exigir que le ceden
 el turno de una manera descarada y agresiva, la mayoría tiende a
 cedérselo, ¡admitiendo con ello su rango más alto! ¡Sin embargo la
-posición social de esta persona puede ser muy baja!\\
+posición social de esta persona puede ser muy baja
+\
       Otro ejemplo. En una canción del compositor ruso Dunaevskiy se
 habla sobre un
 
-*    ... capitán valiente, que\\
-    Se hundía unas 15 veces\\
-    Perecía entre los tiburones\\
+*    ... capitán valiente, qu
+\
+    Se hundía unas 15 vece
+\
+    Perecía entre los tiburone
+\
     Pero ni pestañeó*
 
       Aquí vemos a una persona con una posición relativamente alta
@@ -942,8 +1027,10 @@ Por lo demás aquí se puede también señalar una baja primariedad de nuestro
 héroe, un fenómeno del cual hablaremos después. Cómo esta persona
 se comporta con las mujeres:
 
-*    ...Se sonrojaba unas 15 veces\\
-    Tartamudeaba y palidecía\\
+*    ...Se sonrojaba unas 15 vece
+\
+    Tartamudeaba y palidecí
+\
     Pero nunca se atrevió a sonreír*
 
       ¡Es un comportamiento muy característico de un individuo de rango
@@ -962,7 +1049,8 @@ mismo) puede dar la impresión de ser del rango alto. Pero junto con ello
 puede no tener en absoluto la capacidad de luchar por su lugar bajo el
 sol, que es la esencia de un rango alto. Viceversa, una persona
 benévola, hasta la que tiene éxito en la vida, puede dar la impresión de
-ser de bajo rango.\\
+ser de bajo rango
+\
       Además, distintos individuos pueden dar distintas impresiones
 sobre su rango potencial, es decir, puede ser diferente la sensibilidad de los distintos
 individuos a los rasgos que forman el patrón del aspecto del individuo. 
@@ -1011,18 +1099,23 @@ primitivos.
 
 []{#M9}
 
-**Sobre la primariedad y cultura**
+### Sobre la primariedad y cultura
 
   ------------------------------------------------------------------------
-  ¿Cómo se distingue la lógica férrea de la lógica femenina?\\
+  ¿Cómo se distingue la lógica férrea de la lógica femenina
+\
   La femenina no se oxida…
   *(un chiste viejo)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
       A diferencia de los demás animales los seres humanos cada uno en
 medida diferente están influidos por sus instintos. Si alguna persona no
@@ -1038,11 +1131,13 @@ hay innatos, así como los adquiridos, y cuál de los programas va a
 realizarse depende, en la igualdad de condiciones, de la fuerza de cada
 uno de los modelos de la conducta. Primariedad, por lo tanto, es el
 nivel del dominio (la fuerza) de los modelos instintivos en relación
-con los programas de la razón.\\
+con los programas de la razón
+\
       La conducta no primativa se puede ver en muchos animales
 superiores, sus manifestaciones más o menos importantes se ven en los
 primates, pero solo el ser humano tiene este tipo de conducta como un
-fenómeno relativamente general.\\
+fenómeno relativamente general
+\
       La noción de primariedad no es en absoluto igual a la noción de la
 cultura, ésta, con reservas, es algo derivado de la primariedad. Entre
 la gente que pertenece al arte, aunque tengan una cultura y honradez muy
@@ -1059,14 +1154,16 @@ rígidamente la motivación, dejando paso a alguna libertad, bajo la
 acción del alcohol, de las emociones muy fuertes. Estas manifestaciones
 son tanto más fuertes y frecuentes, cuanto más alta es la primariedad.
 La discusión antigua entre los físicos y líricos era, realmente, una
-discusión de primariedad.\\
+discusión de primariedad
+\
       La primariedad se correlaciona con más probabilidad con las
 emociones y no con la cultura. Los programas instintivos que detectan la
 coincidencia de los rasgos interiores de señales con algunos factores
 del ambiente exterior hacen surgir las emociones adecuadas, y la
 persona de alta primariedad les obedece gustosamente. La persona de la
 primariedad baja, aunque siente las mismas emociones, es capaz de actuar
-contrariamente a estos.\\
+contrariamente a estos
+\
       El nivel de la primariedad, así como el potencial de rango están
 determinados básicamente por los genes y las condiciones del desarrollo
 intrauterino. Este se cambia muy poco durante la educación y enseñanza,
@@ -1079,7 +1176,8 @@ prehistórica, una persona altamente primativa es muy sensible al rango
 de los demás. Cualquier indicio por la parte de los demás de
 condescendencia una persona altamente primativa la toma como una señal
 para empezar un ataque jerárquico, un encuentro con alguien (o algo) que
-lo supera le provoca una parálisis de la voluntad y un servilismo bajo.\\
+lo supera le provoca una parálisis de la voluntad y un servilismo bajo
+\
       Cuanto más alta es la primariedad innata de una persona, tantos
 más esfuerzos pedagógicos se necesita para educarlo como una persona
 culta, y en la generación siguiente todo se repite. Esta persona culta,
@@ -1093,7 +1191,8 @@ debilidad del intelecto, sino es el grado de la confianza de una persona
 en su razón en situaciones prácticas. Un científico de alta primariedad
 y, al mismo tiempo, de alto nivel de intelecto puede combinar felizmente
 los conocimientos científicos muy altos y una fe sincera que surge del
-instinto de subordinación al alfa.\\
+instinto de subordinación al alfa
+\
       Como ya se dijo, las mujeres se guían más por su intuición y
 sentimientos que por los razonamientos lógicos, lo que forma parte de la
 así llamada lógica femenina. Es decir, entre las mujeres hay más
@@ -1103,10 +1202,12 @@ técnicas, mejor que los chicos. Durante estos estudios no sólo se da la
 teoría, sino se plantean problemas prácticos, se hacen trabajos en el
 laboratorio, etc. Las chicas lo hacen todo mejor que los chicos. Pero
 cuando toca emplear estos estudios de verdad, en la práctica, entonces…
-esta idea ni se cruza por la cabeza.\\
+esta idea ni se cruza por la cabeza
+\
       El echo de que las mujeres son más creyentes está condicionado por
 una primariedad más alta, ya que un rango más alto que Dios no puede
-haber, pero no tiene ninguna importancia si existe o no…\\
+haber, pero no tiene ninguna importancia si existe o no
+\
       Desde luego el ser humano como un ser gregario es multifacético, y
 no se puede encasillarlo sólo en el espacio de estas tres dimensiones,
 como son la primariedad alta o baja, alfa u omega y una cultura alta o
@@ -1126,35 +1227,46 @@ tiene una fuerza diferente, lo que enreda más el cuadro.
 
 []{#M10}
 
-**Sobre príncipes y princesas**
+### Sobre príncipes y princesas
 
   ------------------------------------------------------------------------
-  Una mujer es una hembra que tiene un hombre.\\
+  Una mujer es una hembra que tiene un hombre
+\
   Un hombre es un macho que tiene dinero.
   *(chiste)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
   ------------------------------------------------------------------------
-  Qué pena que los generales se casan\\
+  Qué pena que los generales se casa
+\
   cuando aún son tenientes…
   *(de la charla de dos viejas solteronas…)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
       Un proceso tan importante para cualquier ser viviente como la
 multiplicación desde luego no puede quedarse fuera del control de los
 instintos. Por consiguiente el amor que es un sentimiento más fuerte, es
 la voz de aquel instinto prehistórico, que obliga a aparearse con el
-individuo mejor posible del sexo opuesto.\\
+individuo mejor posible del sexo opuesto
+\
       ¿Cuáles son los criterios que hacen preferir unos a otros? Es
 innecesario demostrar que estos criterios se conservaron sin cambios
 desde los tiempos de la manada prehistórica, cuando se formaron dichos
@@ -1170,7 +1282,8 @@ mejor en la naturaleza, que no es razonable. El atractivo exterior
 los animales la cantidad de apareamientos es un índice cuantitativo muy
 fácil y preciso del rango de macho en la jerarquía. Para las hembras
 esta dependencia del rango de la cantidad es muy débil, y con más
-probabilidad es inversa.\\
+probabilidad es inversa
+\
       Se cree que el alfa simplemente le quita la hembra al beta
 (gama…), como le quita la comida, pero las reglas del comportamiento las
 cumplen todos los integrantes del grupo, las hembras inclusive. Eso
@@ -1178,7 +1291,8 @@ significa que no es necesario quitar a alguien la hembra, ella misma
 prefiere al macho de alto rango obedeciendo al programa instintivo. No
 en vano las mujeres hablando de un novio perfecto, utilizan la palabra
 “príncipe”. Ser un príncipe verdadero no es un trabajo para los
-plebeyos, es, generalmente, un candidato verdadero a ser un rey.\\
+plebeyos, es, generalmente, un candidato verdadero a ser un rey
+\
       Desde luego esta no es la única tendencia. Existe también el
 “instinto de preferencia de la sangre fresca”, que se manifiesta como la
 curiosidad sexual. El fin de este instinto es impedir el incesto que es
@@ -1190,7 +1304,8 @@ principio de la expansión sexual del macho. Es más limitado en el
 comportamiento de las hembras. Entre las limitaciones obligatoriamente
 está el potencial de rango del “huésped” que debe ser no menor de un
 cierto mínimo. Desde luego estas tendencias están matizadas por los
-gustos y simpatías personales.\\
+gustos y simpatías personales
+\
       Es importante también subrayar que un rango alto no le da al macho
 las GARANTÍAS de acceso a una determinada hembra, pero es un factor que
 hace MÁS PROBABLE este acontecimiento. Además, el grado de correlación
@@ -1202,7 +1317,8 @@ subdominantes de la hembra. Pero desde la mitad de la jerarquía y más
 abajo (es distinto para las distintas especies) el atractivo sexual de
 los machos cae a tal nivel que el macho dominante puede no preocuparse,
 ya que a este macho las hembras con gran probabilidad no dejen acercarse
-a ellas.\\
+a ellas
+\
 
 +-----------------------------------------------------------------------+
 | **To the Spanish reader:** Permítanme decir dos palabras sobre un     |
@@ -1261,12 +1377,14 @@ el teniente realmente no ve ningún problema con esto, él personalmente
 no los tiene ni sospecha que otros hombres puedan tenerlos. El no hace
 ningún esfuerzo para conquistar a una mujer (más todavía, las mujeres
 hacen esfuerzos para conquistarle), y sinceramente cree que las mujeres
-tratan así a los demás hombres.\\
+tratan así a los demás hombres
+\
       ¿Quién de los dos será el mejor marido (honrado, trabajador,
 fiel…)? Cualquiera, pero no el teniente. Pero ¿con quién se casarán las
 mujeres gustosamente? Tiene razón, con el teniente. Y eso teniendo en
 cuenta que en la película que da origen al personaje de Rzevskiy éste
-era un enemigo abierto y convencido de los lazos de Himeneo.\\
+era un enemigo abierto y convencido de los lazos de Himeneo
+\
       Dicen que a las mujeres les gustan los dueños. Es así, pero es
 sólo un caso particular. Hasta la capacidad y predisposición de “hacerse
 sitio con los codos”, de luchar por sus intereses es un caso particular
@@ -1287,7 +1405,8 @@ instinto no se molesta en explicar algo, la razón no considera como regla
 general esta seguridad como un mérito, por eso todos sufrimos tan
 cantado por la poesía y la prosa sentimiento, y nos parece que la
 elección amorosa es mística y enigmática, ya que queremos en contra de
-toda la cordura, y sin entender el por qué.\\
+toda la cordura, y sin entender el por qué
+\
       ¿De quién se enamoran los hombres? No es obligatoria una princesa.
 Los criterios instintivos de los hombres son más claros y se diferencian
 radicalmente de los criterios femeninos. La cualidad más importante que
@@ -1302,7 +1421,8 @@ que tienen elección y razón). Los criterios sentimentales de preferencia
 de mujeres por los hombres son mucho menos nítidos, ya que existe más
 diversidad de los hombres (y, por consiguiente, de sus gustos), y también 
 la elección para ellos es menos necesaria. El macho no necesita
-elegir a la hembra, las necesita a todas sin elección.\\
+elegir a la hembra, las necesita a todas sin elección
+\
       El rango femenino, sin embargo, aunque es muy importante en las
 relaciones entre las mujeres, relativamente no tiene importancia para
 los hombres. Desde luego las mujeres de alto rango hacen latir más a los
@@ -1310,7 +1430,8 @@ corazones de los hombres, pero las cónyuges sencillas y tímidas (de bajo
 rango) se apreciaban en todos los tiempos. También sabemos que las
 mujeres se enamoran con más frecuencia que los hombres de sus jefes
 (profesores, etc.), el rango visual de los cuales estaría condicionado
-por su posición en el trabajo y, en parte, en la edad.\\
+por su posición en el trabajo y, en parte, en la edad
+\
       Si para un hombre el rango alto es la llave para los corazones
 femeninos que le aseguran la elección, para una mujer su alto rango es
 la fuente de sus problemas con los hombres. Los hombres del rango medio
@@ -1337,22 +1458,31 @@ otros rasgos de este hombre obtienen la posibilidad de ser apreciados.
 
 []{#M11}
 
-**Sobre la lucha de los dos “yo”**
+### Sobre la lucha de los dos “yo”
 
   ------------------------------------------------------------------------
-  Estoy luchando, exprimo de mí al canalla\\
-  ¡Oh, mi destino inquieto!\\
-  Temo un error, puede que sea\\
-  Que exprimo de mí el “yo” incorrecto\\
+  Estoy luchando, exprimo de mí al canall
+\
+  ¡Oh, mi destino inquieto
+\
+  Temo un error, puede que se
+\
+  Que exprimo de mí el “yo” incorrect
+\
   **
   (V. Visotskiy)
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
+
+
 
       Aún en los tiempos de la existencia de la URSS en las
 universidades de Leningrado se realizó una encuesta de investigación. A
@@ -1645,7 +1775,8 @@ Marido deseado
 
 -14
 
-\\
+
+
       Durante la encuesta no se investigaba la actitud hacia el rango
 prehistórico. Si fuera así, la cualidad de “conseguir sus fines en la
 vida” (aunque sea apropiándose de ajeno, pero para sí), con seguridad
@@ -1664,7 +1795,8 @@ partes de la derecha e izquierda son casi réplicas inversas (y es más
 característico para las chicas encuestadas, los hombres tratan a las
 mujeres con más consecuencia lógica, que una vez más confirma la
 tesis de que los hombres se guían más por su conciencia, es decir, son
-menos primarios).\\
+menos primarios)
+\
       En esta inversión de las exigencias de la razón y el instinto se
 ve la causa principal de las dificultades de la búsqueda para los
 humanos altamente organizados del cónyuge. Se considera tradicionalmente
@@ -1675,7 +1807,8 @@ las quiere el corazón. Realmente tales cualidades como la bondad,
 honestidad, respeto hacia otra gente, tacto, la conciencia, al fin, con
 razón se consideran cualidades de una persona culta, honrada, buen
 cónyuge, pero al mismo tiempo desde el punto de vista prehistórico son
-los rasgos del rango bajo en la jerarquía.\\
+los rasgos del rango bajo en la jerarquía
+\
       Durante estas reflexiones se puede pensar sin querer que la
 práctica antigua de reunir las parejas según el criterio de los padres
 no estaba del todo mal, a pesar de sus obvias desventajas. Desde luego,
@@ -1700,7 +1833,8 @@ Achacar todo ello a la cultura de masas no es correcto. La cultura de
 masas es un reflejo de la cultura natural de todos los humanos. Los
 culebrones son más populares entre la gente mayor, cuya vida consciente
 pasó durante la época soviética, cuando se inculcaban ideales
-completamente diferentes.\\
+completamente diferentes
+\
       La debilitación de la selección mencionada más arriba lleva al
 crecimiento de la primariedad y el nivel medio del potencial de rango y,
 a base de esto el decaimiento de la cultura. De ahí puede que Einstein
@@ -1716,18 +1850,24 @@ pelear con palos…
 
 []{#M12}
 
-**Sobre el alcohol**
+### Sobre el alcohol
 
   ------------------------------------------------------------------------
-  Nuestra conciencia está condicionada por 3 cosas:\\
-  La existencia, los golpes y el alcohol\\
+  Nuestra conciencia está condicionada por 3 cosas
+\
+  La existencia, los golpes y el alcoho
+\
   *(se atribuye a K.Marx)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
       Durante la encuesta arriba mencionada se demostró también que las
 chicas deseaban un marido abstemio, pero en la práctica este rasgo no
@@ -1738,7 +1878,8 @@ que tanto les gusta a los instintos primitivos. Además ustedes podían
 notar que frecuentemente esta decisión tan importante para nuestro
 destino (y el destino de toda la humanidad) se toma bajo los efectos del
 alcohol. Y, en general, qué estrechamente están ligados el alcohol y los
-sexos. ¿Existe el amor sin champán?\\
+sexos. ¿Existe el amor sin champán
+\
       Los experimentos sobre los animales nos dan el siguiente
 resultado:
 
@@ -1754,7 +1895,8 @@ multiplicarse. Las dificultades más grandes las tendrían las personas
 más dignas que representan una sociedad civilizada y de alta cultura,
 que son personas de un rango bajo y una primatividad también baja. Sólo
 se puede lamentar las negativas consecuencias de su uso, así como que lo
-usan más los que menos necesitan liberar sus instintos.\\
+usan más los que menos necesitan liberar sus instintos
+\
       Como no existen alcohólicos entre los animales, la elección sexual
 no sabe lo que es, y el hecho de que un hombre sea un alcohólico
 prácticamente no influye en su éxito entre las mujeres. Además la
@@ -1773,17 +1915,19 @@ conclusión normalmente no hay una respuesta clara.
 
 []{#M13}
 
-**Sobre los niños nacidos fuera del matrimonio y los niños que crecen
-sin padres**
+### Sobre los niños nacidos fuera del matrimonio y los niños que crecen sin padres
 
   ------------------------------------------------------------------------
   Del sueño de la razón nacen los monstruos
   *(F. Goya)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
+
+
+
+
+
+
 
       Es obvio que los padres en su gran mayoría son los “tenientes”,
 independientemente si el acto ocurrió en un matrimonio o no. Si el niño
@@ -1792,7 +1936,8 @@ concebido fuera del matrimonio crece en una familia con los dos padres
 nota su “rebeldía”. También es sabido que los niños que crecen fuera del
 matrimonio muchas veces frecuentan compañías criminales. Normalmente con
 ese eufemismo se denomina la imposibilidad de manejarlo con los métodos
-civilizados, que es un índice de su alto potencial de rango.\\
+civilizados, que es un índice de su alto potencial de rango
+\
       Según la tradición esta “rebeldía” o criminalidad del niño se
 achacan a las dificultades de educar al niño en tales condiciones. Desde
 luego, estas dificultades existen, pero un psíquico específico de alto
@@ -1800,7 +1945,8 @@ rango y de alta primariedad no las forman estas dificultades. Aquí juega
 su papel la herencia. Díganme, ¿el hombre que había dejado a una mujer
 embarazada, es honrado? No mucho, como mínimo. Aunque los machos en la
 manada prehistórica actuaban sólo de esta manera. ¿Tienen derecho a pasar
-como herencia las cualidades que determinan su poca honradez?\\
+como herencia las cualidades que determinan su poca honradez
+\
       Les voy a recordar que el potencial inicial del rango es algo
 innato, se ve muy bien ya en los bebés de pecho. La primariedad innata
 alta o baja se verá más tarde. Como ya se dijo, cuanto más alta es la
@@ -1814,7 +1960,8 @@ bebés demuestran que el papel de la herencia en la pedagogía
 determinantemente se rebaja. Esta acción de rebajar el papel de la
 herencia en la pedagogía mundial, especialmente marxista, asciende a
 las creencias utópicas e idealistas de los humanistas del pasado,
-antecesores del marxismo.\\
+antecesores del marxismo
+\
       Se puede considerar demostrado que la benevolencia, o sus
 componentes principales se determinan genéticamente. El ser humano
 seleccionó al perro, escogiendo para la reproducción a las crías más
@@ -1832,30 +1979,44 @@ amistosas del lobo.
 
 []{#M14}
 
-**Sobre los maridos y amantes**
+### Sobre los maridos y amantes
 
   ------------------------------------------------------------------------
-    ¿Qué es el amante??\\
-  - Es lo mismo que el marido, pero él\\
-    no debe fregar la vajilla.\\
+    ¿Qué es el amante?
+\
+  - Es lo mismo que el marido, pero é
+\
+    no debe fregar la vajilla
+\
   *(chiste)*
-  Todas las enfermedades las provocan los nervios.\\
-  Sólo la sífilis la provoca del amor.\\
+  Todas las enfermedades las provocan los nervios
+\
+  Sólo la sífilis la provoca del amor
+\
   *(viejo chiste médico)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
       Aquí no vamos a describir al amante como una fuente de los bienes
 materiales, pero vamos a ver al amante como el medio de satisfacción
-sexual de la mujer.\\
+sexual de la mujer
+\
       Está demostrado que a cualquier mujer desde el punto de vista
 fisiológico puede satisfacer cualquier hombre (si no tomamos en cuenta
 las patologías orgánicas como la total ausencia de los genitales), y en
@@ -1884,7 +2045,8 @@ prehistórica los machos de alto rango. Este fenómeno no es una de las
 la policía, ¡a veces pasa que ellas defienden a los violadores! Al
 casarse según lo que dictaba la razón esta mujer a veces queda
 insatisfecha, por lo menos al principio, mientras no aparece una
-costumbre hacia este hombre. Cuando se adaptan, empiezan a quererse.\\
+costumbre hacia este hombre. Cuando se adaptan, empiezan a quererse
+\
       ¿Usted quiere obligar al marido a lavar la ropa, lavar los suelos,
 criar a los niños, etc.? Pero ¿se ocupaban los machos de alto rango en
 una manada prehistórica de estos labores despreciables? Si usted
@@ -1907,21 +2069,30 @@ macho bajó y usted querrá tener un amante.
 
 []{#M15}
 
-**¿Entonces, de quién hay más?**
+### Entonces, de quién hay más?
 
   ------------------------------------------------------------------------
-  Tenía cuarenta apellidos\\
-  Tenía siete pasaportes\\
-  Me amaban setenta mujeres\\
-  Tenía doscientos enemigos…\\
+  Tenía cuarenta apellido
+\
+  Tenía siete pasaporte
+\
+  Me amaban setenta mujere
+\
+  Tenía doscientos enemigos
+\
   *(V. Visotskiy)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
+
+
 
       En la prensa, así como en las conversaciones informales se puede
 oír frecuentemente la opinión de que en la soledad de las mujeres es
@@ -1934,7 +2105,8 @@ mujeres de 50 a 70 años (que realmente predominan) ya no tienen ningún
 interés como parejas sexuales y matrimoniales. En la edad reproductiva
 predominan los hombres. Esto significa que la mujer media tiene la
 elección durante todo el período reproductivo, lo que obviamente tiene
-un sentido biológico muy profundo.\\
+un sentido biológico muy profundo
+\
       Creo que aquí tiene lugar una selección contemplativa muy fuerte,
 ya que las mujeres frecuentemente y sin especial reparo cuentan sus
 problemas con el matrimonio, pero para los hombres estos problemas
@@ -1962,14 +2134,16 @@ tengan ninguna esperanza.
 
 []{#M15A}
 
-**La aparición de la familia, prostitución y promiscuidad**
+### La aparición de la familia, prostitución y promiscuidad
 
   ---------------------------------------
   Se dedica a la memoria de F.Engels...
   ---------------------------------------
 
-\\
-\\
+
+
+
+
 
       Los estudios de la conducta matrimonial de los animales demuestran
 que se debe distinguir a la familia como una comunidad de
@@ -1983,7 +2157,8 @@ tiene como fin exclusivamente la cópula, y con la vida familiar (en
 nuestro modo de ver las cosas) no tiene ninguna relación. Lo mismo se
 puede decir de las especies que practican la estrategia R de
 multiplicación, cuando los padres no cuidan a su descendencia en
-absoluto. Esto es un polo del mundo matrimonial.\\
+absoluto. Esto es un polo del mundo matrimonial
+\
       Para otras especies la crianza de la descendencia ya no puede
 llevarse a cabo sin una ayuda externa, y hay una razón para obligar al
 otro progenitor a cumplir con esta tarea. Las especies de la
@@ -1994,7 +2169,8 @@ parecen ser algo naturalmente indivisible. Pero como ya se dijo, en
 estas familias los “cónyuges” no siempre demuestran una fidelidad
 copulativa. Entre los pájaros, por ejemplo, hasta una cuarta parte puede
 no ser genéticamente hijos de los “maridos legales”, aunque llevando a
-cabo las cosas de casa estas parejas parecen idílicas.\\
+cabo las cosas de casa estas parejas parecen idílicas
+\
       Sin embargo, el otro progenitor no es el único ayudante en estos
 menesteres. Se puede pedir ayuda a las abuelas, hermanas, formar algo
 parecido a un jardín de infancia, etc., etc.… Por ejemplo, una liebre
@@ -2005,7 +2181,8 @@ frecuencia es la hembra, pero a veces puede ser el macho) necesita solo
 una ayuda adicional, que no tiene una importancia vital, se prefiere la
 ayuda de todo el grupo en general. Así, por ejemplo, actúan muchos de
 los caninos. Pero si la ayuda requerida es casi un sacrificio personal,
-esta vía es poco fiable. Aquí se necesita la “fidelidad personal”.\\
+esta vía es poco fiable. Aquí se necesita la “fidelidad personal”
+\
       ¿Cómo se arreglaban nuestros antepasados? “El progenitor
 principal” era obviamente la hembra. También es obvio que no todas las
 abuelas sobrevivían hasta el nacimiento de sus nietos, las hermanas
@@ -2014,7 +2191,8 @@ cazadoras que los hombres. Al mismo tiempo el niño o el feto, privado de
 la alimentación que contenía proteínas, podía sufrir un marasmo
 alimentario. En estas condiciones la ayuda por parte de los hombres
 debe tener un carácter primordial, aunque sin excluir la ayuda adicional
-de otros miembros del grupo.\\
+de otros miembros del grupo
+\
       Una característica de los hominidos es la total ausencia de los
 programas instintivos del cuidado por los machos a las crías pequeñas,
 así como de las hembras fuera del estado de celo. Cuando nuestros
@@ -2035,7 +2213,8 @@ cualquier animal es el más largo, la niñez ocupa una cuarta ó quinta
 parte de nuestra vida. La niñez de nuestros antepasados era, desde
 luego, un poco más corta. Si un niño actual es prácticamente desválido
 más o menos hasta unos 6 años, en el HOMO ERECTUS este período ocupaba
-unos 2 años, que es un tiempo bastante largo.\\
+unos 2 años, que es un tiempo bastante largo
+\
       Es decir, lo que tenemos es que el niño y la madre necesitan unos
 cuidados largos y bastante atentos, la formación de un cerebro
 inteligente necesita una alimentación proteica (carne), que una madre,
@@ -2061,7 +2240,8 @@ momento de ovulación (con más detalle – ver 2). Realmente, la mujer es
 única en la naturaleza por su capacidad de copular el año entero. Si la
 capacidad de copular el año entero de los machos es un rasgo bastante
 frecuente, la regla existe sólo entre las hembras de la especie de HOMO
-SAPIENS, nadie más la tiene.\\
+SAPIENS, nadie más la tiene
+\
       ¡Así la hembra ya tiene algo para proponer al macho! El macho de
 esta manera ya tiene un estímulo para alimentarla durante todo el
 período reproductivo (y otras formas de cuidarla), pero puede no tenerse
@@ -2072,7 +2252,8 @@ que la hembra se quede preñada. Más si tener en cuenta que la “pensión
 alimenticia” se pagaba no por la cantidad de los niños, sino por la
 cantidad de las cópulas. La hembra prehistórica necesitaba una cópula al
 año para concebir, y no de cualquiera, sino del más sano y de alto
-rango. ¿Pero quién le va a dar de comer?\\
+rango. ¿Pero quién le va a dar de comer
+\
       Un sostén de la familia de alto rango es un sueño, pero este sueño
 es poco real. No es mal cazador (también a cuesta de los demás a los que
 les quita sus presas), pero tiene una gran demanda, y no es capaz de dar
@@ -2093,7 +2274,8 @@ satisfacción). Además, al perder el estatuto de la “mujer amada”
 significa la pérdida del rango propio de esta hembra en la jerarquía.
 Pero esto sólo concierne a la “mujer amada”, que con más frecuencia eran
 las hembras de un alto potencial de rango. ¿ ;Qué pueden hacer las
-demás?\\
+demás
+\
       ¡Muy fácil! Para concebir sus hijos y para su propia satisfacción
 se prefería un macho de alto rango, lo que provocaba celos de sus
 “mujeres amadas”, y al mismo tiempo se engañaban unos cuantos machos de
@@ -2109,7 +2291,8 @@ la posibilidad real de transmitir sus genes altruistas a los
 descendientes. ¿Puede ser que la aceleración brusca de la revolución
 social de la humanidad que se percibe en el último par de cientos de años
 está condicionada por el refuerzo de las tendencias altruistas en la
-conducta humana?\\
+conducta humana
+\
       Más, durante el desarrollo económico de la humanidad, cuando se
 pasó de la recolección a la economía de reproducción (que a veces llaman
 “revolución neolítica”) en algún momento la mujer ya no tenía necesidad
@@ -2129,7 +2312,8 @@ en nuestro caso esta igualdad surgía como una consecuencia suplementaria
 de los hechos arriba mencionados, sin mucha importancia por sí solo. Más
 todavía si tener en cuenta que al principio predominaba poliginía, como
 más usual para los de mayor rango, pero que no era justa para los de
-menor rango.\\
+menor rango
+\
       Una nota importante. La actitud hacia la hembra como mercancía que
 se puede comprar (¡y que no protestaba contra esta compra!), aumentado
 por la ausencia del instinto de cuidado de la hembra condujo hacia un
@@ -2177,7 +2361,7 @@ patriarcado el novio no escogía a la novia, eso hacía alguien otro
 
 []{#M16}
 
-**Una vez más sobre la elección**
+### Una vez más sobre la elección
 
       ¿Quién elige? En el mundo animal siempre escoge la mujer. Si el
 macho eligiera, esto contradiría al principio fundamental de la división
@@ -2194,7 +2378,8 @@ precisamente esta elección oculta pase entre los humanos. Se considera
 poco decoroso para una mujer e inclusive imposible para ella hacer la
 elección directamente, sin aclarar antes sus desavenencias los hombres
 entre sí, y después le es muy difícil de no preferir al que demuestra la
-conducta del vencedor.\\
+conducta del vencedor
+\
       Más arriba hemos demostrado que cuando una mujer construye sus
 relaciones con los hombres, ella instintivamente persigue dos fines
 bastante poco relacionados entre sí. Por una parte, ella quisiera
@@ -2206,7 +2391,8 @@ cuantas hembras, para las demás era posible conseguir estos fines sólo a
 través de la promiscuidad, ya que como no es posible estar mantenida
 completamente por un macho de alto rango, la hembra lo completaba con una
 gran cantidad de los machos de bajo rango, y para su satisfacción
-sexual prefería al macho de alto rango, como antes.\\
+sexual prefería al macho de alto rango, como antes
+\
       Pero durante el desarrollo de la humanidad se crearon las bases
 para transformar las relaciones matrimoniales en forma de la familia
 mono o poligínica. Junto con esto se prohibía el libre desplazamiento de
@@ -2251,7 +2437,8 @@ objetivamente no necesita una familia. Este hombre obtiene fuera de la
 familia todo lo que necesita. Sin dificultad este hombre encuentra una
 mujer (y no solamente una), que le dé de comer, le lave la ropa, le dé
 los servicios sexuales, y, además, le críe a sus hijos sola, soñando sin
-ninguna esperanza de él como marido.\\
+ninguna esperanza de él como marido
+\
       Es más difícil para las mujeres. El instinto de la preferencia sexual
 exige a elegir a los hombres de alto rango, y la realidad actual exige
 que forme una familia. Los hombres de alto rango constituyen un 10-20%
@@ -2267,14 +2454,16 @@ ellos. Además de esto hay una selección objetiva, sobre la cual
 hablaremos abajo. En una manada prehistórica estos 10-20% fertilizarían
 a todas las hembras, todas las hembras estarían satisfechas, entre otras
 cosas, sexualmente. Pero una quiere que él le pertenezca en exclusivo,
-¿no es así? Pero él piensa de otra manera.\\
+¿no es así? Pero él piensa de otra manera
+\
       La peor parte la llevan los hombres de bajo rango. Ellos reciben
 de todas partes, todos les pegan, y con las mujeres no tienen ninguna
 alegría. Aunque desde el punto de vista de la vida de familia ellos son
 muchas veces mejores que los alfas. Por lo menos son más fieles. Su
 desgracia y la causa de su soledad es porque no llaman ningún interés en
 las hembras. Resulta que entre los hombres que gustan a las mujeres
-realmente hay pocos hombres honrados.\\
+realmente hay pocos hombres honrados
+\
       El hombre de bajo rango necesita la familia para tener relaciones
 sexuales y tener descendencia. Fuera del matrimonio “le dan bofetadas”,
 y en la familia también tratan de darle menos (en el caso de tener
@@ -2296,17 +2485,21 @@ principales para casarse para los hombres de bajo rango.
 
 []{#M17}
 
-**Qué tienen que hacer los hombres que no tienen suerte**
+### Qué tienen que hacer los hombres que no tienen suerte
 
   ------------------------------------------------------------------------
-  Es mejor que te perdonen después\\
+  Es mejor que te perdonen despué
+\
   a que no te presten atención ahora
   *(Una de las leyes de Murphy)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
+
+
+
+
+
+
 
       Es obvio que tiene sentido dar consejos a los cornetas, ya que los
 tenientes viven muy bien sin estos consejos. Además es inútil pedir
@@ -2314,7 +2507,8 @@ consejo a un teniente, ya que al corneta en la práctica le saldrá como
 en el chiste. Los tenientes se comportan de una manera distinta con las
 mujeres, y su alto rango lo indica no solamente su libertad en la
 conducta con las mujeres, pero su mímica de seguridad en sí mismos que
-es difícil de captar, y expresión de la cara.\\
+es difícil de captar, y expresión de la cara
+\
       Ya que la raíz de sus dificultades con las mujeres es su estado
 prehistórico bajo, usted lo querrá aumentar. Puedo decirle enseguida
 cómo hay que proceder: hay que hacerse rico o famoso (como versión –
@@ -2328,12 +2522,14 @@ bajo rango es imposible, los de más alto rango lo van a quitar todo. En
 la actualidad eso es posible, pero si su rango real no coincide con el
 nivel de su riqueza, puede encontrarse más tarde con su infidelidad. Eso
 pasa porque del que da de comer se acostumbra sacar el máximo provecho,
-a veces premiándole con sexo, pero ella quiere otro amante.\\
+a veces premiándole con sexo, pero ella quiere otro amante
+\
       Lo que se refiere a la fama, es mejor hacerse una estrella, y ni
 se le ocurra hacer hazañas relacionadas con el riesgo para su vida, la
 disposición para arriesgarse es un índice indudable del rango bajo, y la
 disponibilidad rastrera de exponer durante el peligro a otros (dominar a
-los demás) es un índice de alto rango.\\
+los demás) es un índice de alto rango
+\
       Como ya se ha dicho el distinto nivel de primariedad es muy
 característica para el ser humano. Los animales, especialmente de
 especies primitivas, tienen una primariedad cercana al máximo. Les
@@ -2342,14 +2538,16 @@ la razón y no sus programas instintivos. Como los rituales matrimoniales
 instintivos son de diálogo, como si fueran contraseña y respuesta, la
 poca correspondencia de la conducta de una persona puede dificultarle
 enormemente la búsqueda de la pareja en su vida. A este hombre pueden no
-tomarlo como un macho maduro sexualmente.\\
+tomarlo como un macho maduro sexualmente
+\
       Dicen que las mujeres aman con los oídos. Voy a decir más, eso es
 una característica no estrictamente humana. Los machos de los pájaros
 cantores cantan precisamente para atraer a las hembras, para esos fines
 emite los sonidos la cigarra, croa el macho de la rana, aúlla el gato
 por las noches de marzo, etc., etc. Ni qué hablar que las estrellas de
 la canción es una de las categorías más populares entre las mujeres…
-Además, ¡ellos cantan más que nada sobre el amor!\\
+Además, ¡ellos cantan más que nada sobre el amor
+\
       ¿Qué es más importante para tener éxito, un alto rango o alta
 primariedad? Desde luego el rango. Al teniente le perdonan todo,
 inclusive su baja primariedad. Más, los hombres de alto rango y baja
@@ -2357,7 +2555,8 @@ primariedad tienen un encanto especial, y tienen mucho éxito entre las
 mujeres muy honradas, aunque no baten los récords de los harenes. Aunque
 la primariedad es una cualidad innata, y es difícil cambiarla, por mucho
 que trabajemos sobre nuestra imagen, menos todavía si no se tiene
-talento de artista.\\
+talento de artista
+\
       Las posibilidades bajas se puede probar compensarlas con una gran
 cantidad de intentos. Y no tenga vergüenza de utilizar la táctica
 preferida femenina, tener varios líos al mismo tiempo, desde luego
@@ -2365,7 +2564,8 @@ tomando medidas para que estos líos no se crucen. Como mínimo obtendrá
 una experiencia práctica, y, puede ser, tendrá la seguridad en sí mismo
 que le falta. Para conseguir esta experiencia se puede mantener citas
 por los anuncios matrimoniales, pero no tenga fe en ellos, es un método
-muy poco efectivo para encontrar una mujer.\\
+muy poco efectivo para encontrar una mujer
+\
       Desde luego las mujeres se ríen de todas las maneras posibles de
 un hombre de bajo rango, pero no deje los intentos, tómelo con
 filosofía. De todos modos no haga de esto una tragedia, y no caiga en la
@@ -2373,7 +2573,8 @@ depresión. Además nosotros vivimos en un mundo relativo, y como ya se
 ha dicho, un rango alto por sí solo no es una garantía de éxito total, y
 viceversa, un rango bajo no es una garantía de poco éxito, son solo los
 factores que fuertemente influyen en la posibilidad de ser
-correspondido. Además existe el instinto de la curiosidad sexual…\\
+correspondido. Además existe el instinto de la curiosidad sexual
+\
       Y una cosa más, trate de no perder tiempo con las mujeres de alto
 rango.
 
@@ -2538,14 +2739,16 @@ rango.
     superficialmente. No puedo hablar de todas las mujeres, pero la
     mujer media no es perspicaz en absoluto, que es una de las
     consecuencias de su egocentrismo. Si no fuera así, las mujeres no
-    sufrirían robos en el transporte público.\\
+    sufrirían robos en el transporte público
+\
           La mujer, apreciando sus méritos (la manera en la que los
     demuestra) tiende a compararlos no con sus méritos y desventajas
     (según el principio por el cual la hembra es insustituible sus
     propios méritos y desventajas no son tan importantes comparando con
     el hecho de la existencia de la hembra), sino con las cualidades
     analógicas de otros hombres (también de la manera que aquellos se los
-    demuestran).\\
+    demuestran)
+\
           Preste atención como se vanaglorian sin ninguna vergüenza los
     tenorios con experiencia, no dudando inclusive en mentir. No puedo
     aconsejar la mentira como un mérito válido, pero todo lo que tiene
@@ -2563,18 +2766,23 @@ rango.
 
 []{#M18}
 
-**Conclusiones prácticas para las mujeres solteras**
+### Conclusiones prácticas para las mujeres solteras
 
   ------------------------------------------------------------------------
-  ¿En qué debe pensar una gallina que escapa del gallo?\\
+  ¿En qué debe pensar una gallina que escapa del gallo
+\
   - ¿No estoy corriendo demasiado deprisa?
   *(chiste)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
 -   Como ya se dijo anteriormente el macho puede fertilizar la cantidad
     máxima de las hembras si emplea en cada una un tiempo mínimamente
@@ -2610,7 +2818,8 @@ rango.
     está condenado a la soledad. En los colegios donde la razón aún no
     maduró, esta “anisotropía de las simpatías” se ve muy bien. A todas
     las chicas les gusta uno ó dos chicos, objetivamente no los mejores.
-    Los intereses de los chicos se distribuyen con más uniformidad.\\
+    Los intereses de los chicos se distribuyen con más uniformidad
+\
           Lo arriba descrito también se da entre los hombres, pero no es
     en absoluto usual, sus gustos por las mujeres son mucho más
     diversos.
@@ -2621,7 +2830,8 @@ rango.
     rango. La palabra “macho” es la que es más conveniente en este
     contexto, ya que un hombre culto y honrado tiene un rango bajo, por
     regla general, en la jerarquía prehistórica, y los animales
-    prehistóricos le echan sin ninguna expectación de su lado.\\
+    prehistóricos le echan sin ninguna expectación de su lado
+\
           Además, la competición por las mujeres guapas les crea a ellas
     una ilusión de una elección amplia sin límites temporales. Cuando
     esta ilusión se evapora, se tiene un sentimiento de los años
@@ -2632,7 +2842,8 @@ rango.
     hombres desde el punto de vista prehistórico, también sin querer
     cree que los hombres hacen lo mismo, y trata de aumentar al máximo
     su atractivo prehistórico, olvidándose de la razón. Sí, existen
-    hombres a los que no influye nada más que esto, pero ¿los necesita?\\
+    hombres a los que no influye nada más que esto, pero ¿los necesita
+\
           ¡Llevando su aspecto hacia la perfección usted puede conseguir
     un efecto contrario! Teniendo un aspecto sofisticado y moderno,
     puede dar una impresión de su inaccesibilidad. Los hombres no
@@ -2658,7 +2869,8 @@ rango.
     este hombre consigue su objetivo. ¡Ya que esta insistencia es un
     ritual ancestral! Un hombre de baja primariedad estos rituales poco
     corteses los deja de lado, y cree que el acercamiento de personas
-    inteligentes DEBE ser recíproco, si es que los dos lo necesitan.\\
+    inteligentes DEBE ser recíproco, si es que los dos lo necesitan
+\
           Por ejemplo, según el ritual instintivo usted pasa desde las
     cálidas relaciones (para atraerle), demostradas en el primer
     encuentro, a las gélidas, y no puede entender por qué no quiere
@@ -2710,7 +2922,8 @@ rango.
     mantenerlo no influye de ninguna manera a la posibilidad de
     relaciones a largo plazo. Aquí se puede encontrar una similitud con
     la reacción de usted de aceptar sus atenciones, “aceptaré, pero esto
-    no significa nada”.\\
+    no significa nada”
+\
           ¿Usted cree que es humillante y no puede “pisar su orgullo”?
     Entonces puedo sólo compadecerle, los hombres honrados tampoco
     quieren humillarse, ya ni que hablar de que el hombre está menos
@@ -2730,7 +2943,8 @@ rango.
     medidas contraceptivas. Para crear una familia estable no es en
     absoluto producente creer al corazón. Como el instinto bloquea la
     conciencia, trate de buscar ayuda de otras personas que pueden
-    pensar razonablemente.\\
+    pensar razonablemente
+\
           Si, cuando piensa sobre el futuro de su matrimonio su objetivo
     es ser cueste lo que cueste una Gran Señora, desde luego usted
     necesita un dominante, junto con todos los peligros que puede
@@ -2777,7 +2991,8 @@ rango.
     de los hombres de bajo rango sólo sirve para compensar la
     exageración general que existe a favor de los de alto rango. El
     corazón no los entiende, pero es posible el triunfo de la
-    conciencia sólo sobre una base genética apropiada…\\
+    conciencia sólo sobre una base genética apropiada
+\
           Desde luego los de alto rango tienen no sólo desventajas.
     Entre ellos hay bastantes “cazadores” buenos, y, si usted tiene
     suerte y su rango va a ser verdadero, junto con él va a estar bien
@@ -2789,7 +3004,7 @@ rango.
 
 []{#M19}
 
-**Sobre la valentía y humillación**
+### Sobre la valentía y humillación
 
       Como ya se ha dicho, la cantidad de cópulas es el índice
 cuantitativo más claro del rango, además la hembra se deja normalmente
@@ -2823,23 +3038,30 @@ de bajo rango.
     manada cuando un macho que la sustentaba no debía saber cuantos hay
     además de él.
 
-**Continuación etológica**
+### Continuación etológica
 
 []{#M19B}
 
-**Sobre las ilusiones ópticas y selección contemplativa**
+### Sobre las ilusiones ópticas y selección contemplativa
 
   ------------------------------------------------------------------------
-  ¿Qué estás buscando? – He perdido la llave.\\
-  ¿Y dónde la has perdido? – Ahí.\\
-  ¿Y por qué la buscas aquí? – Aquí hay más luz.\\
+  ¿Qué estás buscando? – He perdido la llave
+\
+  ¿Y dónde la has perdido? – Ahí
+\
+  ¿Y por qué la buscas aquí? – Aquí hay más luz
+\
   *(un chiste viejo)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
       La conciencia común está llena de prejuicios y especialmente en
 este campo. Por ejemplo, las mujeres están seguras de que un hombre lo
@@ -2848,7 +3070,8 @@ de buscar un hombre, aunque los estudios de los sociólogos demuestran lo
 contrario; la mayoría de las mujeres está segura que es el hombre quien
 elige a la mujer, pero en la práctica es al revés. Para entender el
 mecanismo de la aparición de tales ilusiones vamos a imaginar una
-situación exagerada:\\
+situación exagerada
+\
       En un pueblo hay 100 hombres y la misma cantidad de mujeres. De
 estos cien hombres cinco son unos tenorios incorregibles que cambian de
 mujer como término medio una vez por mes, otros están en sus casitas y
@@ -2857,7 +3080,8 @@ tenorios van a estar con todas las mujeres del pueblo, y otros no más
 que con una. Como resultado las mujeres en sus charlas van a contar más
 o menos lo mismo: “yo tuve 6 hombres, y cinco de los cuales eran tan…”
 Naturalmente ellas van a llegar a una conclusión errónea que 5/6 de los
-hombres son puercos, mentirosos, astutos, etc., etc.\\
+hombres son puercos, mentirosos, astutos, etc., etc
+\
       La selección contemplativa descrita arriba es objetiva, es decir,
 aquí fallaría también un robot imparcial. Además de esta selección
 existe una selección subjetiva, que es la consecuencia de las peculiaridades 
@@ -2874,19 +3098,26 @@ típicos.
 
 []{#M21}
 
-**Sobre la peculiaridad de la conducta**
+### Sobre la peculiaridad de la conducta
 
   ------------------------------------------------------------------------
-  Soy una mujer débil, desamparada, ¡no lo voy a permitir!\\
-  ¡A los tres inquilinos ya les metí al juicio, y, como me digas esto,\\
-  te vas a arrastrarte a mis pies!\\
+  Soy una mujer débil, desamparada, ¡no lo voy a permitir
+\
+  ¡A los tres inquilinos ya les metí al juicio, y, como me digas esto
+\
+  te vas a arrastrarte a mis pies
+\
   *( “Un ser desamparado”, A.P.Chejov)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
-\\
+
+
+
+
+
+
+
+
 
       Entonces, los papeles biológicos de hembras y machos son bastante
 diferentes. Más arriba ya indicamos una viabilidad menor de los machos,
@@ -2904,7 +3135,8 @@ de las mujeres, ya que se basan en los programas instintivos de
 conducta, de un barco que se hunde en primer lugar salvan a las mujeres
 y los niños, y, existiendo miles de leyes y reglas que de uno u otro
 modo protegen a la mujer no hay ninguno para los hombres. La ley se
-preocupa de PERSONA (cualquiera), o de la mujer.\\
+preocupa de PERSONA (cualquiera), o de la mujer
+\
       Por ejemplo las leyes de matrimonio en Rusia y especialmente la
 práctica legal en este campo son abiertamente discriminatorias para el
 hombre, pero pocos prestan atención a ello, ya que la gente se
@@ -2918,7 +3150,8 @@ pero no se oye nada sobre sus análogos masculinos. En la prensa y otros
 medios de comunicación los problemas femeninos se discuten más y con
 más atención que los masculinos. Esto sin tener en cuenta que las
 mujeres son idealizadas por todos, por los hombres, por las mujeres,
-hecho que se basa sobre el principio de que la hembra es insustituible.\\
+hecho que se basa sobre el principio de que la hembra es insustituible
+\
       Se puede inclusive hablar de una especie de “presunción de
 culpabilidad del hombre”: si el marido pega a la mujer, es culpable el
 marido, si la mujer pega al marido, otra vez tiene la culpa el marido.
@@ -2929,7 +3162,8 @@ dando ejemplos. La inocencia del hombre siempre hay que demostrarla en
 cada uno de los casos. Si ésta no queda demostrada eso quiere decir que
 el hombre es culpable. Es una base fértil para los abusos. Y para qué
 vamos a tener pena de los hombres, si la misma naturaleza no les tiene
-pena.\\
+pena
+\
       Creo que todos van a estar de acuerdo con lo siguiente:
 
 -   Las mujeres tienen una preocupación hipertrofiada de su salud, y los
@@ -2992,7 +3226,8 @@ sin embargo las dos están estrechamente ligadas. De todos modos la
 comparación del rango femenino y masculino es absolutamente correcta,
 el potencial de rango de algunas señoras es sobresaliente, y supera
 fácilmente el potencial de rango medio masculino. Recordemos el cuento
-del pescador y el pez de oro de A.Pushkin.\\
+del pescador y el pez de oro de A.Pushkin
+\
       Este cuento trata sobre unos viejos que viven en la orilla del
 mar. El viejo va a pescar y pesca un pececito de oro, que es mágico. Por
 su vida el pececito promete cumplir cualquier deseo del viejo. El viejo
@@ -3005,7 +3240,8 @@ entrar en su nueva casa al viejo. El último deseo de la vieja es hacerse
 la reina de los mares y tener para sus servicios al pececito. Cuando
 éste escucha el último capricho de la vieja, se enfada y desaparece en
 el mar. El viejo vuelve a casa, y ve su vieja choza de pescador y a su
-vieja sentada al lado de la choza.\\
+vieja sentada al lado de la choza
+\
       El potencial de rango de la vieja está muy por encima del
 potencial del viejo, que, junto con su egocentrismo lleva a que pierdan
 todo. ¡Y, si no prestar atención a los detalles de fantasía, es una
@@ -3018,7 +3254,7 @@ propietaria del cabello…
 
 []{#M22}
 
-**Sobre el egocentrismo**
+### Sobre el egocentrismo
 
   ------------------------------------------------------------------------
   El amor hacia sí mismo es la única historia de amor que dura toda la
@@ -3026,9 +3262,12 @@ propietaria del cabello…
   *(Oscar Wild)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
+
+
+
+
+
+
 
       El egocentrismo es la imposibilidad de QUERER ponerse en el lugar
 de otro, imaginarse “en su pellejo”, el egoísmo es la falta de deseo de
@@ -3051,33 +3290,40 @@ mundo interior de otra gente. Le interesa únicamente, hasta profesar un
 amor a sí mismo, su propio mundo interior. Esto indirectamente aclara
 por qué a las mujeres les gustan los espejos.
 
--   Un egocéntrico diría: Vete sin el perro.\\
+-   Un egocéntrico diría: Vete sin el perro
+\
 -   Un egoísta: No te pasará nada.
 
       Otra escena. Un autobús para bruscamente. Las mujeres egocéntricas
 empiezan a chillar: “¡Pero qué chofer es este?!” Los hombres: “Qué
-idiota cruza la carretera?”\\
+idiota cruza la carretera?
+\
       El egocéntrico no trata inclusive de ponerse en el lugar de otro,
 no trata de entender en qué consiste su problema. No es que sea incapaz
 de hacerlo. Pero esto no se le cruza por la cabeza. El egoísta, al
 contrario, se imaginó qué pasaba y entendió todo, pero conscientemente
 no se interesó por los problemas del otro. El egoísmo es un índice
-importante de alto rango.\\
+importante de alto rango
+\
       El egocéntrico no es obligatoriamente mala persona. Es, por así
 decirlo, insensible. Por ejemplo, puede verter su bondad en una persona
 que no lo necesita, y no sentir que es innecesario. Así mismo cuando
 está molestando a alguien, con absoluta sinceridad no lo nota. Como una
 variedad del egocentrismo es su moderación a la hora de expresar
-gratitud a los demás, a elogiarlos.\\
+gratitud a los demás, a elogiarlos
+\
       Además, nada prohíbe al egocéntrico ser egoísta al mismo tiempo
-(¡oh, horror!).\\
+(¡oh, horror!)
+\
       Es normal que a los egocéntricos les roban con más frecuencia
 entre el gentío (transporte público, tiendas), y en el momento del robo
-ellos no sienten ni notan nada.\\
+ellos no sienten ni notan nada
+\
       Está demostrado que la predisposición para el egocentrismo se
 hereda inclusive entre los hombres, así que la responsabilidad de
 egocentrismo la tienen unas estructuras muy profundas y ancestrales del
-cerebro.\\
+cerebro
+\
       En una edad determinada (generalmente entre los 3 y 5 años) estos
 niños no hacen preguntas, o las hacen pocas, aunque según los demás
 criterios del desarrollo como mínimo no son más atrasados que los demás
@@ -3091,7 +3337,8 @@ su mundo interior.
 como cada hembra es objetivamente insustituible, la naturaleza prohibe a
 las mujeres llenar la cabeza con algo que no sean sus intereses o
 intereses de sus hijos, como callar sus problemas, para esto existen los
-hombres.\\
+hombres
+\
       Prueben cambiar los personajes del cuento de Pushkin el uno por el
 otro. ¿No le sale bien? ¿Dice que esto no existe en la vida? Es verdad,
 sería demasiada mentira, inclusive para un cuento. Si hablamos del
@@ -3106,10 +3353,12 @@ más correcto. Si el cuento no da un modelo adecuado de
 relaciones entre personas, no será un cuento que pueda enseñar a vivir a
 los niños, sino un cuento fantasioso e innecesario. La suposición de que
 el folklore es correcto estadísticamente funciona en todos sus aspectos:
-chistes, canciones, etc.\\
+chistes, canciones, etc
+\
       ¿Por qué en las oficinas donde trabajan sólo mujeres el ambiente
 moral es insufrible? Porque nadie quiere sacrificarse para el bien de
-otros.\\
+otros
+\
       Un egocentrismo bajo se puede ver entre las mujeres que conducen
 un vehículo. La conducción en un tráfico denso es imposible sin prever
 constantemente las acciones de otros miembros de este tráfico, y
@@ -3127,23 +3376,29 @@ amargura agradable indispensable para la noción de la feminidad.
 
 []{#M23}
 
-**Esbozos etológicos**
+### Esbozos etológicos
 
   ------------------------------------------------------------------------
-  Todas las personas son iguales.\\
-  Pero algunas son más iguales que las otras.\\
+  Todas las personas son iguales
+\
+  Pero algunas son más iguales que las otras
+\
   *(después de leer a Orwell)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
+
+
+
+
+
+
 
       El tema de jerarquía primitiva en nuestra sociedad es sumamente
 interesante por sí sólo, y merece ser descrito en un tratado aparte. Por
 esa causa les propongo dejar las relaciones entre los sexos, y ver las
 relaciones simplemente entre las personas. Esto, además, nos ayudará a
-entender mejor las relaciones entre los sexos.\\
+entender mejor las relaciones entre los sexos
+\
       La jerarquía prehistórica visible o invisiblemente pasa por toda
 nuestra sociedad. En un estado relativamente puro la podemos ver en
 muchos grupos infantiles, cuando la conciencia no está aún madura,
@@ -3159,7 +3414,8 @@ de bajo rango va a tener en la jerarquía un puesto peor, es decir, para
 él no tiene sentido participar en esta lucha. Un niño de baja
 primariedad va a actuar de esta manera y va a distanciarse de la
 jerarquía, pero el de alta primariedad no puede hacer así, el instinto
-le exige participar en la jerarquía, aunque se sienta horriblemente.\\
+le exige participar en la jerarquía, aunque se sienta horriblemente
+\
       Entre los adultos la jerarquía se ve muy bien en las condiciones
 en las que los derechos civiles de una u otra manera están limitados.
 Son, por ejemplo, las prisiones, nuestro ejército con sus abusos, las
@@ -3182,7 +3438,8 @@ Frecuentemente al trato respetuoso una persona con alta primariedad lo
 interpreta como una señal de rango más bajo, y empieza a tratar mal a
 esta persona, al mismo tiempo pasa a una subordinación humillante en
 presencia de una persona de alto rango. Para estas personas no hay
-término medio, o ellos se subordinan, o a ellos se subordinan otros.\\
+término medio, o ellos se subordinan, o a ellos se subordinan otros
+\
       Es la base en la que se apoya el rechazo de la gente de poca
 cultura a los intelectuales. Estos demuestran con su cultura que parece
 ser un rango más bajo, pero no están sin embargo de acuerdo con el papel
@@ -3263,7 +3520,8 @@ En esta canción el cantautor ruso Visotskiy habla del director de la
 prisión al que mandan al frente junto con los presos. El fue un claro
 dominante, aunque sea gracias al cargo que ocupaba. Pero en el frente
 empieza a funcionar algo que no tiene en cuenta su rango, y el “héroe”
-tiene un fuerte instinto de supervivencia.\\
+tiene un fuerte instinto de supervivencia
+\
       Además un rango bajo es imposible para un director, ya que “al rey
 lo hace la corte”, o el control sobre el grupo se pierde. Un ejemplo
 claro de ello es el zar ruso Nikolás II. Inclusive su cultura sin lugar
@@ -3324,17 +3582,21 @@ acciones del borracho no se le tenía pena.
 
 []{#M24}
 
-**Sobre la agresividad y criminalidad**
+### Sobre la agresividad y criminalidad
 
   ------------------------------------------------------------------------
-  No intervengas entre los que pelean,\\
+  No intervengas entre los que pelean
+\
   Seguro que son cómplices
   *(dicen que es un dicho sumerio)*
   ------------------------------------------------------------------------
 
-\\
-\\
-\\
+
+
+
+
+
+
 
       Las bases etológicas de la agresividad están muy bien descritas
 por C.Lorenz [9] y V.Dolnik [1], y me permitiré exponer mis
@@ -3347,13 +3609,15 @@ para hacer una buena carrera. Si esta posición se une a la primariedad
 alta, esta persona trata de realizar su necesidad de dominar utilizando
 cualquier medio. Pero si su posición social es baja, no tiene muchos
 medios para ello. Así mediante los crímenes contra otras personas
-realiza sus ambiciones de rango.\\
+realiza sus ambiciones de rango
+\
       En nuestra policía rusa, por lo visto, prevalecen los dominantes
 de alta primariedad, por esta causa la población obediente a las leyes
 teme casi tanto a la policía como a los criminales. Para ellos su
 servicio también es el modo de realizar sus ambiciones de rango, y está
 muy mal que la forma de realizarlo no se distingue de la misma entre los
-criminales…\\
+criminales
+\
       La alta agresividad de los adolescentes, su insolencia con los
 adultos se explica porque un adolescente debe subir en la jerarquía de
 abajo para arriba, y es muy difícil, ya que los adultos que ocupan los
@@ -3363,7 +3627,8 @@ persona comete una acción antisocial, con eso quiere decir a la gente:
 someterme a ustedes, sino ustedes deben someterse a mí. O demuéstrenme
 que su rango es más alto que el mío.” Es decir, una conducta antisocial
 (contraposición de sí mismo a la sociedad) tiene unas raíces instintivas
-muy profundas, así como la intención de crear jerarquías.\\
+muy profundas, así como la intención de crear jerarquías
+\
       ¿Cómo adivinar el rango del interlocutor? Cuánto más parecidos son
 los potenciales de rango, tanto más difícil es hacerlo, por lo menos al
 principio. Además de una clara seguridad en sí mismo, la costumbre de
@@ -3372,7 +3637,8 @@ la costumbre de andar con la camisa desabrochada señala un alto
 potencial de rango. La camisa abotonada hasta arriba, la costumbre de
 hablar bajo, así como la costumbre de cruzar los brazos, al contrario,
 indican un potencial bajo. La agresividad peligrosa es característica
-para los dominantes con la primariedad alta.\\
+para los dominantes con la primariedad alta
+\
       Si al ver a alguien usted siente un deseo irresistible de bajar la
 vista, puede estar seguro que ante usted está un alfa. Él, sin embargo,
 mira con mucho gusto en los ojos de todos, viendo como todos bajan la
@@ -3382,7 +3648,8 @@ la gente exclusivamente porque éstos se someten voluntariamente. En los
 experimentos con los gallos que se mencionaron arriba, las crestas
 altas de los gallos dominantes fueron pegadas, y, pese a sus magníficas
 dotes de luchadores, han caído en la jerarquía. Eso pasaba sólo porque
-nadie quería someterse a ellos por su propia voluntad.\\
+nadie quería someterse a ellos por su propia voluntad
+\
       ¿Y si probásemos no someterse a la gente? Si su rango es bajo es
 muy arriesgado. No debe humillarse, solamente huir de estas situaciones.
 Su orgullo puede empujarlo al conflicto, pero seguir el conflicto usted
@@ -3393,7 +3660,8 @@ las fuerzas de la naturaleza), ¡pero usted está en sus manos! Parar a
 esta gente es necesario, pero no lo debe hacer usted. Triunfando sobre
 usted (es casi inevitable), él va a fortalecer su agresividad. Empezar
 un conflicto con los de alto rango se puede sólo en el caso de que
-usted esté seguro de vencerle.\\
+usted esté seguro de vencerle
+\
       ¿Qué se puede aconsejar en este caso? Son muy comunes los consejos de
 no mostrar su miedo al contrincante. ¡Son correctos! Si tiene miedo,
 admite que su rango es más bajo, es decir, usted es una víctima fácil.
@@ -3411,7 +3679,7 @@ el final.
 
 []{#M25}
 
-**Sobre la religión, arte y propaganda**
+### Sobre la religión, arte y propaganda
 
       La religión como un sistema de normas civilizadas (tengo en cuenta
 las religiones principales) no podría realizar las funciones de
@@ -3423,11 +3691,13 @@ para una perspectiva breve. Esto es dañino tanto a la larga para él
 mismo, como para toda la humanidad: el individuo no podría entender y
 aceptar así como así. En la práctica este “super jerarca” se dotaba de
 distintas cualidades humanistas que debido a su estatuto jerárquico se
-admitían por los feligreses como un ejemplo a seguir.\\
+admitían por los feligreses como un ejemplo a seguir
+\
       Podemos notar que prácticamente todas las religiones aparecían en
 las capas más bajas de la sociedad. Una persona de bajo rango necesita a
 alguien superior, pero también quiere que sea justo, bondadoso y
-misericordioso.\\
+misericordioso
+\
       Una aureola de seguridad que tienen muchos libros “sagrados” (por
 ejemplo, Vedas), junto con la total incomprensibilidad de su contenido,
 sirven de una fuente inagotable de autoridad. Su sentido y valor de su
@@ -3435,12 +3705,14 @@ contenido para la persona actual (que no es una persona que los estudia)
 están perdidos, por eso su influencia no puede explicarse por el valor
 de su contenido. La autocrítica y las dudas, expresadas públicamente,
 que son propios de la verdadera ciencia, dañan la actitud a esta del
-público no científico.\\
+público no científico
+\
       Una obra de arte también es capaz de convencer de lo que sea, ya
 que funciona directamente sobre los mecanismos del subconsciente y de
 instintos del cerebro. Esta es la principal tarea social del arte,
 convencer de algo que no se puede demostrar (por diferentes causas) con
-lógica, pero no siempre esto, demostrado de tal manera, está bien.\\
+lógica, pero no siempre esto, demostrado de tal manera, está bien
+\
       La propaganda actual sin ninguna vergüenza y pudor explota los
 programas instintivos. Los instintos no son capaces de hacer un análisis
 crítico, y cuando se encuentra una “llave” adecuada (un patrón), se
@@ -3463,9 +3735,9 @@ obstáculo, y se mete precisamente donde necesitan ELLOS.
 
 []{#M26}
 
-## Literatura recomendada (1-8,10 en Ruso,11-13 en Inglés, 14 en español).
+### Literatura recomendada [1-8, 10 en Ruso, 11-13 en Inglés, 14 en español]
 
-## Publicaciones científicas populares accesibles en el Internet 
+### Publicaciones científicas populares accesibles en el Internet 
 1. V.R.Dolnik    Excursiones etológicas por los jardines secretos de los humanitarios, _Naturaleza_, nº 1, 2, 3 del 1993.
 2. V.R.Dolnik    ¿El sexo es la clave del enigma de la vida o la vida es la clave del enigma del sexo? _Química y vida_ N 9 del 1995.  
 3.               Dos sexos, ¿para qué y por qué?, _Ciencia y vida_, nº3 del 1996, _Ciencia y vida_ N3 del 1966.
@@ -3482,7 +3754,7 @@ obstáculo, y se mete precisamente donde necesitan ELLOS.
 13. A. Protopopov  Some Statistical Data Concerning Marriage Adverts Efficiency 
 14. A. Protopopov  Falo como el espejo de la jerarquía.
 
-## Literatura sobre el tema
+### Literatura sobre el tema
 
 13. G.Orwell      "La granja".   
 14. G.Orwell      "1984"        

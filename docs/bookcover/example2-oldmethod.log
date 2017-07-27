@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  24 JUL 2017 14:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  24 JUL 2017 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -858,15 +858,15 @@ e
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box40
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 69.
+(Font)              <7> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 69.
+(Font)              <5> on input line 74.
 
 <./figures/1-peacock-dean-nahum-unsplash-4226.jpg, id=4, 4930.42pt x 3276.24pt>
 File: ./figures/1-peacock-dean-nahum-unsplash-4226.jpg Graphic file (type jpg)
 <use ./figures/1-peacock-dean-nahum-unsplash-4226.jpg>
 Package pdftex.def Info: ./figures/1-peacock-dean-nahum-unsplash-4226.jpg used 
-on input line 69.
+on input line 74.
 (pdftex.def)             Requested size: 483.69684pt x 321.39427pt.
 
 
@@ -876,41 +876,41 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 \makebookcover
+l.74 \makebookcover
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<./figures/logo.pdf, id=5, 172.86984pt x 199.89882pt>
-File: ./figures/logo.pdf Graphic file (type pdf)
- <use ./figures/logo.pdf>
-Package pdftex.def Info: ./figures/logo.pdf used on input line 69.
-(pdftex.def)             Requested size: 49.21037pt x 56.9055pt.
+<./figures/logo.png, id=5, 702.625pt x 702.625pt>
+File: ./figures/logo.png Graphic file (type png)
+ <use ./figures/logo.png>
+Package pdftex.def Info: ./figures/logo.png used on input line 74.
+(pdftex.def)             Requested size: 56.8973pt x 56.9055pt.
 
 [1{/home/nilon/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./figures/1-peacock-dean-nahum-unsplash-4226.jpg> <./figures/logo.pdf>]
+ <./figures/1-peacock-dean-nahum-unsplash-4226.jpg> <./figures/logo.png>]
 (./example2-oldmethod.aux) ) 
 Here is how much of TeX's memory you used:
- 13595 strings out of 493013
- 260052 string characters out of 6139317
+ 13598 strings out of 493013
+ 260078 string characters out of 6139317
  418058 words of memory out of 5000000
- 16853 multiletter control sequences out of 15000+600000
- 11959 words of font info for 25 fonts, out of 8000000 for 9000
+ 16854 multiletter control sequences out of 15000+600000
+ 12632 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,7n,56p,461b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,56p,461b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-
 super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></
 usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf
 -dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
-per/sfxc1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfxc2074.pf
-b>
-Output written on example2-oldmethod.pdf (1 page, 7278423 bytes).
+e1/public/cm-super/sfcc1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pf
+b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfxc2074.pfb>
+Output written on example2-oldmethod.pdf (1 page, 7263841 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

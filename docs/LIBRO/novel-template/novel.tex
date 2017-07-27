@@ -1,0 +1,37 @@
+\documentclass{book}
+\usepackage[british]{babel}
+\usepackage[autopunct]{csquotes} 
+  % Together babel and csquotes will allow you to type quotes semantically,  
+  % but will print them in the normal style for your locale.
+  % This could save copy editors time replacing ``word'', with “word,” (for example)
+
+\newcommand{\WorkTitle}{\emph} % e.g., book title
+   % example of a semantic command you can define
+
+\input{myfancypreamble} 
+  % If you want, put all your fancy formatting in a separate `.tex` file or package
+
+
+\begin{document}
+
+\chapter{%  
+Playing Pilgrims
+}
+% Keep the plain text on a separate line from the markup when you can 
+% (easier to separate it later)
+
+\enquote{Christmas won't be Christmas without any presents}, grumbled Jo, 
+lying on the rug.
+
+\enquote{It's so dreadful to be poor!} sighed Meg, looking down at her old dress. \dots
+
+Nobody spoke for a minute; then Meg said in an altered tone,---
+
+\enquote{You know the reason mother proposed not having any presents 
+ this Christmas was because it is going to be a hard winter for every one} \dots.
+
+\enquote{I agreed not to expect anything from mother or you, 
+but I do want to buy \WorkTitle{Undine and Sintram} for myself; 
+I've wanted it \emph{so} long}, said Jo, who was a bookworm.
+
+\end{document}
