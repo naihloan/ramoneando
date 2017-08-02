@@ -20,6 +20,13 @@
 15. Lévi-Straus, Claude. _La Pensée sauvage_ [ediciones innecesarias]
 16. KondoMarie. _La magia del orden: Herramientas para ordenar tu casa... ¡Y tu vida!_ [ediciones incansables]
 
+- Lástima | Matta
+- Sordos | Heredia
+- Cartoneros | Kasper
+- Katz | Wild Fermentation
+
+### Practical Vim
+
 # [Where and how can I get started in contemporary philosophy?](https://philosophy.stackexchange.com/questions/256/where-and-how-can-i-get-started-in-contemporary-philosophy/6794#6794)
 - John Locke's An Essay Concerning Human Understanding [1689]
 - Gottfried Leibniz's Monadology [1714]
@@ -29,6 +36,8 @@
 	- How to Read Lacan
 	- Welcome to the Desert of the Real
 	- Looking Awry
+
+Kropotkin | Ayuda mutua
 
 If we could monetize and restrict the supply of oxygen, it would become extremely valuable, but that does not mean it would be beneficial;
 Lawrence Lessig 2004 | FREE CULTURE -- HOW BIG MEDIA USES TECHNOLOGY AND THE LAW TO LOCK DOWN CULTURE AND CONTROL CREATIVITY 
