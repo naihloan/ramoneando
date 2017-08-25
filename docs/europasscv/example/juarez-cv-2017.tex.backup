@@ -18,6 +18,8 @@
 \href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{ramoneando.com/docs/Juarez,Benjamin\_M.pdf}}
 }
 
+\newcommand*{\mybox}[1]{\framebox{#1}}
+
 
 % \ecvpicture[width=3.8cm]{picture.jpg} % \ecvpictureright
 
@@ -28,13 +30,16 @@
   \ecvbigitem{}{\textit{How do ultrarunners run in automatized cities?}}
 %   \ecvbigitem{Position applied for}{PhD Sociology}
   \ecvbigitem{PhD Supervisor}{Professor Michael Schillmeier [University of Exeter]}
-  \ecvbigitem{PhD Co-Supervisor}{Professor Mike Michael [University of Exeter]}
+%   \ecvbigitem{PhD Co-Supervisor}{Professor Mike Michael [University of Exeter]}
   
   
   
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
     
 			\ecvsection{Education and training}
+
+  \ecvtitle{2017--}{Phd Candidate}
+  \ecvitem{}{University of Exeter, Exeter, England}
   
 %   \ecvtitlelevel{2012--2014}{Master in Sociology. Dissertation Title: 'Urban Art. Expressive uses of public space’, 
 %   Empirical research on graffiti/pixação}{\href{http://ramoneando.com/docs/Juarez,Benjamin_M.pdf}{\texttt{*online pdf link}}
@@ -56,9 +61,41 @@
   \ecvtitle{2002--2009}{Bachelor of Science in Sociology}
   \ecvitem{}{Universidad de Buenos Aires [UBA], Buenos Aires Argentina}
   
-  \ecvsection{\fbox{Teaching Positions}}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %   
+
+\ecvsection{\mybox{Book Store Experience}}
+  \ecvitem{\mybox{2009--2010}}%
+  {\noindent\fbox{\parbox{0.7\textwidth}{%
+  During 5 months I worked at \textit{Borders}, a book store located in Suwanee, Georgia, US.
+  I got to know the workflow of a convenience store, enjoyed the benefits of lending books as part of the employers policy and learned how to orient customers upon book requests.
+  }} }
   
-  \ecvitem{ACADEMIC}{%
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %   
+
+\ecvsection{\mybox{Teaching Positions}}
+  \ecvitem{\mybox{EXTRA ACADEMIC}}%
+  {\noindent\fbox{\parbox{0.7\textwidth}{%
+  The last 2 years I have been giving Sociology classes at an institution for a %the 
+  general \mbox{public}. The responses of the students and staff have been very positive and the experience of \mbox{teaching} has been very gratifying personally. I see it as a possibility to put research questions into play and to probe the general feeling that sociological research has for a wider public.
+  }} }
+  \ecvitem{}%
+  {\noindent\fbox{\parbox{0.7\textwidth}{Over the past 4 years I have given a number of Workshops on Running. I instruct on the ChiRunning Technique, and have traveled through the country assisting runners of various levels, from beginners to advanced. Which favors my research purpose, on ultrarunning. }} }
+  \ecvitem{}{
+  \noindent\fbox{%
+    \parbox{0.7\textwidth}{%
+  Additionally, as a native American living in Argentina I have given conversation classes in English, for scholars and the general public, with %a range of academic 
+  students cominf with academic background ranging from philosophy, to tourism and biochemistry. }}
+  }
+  
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %   
+  
+  \ecvsection{%
+%   \fbox{
+  Teaching Positions
+%   }
+  }
+  
+  \ecvitem{\mybox{ACADEMIC}}{%
   \noindent\fbox{%
     \parbox{0.7\textwidth}{%
   Over the past 5 years I have assisted students with graduate level projects. I read their texts and made observations on methodological and empirical topics, pointing out contents and readings, following up on each student.}}
@@ -81,19 +118,9 @@
 %   \ecvitem{}{Faculty of Law. Universidad Nacional de Córdoba -- UNC [Córdoba. Argentina]}
 %   \ecvitem{}{\textit{Juridical Sociology} -- with Professor Carlos Lista}
 
-%   \pagebreak
-  \ecvsection{Teaching Positions}
-  \ecvitem{EXTRA ACADEMIC}%
-  {\noindent\fbox{\parbox{0.7\textwidth}{%
-  The last two years I have been giving Sociology classes at an institution for the general \mbox{public}. The responses of the students and staff have been very positive and the experience of teaching has been personaly very grateful. I see it as a posibility to put research questions into play and to probe the general feeling that sociological research has for a wider public.
-  }} }
-  \ecvitem{}%
-  {\noindent\fbox{\parbox{0.7\textwidth}{Over the past 4 years I have given a number of Workshops on Running. I instruct on the Technique ChiRunning, and have traveled through the country assisting runners of various levels, from beginners to advanced. Which favors my research purpose, on ultrarunning. }} }
-  \ecvitem{}{
-  \noindent\fbox{%
-    \parbox{0.7\textwidth}{%
-  Additionaly, as a native american living in Argentina I have given conversation classes en English, for scholars and the general public, with a range of academic students ranging from philosophy, to tourism and biochemistry. }}
-  }
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %   
+
+
 
   \pagebreak
   \ecvsection{Research Positions}
@@ -117,7 +144,7 @@
 
 			\ecvsection{Publications}
     
-  \ecvblueitem{2017}{``The social worlds of NIKE's CEO Phil Knight. An entrepreneur's effect on trends of massive behaviour, and the reshape of production'', [draft stage]. }
+%   \ecvblueitem{2017}{``The social worlds of NIKE's CEO Phil Knight. An entrepreneur's effect on trends of massive behaviour, and the reshape of production'', [draft stage]. }
   
   \ecvblueitem{2016}{``The visual and social indeterminacy of pixação: the inextricable moods of São Paulo’s inscriptions'', 
   In \textit{Street Art \& Urban Creativity Scientific Journal} – Lisboa. Center Periphery: Practice | Vol. 2 Nº 1. %November.
@@ -136,11 +163,10 @@
   \ecvblueitem{2017}{\textit{%Calzado deportivo como tecnología: trayectorias socio-técnicas del talón elevado/acolchonado
   Sport shoes as technology: socio-technical trajectories of the elevated/cushioned support}. Abstract accepted at \textsc{XXXI Congreso de la Asociación Latinoamericana de Sociología}. ALAS 2017 – Montevideo. December 3 – 8. }
 
-  \ecvblueitem{2017}{\textit{Urban inscription is not only about crisis. The case of Yellow Stars as a legalized protest against deadly traffic accidents.}
-  In preparation for \textsc{XII Reunión de Antropología del Mercosur}  RAM 2017 – Posadas. December 4 – 7. }
+%   \ecvblueitem{2017}{\textit{Urban inscription is not only about crisis. The case of Yellow Stars as a legalized protest against deadly traffic accidents.}
+%   In preparation for \textsc{XII Reunión de Antropología del Mercosur}  RAM 2017 – Posadas. December 4 – 7. }
 
-  \ecvblueitem{2014}{\textit{Open spaces: the street as habitat.%
-  %Espacios abiertos: la calle como hábitat.
+  \ecvblueitem{2014}{\textit{Open spaces: the street as habitat.%   %Espacios abiertos: la calle como hábitat.
   }
   \textsc{I Congreso de Epistemologías Críticas en el campo del Habitat}. Facultad de Arquitectura y Urbanismo [FAU] – Córdoba, Argentina.}
  
@@ -153,6 +179,7 @@
   \ecvblueitem{2011}{\textit{It is (not) so easy to be a graffiti artist}. At \textsc{III Jornadas de Antropología Social del Centro}. Campus Olavarría – Provincia de Buenos Aires, Argentina.}
   
 % % % % % % % % % % % % % %   
+\clearpage
 			\ecvsection{Collaborations at Events}
   
   \ecvblueitem{2013}{\textit{Visual Anthropology: Posters Committee}.  
@@ -227,6 +254,7 @@ Reunión de Antropología del Mercosur. [X RAM] – Córdoba, Argentina. July.}
     \item  \url{http://ramoneando.com/} | I run my personal blog with %sociological observations, 
     general information and fieldnotes 
     \item     \texttt{Gimp, Inkscape} | Independent user of graphic programs [linux based]
+    \item \texttt{javascript, python} | rudiments
   \end{ecvitemize}
   }
   
