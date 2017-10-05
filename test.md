@@ -1,15 +1,22 @@
-Buen día, Sr(a) BENJAMIN JUAREZ
+De: 
+"Operaciones" <operaciones@hbp.net.co>
+A: 
+benjij_1980@yahoo.com
+Mensaje original Vista imprimible
+
+**Buen día, Sr(a) BENJAMIN JUAREZ**
  
-Usted tiene programada una prueba en la plataforma on-line de HBP. La prueba fue programada por AVANCE ESTRATEGICO CONSULTORES M&B GROUP.
+Hemos registrado la aplicación de la prueba programada por AVANCE ESTRATEGICO CONSULTORES M&B GROUP., sin embargo sus respuestas para una de las secciones presentan una orientación poco clara y por lo tanto no es posible generar resultados. Hemos realizado la reprogramación correspondiente, por favor ingrese nuevamente atendiendo las indicaciones dadas a continuación:
  
 Para un adecuado desarrollo de la presentación de sus pruebas por favor tenga en cuenta lo siguiente:
-·         Es obligatorio que el diligenciamiento sea personal e intransferible, si esta condición no se cumple la prueba será invalidada.
-·         Asegúrese de estar solo (a)  y en un lugar donde logre la mayor concentración.
-·         Disponga de 2 horas y 45 minutos de tiempo aproximado para la  aplicación de las pruebas.
-·         Asegúrese de que su conexión a Internet sea óptima. No se recomiendan conexiones inalámbricas.
-·         Navegador: Por favor utilizar Internet Explorer versión 9, 10 o 11.
-·         Importante: Para asegurar la correcta aplicación de sus pruebas es indispensable que no cierre el programa de la X que se encuentra en la parte superior derecha de todas las aplicaciones (Si lo hace es posible que deje de contestar preguntas importantes para su rendimiento en las pruebas). Cuando haya terminado en la pantalla aparecerá un aviso informándole que ha terminado su aplicación y dando clic en terminar el programa salvará y se cerrará.
-·         No es necesario que la prueba sea realizada en una sola sesión, por lo que puede cerrar, al término de cualquier sección y retomar en otro momento. Siempre y cuando haya terminado la aplicación de alguna sección completa el programa salvará automáticamente.
+
+- **Es obligatorio que el diligenciamiento sea personal e intransferible, si esta condición no se cumple la prueba será invalidada.**
+- Asegúrese de estar solo (a)  y en un lugar donde logre la mayor concentración.
+- Disponga de 25 minutos de tiempo aproximado para la  aplicación de las pruebas.
+- Asegúrese de que su conexión a Internet sea óptima. No se recomiendan conexiones inalámbricas.
+- **Navegador: Por favor utilizar Internet Explorer versión 9, 10 o 11.**
+- Importante: Para asegurar la correcta aplicación de sus pruebas es indispensable que no cierre el programa de la X que se encuentra en la parte superior derecha de todas las aplicaciones (Si lo hace es posible que deje de contestar preguntas importantes para su rendimiento en las pruebas). Cuando haya terminado en la pantalla aparecerá un aviso informándole que ha terminado su aplicación y dando clic en terminar el programa salvará y se cerrará.
+- No es necesario que la prueba sea realizada en una sola sesión, por lo que puede cerrar, al término de cualquier sección y retomar en otro momento. Siempre y cuando haya terminado la aplicación de alguna sección completa el programa salvará automáticamente.
  
 Para aplicar la prueba, por favor ingrese a este [link](http://190.26.108.66:81/portaliswinteractive)
  
