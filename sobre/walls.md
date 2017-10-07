@@ -52,6 +52,8 @@ ___
 # Painted walls say plenty | Walls alone do much alone in fact as well
 [White walls say nothing](http://www.imdb.com/title/tt3254710/plotsummary?ref_=tt_ov_pl)
 > _Buenos Aires is a complex, chaotic city. It has European style and a Latin American heart. It has oscillated between dictatorship and democracy for over a century, and its citizens have barely known political or economic stability. Throughout Buenos Aires' turbulent history, successive generations of activists and artists have taken to the streets to express themselves, through words and through art. This has given the walls a powerful and symbolic role. They have become the city's voice. This powerful tradition of expression in public space; of art and activism, has made the streets of Buenos Aires into a riot of colour and communication._
+
 # Walls with people
 Walls don't actually have people inside them, they're just on the other side. **You just don't get it. You simply don't understand walls** ~You don't get it but it's not such a big deal.~ 
+
 ###### Coda
