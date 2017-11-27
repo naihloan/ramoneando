@@ -2,11 +2,11 @@
 
 #### chess
 
-ayer me visitó peponov por el [bar](juicebarcba.com) y jugamos unos partidos de ajedrez. primero hicimos algunos partidos afuera y jugué muy mal, errores tontos. después hicimos fuimos adentro y pasó lo inverso. él jugó mejor, sin errores grandes pero gané medio rotundamente y en rondas seguidas. 
+ayer me visitó peponov por el [bar](juicebarcba.com) y jugamos unos partidos de ajedrez. primero hicimos algunos partidos afuera y jugué muy mal, errores tontos. después fuimos adentro y pasó lo inverso. él jugó mejor, sin errores grandes pero gané medio rotundamente y en rondas seguidas. 
 
-me comenta que está limado y le pregunto algo que siempre me interesó que es cómo entrenan los jugadores profesionales. y me explica que tienen un entrenamiento físico fuerte. kasparov explicaba que necesitaba una buena irrigación de sangre al cerebro para hacerlo trabajar después de las dos horas. además peponov agrega que es un tipo alto con muy buen físico, un verdadero deportista. después agrega que bobby fischer entrenaba las manos para intimidar a sus contrincantes rusos.
+me comenta que está limado y le pregunto algo que siempre me interesó que es cómo entrenan los jugadores profesionales. y me explica que tienen un entrenamiento físico fuerte. kasparov explicaba que necesitaba una buena irrigación de sangre al cerebro para hacerlo trabajar después de las dos horas. además peponov explica que kasparov es un tipo alto con muy buen físico, un verdadero deportista. después agrega que bobby fischer entrenaba las manos para intimidar a sus contrincantes rusos.
 
-___
+______
 
 #### transformación tai chi mariposa
 

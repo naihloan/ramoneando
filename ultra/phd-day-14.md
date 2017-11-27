@@ -1,4 +1,5 @@
 2017-10-12
+
 ## Questions for Ultrarunners | As Open End Ideas for Research
 
 #### Novices
@@ -8,16 +9,19 @@
 - Did you hallucinate while racing (due to lack of salts and minerals)?
 - Do you, and/or your family and fellow friends and coworkers, think that going ultra is crazy?
 - Can you make a personal balance on the before and after of running ultra?
-- Has your social and/or personal life changed?
+- Has your social and/or personal life changed when training and running ultra?
+- How do you eat/cook? Would you consider yourself knowledgable in the cuisine?
 
 #### Elite/Experienced
 
 - Do you use specific methods to develop strength, speed, flexibility?
 - How important and in which ways do you guide your nutrition? Perhaps with external guidance? Do you cook?
+- Does your eating and food preparing get you closer to be a cook?
 - How much do you attend to invisible training, such as resting?
 - How do you prepare for the specifics of each race?
-- How do you get your shoes, choose them, available locally?
+- How do you choose and get your shoes? Are they easily available locally?
 - How do you, if so, train form/technique?
+
 
 ______
 
