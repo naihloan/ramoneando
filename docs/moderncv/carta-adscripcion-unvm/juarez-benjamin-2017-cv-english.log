@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  12 MAY 2017 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  25 MAR 2018 10:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1053,42 +1053,46 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 62.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 62.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 87.
 [1
 
 {/home/nilon/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
 
-(./juarez-benjamin-2017-cv-english.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
-Package rerunfilecheck Info: File `juarez-benjamin-2017-cv-english.out' has not
- changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/m/n' instead on input line 97.
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+Underfull \hbox (badness 10000) detected at line 97
+\T1/lmss/m/n/8 .
+ []
 
- ) 
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <12> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 114.
+
+Underfull \hbox (badness 10000) detected at line 116
+\T1/lmss/m/n/8 .
+ []
+
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 120.
+[2]
+
+LaTeX Warning: Citation `book1' on page 3 undefined on input line 141.
+
+[3] (./juarez-benjamin-2017-cv-english.bbl) [4])
+! Emergency stop.
+<*> juarez-benjamin-2017-cv-english.tex
+                                       
+*** (job aborted, no legal \end found)
+
+ 
 Here is how much of TeX's memory you used:
- 20676 strings out of 493013
- 340016 string characters out of 6139317
- 412941 words of memory out of 5000000
- 23999 multiletter control sequences out of 15000+600000
- 43445 words of font info for 49 fonts, out of 8000000 for 9000
+ 20750 strings out of 493013
+ 341019 string characters out of 6139317
+ 415919 words of memory out of 5000000
+ 24045 multiletter control sequences out of 15000+600000
+ 66622 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,45p,10383b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
-nts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/share/texmf-dist/fonts/type1
-/public/fontawesome/FontAwesome.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb><
-/usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf-dist/f
-onts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/
-lmsso10.pfb>
-Output written on juarez-benjamin-2017-cv-english.pdf (1 page, 105490 bytes).
-PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
- 11777 words of extra memory for PDF output out of 12000 (max. 10000000)
-
+ 51i,12n,45p,10383b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
