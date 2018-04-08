@@ -158,7 +158,7 @@
 
 		%------------------------------------------------
 
-% 		\profilesection{Skills}
+%  		\profilesection{Skills}
 		\profilesection{Caracter\'{\i}sticas}
 
 		\skills
