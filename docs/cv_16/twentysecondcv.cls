@@ -149,8 +149,8 @@
 		%------------------------------------------------
 		
 		\ifthenelse{\equal{\aboutme}{}}{}{
-% 			\profilesection{About me}
-			\profilesection{Sobre m\'{\i}}
+ 			\profilesection{About me}
+%			\profilesection{Sobre m\'{\i}}
 			\begin{flushleft}
 				\aboutme
 			\end{flushleft}
@@ -158,8 +158,8 @@
 
 		%------------------------------------------------
 
-%  		\profilesection{Skills}
-		\profilesection{Caracter\'{\i}sticas}
+   		\profilesection{Skills}
+%		\profilesection{Caracter\'{\i}sticas}
 
 		\skills
 		\skillstext
