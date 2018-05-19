@@ -72,6 +72,7 @@
 \newcommand{\cvaddress}[1]{\renewcommand{\cvaddress}{#1}}
 \newcommand{\cvsite}[1]{\renewcommand{\cvsite}{#1}}
 \newcommand{\aboutme}[1]{\renewcommand{\aboutme}{#1}}
+\newcommand{\tech}[1]{\renewcommand{\tech}{#1}}
 \newcommand{\profilepic}[1]{\renewcommand{\profilepic}{#1}}
 \newcommand{\cvname}[1]{\renewcommand{\cvname}{#1}}
 \newcommand{\cvjobtitle}[1]{\renewcommand{\cvjobtitle}{#1}}
@@ -153,6 +154,15 @@
 			\profilesection{Sobre m\'{\i}}
 			\begin{flushleft}
 				\aboutme
+			\end{flushleft}
+		}
+
+		%------------------------------------------------
+
+		\ifthenelse{\equal{\tech}{}}{}{
+ 			\profilesection{Tecnolog\'{\i}a}
+			\begin{flushleft}
+				\tech
 			\end{flushleft}
 		}
 
