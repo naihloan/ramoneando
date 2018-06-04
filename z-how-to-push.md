@@ -14,6 +14,12 @@ ramoneando
 How-To Clone a Repository (go to the proper folder):
 git clone https://github.com/user/folder.github.io
 
+Extra useful to convert massive files of .md to .html:
+
+multimarkdown -f -b *.md
+
+(only thing left to improve is modify template from pandoc to add customized local css)*
+http://support.fletcherpenney.net/discussions/questions/1272-convert-lots-of-md-files-to-html-with-one-command
 
 Add, commit, and push your changes:
 
