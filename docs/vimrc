@@ -1,14 +1,92 @@
+syntax on " same as enable?
+filetype plugin on
+
 set background=dark
+set clipboard=unnamedplus
+set showcmd " https://stackoverflow.com/a/8160809/6253165
+set encoding=utf-8
+set fileencoding=utf-8
 set termguicolors
 set nocompatible " no vi [from previous millenia]
-" set clipboard+=unnamed  " use the clipboards of vim and win
-" set paste               " Paste from a window or from vim
-" set go+=a               " Visual selection automatically copied to the clipboard
+set spell
+set spelllang=en " set spelllang=es
+set linebreak
+set number
+set relativenumber
+set nobackup
+set nowritebackup
+set noswapfile
+set nobackup
+set shortmess+=A
+set clipboard=unnamedplus
+set omnifunc=htmlcomplete#CompleteTags
 
-colorscheme dejavu
-syntax on " same as enable?
+nnoremap <silent> - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
+" nnoremap - s<c-r>"<bs>'<esc>
+" nnoremap - s<c-r>=tr(@", 'aeuioáéúíó', 'áéúíóaeuio')<cr><esc>
+" nnoremap - s<c-r>=tr(@", 'aeioucnáéíóúçñ', 'áéíóúçñaeioucn')<cr><esc>
+" nnoremap - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
+" nnoremap - s<c-r>=tr(@",'aeiouAEIOUáéíóúÁÉÍÓÚ', 'áéíóúÁÉÍÓUaeiouAEIOU')<cr><esc>
+
+call plug#begin('~/.vim/plugged')
+execute pathogen#infect()
+autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+" set swapfile " set dir=~/tmp
+
+hi clear SpellBad
+hi SpellBad cterm=bold cterm=underline  guifg=yellow 
+
 :iabbrev </ </<C-X><C-O>
 autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
+
+
+colorscheme sandydune " too brown?
+colorscheme greenwint " great but block highlights
+colorscheme material-theme " pretty good. some brown
+colorscheme pencil " ++ but black background
+colorscheme zenburn " +, almost monochrome
+colorscheme monochrome " + pretty cool actually!!
+colorscheme neonwave " ++ but black background
+colorscheme hydrangea " +++ a bit too serious
+colorscheme herokudoc " +++ very neat and bright " LAST colorscheme is valid **
+" colorscheme solarized " classic
+"  Base2Tone_EveningDark " great contrast but orange
+"  magicwb " great grey background some colors too light
+"  Base2Tone_SeaDark " ++++ darkish blue
+"  Base2Tone_LakeDark " blueparagraphs +contrast. yellow
+"  Base2Tone_ForestDark " +++ yellow power
+"  detailed " good contrast. a bit dark
+" lucius " good but lacks contrast 
+" materialbox " Smooth
+" colorscheme onedark "+++ good Balance!!
+
+" 1989 " material-monokai
+" matrix " AWESOME but no highlight
+" dejavu " PERFECT but no spelling marks
+" seoul256 " mustard " SerialExperimentsLain
+" meta5 " orange but brown?
+" smyck " no highlight in paragraph
+" More COLORSCHEMES """ deus " stellarized_dark " synthwave " xedit " vrunchbang-dark " subtle_dark " relaxedgreen " alchemie " plain " papaya " shadesofamber " blueprint " seagrey-dark " forgotten-dark "  rupza "  northpole "  perun "  lucariox "  typewriter-night "  bdconry "  duoduo
+
+" saving with <C-S> instead of :w<R>
+noremap <silent> <C-S>          :update<CR>
+vnoremap <silent> <C-S>         <C-C>:update<CR>
+inoremap <silent> <C-S>         <C-O>:update<CR>
+
+" After Vimtutor: Some basic vim editing tips!
+" https://www.youtube.com/watch?v=jUfw7aHD_xY
+" map <F6> :setlocal spell! spelllang=en_es<CR>
+"
+" https://stackoverflow.com/questions/6411979/compiling-java-code-in-vim-more-efficiently
+autocmd Filetype java set makeprg=javac\ %
+set errorformat=%A%f:%l:\ %m,%-Z%p^,%-C%.%#
+map <F9> :make<Return>:copen<Return>
+map <F10> :cprevious<Return>
+map <F11> :cnext<Return>
+
+" http://learnvimscriptthehardway.stevelosh.com/chapters/07.html
+" this allows direct acces to vimrc from any vim instance
+:nnoremap <leader>ev :vsplit $MYVIMRC<cr>
 
 " jump to the last position when reopening a file
 if has("autocmd")
@@ -20,37 +98,16 @@ endif
 " " https://www.youtube.com/watch?v=XA2WjJbmmoM
 " FINDING FILES: " Search down into subfolders " Provides tab-completion for all file-related tasks
 set path+=**
-" Display all matching files when we tab complete
-set wildmenu
+set wildmenu " Display all matching files when we tab complete
 
 " NOW WE CAN: " - Hit tab to :find by partial match " - Use * to make it fuzzy
 " THINGS TO CONSIDER: " - :b lets you autocomplete any open buffer
 
-" AUTOCOMPLETE: The good stuff is documented in |ins-completion| " HIGHLIGHTS:
-" - ^x^n for JUST this file
+" AUTOCOMPLETE: The good stuff is documented in |ins-completion| " HIGHLIGHTS: 
 " - ^x^f for filenames (works with our path trick!)
-" - ^x^] for tags only
 " - ^n for anything specified by the 'complete' option
 " NOW WE CAN: - Use ^n and ^p to go back and forth in the suggestion list
 
-filetype plugin on
-set linebreak
-set number
-set relativenumber
-set nobackup
-set nowritebackup
-set noswapfile
-set nobackup
-set shortmess+=A
-set clipboard=unnamedplus
-set omnifunc=htmlcomplete#CompleteTags
-call plug#begin('~/.vim/plugged')
-"
-" set swapfile
-" set dir=~/tmp
-syntax on
-execute pathogen#infect()
-autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
 " filenames like *.xml, *.html, *.xhtml, ...
 " let g:closetag_filenames = "*.html,*.xhtml,*.phtml"
 " autocmd vimenter * NERDTree
@@ -59,3 +116,90 @@ autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
 " https://github.com/ggreer/the_silver_searcher
 let g:ackprg = 'ag --nogroup --nocolor --column'
 
+" function! ToggleAccent() 
+"  " Vowels
+"  let withAccent   = ["á" ,"é" ,"í" ,"ó" ,"ú" ,"Á" ,"É" ,"Í" ,"Ó" ,"Ú", "ñ", "Ñ", "ç", "Ç" ]
+"  let withNoAccent = ["a" ,"e" ,"i" ,"o" ,"u" ,"A" ,"E" ,"I" ,"O" ,"U", "n", "N", "c", "C" ]
+"
+"  " A better way of getting the character under the cursor. From: https://stackoverflow.com/a/23323958/1121933
+"  let character = matchstr( getline('.'), '\%' . col('.') . 'c.' )
+"
+"   " If it's a vowel without an acute accent over it, 'position' will contain
+"   " the index of the matching element in the 'withNoAccent' list or -1 otherwise.
+"   let position = match( withNoAccent , character )
+"   if position != -1
+"      " Replace it with an accented vowel
+"      execute ":normal! r" . withAccent[position]
+"   else
+"      " Check if it's a vowel with an acute accent over it
+"      let position = match( withAccent , character )
+"      if position != -1
+"         " Replace it with a vowel with no accent
+"         execute ":normal! r" . withNoAccent[position]
+"     endif
+"   endif
+"
+"  " Do nothing if it isn't a vowel
+"endfunction
+
+" Map the '-' key
+" nnoremap <silent> - :call ToggleAccent()<CR>
+
+" tl,dr "\o" opens three lines and puts insert mode in middle
+" reference: http://vim.wikia.com/wiki/Insert_multiple_lines
+" Open multiple lines (insert empty lines) before or after current line,
+" and position cursor in the new space, with at least one blank line
+" before and after the cursor.
+function! OpenLines(nrlines, dir)
+  let nrlines = a:nrlines < 3 ? 3 : a:nrlines
+  let start = line('.') + a:dir
+  call append(start, repeat([''], nrlines))
+  if a:dir < 0
+    normal! 2k
+  else
+    normal! 2j
+  endif
+endfunction
+" Mappings to open multiple lines and enter insert mode.
+nnoremap <Leader>o :<C-u>call OpenLines(v:count, 0)<CR>S
+nnoremap <Leader>O :<C-u>call OpenLines(v:count, -1)<CR>S
+nnoremap <Leader>T :ThematicNext<CR>
+nnoremap <Leader>D :Thematic pencil_dark<CR>
+nnoremap <Leader>L :Thematic pencil_lite<CR>
+
+" auto-save
+autocmd CursorHold * update
+autocmd CursorHold,CursorHoldI * update
+
+" Go to last file if invoked without arguments.
+autocmd VimEnter * nested if
+  \ argc() == 0 &&
+  \ bufname("%") == "" &&
+  \ bufname("2" + 0) != "" |
+  \   exe "normal! `0" |
+  \ endif
+
+" http://vim.wikia.com/wiki/Open_the_last_edited_file
+" Open last active file(s) if VIM is invoked without arguments.
+autocmd VimLeave * nested let buffernr = bufnr("$") |
+    \ let buflist = [] |
+    \ while buffernr > 0 |
+    \	if buflisted(buffernr) |
+    \	    let buflist += [ bufname(buffernr) ] |
+    \	endif |
+    \   let buffernr -= 1 |
+    \ endwhile |
+    \ if (!isdirectory($HOME . "/.vim")) |
+    \	call mkdir($HOME . "/.vim") |
+    \ endif |
+    \ call writefile(reverse(buflist), $HOME . "/.vim/buflist.txt")
+
+autocmd VimEnter * nested if argc() == 0 && filereadable($HOME . "/.vim/buflist.txt") |
+    \	for line in readfile($HOME . "/.vim/buflist.txt") |
+    \	    if filereadable(line) |
+    \		execute "tabedit " . line |
+    \		set bufhidden=delete |
+    \	    endif |
+    \	endfor |
+    \	tabclose 1 |
+    \ endif"
