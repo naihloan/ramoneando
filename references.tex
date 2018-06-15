@@ -1,0 +1,41 @@
+\documentclass[11pt]{article}
+\usepackage{cite}
+\selectlanguage{spanish}
+\usepackage[utf8]{inputenc}
+
+% Remove numbers from bibliography entries
+\makeatletter
+\renewcommand\@biblabel[1]{}
+\makeatother
+
+
+\begin{document}
+
+\title{References}
+\author{Benjamin Juarez}
+\date{\today}
+\maketitle
+
+
+% “Running is a simple activity. Just lace up your shoes and go, one step at a time, like each breath.” 
+% -- Finn ~\cite{Finn2012}.
+% 
+% "I'm often asked what I think about as I run. Usually the people who ask this have never run long distances themselves. I always ponder the question. What exactly do I think about when I'm running? I don't have a clue." -- Murakami ~\cite{murakami2009talk}
+% 
+% "When I'm running I don't have to talk to anybody and don't have to listen to anybody. This is a part of my day I can't do without."
+% -- Murakami ~\cite{murakami2009talk}
+
+% ``Manners is the key thing. Say, for instance, when you're growing up, you're walking down the street, you've got to tell everybody good morning. Everybody. You can't pass one person.'' ~\cite{bolt2013faster}
+
+% Blablabla said Nobody ~\cite{Nobody06}.
+
+
+
+\bibliography{mybib}{}
+% \bibliographystyle{plain}
+% \bibliographystyle{ieeetr}
+\bibliographystyle{abbrv}
+
+\nocite{*}
+
+\end{document}
