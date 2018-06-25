@@ -36,12 +36,8 @@ div{height: 100px;}span{display: inline-block;vertical-align: middle;line-height
 
 .responsive-image{width: 100%;background-size: 100% 100%;} 
 /* Retina display */
-@media screen and (min-width: 1024px){.responsive-image{ background-image: url('../img/retina.jpg');    }}
-/* Desktop */
-@media screen and (min-width: 980px) and (max-width: 1024px){    .responsive-image{ background-image: url('../img/desktop.jpg');    }}
-/* Tablet */
-@media screen and (min-width: 760px) and (max-width: 980px){    .responsive-image{ background-image: url('../img/tablet.jpg');    }}
-/* Mobile HD */
-@media screen and (min-width: 350px) and (max-width: 760px){    .responsive-image{ background-image: url('../img/mobile-hd.jpg');    }}
-/* Mobile LD */
-@media screen and (max-width: 350px){    .responsive-image{ background-image: url('../img/mobile-ld.jpg');    }} 
+@media screen and (min-width: 1024px){.responsive-image{background-image:url('../img/retina.jpg');}}
+/* Desktop */ @media screen and (min-width: 980px) and (max-width: 1024px){.responsive-image{background-image: url('../img/desktop.jpg');}}
+/* Tablet */ @media screen and (min-width: 760px) and (max-width: 980px){.responsive-image{background-image: url('.jpg');}}
+/* Mobile HD */ @media screen and (min-width: 350px) and (max-width: 760px){.responsive-image{ background-image: url('../img/mobile-hd.jpg');}}
+/* Mobile LD */ @media screen and (max-width: 350px){.responsive-image{background-image: url('../.jpg');}} 
