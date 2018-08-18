@@ -1,5 +1,127 @@
 % Encoding: UTF-8
 
+@incollection{coughlan2015glory,
+	title = "{From Shame into Glory in The Filth}",
+	author = "David Coughlan",
+	year = "2015",
+   	booktitle =     "{Grant Morrison and the Superhero Renaissance: Critical Essays}",
+	crossref = "green2015morrisonsuperheroessays",}
+
+@incollection{hogertz2010pedestrian,
+	title="Emotions of the urban pedestrian: sensory mapping",
+	author="Carsten Hogertz",
+	crossref = "methorst2010pqn",}
+
+@incollection{knappett2011meshworks,
+	author="Carl Knappett",
+	title="Networks of Objects, Meshworks of Things",
+	crossref="ingold2011movements",
+	pages="45-64"}
+
+@article{kuschnir2018drawnethnography,
+   title = {{CAUSEY, Andrew. 2017. Drawn to See. Drawing as an Ethnographic Method}},
+   journal = {{Mana}},
+   author={Kuschnir, Karina},
+   ISSN = {0104-9313},
+   language = {pt},
+   URL = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-93132018000100271&nrm=iso},
+   volume = {24},
+   year = {2018},
+   month = {04},
+   pages = {271 - 275},
+   publisher = {scielo},
+   crossref = {10.1590/1678-49442018v24n1p271},
+   }
+
+@incollection{legat2008footprints,
+	author="Allice Legat",
+	title="Walking Stories; Leaving Footprints",
+	crossref="ingoldvergunst2008walking",
+	pages="35-50"}
+
+@incollection{lund2008saints,
+	author="Katrin Lund",
+	title="Listen to the Sound of Time: Walking with Saints in an Andalusian Village",
+	crossref="ingoldvergunst2008walking",
+	pages="93-104"}
+{mol2008apple,
+	author = "Mol, Annemarie"
+	title = "I Eat an Apple. On Theorizing Subjectivities",
+	journal = "Subjectivity",
+	year = "2008",
+	volume = "22",
+	issue = "1",
+	pages = "28-37",
+	publisher = "Palgrave Macmillan Ltd",
+	url = "http://dx.doi.org/10.1057/sub.2008.2"}
+
+@incollection{moore2010leading,
+	author="Kenny Moore",
+	title="Leading Men",
+	pages="175-189",
+	crossref="willey2010going"}
+
+@incollection{sautertight2010walking,
+	author="Sauter, Daniel; Tight, Miles",
+	title="Measuring walking: Towards internationally standardised monitoring methods",
+	crossref = "methorst2010pqn",}
+
+@incollection{sarver2007lung,
+	author="Robert Sarver III",
+	title="Brown Lung Disease",
+	booktitle="Encyclopedia of White-Collar Crime",
+	year="2007",
+	pages="37-39",
+	crossref="gerber2007whitecollar"}
+
+@incollection{self2007nike,
+	author="Rebecca Self",
+	title="{Nike V. Kasky}",
+	pages="198-199",
+	crossref="gerber2007whitecollar"}
+
+@incollection{sheets2011kinaesthesia,
+	author="Maxine Sheets-Johnstone", 
+	title="The Imaginative Consciousness of Movement: Linear Quality, Kinaesthesia, Language and Life",
+	crossref="ingold2011movements",
+	pages="115-128"}
+
+@incollection{thomas2010shaping,
+	author="Rachel Thomas",
+	title="Architectural and urban atmospheres. Shaping the way we walk in town",
+	crossref = "methorst2010pqn",}
+
+@incollection{tuck2008huntergather,
+	author="Lye Tuck-Po",
+	title="{Before a Step Too Far: Walking with Batek Hunter-Gatherers in the Forests ofPahang, Malaysia}",
+	year="2008",
+   	booktitle = "{Ways of Walking | Ethnography and Practice on Foot}",
+	editor="Ingold \& Vergunst",
+	crossref="ingoldvergunst2008walking",
+	pages="21-34"}
+
+@incollection{shilling2011bodyinsociology,
+	author="Chris Shilling",
+	title="Afterword: Body work and the sociological tradition",
+	pages="162-166",
+	crossref="twiggcohen2011health"}
+
+@incollection{vergunst2008care,
+	author="Jo Lee Vergunst",
+	title="Taking a Trip and Taking Care in Everyday Life",
+	year="2008",
+   	booktitle = "{Ways of Walking | Ethnography and Practice on Foot}",
+	editor="Ingold \& Vergunst",
+	crossref="ingoldvergunst2008walking",
+	pages="105-122"}
+
+@incollection{vessuri2016philantropy,
+	author="Hebe Vessuri",
+	title="{From Science as ‘Development Assistance’ to ‘Global Philanthropy’}",
+	year="2016",
+	booktitle="Tyfield, D., R. Lave, S. Randalls and Ch. Thorpe", 
+	booktitle="{The Routledge Handbook of the Political Economy of Science}",
+	crossref = "tyfield2016science",}
 @book{agamben2016saceriv,
    title =     {The Use of Bodies (Homo Sacer IV, 2)},
    author =    {Giorgio Agamben},
@@ -132,7 +254,7 @@
 	pages = "54-61"
 }
 
-@PhdThesis{barratt2010,
+@PhdThesis{Barratt2010,
   author  = {Peter Richard Barratt},
   title   = {Hybrid climbing bodies: the climbing assemblage and the technologically mediated engagements and ascensions of rock climbers},
   year    = {2010},
@@ -151,15 +273,6 @@
 	doi="http://dx.doi.org/10.1016/j.healthplace.2016.09.009",
 	booktitle = {Health \& Place}
 }
-
-@book{baumeister2011willpower,
-   title =     {Willpower: Rediscovering the Greatest Human Strength},
-   author =    {Roy F. Baumeister, John Tierney},
-   publisher = {Penguin Press HC, The},
-   isbn =      {1594203075,9781594203077},
-   year =      {2011},
-   edition =   {1},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=4F6D8E29526B880747A67EA63F7A81F3}}
 
 @book{becker1997outsiders,
    title =     {Outsiders: Studies In The Sociology Of Deviance},
@@ -456,16 +569,6 @@ edition =   {2nd},
 	pages="16-42",
 	urldate="07/07/2018",
 	url="http://marathonandbeyond.com/choices/Englehart.pdf"
-}
-
-@phdthesis{
-	author = "Ferreira, Pedro Peixoto",
-	title = "Música Eletrônica e Xamanismo: técnicas contemporâneas do êxtase",
-	year = "2006",
-	school = "Universidade Estadual de Campinas, Instituto de Filosofia e Ciências Humanas",
-	address = "Campinas, São Paulo",
-	url = <http://www.repositorio.unicamp.br/handle/REPOSIP/280496>. 
-	urldate = "Acesso em: 14 ago. 2018"
 }
 
 @book{ finn2012kenyans,
@@ -859,34 +962,6 @@ eprint = {https://doi.org/10.1177/1466138115609377},
 	address=  "London",
 	year=     "2007"}
 
-@book{harper2016goodcompanytramps,
-   title =     {Good Company: A Tramp Life},
-   author =    {Douglas Harper},
-   publisher = {Routledge},
-   isbn =      {113867494X,9781138674943},
-   year =      {2016},
-   edition =   {3rd},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=06057258C8E2D25E59FA1F97E4B3A976}}
-
-@book{harris1989cowspigswarswitches,
-   title =     {Cows, Pigs, Wars, and Witches: The Riddles of Culture},
-   author =    {Marvin Harris},
-   publisher = {Vintage},
-   isbn =      {0679724680,9780679724681},
-   year =      {1989},
-   edition =   {Reissue},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=C59C62D40179B94BF4370294F1F2C050}}
-
-@book{heinrich2002whywerunnaturalhistory,
-   title =     {Why We Run: A Natural History},
-   author =    {Bernd Heinrich},
-   publisher = {Harper Perennial},
-   isbn =      {0060958707,9780060958701,9780061795633},
-   year =      {2002},
-   abstract = "(Previously published as Racing the Antelope: What
-Animals Can Teach Us About Running and Life)",
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=4FE49F9AFB09DC264871C94FEEF90727}}
-
 @book{ karno2005night,
    	author =    "Karnazes, Dean",
    	title =     "Ultramarathon Man: Confessions of an All-Night Runner",
@@ -968,16 +1043,6 @@ Animals Can Teach Us About Running and Life)",
 	publisher="{Fundación Ross}",
 	volume="{I-IV}",
 	address="Rosario"}
-
-@phdthesis{labate2011phdayahuasca,
-	author = "Labate, Beatriz Caiuby",
-	title = "Ayahuasca Mamancuma merci beaucoup: internacionalização e diversificação do vegetalismo ayahuasqueiro peruano",
-	year = "2011",
-	school = "Universidade Estadual de Campinas, Instituto de Filosofia e Ciências Humanas",
-	address = "Campinas, São Paulo",
-	url = <http://www.repositorio.unicamp.br/handle/REPOSIP/280737>. 
-	urldate = "Acesso em: 14 ago. 2018"
-}
 
 @article{latham2005engagement,
 	author="Latham, Alan; McCormack, Derek",
@@ -1188,33 +1253,6 @@ eprint = {https://doi.org/10.1177/1474474013491927},
    year =      {May 2002},
    DOI =       {http://dx.doi.org/10.1086/342993}}
 
-@book{noakessboros2017loreofnutrition,
-   title =     {Lore of Nutrition: Challenging conventional dietary beliefs},
-   author =    {Tim Noakes, Marika Sboros},
-   publisher = {Penguin},
-   year =      {2017},
-   abstract =  {healthy fats, low carbs},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=1A7D58BE7B5D57509B6A7B93E376F524}}
-
-@book{noakesetal2016realmealrevolution,
-   title =     {The Real Meal Revolution: The Radical, Sustainable Approach to Healthy Eating},
-   author =    {Tim Noakes, Jonno Proudfoot, Sally-Ann Creed},
-   publisher = {Constable \& Robinson},
-   isbn =      {1472135695,9781472135698},
-   year =      {2016},
-   series =    {Age of Legends},
-   abstract =  {healthy fats, low carbs | [southafrican] science nutrition chef},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=A6FAA5713199F1A30AC9A98AF511FA48}}
-
-@book{noakes2001loreofrunning,
-   title =     {Lore of Running},
-   author =    {Timothy Noakes},
-   publisher = {Human Kinetics},
-   isbn =      {0-87322-959-2},
-   year =      {2001},
-   edition =   {4},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=8F478C9762487C346F0346901EE1C119}}
-
 @article{nocera2008parktarde,
 	author="Nocera, Pablo",
 	year="2008",
@@ -1240,35 +1278,6 @@ eprint = {https://doi.org/10.1177/1474474013491927},
 	address="Córdoba",
 	month="Noviembre"
 }
-
-@article{pateletal2010sittingmortality,
-	title = "Leisure Time Spent Sitting in Relation to Total Mortality in a Prospective Cohort of US Adults",
-	authors = "Patel, Alpa V; Bernstein, Leslie; Deka, Anusila; Feigelson, Heather Spencer; Campbell, Peter T; Gapstur, Susan M; Colditz, Graham A; Thun, Michael J",
-	journal = "American Journal of Epidemiology",
-	year = "2010",
-	date = "Jul 22",
-	volume "172(4)",
-	pages = "419-29",
-	doi = "10.1093/aje/kwq155",
-	abstract = "The obesity epidemic is attributed in part to reduced physical activity. Evidence supports that reducing time spent sitting, regardless of activity, may improve the metabolic consequences of obesity. Analyses were conducted in a large prospective study of US adults enrolled by the American Cancer Society to examine leisure time spent sitting and physical activity in relation to mortality. Time spent sitting and physical activity were queried by questionnaire on 53,440 men and 69,776 women who were disease free at enrollment. The authors identified 11,307 deaths in men and 7,923 deaths in women during the 14-year follow-up. After adjustment for smoking, body mass index, and other factors, time spent sitting (≥6 vs. <3 hours/day) was associated with mortality in both women (relative risk = 1.34, 95% confidence interval (CI): 1.25, 1.44) and men (relative risk = 1.17, 95% CI: 1.11, 1.24). Relative risks for sitting (≥6 hours/day) and physical activity (<24.5 metabolic equivalent (MET)-hours/week) combined were 1.94 (95% CI: 1.70, 2.20) for women and 1.48 (95% CI: 1.33, 1.65) for men, compared with those with the least time sitting and most activity. Associations were strongest for cardiovascular disease mortality. The time spent sitting was independently associated with total mortality, regardless of physical activity level. Public health messages should include both being physically active and reducing time spent sitting.",
-}
-
-@book{pessin2017onhowardbeckerswidehorizontheory,
-   title =     {The Sociology of Howard S. Becker: Theory with a Wide Horizon},
-   author =    {Alain Pessin},
-   publisher = {University of Chicago Press},
-   isbn =      {022636271X,022636285X,9780226362717,9780226362854},
-   year =      {2017},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=27F4837E578F2F40ED9DD534B3224D21}}
-
-@book{piantadosi2003extremebiology,
-   title =     {The Biology of Human Survival: Life and Death in Extreme Environments},
-   author =    {Claude A. Piantadosi},
-   publisher = {Oxford University Press, USA},
-   isbn =      {9780195165012,0195165012},
-   year =      {2003},
-   edition =   {1},
-   url =       {http://gen.lib.rus.ec/book/index.php?md5=B415F0360467A52F0F4FC253470CEF3D}}
 
 @book{piercemurrmoss2012program,
    title =     {Run Less Run Faster: Become a Faster, Stronger Runner with the Revolutionary 3-Runs-a-Week Training Program},
@@ -1306,7 +1315,6 @@ eprint = {https://doi.org/10.1177/1474474013491927},
 	year="2013",
 	date = "February 28",
 	journal = "Runner's World",
-	abstract = "groat",
 	urldate="07/07/2018",
 	url="https://www.runnersworld.com/runners-stories/a20793630/who-is-the-greatest-runner-of-all-time/"
 }
@@ -1808,131 +1816,5 @@ abstract = { What matter is walking ground made of? And how does such ground mat
 	author="Winston Groom (novel), Eric Roth (screenplay), Robert Zemeckis (director)",
 	urldate="2018-08-09",
 	url="https://www.imdb.com/title/tt0109830/"}
-
-@Book{,
-}
-
-@incollection{coughlan2015glory,
-	title = "{From Shame into Glory in The Filth}",
-	author = "David Coughlan",
-	year = "2015",
-   	booktitle =     "{Grant Morrison and the Superhero Renaissance: Critical Essays}",
-	crossref = "green2015morrisonsuperheroessays",}
-
-@incollection{hogertz2010pedestrian,
-	title="Emotions of the urban pedestrian: sensory mapping",
-	author="Carsten Hogertz",
-	crossref = "methorst2010pqn",}
-
-@incollection{knappett2011meshworks,
-	author="Carl Knappett",
-	title="Networks of Objects, Meshworks of Things",
-	crossref="ingold2011movements",
-	pages="45-64"}
-
-@article{kuschnir2018drawnethnography,
-   title = {{CAUSEY, Andrew. 2017. Drawn to See. Drawing as an Ethnographic Method}},
-   journal = {{Mana}},
-   author={Kuschnir, Karina},
-   ISSN = {0104-9313},
-   language = {pt},
-   URL = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-93132018000100271&nrm=iso},
-   volume = {24},
-   year = {2018},
-   month = {04},
-   pages = {271 - 275},
-   publisher = {scielo},
-   crossref = {10.1590/1678-49442018v24n1p271},
-   }
-
-@incollection{legat2008footprints,
-	author="Allice Legat",
-	title="Walking Stories; Leaving Footprints",
-	crossref="ingoldvergunst2008walking",
-	pages="35-50"}
-
-@incollection{lund2008saints,
-	author="Katrin Lund",
-	title="Listen to the Sound of Time: Walking with Saints in an Andalusian Village",
-	crossref="ingoldvergunst2008walking",
-	pages="93-104"}
-{mol2008apple,
-	author = "Mol, Annemarie"
-	title = "I Eat an Apple. On Theorizing Subjectivities",
-	journal = "Subjectivity",
-	year = "2008",
-	volume = "22",
-	issue = "1",
-	pages = "28-37",
-	publisher = "Palgrave Macmillan Ltd",
-	url = "http://dx.doi.org/10.1057/sub.2008.2"}
-
-@incollection{moore2010leading,
-	author="Kenny Moore",
-	title="Leading Men",
-	pages="175-189",
-	crossref="willey2010going"}
-
-@incollection{sautertight2010walking,
-	author="Sauter, Daniel; Tight, Miles",
-	title="Measuring walking: Towards internationally standardised monitoring methods",
-	crossref = "methorst2010pqn",}
-
-@incollection{sarver2007lung,
-	author="Robert Sarver III",
-	title="Brown Lung Disease",
-	booktitle="Encyclopedia of White-Collar Crime",
-	year="2007",
-	pages="37-39",
-	crossref="gerber2007whitecollar"}
-
-@incollection{self2007nike,
-	author="Rebecca Self",
-	title="{Nike V. Kasky}",
-	pages="198-199",
-	crossref="gerber2007whitecollar"}
-
-@incollection{sheets2011kinaesthesia,
-	author="Maxine Sheets-Johnstone", 
-	title="The Imaginative Consciousness of Movement: Linear Quality, Kinaesthesia, Language and Life",
-	crossref="ingold2011movements",
-	pages="115-128"}
-
-@incollection{thomas2010shaping,
-	author="Rachel Thomas",
-	title="Architectural and urban atmospheres. Shaping the way we walk in town",
-	crossref = "methorst2010pqn",}
-
-@incollection{tuck2008huntergather,
-	author="Lye Tuck-Po",
-	title="{Before a Step Too Far: Walking with Batek Hunter-Gatherers in the Forests ofPahang, Malaysia}",
-	year="2008",
-   	booktitle = "{Ways of Walking | Ethnography and Practice on Foot}",
-	editor="Ingold \& Vergunst",
-	crossref="ingoldvergunst2008walking",
-	pages="21-34"}
-
-@incollection{shilling2011bodyinsociology,
-	author="Chris Shilling",
-	title="Afterword: Body work and the sociological tradition",
-	pages="162-166",
-	crossref="twiggcohen2011health"}
-
-@incollection{vergunst2008care,
-	author="Jo Lee Vergunst",
-	title="Taking a Trip and Taking Care in Everyday Life",
-	year="2008",
-   	booktitle = "{Ways of Walking | Ethnography and Practice on Foot}",
-	editor="Ingold \& Vergunst",
-	crossref="ingoldvergunst2008walking",
-	pages="105-122"}
-
-@incollection{vessuri2016philantropy,
-	author="Hebe Vessuri",
-	title="{From Science as ‘Development Assistance’ to ‘Global Philanthropy’}",
-	year="2016",
-	booktitle="Tyfield, D., R. Lave, S. Randalls and Ch. Thorpe", 
-	booktitle="{The Routledge Handbook of the Political Economy of Science}",
-	crossref = "tyfield2016science",}
 
 @Comment{jabref-meta: databaseType:biblatex;}
