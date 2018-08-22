@@ -9,7 +9,8 @@ set fileencoding=utf-8
 set termguicolors
 set nocompatible " no vi [from previous millenia]
 set spell
-set spelllang=en " set spelllang=es
+set spelllang=en 
+" set spelllang=es
 set linebreak
 set number
 set relativenumber
@@ -39,6 +40,13 @@ hi SpellBad cterm=bold cterm=underline  guifg=yellow
 :iabbrev </ </<C-X><C-O>
 autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
 
+" incremental search " http://www.oualline.com/vim/10/top_10.html
+:set incsearch
+" indents (C style)
+" :set cindent
+" 7. The :make command " awesome to compile!!!
+" 8. Tag navigation " nice to navigate
+" MORE: Vim Cookbook >> http://www.oualline.com/vim-cook.html
 
 colorscheme sandydune " too brown?
 colorscheme greenwint " great but block highlights
@@ -68,6 +76,23 @@ colorscheme herokudoc " +++ very neat and bright " LAST colorscheme is valid **
 " smyck " no highlight in paragraph
 " More COLORSCHEMES """ deus " stellarized_dark " synthwave " xedit " vrunchbang-dark " subtle_dark " relaxedgreen " alchemie " plain " papaya " shadesofamber " blueprint " seagrey-dark " forgotten-dark "  rupza "  northpole "  perun "  lucariox "  typewriter-night "  bdconry "  duoduo
 
+" How to fold/unfold HTML tags with Vim
+" https://stackoverflow.com/a/17384809/6253165
+" I use zO and zc to open and close nested folds, respectively.
+set foldmethod=indent
+setlocal foldmethod=manual
+" setlocal foldmethod=syntax
+" http://vim.wikia.com/wiki/VimTip991
+" VIM WIKI | Make views automatic
+autocmd BufWinLeave *.* mkview
+autocmd BufWinEnter *.* silent loadview 
+
+" http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
+
 " saving with <C-S> instead of :w<R>
 noremap <silent> <C-S>          :update<CR>
 vnoremap <silent> <C-S>         <C-C>:update<CR>
@@ -87,12 +112,17 @@ map <F11> :cnext<Return>
 " http://learnvimscriptthehardway.stevelosh.com/chapters/07.html
 " this allows direct acces to vimrc from any vim instance
 :nnoremap <leader>ev :vsplit $MYVIMRC<cr>
+:nnoremap <leader>eb :vsplit /home/nilon/Public/ramoneando/docs/mybib.bib<cr>
+:nnoremap <leader>ei :vsplit /home/nilon/Public/ramoneando/ultra/index.html<cr>
 
 " jump to the last position when reopening a file
 if has("autocmd")
   au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$")
     \| exe "normal! g'\"" | endif
 endif
+
+" https://github.com/LukeSmithxyz/shortcut-sync """" ** bash, ranger and qutebrowser synchronization **
+autocmd BufWritePost ~/.scripts/folders,~/.scripts/configs !bash ~/.scripts/shortcuts.sh
 
 " " https://github.com/mcantor/no_plugins/blob/master/no_plugins.vim
 " " https://www.youtube.com/watch?v=XA2WjJbmmoM
@@ -168,7 +198,8 @@ nnoremap <Leader>D :Thematic pencil_dark<CR>
 nnoremap <Leader>L :Thematic pencil_lite<CR>
 
 " auto-save
-autocmd CursorHold * update
+" https://vi.stackexchange.com/a/79/12815
+" autocmd CursorHold * update
 autocmd CursorHold,CursorHoldI * update
 
 " Go to last file if invoked without arguments.

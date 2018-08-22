@@ -1,5 +1,6 @@
 var quotes = [
 'We are what we think. `I never said that!` – the Buddha',
+'What we achieve inwardly will change outer reality. – Plutarch',
 'If your dreams don’t scare you, they aren’t big enough. – Muhammad Ali',
 'Complaining is a sign that someone isn´t willing to risk moving on a changeable situation, or won´t consider the immutable circumstance in his or her plans. This is a temporary and hollow form of self-validation. // When you start to make things happen, you really begin to believe you can make things happen. And that makes things happen. – David Allen',
 'Había empezado a escribir para fijar los “secretos” que hubiera podido olvidar. Y más que para fijarlos, para suscitarlos, para provocar secretos que debieran escribirse. Todavía creo que pensamos a partir de lo que escribimos y no al revés. – Louis Aragon',

@@ -1,8 +1,0 @@
-- [aprender la paciencia y volar](2011.hermanos-voladores.html)
-- [la tensión y distensión en las cejas](2012.fruncir.html)
-- [músicas de sampa](2014.podcast.html)
-- [teclados bizarros pero cómodos](2015-dvorak-twister.html)
-- [felicidad](2015.09.18.gracias.html)
-- [graffitis felices](2015.09.18.sonrisa.html)
-- [cajita de comida saborsa hindú (hecha con amor)](2015.09.19.comida-y-cartas.html)
-- [cero accidentes en esta pared](2015.11.16.acrobacia-burocracia-graffiti.html)
