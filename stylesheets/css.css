@@ -8,9 +8,26 @@ h6.green{color:green} /* .green{color:green} */ /* font-size:250%; */ /* p {font
 .transparent{/* background-color: #ffffff; */    opacity: .5;}
 .boxed {  border: 1px solid black ;}/* :root{background-color:gray} */
 div{height: 100px;}span{display: inline-block;vertical-align: middle;line-height: normal;} /*a#link{color:white}a#link:hover {color:red}*/
-ul{ 
-
+/* ul.quotes{list-style-type:none} */
+.grid {display: grid; grid-template-columns: repeat(12, 1fr);
 }
+ul.container{
+list-style-type:none;
+display:grid;
+  flex-direction: row; 
+/* row-reverse ; */ 
+/* column ; */ 
+/* column-reverse; */
+  flex-wrap: nowrap; 
+/* wrap ; */ 
+/* wrap-reverse; */
+  /* grid-template-columns: 250px 250px; */
+  /* grid-template-rows: 250px 250px; */
+/* grid-column-gap:20px; */
+}
+/* img{width: 100%; center: auto; margin-right: auto;} */
+img{border:0}
+/* figure{width: 100%; center: auto; margin-right: auto;} */
 .nav ul {list-style: none;/*background-color: none;*/text-align: center;padding: 0;margin: 0;} .nav li {font-size: 1.2em;line-height: 40px;height: 40px;/*border-bottom: 1px border #888;*/}  .nav a {text-decoration: none; display: block;} .nav a:hover {/*background-color:none;*/ /*#222222*/;border-style: none;/*border-color:none*/} .nav a.active {background-color: #fff;color: #444;cursor: default;} 
 @media screen and (min-width: 600px) { .nav li {width: 120px;border-bottom: none;height: 50px;line-height: 50px;font-size: 1.2em;/*font-size: 1.4em;*/} .nav li {display: inline-block;margin-right: -4px;}
   }
