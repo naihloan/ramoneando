@@ -1,4 +1,3 @@
-
 ### General
 
 * Show USA/Brazil
