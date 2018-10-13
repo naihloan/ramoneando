@@ -12,6 +12,7 @@ h1 {color:black;}
 h6.green{color:green} /* .green{color:green} */ /* font-size:250%; */ /* p {font-family:Courier;} */
 .transparent{/* background-color: #ffffff; */    opacity: .5;}
 .boxed {  border: 1px solid black ;}/* :root{background-color:gray} */
+mark#green{background-color:aqua};
 div{height: 100px;}span{display: inline-block;vertical-align: middle;line-height: normal;} /*a#link{color:white}a#link:hover {color:red}*/
 /* ul.quotes{list-style-type:none} */
 .grid {display: grid; grid-template-columns: repeat(12, 1fr);
