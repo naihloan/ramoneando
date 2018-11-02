@@ -1,11 +1,7 @@
-<div id="masthead" class="section">
+fetched 2018-11-02
 
 [Derek Sivers](/ "Derek Sivers")
 ================================
-
-</div>
-
-<div id="content">
 
 [![E-Myth Revisited - by Michael
 Gerber](/images/EMythRevisited.gif)](https://www.amazon.com/dp/0887307280?tag=sivers-20)

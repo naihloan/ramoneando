@@ -1,11 +1,7 @@
-<div id="masthead" class="section">
+fetched 2018-11-02
 
 [Derek Sivers](/ "Derek Sivers")
 ================================
-
-</div>
-
-<div id="content">
 
 [![The 48 Laws of Power - by Robert Greene and Joost
 Elffers](/images/48LawsOfPower.gif)](https://www.amazon.com/dp/0140280197?tag=sivers-20)
