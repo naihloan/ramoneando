@@ -149,8 +149,8 @@
 
 		%------------------------------------------------
 		
-		\ifthenelse{\equal{\aboutme}{}}{}{% \profilesection{About me}
-			\profilesection{Sobre m\'{\i}}
+		\ifthenelse{\equal{\aboutme}{}}{}{
+ 			\profilesection{About me}
 			\begin{flushleft}
 				\aboutme
 			\end{flushleft}
@@ -159,7 +159,7 @@
 		%------------------------------------------------
 
 		\ifthenelse{\equal{\tech}{}}{}{
- 			\profilesection{Tecnolog\'{\i}a}
+ 			\profilesection{Technology}
 			\begin{flushleft}
 				\tech
 			\end{flushleft}
@@ -167,16 +167,16 @@
 
 		%------------------------------------------------
 
-		\profilesection{Caracter\'{\i}sticas}  % \profilesection{Skills}
-
-		 \skills
-		 \skillstext
-		 \scriptsize
-		% (*)[The skill scale is from 0 (Fundamental Awareness) to 6 (Expert).]
-			
-		%------------------------------------------------
-			
-	 \end{textblock}
+    		\profilesection{Skills}
+ 
+ 		 \skills
+ 		 \skillstext
+ 		 \scriptsize
+  		% (*)[The skill scale is from 0 (Fundamental Awareness) to 6 (Expert).]
+ 			
+ 		% ------------------------------------------------
+ 			
+ 	 \end{textblock}
  }
 
 %----------------------------------------------------------------------------------------

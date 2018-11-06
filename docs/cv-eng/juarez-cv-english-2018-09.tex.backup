@@ -1,8 +1,9 @@
-% https://latex.org/forum/viewtopic.php?t=31329 CHANGING TITLES IN SECTIONS // ABOUT ME ... ETC.
 \documentclass[a4paper,hidelinks]{twentysecondcv} % a4paper for A4
+% https://latex.org/forum/viewtopic.php?t=31329 CHANGING TITLES IN SECTIONS // ABOUT ME ... ETC.
 % \usepackage[spanish]{babel}
 \selectlanguage{spanish}
 \usepackage[utf8]{inputenc}
+\usepackage{slantsc} % small caps
 
 %----------------------------------------------------------------------------------------
 %	 PERSONAL INFORMATION
@@ -13,7 +14,7 @@
 \profilepic{avatar.png} % Profile picture
 
 \cvname{Benjamin Juarez} % Your name
-\cvjobtitle{trilingual web developer} % Job title/career
+\cvjobtitle{trilingual web developer $ $  $ $  $ $ [US Citizen]} % Job title/career
 % \cvname{Benjamín Juárez} % Your name
 % \cvjobtitle{Sociólogo} % Job title/career
 
@@ -35,8 +36,10 @@
 % I studied and researched in Sociology as a Bachelor as well as a Master.
 Born and raised in USA until age 7.
 % My recent jobs have been non academic.
-Master degree in Brasil.
-I co-founded \textit{Juice Bar}. I also worked in \textit{Pearson} Publishing.
+Master degree: Brasil.
+I co-founded \textit{Juice Bar}. Worked in \textit{Pearson} Publishing. \newline
+\textit{Fluent Spanish Portuguese English}*.\newline %
+* [Born USA, has VISA]
 } 
 
 %----------------------------------------------------------------------------------------
@@ -44,30 +47,22 @@ I co-founded \textit{Juice Bar}. I also worked in \textit{Pearson} Publishing.
 %----------------------------------------------------------------------------------------
 
 \skills{% Skill bar section, each skill must have a value between 0 an 6 (float)
-% - Portuguese (fluent) \newline
-% - native Spanish \newline
-% - native English (born USA) \newline
-% {Portuguese (fluent)/4.7},
-% {native Spanish (Argentina)/5.85},
-% {native English (USA)/5.5},
-% {effort/5.9},
-% {atention to detail/5.7},
-% {proper manners/5.3}%
+{effort/5.9},
+{atention to detail/5.7},
+{proper manners/5.3}%
 }
-}
+% }
 
-%------------------------------------------------
+% ------------------------------------------------
 
 % Skill text section, each skill must have a value between 0 an 6
 \skillstext{%
-- Portuguese (fluent) \newline
-- native Spanish \newline
-- native English (born USA) \newline
-% {linux user/since 2005 [now i3wm]},
-% {dvorak keyboard user/since 2004},
-% {learning thrust/9,2 \newline},
-% {relaxed/6,5},
+{linux user/since 2005 [now i3wm]},
+{dvorak keyboard user/since 2004},
+{learning thrust/9,2 \newline},
+{relaxed/6,5},
 }
+% }
 
 \tech{
 - markup: html css md \LaTeX $ $ \newline %
@@ -75,13 +70,13 @@ I co-founded \textit{Juice Bar}. I also worked in \textit{Pearson} Publishing.
 - programming: java lua node.js \newline 
 - editing: vim ranger  \newline %
 }
-}
+% }
 
 %----------------------------------------------------------------------------------------
 
 \makeprofile % Print the sidebar
 
-% \vfill 
+\vfill 
 
 %----------------------------------------------------------------------------------------
 %	 INTERESTS
@@ -91,16 +86,19 @@ I co-founded \textit{Juice Bar}. I also worked in \textit{Pearson} Publishing.
 % 
 % The heroine and the dreamer of Wonderland; Alice is the principal character.
 
-
 \section{General Profile}
 
-I have good adaptability, interest in new areas and the tenacity to give a continuous throttle. I was born in Chicago, USA; and raised from age 7 in Córdoba, Argentina. I have always developed a taste for studying language, raising my English to a C1 [CEFR] level and I use English on a  daily basis by reading and writing. I have also learned to read, listen and speak Portuguese in a fluent manner, living in Brazil through 2 nearly years. Programming: self-taught.
+I have good adaptability, interest in new areas and the tenacity to give a continuous throttle. I was born in Chicago, USA; and raised from age 7 in Córdoba, Argentina. 
+I have always kept %developed a taste for 
+studying %language, raising my 
+English, raising my level to a C1 [CEFR] standard. Also, I use English on a  daily basis by reading and writing. I have also learned to read, listen and speak Portuguese in a fluent manner, living in Brazil through 2 nearly years. Programming: mostly self-taught, now taking a course.
 % Tengo buena capacidad de adaptación, interés en áreas nuevas y la constancia para empujar de manera continua. Me crié en Córdoba desde los 7 años. Antes viví en EEUU. Desarrollé desde esa temprana edad gusto por el idioma y estudié inglés hasta un nivel nativo C1 [CEFR] y lo uso a diario para leer y escribir. También aprendí a leer, escuchar y hablar portugués de manera fluida, teniendo una estancia en Brazil durante más de dos años. Programación: autodidacta.\\
 
 \section{Recent work}
 
 \begin{twentyshort} % Environment for a short list with no descriptions
-	\twentyitemshort{since 2018}{IICANA Valle Escondido [Córdoba, Argentina]} 
+	\twentyitemshort{2018--2019}{Research Assistant [Royal Roads, British Columbia, Canada]} 
+	\twentyitemshort{2018}{IICANA Valle Escondido [Córdoba, Argentina]} 
 	\twentyitemshort{since 2015}{English Conversation Classes [Córdoba, Argentina]}
 	\twentyitemshort{since 2012}{Sociology Classes [Argentina-Brasil]}
 	\twentyitemshort{2017-2018}{Pearson [Córdoba, Argentina]} 
@@ -118,15 +116,24 @@ I have good adaptability, interest in new areas and the tenacity to give a conti
 \section{Education}
 
 \begin{twenty} % Environment for a list with descriptions
- 	\twentyitem{since 2017}{PhD [distance] Candidate in Sociology}{University of Exeter, UK}{
-%  	Distance athlete’s æffect on urban rhythm | How do ultra-runners run in automatized cities?
-	Distance athletes in urban rhythm | How do ultra-runners run through and out of cities?
-}
- 	\twentyitem{since 2013}{Programming-editing languages}{Hands-on}{Self-published book [\textit{exhalations}] and web site [\texttt{ramoneando.com}]}
-	\twentyitem{2012-2014}{Master Degree Research in Sociology}{UNICAMP, S\~{a}o Paulo. Brazil}{Urban Art [graffiti \& pixaç\~{a}o]}
-	\twentyitem{2002-2009}{Graduate in Sociology}{Universidad de Buenos Aires, Argentina}%
-	{%Estudios de graduación
-	}
+% 	\twentyitemshort{since 2018}{IICANA Valle Escondido [Córdoba, Argentina]} 
+ 	\twentyitem{since 2018}{Web Development Course}{[UTN, Córdoba, Argentina]}{
+ 	Javascript Jquery Angular ApiRest Mongodb Node.js Express.js\\
+ 	HTML5 CSS3 Bootstrap
+ 	}
+ 	\twentyitemshort{since 2017}{PhD [distance] Sociology [University of Exeter, UK]}%{}
+%  	{%
+% %  	Distance athlete’s æffect on urban rhythm | How do ultra-runners run in automatized cities?
+% 	Distance athletes in urban rhythm | How do ultra-runners run through and out of cities?
+% }
+ 	\twentyitemshort{since 2013}{Programming-editing languages [Hands-on]}%{}
+%  	{Self-published book [\textit{exhalations}] and web site [\texttt{ramoneando.com}]}
+	\twentyitemshort{2012-2014}{Master %Degree Research 
+	in Sociology [UNICAMP, S\~{a}o Paulo. Brazil]}%{}
+% 	{Urban Art [graffiti \& pixaç\~{a}o]}
+	\twentyitemshort{2002-2009}{Graduate in Sociology [Universidad de Buenos Aires, Argentina]}%
+% 	{%Estudios de graduación
+% 	}
 	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
 \end{twenty}
 
@@ -150,7 +157,8 @@ I have good adaptability, interest in new areas and the tenacity to give a conti
 \section{Translations}
 
 \begin{twenty} % Environment for a list with descriptions
-	\twentyitemshort{2018... }{23 ideas sobre la juventud [Howard Becker]}
+% 	\twentyitemshort{2018}{Off the Grid -- Re-Assembling Domestic Life [Phillip Vannini]}
+	\twentyitemshort{2018}{23 ideas sobre la juventud [Howard Becker]}
 	\twentyitemshort{2011}{La influencia de las cosmovisiones en el pasado y en el presente según Max Weber [Stephen Kalberg]}
 	\twentyitemshort{2005}{Los tipos de racionalidad de Max Weber: piedras angulares para el análisis del proceso de racionalización de la historia [S. Kalberg]}
 	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
@@ -163,7 +171,7 @@ I have good adaptability, interest in new areas and the tenacity to give a conti
 \section{Quick view}
 % \subsection{Review}
 
-In the last six months I worked at \textit{Pearson} as Learning Services Consultant: I had reunions with teachers, coordinators and directors to understand needs and preferences, and then guide and provide English materials accordingly, also making presentations when needed. 
+For six months I worked at \textit{Pearson} Publishing as Learning Services Consultant: I had reunions with teachers, coordinators and directors to understand needs and preferences, and then guide and provide English materials accordingly, also making presentations when needed. 
 % En los últimos seis meses trabajé en la editorial \textit{Pearson} como Asesor de Servicios de aprendizaje: me reunía con docentes, coordinadores y directivos de institutos y colegios para hacer seguimiento y recomendación de materiales de trabajo. 
 Before that I learned some comercial and management skills co-founding and working at our \textit{Juice Bar}.
 % Antes aprendí en sociedad comercial a gestionar \textit{Juice Bar}.
