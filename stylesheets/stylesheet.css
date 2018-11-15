@@ -1,6 +1,11 @@
-body {margin: 5% auto; background: #f2f2f2; color: #444444; font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.8; text-shadow: 0 1px 0 #ffffff; max-width: 73%;} code {background: white;} a {/*border-bottom: 1px solid #444444;*/ color: black; /*color: #444444;*/ text-decoration: none;} a:hover {color: gray; text-decoration: underline; border-bottom: 0;} h1 {color:black} 
+body {margin: 5% auto; background: #f2f2f2; color: #444444; font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.8; text-shadow: 0 1px 0 #ffffff; max-width: 73%;} code {background: white;} a {/*border-bottom: 1px solid #444444;*/ color: blue; /*color: #444444;*/ text-decoration: none;} a:hover {color: gray; text-decoration: underline; border-bottom: 0;} h1 {color:black} 
  aside {color: #666;opacity: 0.65;line-height: 1;font-size: 15px;}/*aside {font-size:0.8em;color:#666} */
-
+p.small {
+    font-variant: small-caps;
+}
+li.small {
+    font-variant: small-caps;
+}
 div{height: 100px;}span{display: inline-block;vertical-align: middle;line-height: normal;} /*a#link{color:white}a#link:hover {color:red}*/
 .nav ul {list-style: none;background-color: none;text-align: center;padding: 0;margin: 0;} .nav li {font-size: 1.2em;line-height: 40px;height: 40px;border-bottom: 1px border #888;}  .nav a {text-decoration: none; display: block;} .nav a:hover {background-color: 
 none
