@@ -1,0 +1,12 @@
+body {background-color: #fff; font-family: sans-serif; color: #28315C;}
+h1 {text-align: center;}
+
+nav {width: 100%; height: 38px; background-color: none;}
+nav a {display: block;float:left; padding-top: 20px; padding-right: 5px; padding-bottom: 10px; padding-left: 5px; text-decoration: none;}
+nav a:hover {border: 1px solid #000;}
+
+button {border-color: #000; background-color: #88D0FE; color: #000; font-size: 20px;}
+#quoteDisplay {  padding: 10px;}
+blockquote {  background: #f9f9f9;  border-left: 10px solid #ccc;  margin: 1.5em 10px;  padding: 0.5em 10px;  quotes: "\201C""\201D""\2018""\2019";}
+blockquote:before {  color: #ccc;  content: open-quote;  font-size: 4em;  line-height: 0.1em;  margin-right: 0.25em;  vertical-align: -0.4em;}
+blockquote p {  display: inline;}
