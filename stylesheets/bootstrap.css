@@ -1,0 +1,43 @@
+.navbar {
+  margin-bottom: 20px;
+}
+
+nav.navbar {
+    background-color: gainsboro !important;
+    /* font-size: 14px; */
+    /* display: inline-block; */
+}
+
+footer.ul li{
+    background-color: gainsboro !important;
+    /* font-size: 14px; */
+    display: inline-block;
+}
+
+body {
+    /* background-color:red !important; */
+    background:WhITesMoKE !important;
+    /* background:Gainsboro !important; */
+    font-size:1.3em !important;
+}
+
+.masthead {
+    background: url("../pics/special-ralphy.png") no-repeat center center scroll;
+    text-align: center;
+    margin: 0 auto;
+    color: blue;
+    width: 82vw;
+    height: 82vh;
+}
+
+li.box {
+   background-color: none;
+   width: 110px;
+   height: 50px;
+   border: 2px solid green;
+}
+
+.boxed {  
+    border: 3px solid black !important;
+}
+
