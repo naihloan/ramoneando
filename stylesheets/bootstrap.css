@@ -23,10 +23,10 @@ body {
 
 .masthead {
     background: url("../pics/special-ralphy.png") no-repeat center scroll;
-    text-align: center;
+    /* text-align: center; */
     margin: 0 auto;
     color: blue;
-    width: 82vw;
+    width: 72vw;
     height: 82vh;
 }
 
