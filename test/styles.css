@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'Klavika';
+    src: url('assets/font/klavika-regular-webfont.woff'), url('assets/font/klavika-medium-webfont.woff'), url('assets/font/klavika-light-webfont.woff'), url('assets/font/klavika-bold-webfont.woff') format('woff');
+    font-weight: normal medium light bold;
+    font-style: normal;
+}
+
+body {
+    background-color: black;
+    color: white;
+    background: url('assets/images/background.jpg') no-repeat;
+    background-size: auto 100vh;
+    scroll-behavior: smooth;
+    opacity: 1;
+    background-blend-mode: darken;
+    transition: all 1s ease-in-out;
+    animation-name: fade-in;
+    animation-duration: 3s;
+    -webkit-animation-name: fade-in;
+    -webkit-animation-duration: 3s;
+}
+
+body.background {
+    background-color: black;
+    opacity: 0;
+    transition: all 1s ease-in-out;
+    transition-delay: 3s;
+    animation-name: fade-out;
+    animation-duration: 3s;
+    -webkit-animation-name: fade-in;
+    -webkit-animation-duration: 3s;
+}
+
+body.loading {
+    opacity: 1;
+}
+
+body.loading .container,
+div.loading {
+    opacity: 0;
+    display: none;
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    animation-name: fade-out;
+    animation-duration: 1s;
+}
+
+body.loading div.loading {
+    opacity: 1;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+}
+
+
+h1, h4 {
+    font-family: "Klavika";
+    /* color: white; */
+    font-weight: normal;
+    font-size: 2.3em;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 0.8em;
+    text-decoration: none;
+}
+
+figcaption {
+    /* color: white; */
+    /* border: 1px dotted blue; */
+    text-align: left;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 50%;
+    /* background-color: red; */
+    color: white;
+    text-align: left;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+
+.footer#right {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 95%;
+    font-weight: bold;
+    /* color: yellow; */
+    text-align: right;
+    padding-bottom: 25px;
+    padding-right: 25px;
+}
+
+.container {
+    margin: 30px;
+}
+
+i.arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 10px;
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.leftarrow {
+    position: absolute;
+    top: 50%;
+    left: 30px;
+}
+
+.rightarrow {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+}
+
+.step0 {
+    background-position-x: 0%;
+}
+
+.step1 {
+    background-position-x: 12%;
+}
+
+.step2 {
+    background-position-x: 24%;
+}
+
+.step3 {
+    background-position-x: 36%;
+}
+
+.step4 {
+    background-position-x: 48%;
+}
+
+.step5 {
+    background-position-x: 60%;
+}
+
+.step6 {
+    background-position-x: 72%;
+}
+
+.step7 {
+    background-position-x: 84%;
+}
+
+.step8 {
+    background-position-x: 100%;
+}
+
+.step9 {
+    background-position-x: 100%;
+}
+
+.container {
+    opacity: 0;
+}
+
+.container.show {
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+}
