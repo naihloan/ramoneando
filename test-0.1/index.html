@@ -20,6 +20,14 @@
 				}
 				</script>
 
+
+				<button id="mybutton" style="width:90px;height:70px;">Click me</button>
+				<script>
+				  var b = document.getElementById("mybutton");
+				  b.onclick = function() { alert("Thanks for clicking me!"); };
+				  b.addEventListener("click", function() { alert("Thanks again!"); }, false);
+				</script>
+
 			</div>
 		</div>
 	</div>

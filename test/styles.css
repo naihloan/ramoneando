@@ -60,10 +60,11 @@ body.loading div.loading {
 
 h1, h4 {
     font-family: "Klavika";
-    /* color: white; */
     font-weight: normal;
     font-size: 2.3em;
     text-decoration: underline;
+    text-align: left;
+    position:fixed;
 }
 
 h4 {
@@ -182,3 +183,4 @@ i.arrow {
     opacity: 1;
     transition: opacity 1s ease-in-out;
 }
+
