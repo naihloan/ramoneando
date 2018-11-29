@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<style type="text/css" media="screen"> .jumbotron {position: absolute; top: 50%; left:50%; transform: translate(-50%,-50%);}</style>
+<body>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-1" align="center">
+			<div class="jumbotron">
+
+				<img id="myImage" onclick="changeImage()" src="bulboff.png" >
+				<h1>Click the light bulb <br /> to turn on/off the light.</h1>
+				<!-- <h1>Click the light bulb to turn on/off the light.</h1> -->
+				<script>
+				function changeImage() {
+				    var image = document.getElementById('myImage');
+				    if (image.src.match("bulbon")) {
+					image.src = "bulboff.png";
+				    } else {
+					image.src = "bulbon.png";
+				    }
+				}
+				</script>
+
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+<!-- <figcaption>*Designed by Freepik from www.flaticon.com* </figcaption> -->
+<!-- https://css-tricks.com/forums/topic/vertically-center-with-bootstrap/ -->
