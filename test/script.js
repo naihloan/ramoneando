@@ -1,30 +1,49 @@
-var theParent = document.querySelector("#theDude");
-theParent.addEventListener("click", doSomething, false);
+window.addEventListener('load', function(event) {
+    var step = 0;
+    var currentStep;
+    var body = document.getElementsByTagName('body')[0];
+    body.classList.add('step0'); // elemento clave
 
-function doSomething(e) {
-  if (e.target !== e.currentTarget) {
-    var clickedItem = e.target.id;
-    alert("Hello " + clickItem);
-  }
-
-  e.stopPropagation();
-}
+    var container = document.getElementsByClassName('container')[0];
 
 
-// var oneElement = document.querySelector("#one");
-// var twoElement = document.querySelector("#two");
-// var threeElement = document.querySelector("#three");
-// var fourElement = document.querySelector("#four");
-// var fiveElement = document.querySelector("#five");
+    var btnRight = document.getElementsByClassName('rightarrow')[0];
 
-// oneElement.addEventListener("click", doSomething, false);
-// twoElement.addEventListener("click", doSomething, false);
-// threeElement.addEventListener("click", doSomething, false);
-// fourElement.addEventListener("click", doSomething, false);
-// fiveElement.addEventListener("click", doSomething, false);
+    btnRight.addEventListener('click', function(event) {
+        currentStep = step;
+        step += 1;
+        if (step > 8) {
+            step = 0;
+        }
+        setStep();
+    });
 
-// function doSomething(e) {
-// 	var clickedItem = e.target.id;
-// 	alert("Hello " + clickedItem);
-// }
+    var btnLeft = document.getElementsByClassName('leftarrow')[0];
+
+    btnLeft.addEventListener('click', function(event) {
+        currentStep = step;
+        step -= 1;
+        if (step < 0) {
+            step = 8;
+        }
+        setStep();
+    });
+
+    function setStep() {
+        body.classList.replace('step' + currentStep.toString(), 'step' + step.toString());
+    }
+
+    this.setTimeout(() => {
+        body.classList.remove('loading');
+        this.setTimeout(() => {
+            body.classList.remove('background');
+            container.classList.add('show');
+        // }, 0.1);
+    // }, 0.1);
+        // }, 1000);
+    }, 1000);
+    }, 3000);
+
+});
+
 
