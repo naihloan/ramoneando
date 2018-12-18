@@ -1,16 +1,15 @@
-syntax on " same as enable?
-filetype plugin on
-
-set background=dark
+syntax on
+filetype plugin indent on
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set spell
+set spelllang=en,es
 set clipboard=unnamedplus
 set showcmd " https://stackoverflow.com/a/8160809/6253165
 set encoding=utf-8
 set fileencoding=utf-8
-set termguicolors
 set nocompatible " no vi [from previous millenia]
-set spell
-set spelllang=en 
-" set spelllang=es
 set linebreak
 set number
 set relativenumber
@@ -21,93 +20,25 @@ set nobackup
 set shortmess+=A
 set clipboard=unnamedplus
 set omnifunc=htmlcomplete#CompleteTags
+set ignorecase " case insensitive searching
 
 nnoremap <silent> - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
-" nnoremap - s<c-r>"<bs>'<esc>
-" nnoremap - s<c-r>=tr(@", 'aeuioáéúíó', 'áéúíóaeuio')<cr><esc>
-" nnoremap - s<c-r>=tr(@", 'aeioucnáéíóúçñ', 'áéíóúçñaeioucn')<cr><esc>
-" nnoremap - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
-" nnoremap - s<c-r>=tr(@",'aeiouAEIOUáéíóúÁÉÍÓÚ', 'áéíóúÁÉÍÓUaeiouAEIOU')<cr><esc>
 
-call plug#begin('~/.vim/plugged')
-execute pathogen#infect()
-autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
-" set swapfile " set dir=~/tmp
+" https://github.com/tpope/vim-commentary // gcc +++++++
+autocmd FileType apache setlocal commentstring=#\ %s
 
 hi clear SpellBad
-hi SpellBad cterm=bold cterm=underline  guifg=yellow 
-
+hi SpellBad cterm=bold cterm=underline  ctermfg=yellow " guifg=yellow 
 :iabbrev </ </<C-X><C-O>
 autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
-
-" incremental search " http://www.oualline.com/vim/10/top_10.html
-:set incsearch
-" indents (C style)
-" :set cindent
-" 7. The :make command " awesome to compile!!!
-" 8. Tag navigation " nice to navigate
-" MORE: Vim Cookbook >> http://www.oualline.com/vim-cook.html
-
-colorscheme sandydune " too brown?
-colorscheme greenwint " great but block highlights
-colorscheme material-theme " pretty good. some brown
-colorscheme pencil " ++ but black background
-colorscheme zenburn " +, almost monochrome
-colorscheme monochrome " + pretty cool actually!!
-colorscheme neonwave " ++ but black background
-colorscheme hydrangea " +++ a bit too serious
-colorscheme herokudoc " +++ very neat and bright " LAST colorscheme is valid **
-" colorscheme solarized " classic
-"  Base2Tone_EveningDark " great contrast but orange
-"  magicwb " great grey background some colors too light
-"  Base2Tone_SeaDark " ++++ darkish blue
-"  Base2Tone_LakeDark " blueparagraphs +contrast. yellow
-"  Base2Tone_ForestDark " +++ yellow power
-"  detailed " good contrast. a bit dark
-" lucius " good but lacks contrast 
-" materialbox " Smooth
-" colorscheme onedark "+++ good Balance!!
-
-" 1989 " material-monokai
-" matrix " AWESOME but no highlight
-" dejavu " PERFECT but no spelling marks
-" seoul256 " mustard " SerialExperimentsLain
-" meta5 " orange but brown?
-" smyck " no highlight in paragraph
-" More COLORSCHEMES """ deus " stellarized_dark " synthwave " xedit " vrunchbang-dark " subtle_dark " relaxedgreen " alchemie " plain " papaya " shadesofamber " blueprint " seagrey-dark " forgotten-dark "  rupza "  northpole "  perun "  lucariox "  typewriter-night "  bdconry "  duoduo
-
-" How to fold/unfold HTML tags with Vim
-" https://stackoverflow.com/a/17384809/6253165
-" I use zO and zc to open and close nested folds, respectively.
-set foldmethod=indent
-setlocal foldmethod=manual
-" setlocal foldmethod=syntax
-" http://vim.wikia.com/wiki/VimTip991
-" VIM WIKI | Make views automatic
-autocmd BufWinLeave *.* mkview
-autocmd BufWinEnter *.* silent loadview 
+set wildmode=longest,list,full
+set wildmenu
 
 " http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/
 noremap <Up> <NOP>
 noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
-
-" saving with <C-S> instead of :w<R>
-noremap <silent> <C-S>          :update<CR>
-vnoremap <silent> <C-S>         <C-C>:update<CR>
-inoremap <silent> <C-S>         <C-O>:update<CR>
-
-" After Vimtutor: Some basic vim editing tips!
-" https://www.youtube.com/watch?v=jUfw7aHD_xY
-" map <F6> :setlocal spell! spelllang=en_es<CR>
-"
-" https://stackoverflow.com/questions/6411979/compiling-java-code-in-vim-more-efficiently
-autocmd Filetype java set makeprg=javac\ %
-set errorformat=%A%f:%l:\ %m,%-Z%p^,%-C%.%#
-map <F9> :make<Return>:copen<Return>
-map <F10> :cprevious<Return>
-map <F11> :cnext<Return>
 
 " http://learnvimscriptthehardway.stevelosh.com/chapters/07.html
 " this allows direct acces to vimrc from any vim instance
@@ -121,86 +52,35 @@ if has("autocmd")
     \| exe "normal! g'\"" | endif
 endif
 
-" https://github.com/LukeSmithxyz/shortcut-sync """" ** bash, ranger and qutebrowser synchronization **
-autocmd BufWritePost ~/.scripts/folders,~/.scripts/configs !bash ~/.scripts/shortcuts.sh
+" Make calcurse use markdown by default
+autocmd BufRead,BufNewFile /tmp/calcurse set filetype#markdown
+autocmd BufRead,BufNewFile ~/.calcurse/notes/* set filetype#markdown
 
-" " https://github.com/mcantor/no_plugins/blob/master/no_plugins.vim
-" " https://www.youtube.com/watch?v=XA2WjJbmmoM
-" FINDING FILES: " Search down into subfolders " Provides tab-completion for all file-related tasks
-set path+=**
-set wildmenu " Display all matching files when we tab complete
+" saving with <C-S> instead of :w<R>
+noremap <silent> <C-S>          :update<CR>
+vnoremap <silent> <C-S>         <C-C>:update<CR>
+inoremap <silent> <C-S>         <C-O>:update<CR>
 
-" NOW WE CAN: " - Hit tab to :find by partial match " - Use * to make it fuzzy
-" THINGS TO CONSIDER: " - :b lets you autocomplete any open buffer
+" Word count | Get line, word and character counts with F2.
+" https://www.dralexnorman.net/post/a-literate-vimrc-file/
+map <F2> :!wc <C-R>%<CR>
 
-" AUTOCOMPLETE: The good stuff is documented in |ins-completion| " HIGHLIGHTS: 
-" - ^x^f for filenames (works with our path trick!)
-" - ^n for anything specified by the 'complete' option
-" NOW WE CAN: - Use ^n and ^p to go back and forth in the suggestion list
+" Open my .bib file | Open my bibliography file in split
+" map <F9> :vsp<space>~/Public/ramoneando/docs/mybib.bib<CR>
 
-" filenames like *.xml, *.html, *.xhtml, ...
-" let g:closetag_filenames = "*.html,*.xhtml,*.phtml"
-" autocmd vimenter * NERDTree
-" instead of NERDTree the following can find: any file!!
-" http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/
-" https://github.com/ggreer/the_silver_searcher
-let g:ackprg = 'ag --nogroup --nocolor --column'
+" https://stackoverflow.com/questions/56052/best-way-to-insert-timestamp-in-vim " inserts date with F3
+nmap <F3> i<C-R>=strftime("%Y-%m-%d")<CR><Esc>
+imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
 
-" function! ToggleAccent() 
-"  " Vowels
-"  let withAccent   = ["á" ,"é" ,"í" ,"ó" ,"ú" ,"Á" ,"É" ,"Í" ,"Ó" ,"Ú", "ñ", "Ñ", "ç", "Ç" ]
-"  let withNoAccent = ["a" ,"e" ,"i" ,"o" ,"u" ,"A" ,"E" ,"I" ,"O" ,"U", "n", "N", "c", "C" ]
-"
-"  " A better way of getting the character under the cursor. From: https://stackoverflow.com/a/23323958/1121933
-"  let character = matchstr( getline('.'), '\%' . col('.') . 'c.' )
-"
-"   " If it's a vowel without an acute accent over it, 'position' will contain
-"   " the index of the matching element in the 'withNoAccent' list or -1 otherwise.
-"   let position = match( withNoAccent , character )
-"   if position != -1
-"      " Replace it with an accented vowel
-"      execute ":normal! r" . withAccent[position]
-"   else
-"      " Check if it's a vowel with an acute accent over it
-"      let position = match( withAccent , character )
-"      if position != -1
-"         " Replace it with a vowel with no accent
-"         execute ":normal! r" . withNoAccent[position]
-"     endif
-"   endif
-"
-"  " Do nothing if it isn't a vowel
-"endfunction
+" incremental search " http://www.oualline.com/vim/10/top_10.html
+:set incsearch
 
-" Map the '-' key
-" nnoremap <silent> - :call ToggleAccent()<CR>
-
-" tl,dr "\o" opens three lines and puts insert mode in middle
-" reference: http://vim.wikia.com/wiki/Insert_multiple_lines
-" Open multiple lines (insert empty lines) before or after current line,
-" and position cursor in the new space, with at least one blank line
-" before and after the cursor.
-function! OpenLines(nrlines, dir)
-  let nrlines = a:nrlines < 3 ? 3 : a:nrlines
-  let start = line('.') + a:dir
-  call append(start, repeat([''], nrlines))
-  if a:dir < 0
-    normal! 2k
-  else
-    normal! 2j
-  endif
-endfunction
-" Mappings to open multiple lines and enter insert mode.
-nnoremap <Leader>o :<C-u>call OpenLines(v:count, 0)<CR>S
-nnoremap <Leader>O :<C-u>call OpenLines(v:count, -1)<CR>S
-nnoremap <Leader>T :ThematicNext<CR>
-nnoremap <Leader>D :Thematic pencil_dark<CR>
-nnoremap <Leader>L :Thematic pencil_lite<CR>
-
-" auto-save
-" https://vi.stackexchange.com/a/79/12815
-" autocmd CursorHold * update
-autocmd CursorHold,CursorHoldI * update
+" How to fold/unfold HTML tags with Vim
+" https://stackoverflow.com/a/17384809/6253165
+" I use zO and zc to open and close nested folds, respectively.
+" setlocal foldmethod=syntax
+set foldmethod=indent
+setlocal foldmethod=manual
 
 " Go to last file if invoked without arguments.
 autocmd VimEnter * nested if
