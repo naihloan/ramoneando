@@ -1,0 +1,17 @@
+after
+autoload
+autoload-not2
+buflist.txt
+build.vim
+bundle
+bundle-not
+colors
+indent
+pack
+plugged
+plugin
+Session.vim
+spell
+view
+vim-packages.md
+xml.vim
