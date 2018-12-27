@@ -41,6 +41,7 @@ evince
 htop
 mousepad
 nitrogen
+vai
 
 
 vscode
