@@ -8,6 +8,7 @@ pandoc
 citeproc
 vlc
 ranger
+PCManFM
 mocp
 w3m
 surf
