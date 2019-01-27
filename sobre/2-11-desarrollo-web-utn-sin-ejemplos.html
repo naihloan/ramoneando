@@ -15,7 +15,6 @@
         <h2 id="hola">hola mundillo!</h2>
         <h3 name="nombre">Nombre de la persona:</h3>
         <input type="text"/>
-        document.getElementByTagName("input")[0].value = "PEPE";
         <h3 name="apellido">Apellido de la persona:</h3>
         <input type="text"/>
     </div>
@@ -39,72 +38,8 @@
     var pepe2 = "Hawaii";
     function alohaHawaii() {
         return pepe + pepe2;
-
-        // condicionantes
-        var cond1 = "1 - 1";
-        var v = "";
-        if (cond1) {
-            // código por sí
-            v1 = valor1;
-        } else {
-            // código por no
-            v2 = valor2;
-        }
     }
-    while (cond) {
-
-    }
-    do {
-        // ejecuta el código
-    } while (cond)
-
-    // Bucles >> inicializa, condición, comportamiento
-    var contador = 5;
-    for (var i = 0; i < contador; i++) {
-
-    }
-
-    // Objetos >> Cómo declarar tipos de datos
-    var array = ["Valor 1", "Valor 2"];
-    for (var i = 0; i < array.length; i++) {
-        console.log(array[i]);
-    }
-
-    // Para agregar valores a un array (no usar el append para una lista)
-    array.push("Valor 3");
-
-    // Objetos >>  Con propiedades dentro de llaves
-    var objeto = {
-        nombre: "Axel", // Atento a las comas
-        apellido: "Rose",
-    }
-    alert(objeto.nombre);
-
-    var arrayObject = [
-        {
-            nombre: "Pepe",
-            apellido: "Pérez",
-        },
-        {
-            nombre: "Osvaldo",
-            apellido: "Miranda",
-        }
-    ];
-    arrayObject[0].nombre;
-    arrayObject[1].nombre;
-
-    var var1 = 1;
-    var var2 = 2;
-    if (var1 = var2) { // esta línea asigna el valor, ambas variables ahora dan 2 // para comparar se usa el doble igual (comparación simple, no estricta)
-        // OK!..
-        alert("OK");
-    } else {
-        alert("NO!");
-    }
-
-    // condicionante lineal
-    var v = (cond1) ? valor1 : valor2;
-
+    alert(alohaHawaii);
 </script>
 <hr>
 </body>
