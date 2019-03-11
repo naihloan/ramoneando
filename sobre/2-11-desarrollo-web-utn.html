@@ -11,21 +11,101 @@
 <h1>&#127939; 🏃 <a href="index.html">ramoneando.com</a></h1>
 <h4>® <a href="https://twitter.com/venhamon">Benjamín Juárez</a></h4>
 <article>
+    <div class="container">
+        <h2 id="hola">hola mundillo!</h2>
+        <h3 name="nombre">Nombre de la persona:</h3>
+        <input type="text"/>
+        document.getElementByTagName("input")[0].value = "PEPE";
+        <h3 name="apellido">Apellido de la persona:</h3>
+        <input type="text"/>
+    </div>
 <h2 id="desarrollo-web-utn-2018--2019">Desarrollo Web UTN 2018--2019</h2>
 <ul>
-<li><a href="https://youtu.be/i2oNtYH1EsY">INTRODUCCION AL HTML5</a>    </li>
-<li><a href="https://youtu.be/QObQwZrQnrA%3E">HTML5 Y CSS3</a></li>
-<li><a href="https://youtu.be/1bbaCS_WUzs%3E">CSS3 Y BOOTSTRAP 4</a></li>
-<li><a href="https://youtu.be/QthAisiNsGc">BOOTSTRAP 4 GRILLAS - TRANSICION Y TRANSFORMACIONES</a></li>
-<li><a href="https://youtu.be/TOqsDiFcwto">BOOTSTRAP 4 CONTROLS</a></li>
-<li><a href="https://youtu.be/9QqFE4nmSjM">JAVASCRIPT - INTRO JQUERY</a></li>
-<li><a href="https://youtu.be/I4NTri1wiWs">JQUERY - TABLE WITH JQUERY</a></li>
-<li><a href="https://youtu.be/3s8gF-O1va0">NODEJS - EXPRESS CON TEMPLATES EJS</a> + <a href="https://youtu.be/cYPtm8hmxz0">Parte2</a><br />
-</li>
-<li><a href="https://youtu.be/kgdv3Uvzw5Y">NODEJS - BOOTSTRAP FORMS</a></li>
-<li><a href="https://youtu.be/q1NculXMxY8">NODEJS - AUTHENTICATION</a></li>
+    <li><a href="https://youtu.be/i2oNtYH1EsY">INTRODUCCION AL HTML5</a>    </li>
+    <li><a href="https://youtu.be/QObQwZrQnrA%3E">HTML5 Y CSS3</a></li>
+    <li><a href="https://youtu.be/1bbaCS_WUzs%3E">CSS3 Y BOOTSTRAP 4</a></li>
+    <li><a href="https://youtu.be/QthAisiNsGc">BOOTSTRAP 4 GRILLAS - TRANSICION Y TRANSFORMACIONES</a></li>
+    <li><a href="https://youtu.be/TOqsDiFcwto">BOOTSTRAP 4 CONTROLS</a></li>
+    <li><a href="https://youtu.be/9QqFE4nmSjM">7. JAVASCRIPT - INTRO JQUERY [2018 11 06]</a></li>
+    <li><a href="https://youtu.be/I4NTri1wiWs">8. JQUERY - TABLE WITH JQUERY [2018 11 13]</a></li>
+    <li><a href="https://youtu.be/3s8gF-O1va0">9. NODEJS - EXPRESS CON TEMPLATES EJS [2018 11 20]</a> + <a href="https://youtu.be/cYPtm8hmxz0">Parte2</a><br />
+    </li>
+    <li><a href="https://youtu.be/kgdv3Uvzw5Y">10. NODEJS - BOOTSTRAP FORMS [2018 11 27]</a></li>
+    <li><a href="https://youtu.be/q1NculXMxY8">11. NODEJS - AUTHENTICATION [2018 12 04]</a></li>
 </ul>
 </article>
+<script type="text/javascript" charset="utf-8">
+    var pepe = "Aloha";
+    var pepe2 = "Hawaii";
+    function alohaHawaii() {
+        return pepe + pepe2;
+
+        // condicionantes
+        var cond1 = "1 - 1";
+        var v = "";
+        if (cond1) {
+            // código por sí
+            v1 = valor1;
+        } else {
+            // código por no
+            v2 = valor2;
+        }
+    }
+    while (cond) {
+
+    }
+    do {
+        // ejecuta el código
+    } while (cond)
+
+    // Bucles >> inicializa, condición, comportamiento
+    var contador = 5;
+    for (var i = 0; i < contador; i++) {
+
+    }
+
+    // Objetos >> Cómo declarar tipos de datos
+    var array = ["Valor 1", "Valor 2"];
+    for (var i = 0; i < array.length; i++) {
+        console.log(array[i]);
+    }
+
+    // Para agregar valores a un array (no usar el append para una lista)
+    array.push("Valor 3");
+
+    // Objetos >>  Con propiedades dentro de llaves
+    var objeto = {
+        nombre: "Axel", // Atento a las comas
+        apellido: "Rose",
+    }
+    alert(objeto.nombre);
+
+    var arrayObject = [
+        {
+            nombre: "Pepe",
+            apellido: "Pérez",
+        },
+        {
+            nombre: "Osvaldo",
+            apellido: "Miranda",
+        }
+    ];
+    arrayObject[0].nombre;
+    arrayObject[1].nombre;
+
+    var var1 = 1;
+    var var2 = 2;
+    if (var1 = var2) { // esta línea asigna el valor, ambas variables ahora dan 2 // para comparar se usa el doble igual (comparación simple, no estricta)
+        // OK!..
+        alert("OK");
+    } else {
+        alert("NO!");
+    }
+
+    // condicionante lineal
+    var v = (cond1) ? valor1 : valor2;
+
+</script>
 <hr>
 </body>
 </html>
