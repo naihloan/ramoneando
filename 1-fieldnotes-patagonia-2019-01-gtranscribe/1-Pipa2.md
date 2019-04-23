@@ -1,11 +1,5 @@
 [Pipa goes up to get the rope out of the clips] [Talks of substitution techniques][It's 11:30]
 
-09:25 [Arranging for interview]
-
-******
-
-11:32 Preparing for Spanish. [Preparing batteries and setting.]
-
 12:45 Benji: What does "the wild" mean to you?
 
 13:11 PIPA: I think that the wild (savage/salvaje), considering mountain activities, is what describes Patagonia. In some way Patagonia still is wild (savage/salvaje) in the sense that there is still very little information about what one would like do, and climbing in Patagonia is rebuilding what climbing involved from a long time ago: a lot of research on the target,  
