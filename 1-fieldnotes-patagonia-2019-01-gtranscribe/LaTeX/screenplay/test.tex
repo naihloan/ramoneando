@@ -1,0 +1,201 @@
+
+\documentclass{screenplay}[2012/06/30]
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=blue,
+    urlcolor=black
+}
+
+\title{In the name of Wild}
+
+\author{Phillip Vannini}
+
+\address{%School of Communication & Culture\\
+Royal Roads University\\
+Victoria, BC \\ %V9B 5Y2 \\
+Canada
+% +44~(0)131~999~9999\\
+% johnny@dvc.org.uk
+}
+
+%% ... preamble finished, let's go ...
+\begin{document}
+
+%% Make a title page ...
+\coverpage
+%% ...or use \nicholl
+
+%% TeX allows quite a lot of leeway in whitespace, so I've messed this
+%% up a bit.  I find keeping the format structured helps me a lot tho.
+%% Note: but don't have blank lines *inside* the body of text in
+%% a dialogue environment.
+%% I use vi (Elvis) with macros to make a lot of typing disappear.
+%% You can, of course, define LaTeX macros to shorten the command names.
+%%
+%% Anyhoo, on with the show ...
+
+%% for some reason this always happens at the start ...
+% \fadein
+
+% \intslug[Calafate]{Pedro Svarka}
+
+\tableofcontents
+\cleardoublepage
+
+\include{docs/Pipa1}
+\include{docs/Pipa2}
+\section*{Chalten / Pipa}
+\addcontentsline{toc}{subsubsection}{Chaltén / Pipa}
+
+\cleardoublepage
+
+\section*{Calafate / Pedro Svarka}
+\addcontentsline{toc}{subsubsection}{Calafate / Pedro Svarka}
+
+\lipsum[1-3]
+
+% In space, nobody knows what time of day it is.  Wait, there is no
+% day.
+% 
+% So BOB, a cross-dressing Republican, and BROWN, a Christian
+% fundamentalist Democrat, are talking nonsense instead.
+% 
+% + aukbaeukmeu
+% 
+% + aekkbeatukmu
+
+\end{document}
+
+
+
+\begin{dialogue}{Bob}
+That means that someone
+sabotaged the unit and killed the
+President! Was it one of us?
+\end{dialogue}
+\begin{dialogue}{Brown}
+Who else is mad but us, Condi\ldots
+ \paren{beat}
+and Bliar?
+\end{dialogue}
+
+Bob buries his head in his hands.
+
+\intslug{Atlantis -- somewhere ANyway}
+
+JOHN and MARK are at adjacent consoles. FRED is with them. TOM
+is at another console slightly further away.
+
+\begin{dialogue}{John}
+The planetoid seems to have a thin crust
+covering a nickel-iron core. Could have
+been an Earth-like planet at one time.
+\end{dialogue}
+
+\begin{dialogue}{Mark}
+We're coming up on the radio source now.
+\end{dialogue}
+
+Brown walks in and goes to a console.
+
+He has a PARROT on his shoulder.
+
+The Parrot has an air of quiet insouciance.
+
+\begin{dialogue}{Fred}
+Switch the visual to main screen so we
+can get a good look.\end{dialogue}
+
+They look up at the main screen.
+
+\begin{dialogue}[to John and Mark]{Fred}
+Lock on to that.
+\dialbreak[to Tom]{Fred}
+Establish planetary orbit.
+\end{dialogue}
+
+\intextslug[day]{in or out}
+Apparently some people do this.
+
+\intercut
+\extintslug[night]{out or in}
+Or even this.
+
+\extslug[day or nite]{NO WARRANTY -- EXPRESS OR IMPLIED}
+
+\pov\ I made the slugline DAY/NIGHT optional 'cause in space no-one can
+tell the time.  You probably will need to specify.
+
+Don't put in pagebreaks by hand until you're really, really
+finished editing!
+
+It isn't the done thing to hyphenate for formatting purposes.
+\centretitle{http://dvc.org.uk/sacrific.txt/}
+
+That was a centred titleover.
+\begin{titleover}There's a titleover environment for dialogue-like layout if you're
+doing the "Star Wars" thing.\end{titleover}\extslug[All Hail Discordia!]{where to find us}
+http://dvc.org.uk/sacrific.txt/screenplay.zip
+
+Use the source, Luke.
+
+\extslug[illumination]{for definitive info on layout}
+
+http://www.oscars.org/awards/nicholl/resources.html
+
+%% and this always happens at the end ...
+\fadeout
+
+\theend
+
+\end{document}
+%% 
+%% Hail Eris!  All Hail Discordia!
+%%
+%% End of file `example.tex'.
+
+
+
+
+
+%%
+%% This is file `example.tex',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% screenplay.dtx  (with options: `example')
+%% +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+%% 
+%% Authored by and Copyright (C)2006 by
+%% John Pate <johnny@dvc.org.uk>
+%% http://dvc.org.uk
+%% Latest version is available as:
+%% http://dvc.org.uk/sacrific.txt/screenplay.zip
+%% 
+%% This program is free software; you can redistribute it and/or
+%% modify it under the terms of the GNU General Public License as
+%% published by the Free Software Foundation; either version 2 of
+%% the License, or (at your option) any later version.
+%% 
+%% This program is distributed in the hope that it will be useful,
+%% but WITHOUT ANY WARRANTY; without even the implied warranty of
+%% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%% GNU General Public License for more details.
+%% 
+%% You should have received a copy of the GNU General Public
+%% License along with this program; if not, write to the Free
+%% Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston,
+%% MA 02110-1301 USA
+%% 
+%% GPL v2 text also available as:
+%% http://dvc.org.uk/gplv2.txt
+%% 
+%% +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+%% \CheckSum{356}

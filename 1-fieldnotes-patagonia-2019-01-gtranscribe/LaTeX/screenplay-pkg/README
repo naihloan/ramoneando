@@ -1,0 +1,42 @@
+This is the screenplay-pkg package.
+ Copyright 2006 by John Pate
+ Copyright 2015-2017 by Alan Munn
+
+ This package implements the tools of the screenplay document class
+ in the form of a package so that screenplay fragments can be included
+ within another document class.  For full documentation of the available commands,
+ please consult the screenplay class documentation.
+
+ All commands related to the titlepage in screenplay.cls have been
+ eliminated.
+
+ One new environment is implemented:
+
+    \begin{screenplay} ... \end{screenplay} 
+
+ Two additional user commands are added to allow for user adjustment of the
+ fragment font and linespacing (the setspace package is used for spacing).
+ American spellings of the centring commands are also added.
+
+    \screenspacing{} % sets the linespacing for screenplay fragments; default
+                       is \onehalfspacing
+    \screenfont{}    % sets the font for screenplay fragments; default is
+                       \ttfamily
+                       
+
+ This package may be distributed and/or modified under the
+ conditions of the LaTeX Project Public License, either version 1.3
+ of this license or any later version.
+ The latest version of this license is in
+   http://www.latex-project.org/lppl.txt
+ and version 1.3 or later is part of all distributions of LaTeX
+ version 2005/12/01 or later.
+
+ This package has the LPPL maintenance status `maintained'.
+ 
+ The Current Maintainer of this package is Alan Munn.
+
+ This package consists of the file screenplay-pkg.sty and documentation files
+ screenplay-pkg.tex, screenplay-pkg.pdf, screenplay-pkg-example.tex and screenplay-pkg-example.pdf.
+
+ Version 1.1 2017/08/05

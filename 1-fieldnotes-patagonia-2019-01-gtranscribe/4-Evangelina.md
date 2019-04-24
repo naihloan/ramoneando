@@ -1,4 +1,4 @@
-## Evangelina @ Rivendel Cottage / Chaltén [2019 01 05]
+### Evangelina @ Rivendel Cottage / Chaltén [2019 01 05]
 
  [00:02.5] EVANGELINA: We never formalized an NGO: we do have an intent to do so, but until now we haven't got there yet. [Laughter]. Or we haven't focused. I can tell you: I am already working with Anfibio, PhD, my daughter. But yes, it would be something that we would like to materialize in an NGO. And already without being an NGO, we work with an NGO which is Ambiente Sur, in Río Gallegos, 
  [00:32.5] where they work with the Patagonian urban reservations, and we are working as a network with other urban reservations through out Argentina and Chile, Santa Cruz, Tierra del Fuego. So we have been working, so what you mention about which actors intervene is in the whole of these countries. 

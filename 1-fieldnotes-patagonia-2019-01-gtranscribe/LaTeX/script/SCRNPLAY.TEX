@@ -1,0 +1,458 @@
+% ScriptTeX screenplay macros -- typed manuscript version
+% Copyright 1991-2002 Adrian McCarthy.  See documentation for re-distribution info.
+\def\banner{ScriptTeX 1.04, 10-MAR-2002, typed screenplay format}%version
+\immediate\write16{\banner}
+%
+% These macros will produce a manuscript that looks as though it were typed.
+%
+% With the fixed pitch font and narrow dialog paragraphs, I've set the
+% penalties and such to be extremely tolerant of TeX's concept of badness.
+% These are probably more extreme than they have to be, but they can be
+% tuned later.
+%
+\font\mainfont=cmpica % Don Hosek's pica fonts.  Use cmtt12 if not available.
+\font\emfont=cmpicati % Change to underlined \mainfont if not available.
+\mainfont
+\pretolerance=500 % acceptable "badness" before trying to hyphenate
+\tolerance=10000  % acceptable "badness" of a line
+\linepenalty=0    % penalty for each line in a paragraph
+\adjdemerits=0    % demerits for adjacent tight and loose line juxtapositions
+\finalhyphendemerits=0 % demerits for hyphenating the penultimate line
+\doublehyphendemerits=0 % demerits for hyphenating consecutive lines
+\hbadness=10000   % avoid useless underfull hbox messages
+%
+% General page layout:
+%
+\newdimen\lineskip \lineskip=12bp % 6 lines per inch
+\newdimen\charwid {\setbox0=\hbox{\mainfont M} \global\charwid=\wd0}
+\baselineskip=\lineskip  % 2\lineskip for sitcoms
+\spaceskip=\charwid   % for true typewriter spacing (redundant in cmtt)
+\xspaceskip=2\charwid % for two spaces after a sentence (redundant in cmtt)
+\voffset=-4\lineskip % 1 blank line from top
+\hoffset=0.5truein   % extra room for hole punch
+\vsize=58\lineskip
+\hsize=60\charwid
+\parindent 0pt
+\parskip\baselineskip
+\splittopskip=\topskip
+\splitmaxdepth=\maxdepth
+\newdimen\rightmar
+\def\hotzone{8\charwid} % right margin hotzone
+\def\margins#1#2{%
+  \leftskip=#1
+  \rightmar=\hsize \advance\rightmar by -\leftskip \advance\rightmar by -#2
+  \rightskip=\rightmar plus \hotzone
+}
+%
+% My first output routine.  Marks have six parts:  act/scene header,
+% previous scene continued, dialog continued, \nukeline for (MORE),
+% continuing dialog (MORE), \nukeline for continuing scene, and
+% continuing scene.  The seventh part is reserved for rev pages.
+% I realize that I use \splitbotmark before a \vsplit is ever done, but
+% this is correct.  \topmark has the wrong value if I put back lines back
+% during the previous \output run.
+%
+\output={%
+  \dimen0=\ht255
+  \ifx\LR\empty \else
+    \if L\LR \hoffset=0.0truein \global\def\LR{R}
+      \else \hoffset=0.5truein \global\def\LR{L}
+    \fi
+  \fi%x
+  \shipout\vbox to 62\lineskip{%
+    \boxmaxdepth=\maxdepth%
+    \makeheadline%
+    \pagebody%
+    \makefootline%
+  }
+  \unvbox255 \penalty\outputpenalty % put back unused text
+  \advancepageno
+}
+\def\makeheadline{%  Act/scene header and page number
+  \line{%
+    \mainfont%
+    \ifcase1\expandafter\relax\splitbotmark\fi%
+    \ifnum\pageno>0 \hss \folio\rlap{.}\fi}
+  \vskip\lineskip
+}
+\def\pagebody{%
+  \ifcase2\expandafter\relax\splitbotmark\fi   % So-and-so (CONT'D) \nukeline
+  \ifcase3\expandafter\relax\botmark\fi        % \nukeline for (MORE)
+  \ifcase5\expandafter\relax\botmark\fi        % \nukelines for CONTINUED
+  {%
+    \vbadness=10000
+    \setbox0=\vsplit255 to \dimen0             % split to new height
+    \unvbox0                                   % put page into output
+  }%
+  \ifcase4\expandafter\relax\splitbotmark\fi   % (MORE)
+  \ifcase6\expandafter\relax\splitbotmark\fi   %   CONTINUED
+  \kern-\dimen0 \vfil % kern keeps \vfil from being discarded
+}
+\def\makefootline{%
+  \vskip\lineskip
+  \line{\mainfont \footer}
+}
+\def\nukeline{%
+  \advance\dimen0 by -\lineskip
+}
+\def\mymark{{
+  \header \noexpand\or %
+  \contprevscene \noexpand\or %
+  \contprevdialog \noexpand\or %
+  \contdialoga \noexpand\or %
+  \contdialogb \noexpand\or %
+  \contscenea \noexpand\or %
+  \contsceneb %\noexpand\or
+% \contrev
+}}
+\def\contprevscene{}
+\def\contprevdialog{}
+\def\contdialoga{}
+\def\contdialogb{}
+\def\contscenea{}
+\def\contsceneb{}
+%\def\contrev{}
+%
+% Revision information
+%
+\def\titletext{Screenplay}
+\def\title#1{\def\titletext{#1}}
+\def\seriestext{}
+\def\series#1{\def\seriestext{#1}}
+\def\authortext{}
+\def\author#1{\def\authortext{#1}}
+\def\drafttext{}
+\def\draft#1{\def\drafttext{\uppercase{#1}}}
+\def\basedon#1{\def\basedontext{#1}}
+\def\basedontext{}
+\def\showcopyright#1{\def\copyrighttext{$\copyright$~#1}}
+\def\copyrighttext{}
+\def\address#1{\def\addresstext{\vtop{\settabs 1\columns \tabalign #1\cr}}}
+\def\\{\cr\tabalign}
+\def\addresstext{}
+\def\today{%
+  \hbox{\number\day-\ifcase\month\or JAN\or FEB\or MAR\or APR\or MAY%
+    \or JUN\or JUL\or AUG\or SEP\or OCT\or NOV\or DEC\fi%
+    -\number\year}%
+}
+\edef\datetext{\today}  % \edef for efficiency; it won't change during job
+\def\date#1{\def\datetext{#1}}
+%
+% We count acts and scenes for you.
+%
+\newcount\actcnt \actcnt=0
+\def\currentact{}
+\newcount\scenecnt \scenecnt=0
+\def\resetscenecnt{\scenecnt=0}
+\def\currentscene{}
+\def\stdhang{\leavevmode\llap{\number\scenecnt.\ }}
+\def\stdhead{\ifx\currentscene\empty \else \number\scenecnt.\fi}
+\def\stdfoot{%
+  \ifx\seriestext\empty \else
+    {\emfont \seriestext} \hss
+  \fi%
+  ``\titletext'' \hss \drafttext
+}
+\def\stdxref{%
+  \ifx\currentact\empty \else%
+    \currentact; %
+  \fi%
+  \ifx\currentscene\empty \else%
+    \currentscene%
+  \fi
+}
+\def\Roman#1{\uppercase\expandafter{\romannumeral#1}}
+\def\roman#1{\romannumeral#1}
+%
+% Keep track of last speaker.
+%
+\global\def\lastspeaker{}
+%
+% Variants
+%
+\def\LR{}
+\def\twoside{\def\LR{R}}
+\def\jlbrooks{
+  \hsize=65\charwid
+  \def\hotzone{3\charwid}
+  \hfuzz=5\charwid
+}
+\def\movie{
+  \def\resetscenecnt{}
+  \def\actheadblock##1{}
+  \def\acttailblock{}
+  \def\actpgbreak{}
+  \def\stdxref{}
+}
+\def\TV{}
+\def\sitcom{\lineskip=24bp}
+\def\manuscript{
+  \def\header{}
+  \def\footer{}
+  \def\hangscene{}
+  \def\draftblock{}
+  \def\stdxref{}
+  \def\sound##1{##1}
+}
+\def\proof{
+  \ifx\drafttext\empty \draft{Working Draft}\fi
+  \def\header{\stdhead}
+  \def\footer{\stdfoot}
+  \def\hangscene{\stdhang}
+  \def\sound##1{##1}
+}
+\def\shoot{
+  \ifx\drafttext\empty \draft{Shooting Script}\fi
+  \def\header{}
+  \def\footer{}
+  \def\hangscene{\stdhang}
+}
+%
+% Breakdowns (desupported)
+%
+\def\makecastlist{\immediate\write16{Cast lists no longer supported.}}
+\def\collectcast{\immediate\write16{Cast lists no longer supported.}}
+\def\makescenelist{\immediate\write16{Scene lists no longer supported.}}
+\def\collectscenes{\immediate\write16{Scene lists no longer supported.}}
+%
+% Make a title page
+%
+\def\maketitle{%
+  \ifx\LR\empty \else \def\LR{R} \fi
+  \hbox{}
+  \vskip 2in
+  \ifx\seriestext\empty \else 
+    \centerline{{\emfont \uppercase{\seriestext}}}
+    \vskip 3\baselineskip
+  \fi
+  \centerline{``\uppercase{\titletext}''}
+  \vskip\baselineskip
+  \ifx\authortext\empty \else
+    \centerline{\authortext}
+  \fi
+  \vskip\baselineskip
+  \centerline{\basedontext}
+  \vskip 3.5in
+  \line{\copyrighttext\hfill\addresstext}
+  \vskip 3\baselineskip
+  \draftblock
+  \pageno=0
+  {
+    \def\header{}
+    \def\footer{}
+    \eject
+  }
+  \pageno=1
+}
+\def\draftblock{%
+  \ifx\drafttext\empty \else
+    \rightline{{\emfont \uppercase{\drafttext}}}
+  \fi
+  \rightline{\datetext}
+}
+%
+% Standard header for acts, tags, and teasers
+%
+\def\actpgbreak{\vfill \penalty-10000}
+
+\def\actheadblock#1{
+  \vskip 2\lineskip
+  \centerline{{\emfont \uppercase{#1}}}
+  \vskip 4\lineskip
+}
+\def\acttailblock{
+  \vskip 2\lineskip
+  {\edef\tempact{end of \currentact}
+    \centerline{{\emfont \uppercase\expandafter{\tempact}}}
+  }
+}
+\def\acthead#1{%
+  \acttail
+  \advance\actcnt by 1
+  \resetscenecnt
+  \edef\currentact{#1}
+  \def\contprevscene{}
+  \def\contprevdialog{}
+  \def\contdialoga{}
+  \def\contdialogb{}
+  \def\contscenea{}
+  \def\contsceneb{}
+  \expandafter\mark\mymark
+  \actpgbreak
+  \parskip\baselineskip
+  \actheadblock{#1}
+  \immediate\write16{#1}
+}
+%
+% Standard tail for acts, tags, and teasers
+%
+\def\acttail{%
+  \penalty1000
+  \ifx\currentact\empty \else
+    \acttailblock
+    \def\currentact{}
+  \fi
+}
+%
+% Regular script constructs:
+%
+\def\act{\acthead{Act \ifcase\actcnt\or One\or Two\or Three\or Four\or
+     Five\or Six\or Seven\or Eight\or Nine\or Ten\or Eleven\or
+     Twelve\or Thirteen\or Fourteen\or Fifteen\or Sixteen\else\Roman\actcnt\fi}
+}
+\def\teaser{\acthead{Teaser}\actcnt=0}
+\def\tag{\acthead{Tag}}
+\def\prolog{\acthead{Prolog}\actcnt=0}
+\def\epilog{\acthead{Epilog}}
+\def\prologue{\acthead{Prologue}\actcnt=0}
+\def\epilogue{\acthead{Epilogue}}
+\def\theend{
+  \def\acttailblock{
+    \vskip 2\lineskip
+    \centerline{{\emfont THE END}}
+  }
+}
+
+\def\scene#1{%
+  \penalty10000
+  \def\contprevscene{}
+  \def\contprevdialog{}
+  \def\contdialoga{}
+  \def\contdialogb{}
+  \def\contscenea{}
+  \def\contsceneb{}
+  \expandafter\mark\mymark
+  \penalty-100
+  \advance\scenecnt by 1
+  \edef\currentscene{Scene \number\scenecnt}
+  \parskip\baselineskip
+  \margins{0in}{\hsize}
+  \leavevmode\hangscene\uppercase{#1}\par
+  \def\contprevscene{\hangscene CONTINUED}
+  \def\contscenea{\nukeline\nukeline}
+  \def\contsceneb{\vskip\lineskip \line{\hskip 40\charwid CONTINUED}}
+  \expandafter\mark\mymark
+  \global\def\lastspeaker{}
+  \penalty1000
+}
+\def\shot#1{\scene{#1}}
+
+\def\stage{%
+  \penalty10000
+  \def\contprevdialog{}
+  \def\contdialoga{}
+  \def\contdialogb{}
+  \expandafter\mark\mymark
+  \penalty-100
+  \margins{0in}{\hsize}
+  \parskip\baselineskip
+}
+
+\def\trans#1{%
+  \def\contprevdialog{}
+  \def\contdialoga{}
+  \def\contdialogb{}
+  \expandafter\mark\mymark
+  \parskip\baselineskip
+  \penalty100
+  {\margins{40\charwid}{20\charwid} \uppercase{#1} \par}
+  \penalty-100
+}
+
+\def\open#1{%
+  \def\contprevscene{}
+  \def\contprevdialog{}
+  \def\contdialoga{}
+  \def\contdialogb{}
+  \def\contscenea{}
+  \def\contsceneb{}
+  \expandafter\mark\mymark
+  \parskip\baselineskip
+  {\margins{0in}{\hsize} \uppercase{#1} \par}
+}
+
+\def\close#1{\open{#1}}
+
+\def\dialog#1#2\par{%
+  \penalty10000 % make sure we don't break until after the clear mark
+  \def\contprevdialog{}
+  \def\contdialoga{}
+  \def\contdialogb{}
+  \expandafter\mark\mymark
+  \penalty-100 % OK to break now
+  \parskip\lineskip
+  {\margins{24\charwid}{36\charwid} \uppercase{#1}%
+    \global\def\thisspeaker{#1}%
+    \ifx\thisspeaker\lastspeaker \ (CONT'D)\fi
+    \global\def\lastspeaker{#1}
+  \par}
+  \parskip 0pt
+  \def\contprevdialog{%
+    \nukeline%
+    \line{\hskip 24\charwid \uppercase{#1} (CONT'D)}%
+  }
+  \def\contdialoga{\nukeline}
+  \def\contdialogb{\line{\hskip 24\charwid (MORE)}}
+  \expandafter\mark\mymark
+  \margins{10\charwid}{35\charwid} % rightmar = \hsize-\leftskip-35\charwid
+  \penalty10000
+  #2\par
+  \stage
+}
+
+\def\paren#1#2\par{%
+  \par
+  \penalty10000
+  {%
+    \margins{17\charwid}{20\charwid} % rightmar = \hsize-\leftskip-20\charwid
+    (#1)%
+    \par%
+  }
+  \penalty10000
+  #2\par
+  \stage
+}
+
+\def\leadin#1{#1~\ldots\par\penalty200}  % These are more exciting in the
+\def\pickup{\ldots~}                     % stageplay format.
+
+\def\em#1{{\emfont #1}}
+\def\extra#1{\uppercase\expandafter{#1}}
+\def\introduce#1{\uppercase\expandafter{#1}}
+\def\sound#1{\uppercase{#1}}
+\def\ldots{.~.~.}  % Formal typing version.  OK to use "..."
+
+\def\cleanup{%
+  \par
+  \acttail
+  \def\contdialoga{}
+  \def\contdialogb{}
+  \def\contscenea{}
+  \def\contsceneb{}
+  \expandafter\mark\mymark
+  \vfill
+  \penalty-10000
+}
+\def\bye{%
+  \cleanup
+  \end
+}
+%
+% Shortcuts:
+%
+\def\beat{\paren{beat}}
+\def\cut{\trans{cut to}}
+\let\dialogue=\dialog
+\def\dissolve{\trans{dissolve to}}
+\def\ext#1{\scene{ext.\ #1}}
+\def\fadein{\open{fade in}}
+\def\fadeout{\close{fade out}}
+\def\int#1{\scene{int.\ #1}}
+\def\os{\paren{off screen}}
+\let\shot=\scene
+\let\tv=\TV
+\def\vo{\paren{voice over}}
+%
+% Defaults
+%
+\TV\proof

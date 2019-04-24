@@ -1,0 +1,1191 @@
+% PLEASE KEEP THE VERSION NUMBER UP TO DATE.
+
+\documentclass[makeidx]{report}
+
+%
+% Special characters
+%
+\renewcommand{\{}{{\tt\char`\{}} % a typewriter left brace
+\renewcommand{\}}{{\tt\char`\}}} % a typewriter right brace
+\newcommand{\tie}{{\tt\char`\~}} % a typewriter tilde
+\newcommand{\bs}{\char`\\}       % a backslash
+\newcommand{\tm}{\mbox{$^{\rm TM}$}\null}  % trademark
+
+%
+% Indexing
+%
+\newcommand{\pindex}[1]{\protect\index{#1}}
+\newcommand{\idx}[1]{#1\pindex{#1}}
+%\typein{Type `\protect\makeindex' to create a new \jobname.idx file.}
+\makeindex
+
+%
+% Products with special typesetting requirements
+%
+\newcommand{\ST}{{\tt Script}\-\TeX\null} %version
+\newcommand{\vernum}{1.04} %version
+\newcommand{\version}{\ST~\vernum} %version
+\newcommand{\BibTeX}{{\sc Bib}\TeX\null}
+\newcommand{\INITEX}{{\tt INITEX\@}}
+
+%
+% Mark-up commands
+%  (Versions ending in x also create index entries.)
+%
+\renewcommand{\P}[1]{{\em #1\/}}
+
+\newcommand{\book}[1]{{\sl #1\/}}
+\newcommand{\bookx}[1]{{\sl #1\/}\pindex{#1@{\sl #1}}}
+
+\newcommand{\cs}[1]{{\tt\bs#1}}
+\newcommand{\csx}[1]{{\tt\bs#1}\pindex{#1@{\tt\protect\bs #1}}}
+
+\newcommand{\filename}[1]{{\tt #1}}
+\newcommand{\filenamex}[1]{{\tt #1}\pindex{#1@{\tt #1}}}
+
+\newcommand{\film}[1]{{\sl #1\/}}
+\newcommand{\filmx}[1]{{\sl #1\/}\pindex{#1@{\sl #1}}}
+
+\newcommand{\person}[2]{\mbox{#1} #2}
+\newcommand{\personx}[2]{\mbox{#1} #2\pindex{#2, #1}}
+
+\newenvironment{digression}{\begingroup \small}{\endgroup}
+
+%
+% Things like file names and e-mail addresses tend to be too long for good
+% line breaks.  We don't want to hyphenate them, so we use \. to allow
+% line breaks after the periods.
+%
+\renewcommand{\.}{\discretionary{.}{}{.}}
+\hyphenation{man-u-script}
+
+
+%
+% Title information
+%
+\title{\ST: \\ A \TeX\ Macro Package for \\ Screenplays and Scripts}
+\author{\personx{Adrian}{McCarthy}}
+\date{\copyright\ 1992-2002}
+
+\begin{document}
+
+\sloppy % It's better than lines that are too long.
+
+\maketitle
+\tableofcontents
+
+\chapter{Preface}
+
+The purpose of this document is to describe
+\version,\index{ScriptTeX@\ST}\index{ScriptTeX@\ST!version} a
+package of \TeX\index{TeX@\TeX} macros for formatting scripts and
+screenplays.  The tone here is informal, but this is intended to be
+complete documentation.  The first part of this document is aimed at
+those who wish to use the macros as they are, and the second is for
+those who wish to understand the details of how the macros operate.
+
+The purpose of this document is {\em not\/} to be an all-encompassing
+how-to-write-scripts tutorial; the bibliography at the end of this document
+should point you in the right direction if that's what you're looking for.  On
+the other hand, this document does have some stylistic details presented as a
+justification of why \ST\ behaves certain ways when a ``better'' way may seem
+to exist.
+
+\begin{digression}
+\index{document conventions|(}
+
+\filenamex{Typewriter text} is used to indicate file names, macro
+names, user-typed input, and computer output.  \filmx{Slanted text} is
+used for the names of television series, movies, and books.  In this
+document, punctuation is always placed outside quotation marks unless
+it is to be considered part of the ``\idx{quoted material}''.  My bias
+for the modern spellings of {\em dialog,\/}\index{dialog vs 
+dialogue@{\em dialog\/} vs.\ {\em dialogue}} {\em
+prolog,\/}\index{prolog vs prologue@{\em prolog\/} vs.\ {\em
+prologue}} and {\em epilog\/}\index{epilog vs epilogue@{\em epilog\/}
+vs.\ {\em epilogue}} are evident in this document, but the macros
+allow the traditional {\em -gue\/}~spellings\index{gue spellings@{\em
+-gue\/} spellings}, too.
+
+\index{document conventions|)}
+\end{digression}
+
+\chapter{Overview}
+
+I would like to begin this overview by stating the motivation and goals of the
+package.  If you find yourself thinking, ``Why in the world did he design
+\ST\ this way?'', please read this section again.
+
+In some regards, a script is a script is a script.  All scripts have acts,
+scenes, stage directions, and dialog.  It would be nice, therefore, to have a
+consistent set of \TeX\ macros for scripts.  The format of a script, however,
+varies depending upon the target media~--- stage, screen, published.  Yet, the
+basic elements do not change.  The first release of \ST\ supported
+manuscript-style screenplays; this version has support for simple stageplay
+format.
+
+\index{ScriptTex@\ST!design goals|(}
+And therefore my design goals for \ST\ were:
+
+\begin{itemize}
+
+\item
+There should be a simple set of macros which can format to the strict
+manuscript requirements expected by agents and producers.
+
+\item
+The macros should be general enough to support other sorts script formats
+without changing the source file.  Other script formats considered included: 
+shooting scripts, stageplays, and published screenplays.
+
+\item
+In the same vain as \LaTeX, the macros should be geared toward describing the
+chunks of text rather than formatting them, so \ST\ macros like \cs{scene},
+\cs{dialog}, and \cs{stage} are roughly analogous to \LaTeX's
+\cs{chapter}, \cs{section}, and \cs{subsection} macros.
+
+\end{itemize}
+
+Since I am also a programmer with an interest in tools to help writers, I added
+the requirement that the files should be easy to parse, so that other
+script-specific tools could be designed to read them.
+
+With these goals in mind, \ST\ began to take shape.  Rather than starting from
+scratch, \ST\ relies on several facilities of plain \TeX\@.  A later version
+may become a \TeX\ format in its own right.
+
+\index{ScriptTeX@\ST!design goals|)}
+
+\chapter{Writing a script with \ST}
+
+The macros for preparing a script with \TeX\ are now presented in what the
+author hopes is a logical order.  To best understand these, it is recommended
+that you read along with a copy of the \filenamex{stdemo.tex} source and a
+formatted copy of the \idx{demo file}.
+
+First of all, you need the command to include the \ST\ macro definitions. 
+Assuming you want the standard screenplay definitions, put ``\csx{input}
+\filenamex{scrnplay.tex}'' at the beginning of your file.\index{including
+macro definitions}  Stageplays should begin with ``\csx{input}
+\filenamex{stagplay.tex}''.  To format your file, refer to your local system
+guides for how to feed your file to \TeX\@. You may have to make a local copy
+of \filenamex{scrnplay.tex}.
+
+\section{The basic components}
+
+In accordance with the stated goals, there are only a few basic control
+sequences, and they are easy to master.
+
+To begin a new act, type~--- you guessed it~---``\csx{act}''.  This control
+sequence does not require any parameters.  The exact action of this macro will
+depend on the setting of the variations, but in general it finishes up the
+previous act, increments the act number, and begins the next act.  Depending
+upon the combination of variants you may have selected, the scene counter may
+be reset to zero.
+
+After starting a new act, you usually have some opening
+transition\index{transitions!opening} like ``fade in''.  To specify an
+opening transition, use the sequence: 
+``\csx{open}\{\P{transition-type}\}'', where \P{transition-type} is a
+short phrase like ``{\tt fade in}''.  Similarly, closing
+transitions\index{transitions!closing} are specified like
+``\csx{close}\{{\tt fade out}\}''.  Normal transitions between
+scenes\index{transitions!between scenes} are indicated by
+``\csx{trans}\{\P{transition-type}\}''.  Whether or not punctuation
+belongs at the end of the \P{transition-type} is open for
+debate.\index{transitions!punctuation}  Many authors use ``Fade in:'',
+``Cut to:'', and ``Final fade out.'' while others omit the punctuation
+completely.  Both forms are acceptable, but be consistent throughout
+the script.
+
+Following the transition is the new scene, headed up by the \idx{scene line}. 
+An example should suffice:  ``{\tt \csx{scene}\{int.\bs\ subway train --
+night\}}''.  The \idx{backslash} after the abbreviation ``{\tt int.}''
+(\idx{interior}) lets \TeX\ know that the period shouldn't be followed by two
+spaces since it wasn't the end of a sentence.  If you forget it, it isn't a big
+deal.  If you remember it sometimes and not others, you may wish to use the
+\csx{int} and \csx{ext}\index{exterior} shortcut control sequences listed in
+Table~\ref{scstbl}.  The \idx{scene number} will automatically be incremented.
+
+If you're still with me, we've made it to the heart of the matter:  \idx{stage
+directions} and \idx{dialog}.  Normal paragraphs (except those marked with the
+\csx{dialog} macro discussed below) are considered to be stage
+directions automatically.  If you wish to explicitly
+indicate a paragraph as stage directions, you may type ``\csx{stage}''.  (In a
+previous unreleased version, the \csx{stage} macro was required.)
+
+Dialog\index{dialog} begins with \csx{dialog}\{\P{character}\}, where
+\P{character} is the person speaking.  Subsequent text is then treated as
+dialog until the next paragraph (indicated by a \csx{par}, \cs{stage}, another
+\cs{dialog}, or a blank line in the input file).
+
+With a few more minor macros, you should be off and running.
+
+Within stage directions, you should use:  \csx{sound}\{\P{effect}\} to indicate
+sound effects; \csx{introduce}\{\P{character}\} to mark the first time a
+speaking character appears; and \csx{extra}\{\P{person}\} to mark the first
+appearance of a non-speaking character (i.e., an extra).  Some combinations of
+script type and variation in use will cause these special pieces of text to be
+emphasized.
+
+In dialog, you may occasionally need to use \idx{parenthetical directions},
+those little clues to the performers as to the emotion and gestures which
+should accompany their \idx{dialog}.  The syntax is:  \csx{paren}\{\P{clue}\}. 
+Only use this macro in the main text of a dialog block; do not use it as part
+of the text of the \P{character} parameter to the \csx{dialog} macro or
+anywhere else.
+
+In dialog and stage directions, you may need to use \idx{emphasis}.
+The syntax is:  \csx{em}\{\P{words}\}, and it may be used anywhere
+normal text is expected.  Note that this is not identical to the
+\LaTeX\index{LaTeX@\LaTeX} syntax for emphasizing text.  In the
+typewritten manuscript, emphasis is shown by underlining the text.  In typeset
+documents, emphasis is indicated by a change in font.
+
+There is one more macro you'll need to know.  Put ``\csx{bye}''
+at the \idx{end of the source file}.  This will make sure the final page is
+ejected.
+
+\section{Slightly advanced components}
+
+There are a few peculiar situations, which, although they occur rarely,
+require special attention.
+
+\index{ellipses|(}
+
+For better or for worse, ellipses are used often in dialog.  Experienced
+users of \TeX\index{TeX@\TeX} and \LaTeX\index{LaTeX@\LaTeX} know that ellipses
+require special spacing to look right. \ST\ provides \csx{ldots} as an
+abbreviation for a properly spaced three-dot ellipsis.  Four dot ellipses don't
+seem to be used in screenplays, despite what your English teachers may say.  In
+the typewriter style of a screenplay manuscript, you can get away with just
+typing ``{\tt ...}'', but it isn't recommended.  If you ever do other sorts of
+scripts with \ST\ or other sorts of writing with \LaTeX, the \csx{ldots} habit
+is a good one to have.
+
+Ellipses present another minor problem:  poor \idx{line breaks}.  If a
+character's words trail off into an ellipsis, it's generally a good
+idea to use a tie\index{tie@tie (\protect\tie)} between his/her last utterance
+and the dots of doom.  (For those of you new to this, a tie is treated
+just like a space, except \TeX\ won't break a line there.  To type a
+tie, use the tilde\index{tilde@tilde (\protect\tie)|see{tie}} character like
+this:  ``{\tt I'll be back\tie\csx{ldots}}''.)  As with using
+\csx{ldots}, you can probably get away without following any of these
+ellipsis rules, especially in a typewriter-style manuscript, but it's
+a nice touch.
+
+In screenplays, when one character jumps in and finishes a line for
+another character (think of Dave and Maddie in \filmx{Moonlighting}),
+ellipses are used.  You may have a strong temptation to use
+dashes,\index{dash!misuse of} but the authorities say that
+\idx{ellipses} are the appropriate tool.  If you have such a
+situation, use  ``\csx{leadin}\{\P{last-words}\}'' around the first
+character's last few words and \csx{pickup} before the second
+character's first words.  See the example file.
+
+\index{ellipses|)}
+
+Admittedly, the \csx{leadin} and \csx{pickup} macros are pretty boring in
+screenplays.  In a stageplay format, the effect is typographically more
+interesting (although it could still use work), thus this pair of macros is
+provided to help you when its time to adapt\index{adaptation} your Tony
+Award-winning stageplay to film.
+
+\section{Variants}
+
+\index{variants|(}
+
+Within the general category of screenplays, there are a few variations which
+are appropriate to specific types of scripts.
+
+Teleplays generally show the act breaks and numbers since that's where they
+slip the \idx{commercials} in.  Although motion picture scripts are built
+around acts too, the act breaks are not explicitly shown.  \ST\ provides the
+variations \csx{TV}\index{variant!TV} and \csx{movie}\index{variant!movie}
+which can be placed at the top of the source file.  Besides suppressing the act
+breaks, \csx{movie} also prevents the \idx{scene number} from
+being reset at the beginning of each act.  In either case, it is recommended
+that you use the \csx{act} macro (and its cousins which are described later in
+this section).
+
+As previously stated, situation comedies\index{situation comedy} are
+double-spaced.  If your script is a situation comedy put
+``\csx{sitcom}''\index{variant!situation comedy} near the top of your
+file.  This macro also implies \csx{TV}.
+
+A script may also be printed various ways depending upon its progress
+through the life-cycle of a production.  If you want to print a copy
+just for \idx{proof-reading}, use \csx{proof}.\index{variant!proof} 
+This macro will put the \idx{date}, \idx{draft}, and \idx{title} on a
+\idx{footline} on each page.  On the other hand, if this is the copy
+you plan to send out into the real world, use
+\csx{manuscript}\index{variant!manuscript} which turns off the
+footlines and \idx{scene number}s.  If you're fortunate enough to have
+your screenplay produced {\em and\/} you get to maintain control of
+the \idx{shooting script}, use \csx{shoot}\index{variant!shooting
+script} which turns on the display of \idx{scene number}s.
+
+\index{margins|(}
+
+Manuscripts are generally typed only on one side of the page and are
+bound\index{binding manuscripts} with one or two brass brads through
+holes punched in the paper. \ST\ makes the left margin wider to
+accommodate the holes and brads.  If, however, you are printing your
+draft copies on both sides of the paper, use
+\csx{twoside}\index{variant!two-sided}, and \ST\ will alternate which
+margin is widened.
+
+\index{margins|)}
+
+One final variant that effects the overall output is the previously mentioned
+\csx{jlbrooks}\index{variant!J.L. Brooks} macro which causes \ST\ to perform
+``creative margin release''.  It is not recommended for use on submitted
+manuscripts, but if you want to save a few sheets when printing drafts, this
+might help.
+
+By the way, the default\index{defaults} for the variants\index{variant!default}
+above are \csx{TV} and \csx{proof}.
+
+\index{variants|)}
+
+\section{Mutant cousins}
+
+\index{mutant cousins|(}
+
+A few of the basic controls discussed in a previous section have mutant cousins
+with specific applications.
+
+Television shows often begin with a mini act called a \idx{teaser}, a three- or
+four-minute audience grabber shown before the first
+commercial.\index{commercials}  Similarly, some shows have a couple pages after
+the last act called a \idx{tag} where everything is neatly wrapped up or the
+episode's running gag is finally put to death.  These constructs are identical
+to acts except for the name.  \ST\ provides \csx{teaser}\index{mutant
+cousins!teaser} and \csx{tag}\index{mutant cousins!tag} which can be
+used for these situations in place of \csx{act}.
+
+\ST\ also provides \csx{prolog}\index{mutant cousins!prolog} and
+\csx{epilog}\index{mutant cousins!epilog} which might be more
+appropriate for a miniseries.  These two also make the transition between
+stageplays and screenplays require less thought.\index{adaptation}
+
+You might want to consider \csx{open}\index{mutant cousins!opening} and
+\csx{close}\index{mutant cousins!closing} to be mutant cousins of \csx{trans};
+you wouldn't be the only one.
+
+\begin{digression}
+
+If you absolutely have to have your acts named\index{act names}
+differently than the automatic names like ``Act One'', ``Teaser'', and ``Tag'',
+then you can call \csx{acthead}\{\P{your-title}\}.  Be aware that this routine
+will increment the internal \idx{act counter}.
+
+\end{digression}
+
+If after the last act, you would prefer to the line ``\idx{The End}'' to the
+standard ``End of Act \P{n}'', you can use \csx{theend}\index{mutant
+cousins!ending} before the \csx{bye}.
+
+\index{mutant cousins|)}
+
+\section{Shortcuts and synonyms}
+
+\index{shortcuts|(}
+\index{synonyms|(}
+
+The macros presented to this point are general enough to handle almost any
+screenplay manuscript.  As a result, certain sequences are so common that it
+would be convenient to have abbreviations.  The source file may also be
+rendered more readable by the appropriate use of synonyms.  These shortcuts and
+synonyms don't really require any sort of explanation, so I'll just list them
+in Table~\ref{scstbl}.
+
+\begin{table}
+\begin{center}
+\begin{tabular}{ll}
+\hline
+\csx{beat}                      & \csx{paren}\{{\tt beat}\} \\
+\csx{cut}                       & \csx{trans}\{{\tt cut to}\} \\
+\csx{dialogue}\{\P{character}\} & \csx{dialog}\{\P{character}\} \\
+\csx{dissolve}                  & \csx{trans}\{{\tt dissolve to}\} \\
+\csx{epilogue}                  & \csx{epilog}$^*$ \\
+\csx{ext}\{\P{scene}\}          & \csx{scene}\{{\tt ext.\bs\ }\P{scene}\} \\
+\csx{fadein}                    & \csx{open}\{{\tt fade in}\} \\
+\csx{fadeout}                   & \csx{open}\{{\tt fade out}\} \\
+\csx{int}\{\P{scene}\}          & \csx{scene}\{{\tt int.\bs\ }\P{scene}\} \\
+\csx{os}                        & \csx{paren}\{off screen\}$^\dagger$ \\
+\csx{prologue}                  & \csx{prolog}$^*$ \\
+\csx{shot}\{\P{subject}\}       & \csx{scene}\{\P{subject}\} \\
+\csx{tv}                        & \csx{TV} \\
+\csx{vo}                        & \csx{paren}\{{\tt voice over\}} \\
+\hline
+\multicolumn{2}{l}{$^*$~These use the {\em -gue\/} spelling in the act name.
+  \pindex{gue spellings@{\em -gue\/} spellings}}\\
+\multicolumn{2}{l}{$^\dagger$~Actually becomes \csx{paren}\{{\tt off stage}\}
+in stageplay formats.}\\
+\end{tabular}
+\end{center}
+\caption{Predefined shortcuts and synonyms.}
+\label{scstbl}
+\end{table}
+
+\index{shortcuts|)}
+\index{synonyms|)}
+
+\section{Title pages\index{title page}}
+
+\ST\ can also produce pretty title pages, just tell \ST\ the basic information: 
+your script's title and your name. Put ``\csx{title}\{\P{script-title}\}'' and
+``\csx{author}\{\P{author's-name}\}'' at the top of your source file.  The
+macro \csx{maketitle} will then produce a title page.
+
+There is a little more to the title page story, however.  If you are writing a
+spec script\index{spec(ulation) script} or an episode of a \idx{television
+series}, you should also indicate the name of the series with the
+\csx{series}\{\P{series-name}\} construct.
+
+To show a copyright notice on the titlepage, specify
+\csx{showcopyright}\{\P{year}\} before the \cs{maketitle} macro.  To keep your
+old scripts looking up to date, you might want to use \cs{number}\cs{year} for
+the \P{year} parameter.
+
+Your address and/or phone number (or that of your agent) can be included by
+using \csx{address}\{\P{address}\}.  Separate the lines of the \P{address}
+with double backslashes (\csx{\bs}).
+
+Despite what agents want to see, I like to have \idx{draft} numbers and
+\idx{date}s on my drafts.  You can include this information by using
+``\csx{draft}\{\P{draft-number}\}'' and ``\csx{date}\{\P{draft-date}\}'' before
+the \csx{maketitle} command.  If the selected variant is
+\csx{proof},\index{variant!proof} the draft and date information will be
+printed.  If, however, the \csx{manuscript} variant\index{variant!manuscript}
+is in force, the draft and date information is ignored.  If you don't supply
+the date, \ST\ will assume \csx{today} which expands to the date that you are
+running \TeX\@.
+
+\chapter{Breakdowns}
+
+\index{breakdowns|(}
+
+The original release of \ST\ included the ability to produce cast lists and
+scene breakdowns.  They looked terrible, weren't useful, and generally caused
+all sorts of problems.  Therefore, the breakdown features have been removed from
+\ST\ and will probably not return.
+
+I apologize if you came to rely on the breakdown features.  The user-level
+macros supporting the breakdowns will now cause a warning message to be
+displayed, but should not otherwise hinder the formatting of your scripts.
+
+\index{breakdowns|)}
+
+\chapter{Hints}
+
+If you are having problems with \ST, these \idx{hints} might be helpful.
+
+Many of \ST\ macros only work properly when used in the right context.  Strange
+output is often due to using a macro in weird place.  If you are familiar with
+\LaTeX, it may be sufficient to say that variants, revision information, and
+the \cs{make}\ldots macros are analogous to \LaTeX's preamble except that \ST\
+doesn't make the distinction between the preamble and the body explicit.  Here
+are the rules of what can go where:
+
+\begin{quote}
+\begin{itemize}
+
+\item You must use ``\csx{input} \filenamex{scrnplay.tex}''\index{including
+macro definitions} or ``\csx{input} \filenamex{stagplay.tex}''\index{including
+macro definitions} before any \ST\ macros.
+
+\item If \TeX\ complains that the font \idx{cmpica} or \idx{cmpicai} cannot be
+found, you will need to edit \filename{scrnplay.tex} to change the
+definitions of {\tt mainfont} and {\tt emfont} to {\tt cmtt}.\index{cmtt}
+
+\item Variants\index{variants!position of} (such as \csx{twoside}, \csx{proof},
+and \csx{TV}) should come next.
+
+\item Revision information\index{draft}\index{date}\index{title}\index{author}
+must come before \csx{maketitle}.
+
+\item Finally comes the main body of the script formed with the basic
+components.
+
+\item Use \csx{paren} {\em only\/} in dialog.
+
+\item The macro \csx{cleanup} should only come after all of the body of the
+script.  \csx{cleanup} is optional since \csx{bye} will take care of it.
+
+\item Nothing should come after \csx{bye}.
+
+\end{itemize}
+\end{quote}
+
+\chapter{How the macros work}
+
+At least some of the techniques used in \ST\ should be documented beyond the
+few cryptic sentences in the source.  (In fact, once it is well-documented
+here, the source should probably be stripped of comments to speed up the
+\csx{input} process.)  These sections assume a good familiarity with \TeX\@.
+
+\section{Emulating a typist}
+
+One of the trickiest things I've had to do with \TeX\ is make it emulate a
+typewriter.  Here are the techniques used to do this in \ST.
+
+Previous versions of \ST\ used \idx{Computer Modern Typewriter Type}
+(\idx{cmtt})\index{typewriter text} by default for typed screenplay formats.
+This version, however, uses a pica font called \idx{cmpica} and an underlined
+cousin called \idx{cmpicati} created by \personx{Don}{Hosek}.  The advantages
+these fonts is that they automatically transform \TeX\ typing conventions
+like ``{\tt ``---''}'' into ``{\tt "--"}'' and they provide better underlining.
+
+\begin{digression}
+If you do not have these fonts available at your site, you can edit
+\filename{scrnplay.tex} to change the definition of {\tt mainfont} and {\tt
+emfont} to cmtt, but I encourage you to try to get Don Hosek's fonts.  They
+are available from most \TeX\ distributions.
+\end{digression}
+
+The typewriter fonts are fixed pitch, and the inter-word spaces can't stretch
+or shrink.  In case the user changes to a different font, \ST\ uses
+\csx{spaceskip} and \csx{xspaceskip} to make sure that the spaces are fixed
+width.  Everything is scaled in terms of lines and columns by defining
+\csx{lineskip} and \csx{charwid} once the font is selected.  \csx{lineskip} is
+set to 12 big points to make sure that there are 6 \idx{lines per inch}.
+
+The changing margins of screenplay format are achieved by adjusting
+\csx{leftskip} and \csx{rightskip} appropriately.  \csx{rightskip} also takes
+into account the ragged right margin by having a stretchability of 8 character
+widths.  (The ``hot zone'' on a typewriter is generally 8 characters wide, so
+lines are usually broken between the margin bell, which signifies the beginning
+of the hot zone, and the actual right margin.)  To emulate a typist even more
+exactly, setting \csx{hfuzz} to some slightly positive multiple of character
+widths might be appropriate.  To stretch things out when the \csx{jlbrooks}
+variant is in effect, \ST\ does increase \csx{hfuzz} (as well as stretch all of
+the line lengths).
+
+Hyphenation\index{hyphenation} is a fact of life in the realm of
+screenplay manuscripts, as are ``club\index{club line}'' and
+``widow\index{widow line}'' lines.  Additionally, we want \TeX\ to
+just fill each line as much as possible without worrying too much
+about the aesthetic look of the entire paragraph.  To achieve this,
+\ST\ sets \TeX's battery of penalty and demerit factors to zero and
+increases \csx{pretolerance} so that we're more likely to hyphenate
+than have a really short line.
+
+The result is pretty good (apologies to Knuth).  Anyone but a typist who was
+looking for something wrong would not be able to detect weirdness, and the
+aforementioned typist would probably remark that the output is too consistent. 
+
+\section{Mark madness}
+
+\index{marks|(}
+
+Marks are the biggest nightmare in \ST.  Each mark has seven parts used
+and an eighth part which is reserved for a feature whose implementation is
+still being worked out.  Each part of the mark is a token list of stuff that
+needs to be done in certain situations.  The parts are separated by \csx{or}s so
+that the $n\/$th part can be selected with \csx{ifcase}$n$.  The parts are:
+
+\begin{quote}
+\begin{itemize}
+
+\item[0.]  The text to generate the act/scene header.  In the
+\filenamex{scrnplay.tex} format, it is the hanging \idx{scene number}
+followed by a period and a space.  (Some variants don't use this part at all.)
+
+\item[1.]  The text ``(CONTINUED)\index{continued@(CONTINUED)}'' if this scene
+is continued from the previous page.
+
+\item[2.]  The text ``\P{character} (CONT'D)\index{contd@(CONT'D)}'' if the
+current dialog by \P{character} may be continued onto the next page.
+
+\item[3.]  A call of \csx{nukeline} to make room for the
+``(MORE)\index{more@(MORE)}'' text which is used if dialog is split.
+
+\item[4.]  The text ``(MORE)\index{more@(MORE)}'' if the current dialog
+continues onto the next page.
+
+\item[5.]  A pair of \csx{nukeline}s to make room for the ``\idx{CONTINUED}''
+text at the bottom of the page if the current scene continues onto the next
+page.
+
+\item[6.]  The ``\idx{CONTINUED}'' text for the bottom of the page if the
+current scene continues onto the next page.
+
+\item[7.]  Reserved for the up-coming \idx{revision page} feature.
+
+\end{itemize}
+\end{quote}
+
+\noindent It is easier to understand this list if you look at a formatted
+screenplay to see how the scene and dialog splits are handled from page to
+page.  Putting the \csx{nukeline}s into separate parts of the mark is necessary
+because they must be done before the body of the page, but the text doesn't
+come until afterwards.  In retrospect, it might be possible to combine items~1
+and~6, but that would come at the cost of generality and clarity.
+
+The \csx{output} routine\index{output routine} actually uses the \idx{marks}. 
+At first blush this may not seem too tricky, but there is an important
+subtlety.  The ``(MORE)\index{more@(MORE)}'' and ``\idx{CONTINUED}'' lines at
+the bottom of the page actually encroach into the space intended for the bottom
+of the page.  The \csx{nukeline}s help keep track of how much extra space we
+need at the bottom.  When the time comes, the box \TeX\ has handed the
+\csx{output} routine must be \csx{vsplit}, so that a few lines at the bottom are
+usually deferred to a later page.  The local setting of \csx{vbadness} to
+``infinity'' suppresses the ``underfull vbox'' messages that come from the
+split.  \csx{vbadness} is restored (implicitly by \TeX's grouping rules) before
+the \csx{shipout} occurs.
+
+The splitting of the box further complicates keeping track of the mark.  No
+longer is \csx{topmark} valid, since it might have come from lines that were put
+back when the previous page was output.  It is not a mistake that
+\csx{splitbotmark} is used when \csx{topmark} seems to be the logical intent. 
+\TeX\ assures us the \csx{splitbotmark} is null if no \csx{vsplit} has yet
+occurred, so there is no special case for the first page.
+
+The macros for the basic components may seem to use penalties in odd ways. 
+This is to assure that a split doesn't occur between a mark and the relevant
+block.  In some cases, they may be redundant, but the intent was to guarantee
+proper operation in this early release and then to optimize later.
+
+The current value of each part of the last mark is carried around in a set of
+seven macros.  This is necessary since certain basic components don't know how
+to set all of the components of the mark.  Close inspection will probably
+reveal possible optimizations in this regard, but again the intent was to keep
+it general for the first release.
+
+\index{marks|)}
+
+\chapter{Distribution and local changes}
+
+\index{ScriptTex@\ST!distribution|(}
+
+This document, the \ST\ macro files, and the demonstration document are
+copyrighted by the author.  You may make and distribute copies as well as
+prepare derivative works for non-commercial purposes.  All other rights are
+reserved by the author.
+
+Feel free to re-distribute this document as well as the files described herein. 
+I request, however, that you try to keep the files together (i.e., don't break
+up the package).
+
+If you make local hacks, please change the
+version\index{ScriptTeX@\ST!version} number by appending a
+letter to it, e.g., ``\vernum-A''.  Be aware that ``\vernum-A'' at one site
+will quite possibly be different than ``\vernum-A'' at another.  I would like,
+however, users to feel confident that ``\vernum'' is ``\vernum'' is ``\vernum''
+everywhere. I also prefer local hacks don't propagate too far.  If you have a
+change that is generally useful, I would love to hear about it and integrate it
+into the ``official'' package.
+
+This document is written for \LaTeX\@.  There is a companion example file
+called \filenamex{stdemo.tex} which demonstrates the use of this macro package. 
+Table~\ref{filetbl} lists the files which constitute \ST.
+
+\begin{table}
+\begin{center}
+\begin{tabular}{ll}
+\hline
+\filenamex{scrnplay.tex} & macro definitions for screenplay manuscripts \\
+\filenamex{scrnwrit.bib} & \BibTeX\index{BibTeX@\BibTeX} source for this
+                                documentation \\
+\filenamex{stagplay.tex} & macro definitions for stageplays \\
+\filenamex{stdemo.tex}   & \ST\ demonstration file \\
+\filenamex{stdoc.tex}    & \LaTeX\ source for this documentation \\
+\hline
+\end{tabular}
+\end{center}
+\caption{The components of~\version.}
+\label{filetbl}
+\end{table}
+
+\index{ScriptTex@\ST!distribution|)}
+
+\appendix
+
+\chapter{\idx{Script formats}}
+
+This appendix describes the formats for the various types of scripts currently
+supported by \ST.
+
+\section{\idx{Screenplay manuscript format}}
+
+Screenplay manuscripts are typed, not typeset.  With computers becoming even
+more ubiquitous, aspiring scriptwriters are more likely to be submitting
+nice-looking documents formatted with Macintoshes\tm\ and PC's and the like. 
+For better or worse, agents take typewritten manuscripts more seriously,
+according to \personx{Richard}{Walter} in \book{Screenwriting:  The Art, Craft
+and Business of Film and Television Writing}~\cite{rw:sacb}.  Therefore, \ST's
+screenplay manuscript format looks typewritten.
+
+The layout of a typewritten manuscript has few variations.  The \ST\ macros
+have been designed to emulate those conventions that seem to be most universal. 
+Details like lines per page, \idx{page number}, \idx{scene number}s, and
+margins have all been based on half a dozen screenwriting books and a few
+actual screenplays.  Whenever there was an inconsistency, I went with the
+majority.
+
+The screenplay format is so evolved that~--- averaged out over a half-hour TV
+show, a two-hour movie, or a four-night miniseries~--- one page is one minute
+of screen time.  This may sound absurdly arbitrary, but it seems to hold true. 
+One page averages to one minute.  Agents and producers realize that this is
+only a rule-of-thumb, but this rule does drive decisions.  Production costs are
+often estimated from the page-count, so it is important that the conventions
+are followed.
+
+There is an exception to the page-a-minute rule:  situation
+comedies\index{situation comedy}. Sitcoms are typed double-spaced, so
+one sitcom page is 30~seconds.  In all other aspects, though, sitcoms
+are formatted just like other teleplays.
+
+\begin{digression}
+
+As an amusing aside, \personx{James L.}{Brooks}, in his foreword
+to the published screenplay of \filmx{Broadcast News}~\cite{jlb:bn}, explains
+that he often bribed studio typists to shrink the margins to make his too-long
+scripts come closer to ``acceptable'' page-counts.  This anecdote is the
+inspiration of the \csx{jlbrooks} macro in \ST.
+
+\end{digression}
+
+If you are serious about submitting your work to agents, you are
+better off knocking their socks off with a good story than your own
+interpretation of manuscript format.
+
+The basic layout is simple.  A scene begins with a line,\index{scene line} in
+all caps, which indicates the location and usually the time of day.  (In a
+\idx{shooting script}, each new camera angle is considered a scene, so the
+scene lines in the middle of a sequence often simply indicate the main subject
+of the shot, such as a particular character.)  Stage directions\index{stage
+directions} and descriptions are typed like normal paragraphs without
+indentation.
+
+Dialog\index{dialog} begins with the character's name, all in caps, roughly
+centered on a line by itself (no colons or other punctuation).  The character's
+words are set as narrow paragraphs, again without indentation. Parenthetical
+directions\index{parenthetical directions} which indicate the mood or
+mannerisms of the character as he/she speaks are set even narrower and inside
+parentheses.
+
+Transitions\index{transitions} like ``dissolve to'' and ``cut to'' are done in
+caps near the right margin.  Opening and closing transitions such as ``fade
+in'' and ``fade out'' are placed at the left margin.
+
+Note, overuse of \index{transitions} and \index{parenthetical directions} is
+usually considered bad form.  A simple ``cut to'' is redundant, since that can
+be inferred from the beginning of the new scene.  Occasionally, it is
+appropriate to use a ``dissolve to'' to signal a {\em long\/} passage of time
+or to introduce a flashback.  Parenthetical directions alsost always amount to
+directing on paper, which is another no-no.  When a character speaks to a
+specific person in a group, a parenthetical direction may be used to avoid
+ambiguity. If you want to sell your script, don't give into the temptation of
+padding your script with zillions of useless transitions and parenthetical
+directions.
+
+Blank lines\index{blank lines} separate almost everything.  Pages are
+numbered\index{page number}s in the upper-right corner of the page. 
+If a scene crosses \idx{page break}, as they often do,
+``\idx{CONTINUED}'' should be placed at the bottom of the page, in the
+same style as a transition, and the page-number line of the following
+page should be marked ``CONTINUED'' at the left.  If \idx{scene
+number}s are used (rare in manuscripts), then they are set hanging in
+the left margin next to the scene lines and the top ``CONTINUED''
+designations.  If a character's dialog spans a page break, the first
+part is labeled ``(MORE)\index{more@(MORE)}'' in the same style of
+parenthetical directions, and the following page repeats the
+characters name with the designation
+``(CONT'D)\index{contd@(CONT'D)}''.
+
+Text marked with the \csx{sound}, \csx{introduce}, and \csx{extra} macros will
+be set in all-caps in shooting scripts.  In all other formats, \csx{sound} is a
+no-op.
+
+This has been a loose description of the format, with which one should be able
+to read a screenplay.  The actual placement of these blocks is strictly
+prescribed in terms of lines and columns.  Some books even list different tab
+settings for pica and elite typewriters.  Since the \idx{Computer Modern
+Typewriter Type}, ``\idx{cmtt}'', isn't really pica or elite, I have scaled
+things in terms of character widths, which will cause nearly identical line
+breaks as someone following the standard conventions with a standard size
+type.\index{typewriter text}  Baselines\index{baselines} have been set to
+12~big points rather than 12~points in order to get a true 66~\idx{lines per
+page}.  I shall put off other such details to the description of the workings
+of the macros.
+
+Another set of cold rules for screenplay manuscripts is those that apply to the
+title page.  Most of these rules are of the ``do not'' variety.  The ``do''
+rules are easier to enumerate:  (1) put the name of the script in all caps
+centered on the page; (2) put the name of the author a few lines below the
+\idx{title}.  The ``do not'' rules essentially say, ``Don't put anything on the
+title page other than the title and the author's name''.  If you disagree with
+these rules, see the \personx{Richard}{Walter} book listed in the bibliography;
+he explains why you shouldn't have the date or draft information, the author's
+address and telephone number, or even the words ``written by'' before the
+author's name.  Except for the draft and date fields, \ST\ will place the other
+pieces of information on your title page if you have defined them.  Draft and
+date will also appear if the \csx{proof} variant is in force. 
+\personx{Michael}{Hauge} recommends that you include a copyright notice on the
+title page, but always use the current year to keep your old scripts looking
+fresh.
+
+\section{Stageplay format}
+
+The layout of the stageplay format was fairly arbitrary.  Published formats for
+stageplays seems to exhibit more flexibility than the screenplay manuscript
+format.
+
+Act and scene designations are always shown.  Acts and scenes are counted in
+Roman numerals:  uppercase for acts, lowercase for scenes.  Acts always begin
+on a new page.  The heading line on each page contains the title and the act
+and scene number.
+
+Scene lines and stage directions are typeset in an italic font.  Dialog uses
+the same margins as the rest of the text.  The speaking character is set in
+small caps with hanging indentation.  The dialog itself in roman type, and
+parenthetical directions are italicized like stage directions.
+
+The transition macros \csx{open}, \csx{close}, and \csx{trans} should
+be used to indicate key curtain and lighting changes, such as
+``\csx{open}\{{\tt curtain up}\}'' and ``\csx{close}\{{\tt
+blackout}\}''.
+
+The \csx{leadin} and \csx{pickup} macros measure and stagger the text to
+emphasize the flow of the dialog from one character to the next.
+
+\chapter{Known problems and limitations}
+
+\index{bugs|(}
+
+Most of these problems are minor annoyances.
+
+\begin{itemize}
+
+\item  Using certain macros in the wrong context, such as a \csx{paren} in
+stage directions or a variation switch too far down from the top can cause all
+sorts of weird things to happen.  (``Doctor, it hurts when I do this!''
+``Don't do that.'')
+
+\item  If your script has an inordinate number of acts, the \idx{act number}
+will shift from being spelled out (``Act Nine'') to uppercase Roman numerals
+(``Act XXIV'').  This threshold, however, should be high-enough to handle even
+week-long \idx{miniseries} without enter the Roman numeral phase.
+
+\item  The \csx{leadin} and \csx{pickup} macros don't work quite right
+in stageplay format.  A future release will provide better support.
+
+\end{itemize}
+
+\index{bugs|)}
+
+\chapter{Glossary}
+
+\begin{description}
+
+\item[``\idx{A-pages}''] Pages in a screenplay (usually a shooting script)
+which have been inserted during the course of a revision.\index{revision page}s 
+To avoid renumbering the entire script, additional pages are numbered with the
+number of the previous page and a letter.  For example, if page 92 has grown
+into three pages, the page sequence would be:  \ldots\,,~91, 92, 92-A, 92-B,
+93,~\ldots\,.
+
+\item[\idx{club lines}] If a paragraph is split across pages between the first
+and second line, the first line is a club line.
+
+\item[\idx{dialog block}] A screenplay format construct consisting of the
+character's  name and his/her words along with the associated parenthetical
+direction.
+
+\item[\idx{extra}] A character in a script who has no dialog.
+
+\item[\idx{koala}] An Australian marsupial that eats bushes, shoots, and leaves.
+
+\item[\idx{manuscript}] [in the context of this document:] A typed script of
+the form submitted to an agent or producer.
+
+\item[\idx{master scene}]  A scene in a script that is written in terms of all
+of the action that takes place in the given locale at a particular time rather
+than a shot-by-shot description of the same events.  Manuscripts are generally
+written as master scenes which, if the script is produced, later broken down
+shot-by-shot into the \idx{shooting script}.
+
+\item[\idx{parenthetical direction}] Parenthesized items embedded into a
+character's dialog which indicate the mode, timing, and gestures for that
+speech.
+
+\item[\idx{scene line}] The line in all caps at the beginning of a scene which
+identifies the location and time of the scene.  In a \idx{shooting script}, the
+scene line often indicates the primary subject of the shot.
+
+\item[\idx{screenplay}] A script for a television show or motion picture
+production.
+
+\item[\idx{shooting script}] A script that has been prepared for production by
+breaking each sequence down shot-by-shot.  A shooting script is generally
+prepared by the director (sometimes in association with the author) from the
+author's original manuscript.
+
+\item[\idx{spec(ulation) script}] A script written on speculation for an
+existing television series.  Spec scripts are rarely sold, but they may lead to
+a regular staff-position for that series.
+
+\item[\idx{stage directions}] Blocks of text which describe scenes and
+characters and there actions.  Stage directions also indicate sound\index{sound
+effect} and \idx{special effect}s.
+
+\item[\idx{stageplay}] A script for a theatrical production.
+
+\item[\idx{teleplay}] A script specifically for a television show or made-for-TV
+movie.
+
+\item[\idx{widow line}]  If a paragraph is split across pages between its
+penultimate and last lines, the last line is a widow line.
+
+\end{description}
+
+\chapter{Macro summary}
+
+This summary lists the \ST\ macros which are intended for authors to use.
+
+\section{Basic components}
+
+\begin{description}
+
+\item[\csx{act}] Begins a new act.
+
+\item[\csx{bye}] Ejects the last page, closes the auxiliary files, and performs
+other housekeeping duties.
+
+\item[\csx{cleanup}] Ejects the last page and closes the auxiliary files.  After
+\csx{cleanup} you may safely use the \csx{makecastlist} and \csx{makescenelist}
+macros.
+
+\item[\csx{close}\{\P{transition-type}\}] Outputs a closing transition
+like ``FADE OUT'' for use at the end of an act.
+
+\item[\csx{cut}]  Shortcut for ``\csx{trans}\{{\tt cut
+to}\}''.\index{shortcuts!cut}
+
+\item[\csx{dialog}\{\P{character}\} \P{speech}] Begins a new dialog
+block for the specified \P{character}.  His/her words and parenthetical
+directions (\P{speech}) should follow.  The dialog block ends at the next
+paragraph break.
+
+\item[\csx{dissolve}]  Shortcut for ``\csx{trans}\{{\tt dissolve
+to}\}''.\index{shortcuts!dissolve}
+
+\item[\csx{em}\{\P{words}\}] Emphasizes the \P{words} (by underlining
+them in manuscript format).
+
+\item[\csx{extra}\{\P{person}\}] Used to indicate the first appearance of a
+particular non-speaking character.
+
+\item[\csx{introduce}\{\P{character}\}] Used to indicate the first appearance of
+a speaking character.
+
+\item[\csx{open}\{\P{transition-type}\}] Outputs an opening transition
+like ``FADE IN'' for use at the beginning of an act.
+
+\item[\csx{paren}\{\P{clue}\}] Places a parenthetical direction inside a
+dialog block.  Never use this macro outside the context of the \P{speech}
+parameter in a dialog.
+
+\item[\csx{scene}\{\P{scene-line}\}] Begins a new scene.
+
+\item[\csx{sound}\{\P{effect}\}] Indicates that \P{effect} is a \idx{sound
+effect}.  Never use this macro outside the context of stage directions.
+
+\item[\csx{stage}]  (optional) Begins a block of \idx{stage directions}.
+
+\item[\csx{trans}\{\P{transition-type}\}]  Indicates the type of
+transition between scenes.\index{transitions}
+
+\end{description}
+
+\section{Slightly advanced components}
+
+\begin{description}
+
+\item[\csx{acthead}\{\P{act-name}\}] Begins a new act named \P{act-name}.  This
+macro is used in the guts of \csx{act} and its mutant cousins.  In general, using
+this routine directly is not recommended unless you know what you are doing.
+
+\item[\csx{ldots}] Expands to a three-dot ellipsis.\index{ellipses}
+
+\item[\csx{leadin}\{\P{last-words}\}]  Prepares the dialog to be
+interrupted by the next character.  See \csx{pickup}.
+
+\item[\csx{pickup}] Use at the beginning of a character's dialog when he/she
+is interrupting the previous character.  See \csx{leadin}.
+
+\item[\csx{theend}]  Causes the final ``End of Act $n$'' line to be replaced by
+``The End''.  Use immediately before \csx{bye}.\index{mutant cousins!ending}
+
+\item[\csx{today}]  Expands to the current \idx{date} in the form
+\P{dd-MMM-yyyy}.
+
+\end{description}
+
+\section{Variants}
+
+\index{variants|(}
+
+\begin{description}
+
+\item[\csx{jlbrooks}]  Invokes the \personx{James L.}{Brooks} variant, causing
+\ST\ to squeeze a little more script onto every
+page.\index{variant!J.L. Brooks}
+
+\item[\csx{manuscript}]  Invokes the manuscript
+variant\index{variant!manuscript} for ready-to-submit output.
+
+\item[\csx{movie}] Invokes the motion picture variant\index{variant!movie}.
+
+\item[\csx{proof}] Invokes the proof-reading variant.  Use on preliminary
+drafts to include \idx{date} and \idx{draft} information on each page.
+
+\item[\csx{shoot}]  Invokes the \idx{shooting script}
+variant.\index{variant!shooting script}  Use if you're making a
+shot-by-shot breakdown.\index{scene breakdown}
+
+\item[\csx{sitcom}] Invokes the \idx{situation comedy}
+variant,\index{variant!situation comedy} i.e., it double-spaces the script and
+implies the \csx{TV} variant.\index{variant!TV}
+
+\item[\csx{TV}] Invokes the teleplay variant.\index{variant!TV}
+
+\item[\csx{twoside}] Variant which causes the left margin to shift on alternate
+pages, so drafts printed on both sides of a sheet will be easier to read when
+bound.\index{variant!two-sided}
+
+\end{description}
+
+\index{variants|)}
+
+\section{Mutant cousins}
+
+\index{mutant cousins|(}
+
+\begin{description}
+
+\item[\csx{epilog}]  Mutant cousin of \csx{act}\index{mutant cousins!epilog} for
+use at the end of a \idx{miniseries}.
+
+\item[\csx{prolog}]  Mutant cousin of \csx{act} for use at the beginning of
+a miniseries.\index{mutant cousins!prolog}
+
+\item[\csx{tag}]  Mutant cousin of \csx{act} for use at the end of a
+television show.\index{mutant cousins!tag}
+
+\item[\csx{teaser}]  Mutant cousin of \csx{act} for use at the beginning of
+a television show.\index{mutant cousins!teaser}
+
+\end{description}
+
+\index{mutant cousins|)}
+
+\section{Shortcuts and synonyms}
+
+\index{shortcuts|(}
+\index{synonyms|(}
+
+\begin{description}
+
+\item[\csx{beat}] Shortcut for ``\csx{paren}\{{\tt beat}\}''.
+
+\item[\csx{dialogue}]  Synonym for \csx{dialog}.\index{synonyms!dialog}
+
+\item[\csx{epilogue}]  Synonym for \csx{epilog}, except that it causes the act
+name to be ``Epilogue''.\index{synonyms!epilogue}
+
+\item[\csx{ext}\{\P{scene}\}]  Shortcut for ``\csx{scene}\{{\tt ext.\bs\ 
+}\P{scene}\}''.\index{shortcuts!exterior}
+
+\item[\csx{fadein}]  Shortcut for ``\csx{open}\{{\tt fade
+in}\}''.\index{shortcuts!fade in}
+
+\item[\csx{fadeout}]  Shortcut for ``\csx{open}\{{\tt fade
+out}\}''.\index{shortcuts!fade out}
+
+\item[\csx{int}\{\P{scene}\}]  Shortcut for ``\csx{scene}\{{\tt int.\bs\ 
+}\P{scene}\}''.\idx{shortcuts!interior}
+
+\item[\csx{os}]  Shortcut for ``\csx{paren}\{\tt off
+screen\}''.\index{shortcuts!off screen}
+
+\item[\csx{prologue}]  Synonym of \csx{prolog}, except that it causes the act
+name to be ``Prologue''.\index{synonyms!prologue}
+
+\item[\csx{shot}\{\P{subject}\}]  Shortcut for
+``\csx{scene}\{\P{subject}\}''.\index{shortcuts!shot}
+
+\item[\csx{tv}]  Synonym for \csx{TV}.\index{synonyms!TV}
+
+\item[\csx{vo}]  Shortcut for ``\csx{paren}\{{\tt voice
+over}\}''.\index{shortcuts!voice over}
+
+\end{description}
+
+\index{shortcuts|)}
+\index{synonyms|)}
+
+\section{Title page information}
+
+\begin{description}
+
+\item[\csx{address}\{\P{address}\}]  Specifies the address and/or phone number
+of the author or agent which will then be printed on the title page.
+
+\item[\csx{author}\{\P{name}\}]  Defines \P{name} for use as the author's name
+on the title page.
+
+\item[\csx{basedon}\{\P{string}\}]  \P{string} will be printed below the
+author's name to allow for comments like ``Based on a novel by John Doe''.
+
+\item[\csx{date}\{\P{string}\}]  Uses \P{string} wherever the draft \idx{date}
+should be printed (if appropriate to the selected variant).
+
+\item[\csx{draft}\{\P{draft-name}\}]  Makes \P{draft-name} the text used on the
+title page and in the footline (if appropriate to the selected
+variant).\index{draft}
+
+\item[\csx{maketitle}]  Uses the information in specified in \csx{series},
+\csx{title}, \csx{author}, \csx{draft}, and \csx{date} commands to create a
+title page.
+
+\item[\csx{showcopyright}\{\P{year}\}]  Specifies that a copyright symbol and
+the \P{year} should appear on the title page.  It is sometime recommended to
+use \csx{number}\csx{year} to always keep your script looking up-to-date.
+
+\item[\csx{series}\{\P{series-name}\}]  Indicates that \P{series-name} should be
+used as the name of the series on the title page and footlines.
+
+\item[\csx{title}\{\P{name}\}]  Defines \P{name} to be used as the title of the
+script on the title page and footlines (if appropriate to the selected
+variant).
+
+\end{description}
+
+%
+% Bibliography
+%
+
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{alpha}
+\bibliography{scrnwrit}
+
+
+%
+% Index
+%
+
+\addcontentsline{toc}{chapter}{Index}
+\input stdoc.ind
+
+%
+% Some random cross references
+%
+
+\index{cmtt|see Computer Modern Typewriter Type}
+\index{sitcom|see{situation comedy}}
+
+\end{document}
