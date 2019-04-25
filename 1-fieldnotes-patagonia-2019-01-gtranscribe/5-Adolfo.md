@@ -1,4 +1,4 @@
-## Adolfo @ Calafate [2019 01]
+### Adolfo @ Calafate [2019 01]
 
  [00:43.7] ADOLFO: I'll tell you about this area and how it was populated. And then we can talk about the pioneers who were my grandparents. And then the development of all of town, Calafate, which was founded in 1927. My grandfather came 25 prior to the town's foundation. When he came over here there was nothing at all.  
  [01:16.2] Benji: We always begin with a simple matter, if you can present yourself with name, what do you do, and how did arrive to Calafate, coming from somewhere or how the history begins here. 
@@ -79,97 +79,11 @@
  [38:23.2] But I say that in these places you have everything. Just being here gives you a mental well being. But yes, they are rugged places. 
  [38:49.5] [Checking for any other question ...]
  [38:49.5] ADOLFO: Have you already visited Perito Moreno? [Benji: Yesterday and the day before. Tomorrow perhaps.] ADOLFO: Do you know about the history of the glaciar's advancements? 
- [39:18.2] I can show you a video that I have, a photographic research that my grandfather had. He never saw the process of the advancement of the Perito Moreno glaciar, that went over the peninsula and generated a dam. All of these river branches from the Southern side grown, because their natural destiny is onto the North Side. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ [39:18.2] I can show you a video that I have, a photographic research that my grandfather had. He never saw the process of the advancement of the Perito Moreno glaciar, that went over the peninsula and generated a dam. All of these river branches from the Southern side grown, because their natural destiny is onto the North Side. Lago Argentino and Río Santa Cruz, they go to the Atlantic. 
+ [39:53.3] So the first advancement of Glaciar Perito Moreno that made the obstruction was in 1939. So, I have very old pictures in which all of this had not yet been flooded. I built up a video with a photographer with quite extensive experience and relevance in Argentina, who's made books and so on. And we built this to explain to tourists of what it was before. 
+ [40:30.4] And how the floods came over. You can see the amount of trees, when the water is covering the trees. The different posts that my grandfather had established, once in one place and had to be replaced because the water would go over and take them away. At the maximum of the rising river branch of Lago Argentino along with the Southern branch, the difference was of 34 meters high.
+ [41:00.5] In some places, where it's flat, it covered up to 15 kilometres of pastures. In other places, where it is more of cliffs, that would be less. Here you can see perfectly well, over there in front up to where the water reached. Up to where you can see the borderline of the trees. Up to there is where the highest that the river got. 
+ [41:30.5] So if you like I can show you this in video. I invite you over to my home to watch that, from 1919 to nowadays. Compared pictures from that mountain. Some pictures ... The father of all this is Pascasio Perito Moreno. 
+ [42:03.6] But then the second that has went through this place the most was the Father Dagostini. He took a picture in 1929 from over up there, before any of the river risings. And we compared that with a current picture from the same location. And we prepared all this to explain to people why ... Once you know about the breaking of the Perito Moreno, and for people to see the icebergs falling down, with all their thunder, but there is a whole explanation, 
+[42:39.0] and a lot of consequences, which were all from this side. Because on the North side of Lago Argentino has it's own drain in Santa Cruz. On the other side of Lago Calafate, you can see a little bit of that water that closes for two, three or four years with a growing water through this dam. When it brakes: that water goes away in a single day. It's impressive. So if you like, and see it, to know about the culture and history of the place you visited. 
+ [43:23.2] Phil: I would love too see it. If we have time. 
