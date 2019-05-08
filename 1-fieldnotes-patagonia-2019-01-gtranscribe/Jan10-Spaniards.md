@@ -9,7 +9,7 @@
  [02:11.5] HIM: And also, to keep travelling for a longer time, and spending the least possible, so, we are working now at a hostel, doing reception desk, making breakfast, little things of that type. In exchange for lodging and food. So that's a way to keep on travelling without spending anything at all, at really getting to know around,
  [02:41.6] culture, getting deeper into the local culture. And how people live around here. For example, in Calafate.
  [02:54.9] Phil: Benji, could you translate a bit for us? [Benji: The sound is different! (since they're from the Real Spanish)] [Laughters]
- [03:40.1] HER: [In English: People use to say that we speak really fast] [Phil: It's not the speed, just strange. I've never been to Spain. 
+ [03:40.1] HER: [In English: People use to say that we speak really fast] [Phil: It's not the speed, just strange. I've never been to Spain.]
  [03:56.7] HER: [In English: Yes, over here it is a bit contaminated. [Laughters] We change the verb tenses, or "aquí" instead of "acá". We are already adopting some these words.] 
  [04:26.3] Phil: UK English and from Canada and the States. 
  [04:37.8] HIM: Yes. You can realize this quickly once someone starts speaking. 
@@ -22,7 +22,7 @@
  [06:37.8] decrease the velocity of the travel. Because previous to this one, we have been for one month moving around. We did all the coast of Uruguay, we did Iguazú Falls, Buenos Aires, Ushuaia. OK, we need to stop. So, this kind of volunteering, this kind of help, or start working for accommodation and food gives us an opportunity to set a little routine.  
  [07:08.9] And to clean your clothes. To buy some jeans. 
  [07:15.4] HIM [English becoming default]: At least we know that when you're travelling very fast you're going to reach a spot everyday. There's a moment when you're always taking decisions and whether where are we going to sleep today, what are we going to eat today. We have to buy this, to get this. And we have to go to that bus, that can get us to that city. And then we have to go on these planes... These things make you at least 
- [07:44.1] know that you're going to have a bed, food. You can also focus on other stuff. And for example we wanted to make a webpage and a blog. We didn't know anything about blogging or webdesign, but we wanted to do it. And we're really proud that 10 days ago almost, we launched it. And it's quite good I think. At least visually. It's quite good. 
+ [07:44.1] know that you're going to have a bed, food. You can also focus on other stuff. And for example we wanted to make a webpage and a blog. We didn't know anything about blogging or web design, but we wanted to do it. And we're really proud that 10 days ago almost, we launched it. And it's quite good I think. At least visually. It's quite good. 
  [08:17.9] We have to make a lot of content and so. But it's also a way of doing the stuff that you can't do when you travel normally. 
  [08:38.7] Phil: We get it. We were late to the experience. Travelling can be a lot more. 
  [08:42.7] HER: Now we are discovering. We are travelling. But we are not only tourists or travellers. It's different. It's a different experience. It's a different thing that you're looking for. And we like to establish in a place and discover more of the local people: what they do, and ...
@@ -34,10 +34,10 @@
  [11:11.9] And in one direction you run really fast, and it's really amazing. And then you just turn around and you have the strong wind in your face, and you don't move from there, in the place you stay. It's really terrible. Not even running. If you only go out for a walk. It's "OK, this is a nice day, let's go to the coast", and the wind is so hard that it's: "fooh, I cannot stand that, I need to come back". 
  [11:41.4] And this is a point that has really surprised me. The Patagonian wind. 
  [11:48.4] HIM: Actually, the climate here, it's amazing. It's really strange, because we are in the middle of desert but it's a cold desert, but there's the biggest lake in Argentina, that is just 100 meters away. So it's quite strange how all those things can be together but it's true. And there's always wind but there's always wind coming from the same direction and it's like 
- [12:26.6] geographically and climate wise, it's a very strange, or very ... authentic place.  And once you discover Perito Moreno, which is like amazing, astonishing,  
+ [12:26.6] geographically and climate wise, it's a very strange, or very ... Authentic place.  And once you discover Perito Moreno, which is like amazing, astonishing,  
  [12:55.3] it's even more ... 
  [12:59.8] HER: It's like things don't fit with the others. Like, it's all desert, but there's a big lake. You go to the Perito Moreno, and it's "OK, it's hills with forest and boom!! A big piece of ice!! Why? I cannot understand this place". But it's amazing. Because it's really different from everything we have seen, or that we have in Spain.
- [13:27.6] HIM: I suppose that the first people who arrived here must be, should've been really confused by the place. It's like very hostile but at least ... but on another hand, it shouldn't have been so, because it's also: there's water, [HER: guanacos do it ...] It's strange. I think if someone likes nature,
+ [13:27.6] HIM: I suppose that the first people who arrived here must be, should've been really confused by the place. It's like very hostile but at least ... But on another hand, it shouldn't have been so, because it's also: there's water, [HER: guanacos do it ...] It's strange. I think if someone likes nature,
  [13:56.8] I think it's an amazing ... A place that you HAVE TO visit. At least for seeing all those things together. All that doesn't seem to fit together. 
  [14:13.8] HER: And about people, not only the place, and the whether. People who live here in general they are really amazing people and as well. And it's a safe place. You can go around, and people say "it's getting dark, yeah you can go out, no problem". Maybe for us, ... I don't know if this is in part because of being near Calafate, or maybe Argentinean people, or Patagonic people, we are not sure, 
  [14:44.6] they say "Here, people or things don't run, only ..."
@@ -48,7 +48,7 @@
  [16:25.8] HER: But you learn. And adapt. It's nice. 
  [16:35.6] HIM: And being in the hostel, you can see people from all over the world and it's funny seeing these stuff. For example, with Japanese guys, they're more obsessed with these things, because they're really correct. They want things as they ask for them. Which is normal. But sometimes it's funny to see the interaction between a Japanese guy and a 
  [17:05.9] maybe not only Argentinean, but a Colombian, or whatever and they are "No, no, no, relax man, there's no problem. It's half an hour late, doesn't matter".  The Japanese is like crazy. It's funny. 
- [17:25.0] HER: [x] will come from o'clock to half past. OK, which hour? No, this range. Which hour? I don't know. Wait here, and they will appear. [Arrrgh]. [x] We don't know ... our point of view of this, we see the other people from around the world interacting with Calafate annd Patagonia. It's nice. 
+ [17:25.0] HER: [x] will come from o'clock to half past. OK, which hour? No, this range. Which hour? I don't know. Wait here, and they will appear. [Arrrgh]. [x] We don't know ... Our point of view of this, we see the other people from around the world interacting with Calafate and Patagonia. It's nice. 
  [17:58.5] HIM: And as we have also been here for Christmas, and New Year's Eve, everybody from the hostels are together, we all have dinner for all of us. People were invited to cook their own dishes, and share with everybody. It was really, really funny and really interesting to talk with an Israeli guy, talking with a Korean guy, and 
  [18:31.8] sharing their points of view about everything. Or a French girl talking with Argentinian people. And then they all go partying. It was really nice. 
  [18:49.9] Phil: So your guests, what do they come here for? What are the things that they do here?
@@ -84,7 +84,7 @@
  [30:16.4] HER: And we were told that Glaciar Spegazzini, I think, has more ice falling than Perito. Perito has but it's a lottery. And we were told that the other ones have a lot. In fact the other glaciers some years ago, there were options for mini trekking. But the other glaciers are decreasing with the years. 
  [30:44.2] And now it's not safe. And they have stopped this kind of activity. So you can only see them by boat. And I am pretty sure that they should be spectacular as well. And specifically for this phenomenon: the falling. But we cannot say more because we haven't done it. 
  [31:11.0] Phil: I'd be very happy to hear from you, do you think that the glacier is alive? It's one of the things that interests us. If you feel that you need to answer this in Spanish because it's more philosophical, please do. Could you tell how you felt that it was alive, in your experience? 
- [31:44.3] HER [In English]: It was like been a while waiting for an animal with something. I don't know. I know there are deers here, or a bear, or whatever. And you stay expecting like "Oh, it's here, and it's moving"... the sound. Not only the fallings. You are looking and you here the cracks and really all this ice is being pulled towards you. And, 
+ [31:44.3] HER [In English]: It was like been a while waiting for an animal with something. I don't know. I know there are deers here, or a bear, or whatever. And you stay expecting like "Oh, it's here, and it's moving"... The sound. Not only the fallings. You are looking and you here the cracks and really all this ice is being pulled towards you. And, 
  [32:18.7] in a different velocity than we do. But you know it's here. It's like ... 
  [32:28.4] HIM: It's like seeing an enormous mountain and knowing that the mountain is moving two meters a year. It's actually quite a long distance for that immense ... 
  [32:44.5] HER: Wasn't it like two metres a day? 
@@ -108,7 +108,7 @@
  [37:27.3] Phil: Is the word "salvaje" different? 
  [37:32.4] HIM: "Salvaje" could be ... And actually there's an example of a film called "Into the Wild", that's called "Hacia rutas salvajes" [Towards wild roads]... But I don't think the connotation is the same. Because we also talk about "salvaje" as something that is cruel, hard [HER: Aggresive sometimes!]   
 [37:54.9] And wild didn't have to be like that. 
- [37:57.6] HER: No. In Spanish like the first meaning of "salvaje" is that it's more like a bad word. It's that: aggresive, is hard, is something [HIM: Savage!]. Yes, savage!
+ [37:57.6] HER: No. In Spanish like the first meaning of "salvaje" is that it's more like a bad word. It's that: aggressive, is hard, is something [HIM: Savage!]. Yes, savage!
  [38:16.9] HIM: But when you talk about the wild maybe some people think about that. About a cobra crawling around your neck. But no. You can be in the wild and just camping in the mountain and you are in the most relaxing place on Earth. 
  [38:35.9] Phil: And so what is the difference between "naturaleza" and "natura salvaje"? 
  [38:46.3] HER: "Naturaleza" could be going around in this coast. "Naturaleza salvaje" ... It sounds strange but you have to deserve it. You have to climb this mountain. You have to go to this place. Not everybody goes there. You won't see a big group of tourists for that, because there are tourists that only go with a bus, the bus stops, they go there, take some pictures, and come back. For me,
@@ -123,7 +123,7 @@
  [41:55.8] April: So wilderness. Well, do you think people come here because they see this as wilderness: the glaciers, the steeps? 
  [42:14.4] HIM: Some of them. There are some people that come here to see wild. Most of the people come here to see because there's a big airport and there's the Perito Moreno. 
  [42:28.4] HER: And there's the Lonely Planet that says "Come here!" But there's some people that stay here and ask "Hey, what more can I do?" I am thinking about the Cañadón. There's a little excursion ... South East, and you follow a river from here the edge of the town and you follow it and it's a really great excursion. Because you are in a desert but this river, with everything around it, it's green. There are little trees, and it's like a 
- [43:06.3] little oasis, that follows the river. And you walk six kilometres and you arrive to the fall of the desert. It's a little stream of water falling from a rock. And we did it and we came there and we were totally alone. And it was like this situation: maybe not extremely tiring but it was like we discovered this place, and we are in this place sharing with nature. 
+ [43:06.3] little oasis, that follows the river. And you walk six kilometers and you arrive to the fall of the desert. It's a little stream of water falling from a rock. And we did it and we came there and we were totally alone. And it was like this situation: maybe not extremely tiring but it was like we discovered this place, and we are in this place sharing with nature. 
  [43:34.6] In fact we were walking and a lot of rabbits, the other kind of rabbit. There name in English ...  Running. Running around but like in tens, twenties, a lot. They were living there and there was two strange things walking there, and they were: Ah! And all of them scared, and in fact we have a funny episode with an armadillo. 
  [44:01.3] Because we were in the path, in a photo, and we saw something, coming at us. A dark thing. And it was an armadillo, walking happily in the path. It saw us, it was: Oh shit! He turned and ran. 
  [44:21.2] HIM: In the same path! And it was really funny because the armadillo saw us, we saw him. We stared for a bit, real fast, and he went were he came by. This happened!
@@ -142,7 +142,7 @@
  [49:07.5] get tourism, that can really respect that, you can make profit of it, without harming the essence of the place. 
  [49:19.0] HER: We really liked this place. Maybe it's not the most breathe taking or the more amazing or the more "Oh, the wonderful of the nature ..." This is a really nice place, I really enjoyed it. But what I enjoyed most was that they were [fighting?] ... And the purity was to maintain the wilderness of this place. And they really limit the name of the little boats that go to the wetlands, they limit everything.
  [49:48.4] It's a really difficult place to reach, to go there. And they live from the tourism!! And you, talking with the local people, they say: Yeah, we live from tourists, but we don't want more tourists than we have. 
- [50:06.7] HIM: We don't want a route here. You have to go for 50 kilometres of mud, for arriving there. That is like hell. But it's not [x]. But we don't want a route here. We are OK with ... The people who actually reach this place is because they like this. They don't want this to be crowded. 
+ [50:06.7] HIM: We don't want a route here. You have to go for 50 kilometers of mud, for arriving there. That is like hell. But it's not [x]. But we don't want a route here. We are OK with ... The people who actually reach this place is because they like this. They don't want this to be crowded. 
  [50:36.3] HER: Yeah, and they are living and they are not poor. And they're exploiting this wilderness. This authentic, and the essence of the natural place. 
  [50:53.2] April: Since you're from Spain, how would you refer to this place? What do you call this area? 
  [51:03.4] HIM: Patagonia... Or Patagonia Argentina. 
@@ -159,196 +159,3 @@
  [54:09.8] HIM: And also this travel is a way of understanding ourselves in these terms. Because when you're travelling and you're doing this points in tourism there are stuff that you can't like live different lives. And compare to it to your own life. The life that you had previously. And say: OK, I like the most these things but I don't like those others. So maybe if I want to live a life in a city place forever, 
  [54:47.1] it should have been, should be like this. And not having these ones, and I think it's also a way of learning, discovering yourself. 
  [55:11.0] April: That was wonderful. Thank you so much. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
