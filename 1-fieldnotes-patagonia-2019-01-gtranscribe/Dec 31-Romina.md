@@ -1,9 +1,7 @@
-JOGGINS
+[Romina - Shotgun.WAV](#romina---shotgun.wav)
 
-[Brian - Joggins - Lav.WAV 3](#brian---joggins---lav.wav)
-
-Brian - Joggins - Lav.WAV
-=========================
+Romina - Shotgun.WAV
+====================
 
 **Start** \[00:16.2\]
 
