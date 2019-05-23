@@ -1,17 +1,11 @@
-[Pipa - lav 1.WAV](#Pipa---lav1.wav)
-
-Pipa - lav 1.WAV
-====================
-
-**Start** \[01:07\]
-
-**End** \[1:52:26\] 
-
+[Laura - lav 1.WAV](#Laura---lav1.wav)
 
 Laura - lav 1.WAV
+=================
 
-Start \[00:00:50.8\] 
-End \[01:51:44.5\]
+**Start** \[00:00:50.8\] 
+
+**End** \[01:51:44.5\]
 
 **Interviewer:** [00:00:50.8] Well, this is the map from the area. We are here in Chaltén. We are next to part of this National Park, which is Los Glaciares National Park. As you see there are different trails, starting from town. The idea for today is to go to Torre Viewpoint, on Torre Trail. The Trail starts from here, from the town, so we start walking. 
  [00:01:20.5] And it's going to be about 2.5 kilometres to reach the viewpoint. On the way we have different viewpoints and today is a very clear and nice day so we will see Fitz Roy range and Torre range. It normally takes about 1.5 hours to reach this point and then we can return through the same path. Well, there are other options. 
