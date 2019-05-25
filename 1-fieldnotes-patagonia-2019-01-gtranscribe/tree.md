@@ -8,7 +8,7 @@
 │       └── Milena 3.WAV
 ├── Jan 10
 │   ├── Luqui - lav.WAV
-│   └── The two Spaniards - shotgun.WAV
+│   └── The two Spaniards - shotgun.WAV OK
 ├── Jan 2
 │   └── Rodrigo - lav.WAV
 ├── Jan 3
@@ -16,8 +16,8 @@
 │   ├── Pipa - lav 1.WAV                OK
 │   └── Pipa - lav 2.WAV                OK
 ├── Jan 4
-│   ├── Laura - lav 1.WAV
-│   └── Laura - lav 2.WAV
+│   ├── Laura - lav 1.WAV               OK
+│   └── Laura - lav 2.WAV               OK
 ├── Jan 5
 │   ├── Evangelina - shotgun.WAV        OK
 │   ├── Rodrigo - lav 1.WAV
