@@ -3,9 +3,9 @@
 Luqui - lav.WAV
 ================
 
-**Start** \[00:39\] ---
+**Start** \[00:39\] 
 
-**End** \[27:30\] ---
+**End** \[27:30\] 
 
 ### Luqui Bernacchi @ Glaciarium / Calafate [2019 01]
 

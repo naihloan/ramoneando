@@ -5,7 +5,7 @@ MILENA 1.WAV
 
 **Start** \[00:01:09.0\]
 
-**End** \[XXX\]
+**End** \[02:03:50.9\]
 
 **MILENA:** [00:01:09.0] I'll be the only one carrying a microphone? I hope to not say too much nonsense [bullshit].
 **Interviewer:** [00:01:15.2] We hope that you do! The looser, the better. We don't want a prepared script. 
