@@ -19,7 +19,7 @@
 \cvname{Benjamín Juárez} 
 \cvjobtitle{desarrollador web trilingüe $ $  $ $  $ $ [Ciudadano de EEUU]} %☭ 
 \cvdate{\today} \cvaddress{Córdoba, Argentina} % Short address/location, use \newline if more than 1 line is required
-\cvnumberphone{(+54 9 351) 153 104043} \cvsite{\href{linkedin.com/in/benjamín-juárez-960649152}{linkedin.com [mi cv online]}} \cvmail{benjaminjuarezarlt@gmail.com}
+\cvnumberphone{(+54 9 351) 153 104043} \cvsite{\url{http://ramoneando.com/}} \cvmail{benjaminjuarezarlt@gmail.com}
 
 %----------------------------------------------------------------------------------------
 \begin{document}
@@ -113,11 +113,10 @@ Programación: varios años autodidacta. Ahora en curso de Desarrollo Web en UTN
 \section{Trabajo}
 
 \begin{twentyshort} % Environment for a short list with no descriptions
+	\twentyitem{2018 – 2019}{Asistente de Investigación}{Royal Roads, British Columbia, CA}{Productor 
+% 	Traducción, Transcripción, y Edición de Entrevistas. 
+	[Calafate/Chaltén, Argentina]}
 	\twentyitemshort{desde 2012}{Clases de Sociología [Argentina-Brasil]}
-	\twentyitemshort{2018 – 2019}{Productor Documental [Argentina-Canadá]} 
-% 	Royal Roads, British Columbia, CA}{Productor % 	Traducción, Transcripción, y Edición de Entrevistas. 
-	% 	\twentyitem{2018 – 2019}{Asistente de Investigación}{Royal Roads, British Columbia, CA}{Productor % 	Traducción, Transcripción, y Edición de Entrevistas. 
-% 	[Calafate/Chaltén, Argentina]}
 	\twentyitemshort{año 2018}{IICANA Valle Escondido [Córdoba, Argentina]} 
 	\twentyitemshort{2017-2018}{Pearson [Córdoba, Argentina]} 
 	\twentyitemshort{2017-2018}{Juice Bar [Córdoba, Argentina]}
@@ -139,11 +138,6 @@ Programación: varios años autodidacta. Ahora en curso de Desarrollo Web en UTN
 \twentyitem{2018-2019}{Curso de Desarrollo Web}{[UTN, Córdoba, Argentina]}{
 	Javascript Jquery Angular ApiRest Mongodb Node.js Express.js\\ 
 	HTML5 CSS3 Bootstrap}
-\twentyitem{2018-2019}{Otros Cursos}{[Udemy]}{
-	JavaScript: Understanding the Weird Parts\\ 
-	React Basic in just 1 hour\\
-	SQLite for Beginners | Learn SQL from Scratch\\
-	Absolute Introduction to Object Oriented Programming in Java}
  \twentyitemshort{desde 2017}{Candidato doctoral en Sociología [University of Exeter, UK]}%{El æfecto de los atletas de distancia en el ritmo urbano: cómo corren los ultramaratonistas en ciudades automatizadas?}
  \twentyitemshort{desde 2013}{Lenguajes de programación-edición [hechos: libro + sitio web]}%{Autopubliqué libro [\textit{exhalaciones}] y sitio web [\texttt{ramoneando.com}]}
  \twentyitemshort{2012-2014}{Maestría en Sociología [UNICAMP, S\~{a}o Paulo. Brazil]}%{Arte Urbano [graffiti y pixaç\~{a}o]}
@@ -184,7 +178,7 @@ Programación: varios años autodidacta. Ahora en curso de Desarrollo Web en UTN
 
 % \subsection{Review}
 
-En los últimos años vengo trabajando en áreas fuera del ámbito académico: en editoriales, dando clases de inglés, y aprendiendo sobre producción editorial. En el último tiempo con foco en desarrollo web, base de datos y programación.
+En los últimos años vengo trabajando en áreas fuera del ámbito académico: en editoriales, dando clases de inglés, y aprendiendo sobre desarrollo editorial, web, base de datos y de programación.
 % Entre 2017-2018 trabajé en la editorial \textit{Pearson} como Asesor de Servicios de aprendizaje: me reunía con docentes, coordinadores y directivos de institutos y colegios para hacer seguimiento y recomendación de materiales de trabajo. 
 % Antes aprendí en sociedad comercial a gestionar \textit{Juice Bar}.\\
 % Tengo buena capacidad de adaptación, interés en áreas nuevas y la constancia para empujar de manera continua. Me crié en Córdoba desde los 7 años. Antes viví en EEUU. Desarrollé desde edad gusto por el idioma y estudié inglés hasta un nivel C1 [CEFR] y lo uso a diario para leer y escribir. También aprendí a leer, escuchar y hablar portugués de manera fluida, teniendo una estancia en Brazil durante más de dos años.\\

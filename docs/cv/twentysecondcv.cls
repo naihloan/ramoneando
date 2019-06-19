@@ -167,7 +167,7 @@
 
 		%------------------------------------------------
 
-		\profilesection{Caracter\'{\i}sticas}  % \profilesection{Skills}
+		\profilesection{Idiomas}  % \profilesection{Skills}
 
 		 \skills
 		 \skillstext

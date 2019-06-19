@@ -1,0 +1,160 @@
+
+# it account
+
+- Student Number: 670049209
+- Username: bj280 
+- Password: 9NbH2bRv43 | 04BruceLee! >> changed 2019-01-14
+- Email: bj280@exeter.ac.uk
+
+Please feel free to contact us on 0300 555 0444 and we can help you get your password and reset it if necessary. For security purposes we are unable to provide any passwords via email.
+ 
+We are open Monday – Friday 8am – 6pm, Saturday 10am-3pm (Bank Holiday 9am-5pm)
+ 
+We look forward to hearing from you.
+ 
+Kind regards
+Laura
+SID Team
+
+M.Schillmeier@exeter.ac.uk, M.Michael@exeter.ac.uk
+
+# mail yahoo | 2018-04
+
+benjij_1980@yahoo.com
+Na1hl0an 
+
+# mail google | 2018-03 | gmail
+
+cr.southamerica
+31nst31n
+
+benjaminjuarezarlt
+31nst31n >> B3lgr@n0
+
+howardsaulbecker
+31nst31n
+
+>> apple id | 2018-11-23
+howardsaulbecker@gmail.com
+B3lgr@n0
+
+31nst3 >> 346783
+
+# Cengage
+benjaminjuarezarlt
+Na1hl0an
+
+# MyPGR
+
+https://www.exeter.ac.uk/students/administration/mypgr/
+
+bj280@exeter.ac.uk
+Na1hl0an!!
+
+transfer receiptor
+
+# Student identification number?
+670049209
+
+bj280@exeter.ac.uk
+Na1hl0an!!
+
+# udemy 
+
+benjaminjuarezarlt
+na1hl0an
+
+# precious plastic
+
+benhamon
+Na1hl0an!!
+
+# upwork
+mail bjarlt
+31nst31n
+
+finance tab
+online payments
+click here to make a payment
+
+visa debit
+4744 8100 2406 0522
+
+thru 04/20
+claudio p juarez
+
+security code 
+081
+
+PROOF for First Semester Payment (Benjamin Juarez 670049209)
+
+sid@exeter.ac.uk
+
+# Rand
+nilon
+siempre
+
+# twitter
+
+venhamon > benjaminjuarezarlt@gmail.com
+31nst31n
+
+# stack exchange
+through yahoo
+
+# linkedin
+benjaminjuarezarlt@gmail.com
+siempre
+
+# sigeva
+benhamon
+31nst31n
+
+# Netflix
+
+nicolas_juarez@hotmail.com 
+arq.juarez87
+
+# pedidosya
+benjij_1980@yahoo.com
+31nst31n
+
+# apex oracle
+
+workspace | learnora_bj
+benjij_1980@yahoo.com
+siempre
+
+# utn
+
+juarez032
+Benjaminjuarezarlt
+
+# abebooks
+
+naihloan@gmail.com
+siempre
+
+# booking
+
+benjij_1980@yahoo.com
+na1hl0an
+
+# dropbox
+
+benjij_1980@yahoo.com
+31nst31n
+
+cr.southamerica@gmail.com
+
+naihloan@gmail.com
+
+# namecheap
+
+benjaminjuarez
+31nst31n
+
+application at australia
+
+unsw
+pass 31nst31n
