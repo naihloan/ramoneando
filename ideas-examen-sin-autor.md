@@ -1,3 +1,5 @@
+Armé 12 consignas multiple choice: la idea es que esto facilite a sumar más puntos para pasar con creces. La mayoría de las preguntas están respondidas con el material de la bibliografía. En algunos casos excepcionales simplemente el desafío es responder en base a lo que, razonando, les parece la respuesta más sociológica. 
+
 1. 
 Toda asociación se forma siempre con miras a algún bien.\
 Toda asociación es beneficiosa para sí misma pero perjudicial para otras.\
@@ -14,7 +16,7 @@ La economía es la base de toda sociedad.\
 Mil relaciones nos ligan incesantemente unos con otros.\
 Ninguna relación nos liga con otros.\
 Ninguna relación que nos liga con otros es duradera.\
-Todas las relaciones nos ligan indefinidamente con otros.\
+Todas las relaciones nos ligan permanentemente con otros.\
 
 4. 
 Las convenciones no existen aisladas, forman parte de complejos sistemas interdependientes, así que un pequeño cambio puede exigir una serie de otros cambios.\
@@ -55,7 +57,10 @@ El color de la piel determina cuáles son tus usos y costumbres.
 Los hombres del mundo no saben nada de crianza de niños.
 
 10.
-
+Manteniéndose a cierta distancia unos de otros los hombres se sienten seguros y se mantienen en paz.
+El hombre busca separar toda distancia entre sí, para sentir seguridad.
+La distancia y la cercanía no tiene ningún impacto en la relación entre las personas.
+La amabilidad y la consideración no pueden ayudar en un proceso de entrevista, o de escucha. 
 
 
 Las ciudades sutiles. 4 [p. 77]
