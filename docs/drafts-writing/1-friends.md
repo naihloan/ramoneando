@@ -1,3 +1,0 @@
-+ M and R have (rather than are) bipolarism.
-+ T has had some amount of depression.
-+ E was not a very close acquaintance but we have gone out together in our teen years and seen him once in a while in the past years. I wish him the best. I find out today that he killed himself by hanging from a tree. He had posted online weeks ago that he was very depressed because a women's accusations had teared him down, with no work and antagonized on social networks. He even expressed feeling "dead in life". And then appeared hanging from a tree. It really makes me sad. If only I could have been around. Could I have helped? 
