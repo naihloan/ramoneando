@@ -1,5 +1,0 @@
-+ [Create Virtual Machine and play videogames | Civilization series](https://es.wikipedia.org/wiki/Civilization_(serie))
-+ [A day in the life of a roman soldier](https://www.youtube.com/watch?v=P5e7cl19Ha0)
-+ [10 programming languages](https://www.youtube.com/watch?v=7bE2mI4ePeU)
-+ [Designing Fantastic User Experiences With Psychology](https://www.youtube.com/watch?v=VKRHzoz8aSQ)
-+ [Curso Básico de Javascript desde 0 - Introducción | FalconMasters Carlos Arturo](https://www.youtube.com/watch?v=xnWtGNiG2lg)
