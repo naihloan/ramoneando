@@ -1,0 +1,466 @@
+Guía para el cultivo de especies
+nativas y gestión de un vivero
+             escolar
+                                  Índice.
+ – Introducción: Recuperando el verde en la ciudad.
+1 – El vivero.
+2 – Ventajas de contar con un vivero en la escuela.
+3 – La semilla o material de propagación.
+   3.1- La semilla.
+       3.1.1 – Germinación.
+       3.1.2 – Recolección de las semillas.
+          3.1.2.1. Planificación.
+          3.1.2.2. Técnicas de recolección.
+          3.1.2.3 – Limpieza del fruto y extracción de la semilla.
+        3.1.3 – Almacenamiento.
+        3.1.4 – Tratamiento pregermina vo.
+        3.1.5 – Prueba de germinación de la semilla.
+   3.2 – Esquejes.
+        3.2.1 – Procedimiento para la producción de esquejes.
+        3.2.2 – Enraizantes naturales.
+4 – Sustrato, siembra, repique y cuidado del plan n.
+   4.1- Sustrato.
+   4.1.2 – Componentes.
+   4.2 - Siembra en almácigos.
+   4.3 – Repique.
+   4.4 – Siembra en envases forestales o macetas.
+   4.5 – Época ideal para la siembra.
+   4.6 – Rus ficación.
+5 – Instalaciones básicas para un vivero.
+   5.1 – Selección del terreno.
+   5.2 – El invernadero.
+   5.3 – Canchas de rus ficación o sombráculos.
+   5.4 - Área de preparación de sustrato.
+   5.5 – Depósito.
+6 – Insumos y herramientas necesarias para el manejo del vivero.
+7 – Bibliogra a.
+                     Contenido y redacción: Ing. Leonardo Peralta.
+                          Gráficas y edición: D.I. Ana Cabrera
+                           Green Drinks Córdoba
+                                       2019
+    Introducción: Recuperando el verde en la ciudad.
+         El arbolado urbano ene una importancia fundamental en el desarrollo de la vida de las personas. Son
+muchísimas las ventajas que trae aparejada la presencia de los árboles en nuestras ciudades, cuando esta presencia
+se da en la calidad y can dad adecuada. Son el primer contacto que los ciudadanos enen con la naturaleza al salir de
+sus casas. En muchos casos, son el único contacto. Silenciosa y desinteresadamente los árboles nos brindan
+numerosos servicios ambientales, sociales, paisajís cos y económicos. Sin embargo, y a pesar de todos los beneficios
+que los árboles gen lmente nos regalan, las ciudades crecen y crecen sin pausa, y el verde nos queda cada vez más
+lejos. Hoy, nuestras ciudades sufren los grandes males de la urbe moderna, como la polución, isla de calor y el ruido, y
+los árboles son grandes aliados para comba r estos problemas. El arbolado urbano no solo aporta innumerables
+beneficios a las personas que habitan en su zona de influencia, sino que además, sus efectos posi vos se ex enden a
+toda la aldea global, ya que todos compar mos la misma atmósfera. Entre los beneficios más importantes cabe
+destacar:
+                 Beneficios ambientales:
+                 Los árboles generan oxígeno y purifican el aire, absorben dióxido de carbono de la
+        atmósfera incorporándolo a su biomasa mi gando el cambio climá co, amor guan el viento
+        y el ruido, disminuyen la isla de calor, regulan el clima, fijan los suelos y disminuyen la erosión
+        de los mismos, y cons tuyen el hogar de muchísima biodiversidad.
+                 Beneficios sociales :
+                 La presencia de los árboles y los espacios verdes en el ámbito urbano, mejoran la
+        calidad de vida contribuyendo a la reducción del estrés y fomentando el bienestar psico sico
+        de las personas. Generan un entorno más acogedor y crean arraigo, y contribuyen a la
+        formación de la iden dad paisajís ca de las ciudades. Generan intereses comunes y crea
+        vínculos entre los ciudadanos. Por úl mo, sirven de instrumento para la educación ambiental
+        y fomentan el amor y cuidado de la naturaleza.
+                Por ello, es fundamental incluir en la currícula de los niveles iniciales de
+       educación ac vidades de sensibilización y concien zación sobre problemá cas
+       ambientales, e inculcar en los niños amor y respeto por la naturaleza, fomentando
+       el cuidado del ambiente. En ese sen do, el vivero escolar es una herramienta
+       extraordinaria que brinda un entorno adecuado y permite situar a la escuela en un
+       papel central en la trasformación de nuestros barrios y comunidades.
+     1 El vivero.
+     Un vivero en un lugar que acondicionamos de tal manera que podamos controlar las condiciones ambientales
+para favorecer el desarrollo de las plantas en su etapa más crí ca, a saber, desde la germinación de la semilla hasta la
+edad de trasplante en el lugar defini vo. En cambio en siembra directa las semillas están expuestas a dis ntos
+factores que pueden perjudicar su desarrollo y causar la muerte de las mismas, como puede ser sequía o exceso de
+agua, insectos, hongos, competencia por el agua y los nutrientes por parte de malezas, etc. Lo que buscamos
+entonces en el vivero es brindarle a la semilla un entorno que propicie su germinación y desarrollo, y luego rus ficar
+las plantas antes de su salida defini va del mismo.
+             2 Ventajas de contar con un vivero en la escuela.
+             Desde el punto de vista educa vo, el vivero cons tuye un entorno perfecto para la educación
+         ambiental de los más pequeños. El contacto con la naturaleza, las ac vidades al aire libre, ser tes gos
+         del nacimiento de una planta, verla crecer y desarrollarse, el ser par cipes del ciclo de vida de la
+         misma, desde la semilla hasta el árbol que será plantado en las veredas del barrio, pueden ser
+         experiencias transformadoras para el niño.
+             A través del vivero los docentes podrán realizar ac vidades de sensibilización y concien zación,
+         mediante experiencias directas en la que los niños tomen contacto con los árboles a lo largo de toda su
+         etapa de desarrollo, lo que posibilita reforzar el vínculo con la naturaleza y despertar el entusiasmo.
+         Además, los docentes y alumnos podrán también aprender un poco más sobre las funciones del
+         arbolado urbano y sobre la importancia de las especies na vas. Por otra parte, se podrán organizar
+         jornadas de plantación de árboles na vos en las cercanías de la ins tución o dentro de la misma sin
+         depender del aporte de terceros, e incorporando este po de ac vidades en sus programas regulares,
+         se podrán fomentar acciones de comunicación a otros cursos y niveles, y desde los niños hacia sus
+         familias, que mo ven el cuidado del arbolado y la naturaleza en general.
+             Desde un vivero escolar, se puede iniciar un proceso de transformación del entorno en el cual los
+         alumnos y la comunidad educa va de la escuela, sean los principales protagonistas, construyendo un
+         futuro mejor para todos.
+             Por úl mo, cabe mencionar la posibilidad de que el vivero sea una fuente de ingresos, ya que una
+         conciencia ambiental poco a poco se está despertando en la ciudadanía y la demanda de árboles
+         na vos está en aumento, cuando la disponibilidad de los mismos en viveros comerciales es escasa.
+     3 La semilla o material de propagación.
+     3.1- La semilla.
+     De acuerdo a la botánica, la semilla es el componente de una fruta que alberga el embrión que puede dar origen a
+una nueva planta, y las plantas que se reproducen mediante semillas se llaman espermatofitas o fanerógamas. Una
+semilla está cons tuida fundamentalmente por las siguientes partes:
+El embrión: es la futura plántula. Este, al encontrar las
+     condiciones apropiadas se desarrolla para formar
+                                                                    Plúmula                      Epicotilo
+     los co ledones u hojitas embrionarias, la plúmula, a
+     par r de la cual se desarrolla la parte aérea de la
+                                                                                                    Hidrocotilo
+     planta, y la radícula, que da origen a las raíces.
+                                                                    Primeras                           Radícula
+El tejido de reserva: es la sustancia de la cual se alimenta
+                                                                    hojas
+     el embrión. Esta puede hallarse en los co ledones, o
+     en una sustancia que rodea al embrión llamada
+     endoesperma.
+                                                                    Cotiledón                              Capa
+Tegumento: es la cubierta protectora que rodea y
+                                                                                                        externa
+     protege tanto al embrión como al tejido de reserva.
+     Puede tener diferentes texturas y caracterís cas                           Partes de la semilla
+     que luego influirán en el desarrollo de la semilla.
+       a) germinación epígea                                  b) germinación hipógea
+     3.1.1 – Germinación.
+          La germinación es el proceso por el cual una semilla se convierte en una nueva planta. El proceso se inicia
+cuando la semilla encuentra las condiciones adecuadas y abandona su estado de dormición o reposo fisiológico. La
+semilla se hidrata y se hincha, rompiendo el tegumento. La radícula es la primera parte en salir formando la raíz
+primaria, que se fija al suelo y permite que la plántula empiece a absorber agua y nutrientes. Luego emergen los
+co ledones, que pueden emerger del suelo (germinación epígea) o quedar por debajo del nivel del suelo
+(germinación hipógea).
+          El proceso de germinación finaliza cuando los co ledones se desprenden de la planta, y la misma ya es capaz
+de obtener del suelo los nutrientes que necesita, y de realizar fotosíntesis con sus verdaderas hojas.
+      3.1.2 – Recolección de las semillas.
+      3.1.2.1. Planificación.
+         Para obtener semillas de buena calidad, hay que hacer una selección cuidadosa de los árboles semilleros.
+Éstos deben ser ejemplares sanos, con copas adecuadas, tallos o fustes rectos y sin defectos, preferiblemente de
+circunferencia uniforme, buen crecimiento (mejor si se conoce la edad), son preferibles los árboles viejos, con buena
+carga de frutos, y que se encuentren en las cercanías ejemplares de la misma especie. Preferentemente se deben
+u lizar arboles semilleros de las mismas regiones que se pretenden forestar, para asegurar que estas plantas van a
+estar ya adecuadas a las caracterís cas de la zona.
+         Es recomendable confeccionar un cronograma definiendo de antemano cuales serán los arboles semilleros,
+las épocas de recolección según la especie, y la can dad a recolectar, dependiendo de la capacidad de
+almacenamiento y procesamiento que tengamos.
+                                                           IMPORTANTE: En entornos naturales la can dad
+                                                           de semillas recolectadas no debe superar el 30%
+                                                           de la producción total del árbol para no impactar
+                                                           de manera nega va en la propagación y
+                                                           con nuidad natural de la especie en el terreno y
+                                                           zona.
+                                                           En el caso de semilleros en entornos urbanos, esto
+                                                           no es un factor de importancia pudiéndose
+                                                           recolectar libremente las semillas, siempre y
+                                                           cuando se presentes todas las condiciones antes
+                                                           mencionadas
+     3.1.2.2. Técnicas de recolección.
+     · Desde el suelo: Se recogen los frutos maduros que han caído al suelo. Cuando los frutos son carnosos y
+dulces, no conviene cosecharlos de esta forma porque los frutos serán rápidamente atacados por hongos e insectos,
+en este caso es necesario hacer una cuidadosa selección de los frutos.
+     · Desde el árbol semillero: se recogen las semillas directamente desde el semillero, usando las manos
+simplemente, o con la ayuda de jeras si fuese necesario. Si los frutos están maduros se puede sacudir suavemente
+las ramas del árbol para que estos caigan sobre una lona que dispondremos en el suelo para tal fin.
+         IMPORTANTE: Para garan zar la
+         longevidad y poder germina vo de la
+         semilla se deben secar y almacenarlas los
+         antes posible. Desde la limpieza hasta el
+         secado de las mismas guardarlas en
+         bolsas de papel y mantenerlas en lugar
+         fresco y seco.
+     3.1.2.3 – Limpieza del fruto y extracción de la semilla.
+Frutos dehiscentes: son aquellos que al llegar la madurez se abren por si solos, liberando las semillas, por ejemplo, el
+Orco Quebracho, el Coco y el Maitén. En estos casos es conveniente esperar que las semillas sean liberadas
+naturalmente.
+Frutos indehiscentes: son aquellos que permanecen cerrados incluso maduros. Para re rar las semillas de su interior
+         es necesario macerar los frutos en agua durante algunas horas removiendo periódicamente, para que la
+         cubierta se ablande y luego puede separarse con facilidad el carozo de la pulpa. Una vez hecho esto, deben
+         secarse sobre papel secante o de diario durante varios días antes de almacenarlos. Ejemplo: el Cina cina, Tala,
+         Piquillín.
+         Hay algunos casos de frutos carnosos para los cuales no es necesario remojarlos, y las semillas se pueden
+         re rar con facilidad.
+      3.1.3 – Almacenamiento.
+      Hay especies con semillas con alto contenido de humedad que no pueden secarse ni almacenarse por largos
+ periodos, por lo que deben ser sembradas inmediatamente luego de la recolección. Estas son las llamadas semillas
+ recalcitrantes, por ejemplo, el coco, el mato, y el guindillo. Para las demás semillas (ortodoxas e intermedias) luego
+ del secado, se pueden u lizar bolsas de papel, arpillera o algodón, luego en frascos o cajas de plás co, y finalmente
+ almacenadas en heladeras con una temperatura de 3 a 6°C idealmente, o en una habitación fresca, seca y libre de
+ insectos y roedores.
+           3.1.4 – Tratamiento pregermina vo.
+           Son aquellos procedimientos que se realizan con la finalidad de romper la dormancia de la semilla y
+      es mular la germinación de la misma. Hay dis ntos pos de tratamientos pregermina vos que se aplican
+      según el po de semilla que se trate.
+      Tratamientos pre-germina vos mecánicos o sicos: se aplican a semillas con tegumento duro e
+                    impermeable. Consisten en romper la cubierta de la semilla para permi r la hidratación y el
+                    intercambio de gases. Incluyen la escarificación sica u lizando lijas o elementos cortantes,
+                    quemado, golpe de mar llo, entre otros. El más usado es la escarificación mediante algún
+                    elemento raspante.
+      Tratamientos pre-germina vos de remojo: puede ser en agua fría o caliente. En el primer caso se colocan
+                    las semillas en un recipiente con suficiente agua como para cubrirlas por completo, y se deja
+                    remojando durante 24 a 48 horas generalmente, pudiendo ser más dependiendo de la
+                    especie. Si el empo de remojo supera las 48 deberá cambiarse el agua.
+                    En el caso de agua caliente, se pueden colocar las semillas en un recipiente con agua fría y
+                    calentar hasta que empiece a hervir, se man ene durante tres minutos y luego se deja enfriar.
+                    También pude verterse agua hirviendo directamente sobre las semillas y dejar reposar hasta
+                    el día siguiente.
+                    En todos los casos, las semillas deben ser sembradas inmediatamente luego de re rarlas del
+                    remojo.
+                    El tratamiento de remojo habrá sido efec vo solamente en aquellas semillas que se hayan
+                    hidratado e hinchado. Para las demás deberá repar rse el procedimiento.
+     3.1.5 – Prueba de germinación de la semilla.
+        Se recomienda hace la siguiente prueba de germinación para es mar el porcentaje de semillas con capacidad
+para germinar. Los resultados de esta prueba son de mucha u lidad para determinar la can dad de semilla que se
+u lizará en la siembra o plantación.
+De un lote de semillas recolectadas, se toma una muestra al azar de 200 unidades y se realiza el tratamiento pre-
+germina vo correspondiente a la especie. Luego se divide en dos grupos de 100 semillas y se realiza el siguiente
+procedimiento de germinación de acuerdo al tamaño de la semilla:
+·Semillas pequeñas: Prueba de germinación sobre el
+         papel: Coloque las semillas sobre un papel
+         absorbente húmedo dentro un envase pequeño
+         de plás co o vidrio con tapa y mantenga el papel
+         con humedad.
+Semillas medianas: coloque las semillas entre dos capas
+         de papel toalla húmedo, distribúyalas en hileras
+         separadas a 3 cen metros entre ellas y un
+         espacio entre semillas de 3 a 5 veces su tamaño.
+         Mantenga húmedo el papel.
+Semillas grandes: Agregue arena estéril y húmeda en
+         bandejas profundas con drenaje. Col
+           oque las semillas a una profundidad igual al
+         tamaño de estas, en hileras separadas a 3
+         cen metros entre ellas y a una distancia entre
+         semillas de 3 a 5 veces su tamaño, tápelas con la
+         arena, riegue con un rociador y mantenga
+         húmedo el sustrato.
+Una vez hecho esto se debe esperar el empo requerido para cada especie. Luego se calcula el porcentaje de
+germinación a par r de los resultados de los dos grupos de semillas, contando las plántulas que emergieron en cada
+grupo, luego súmelos y divida el total de plántulas entre dos.
+Ejemplo:
+        3.2 – Esquejes.
+        Los esquejes son pequeños fragmentos que se extraen de una planta mediante poda, con el obje vo de
+efectuar la reproducción asexual de la misma. Por ello la planta resultante es gené camente idén ca a la planta
+madre. Es decir, es un clon.
+        La reproducción por esqueje ene la gran ventaja de recortar los empos necesarios para la obtención de una
+nueva planta, ya que salteamos los pasos de siembra, germinación y repique, sin embargo, no se recomienda hacerlo
+a gran escala, ya que a la larga se estaría empobreciendo la carga gené ca de la especie al cortar el proceso natural de
+reproducción y mezcla gené ca.
+        3.2.1 – Procedimiento para la producción de esquejes.
+        La reproducción por esquejes puede llegar a ser más o menos di cil dependiendo de la especie. En algunos
+casos es necesario el uso de sustancias enraizadoras, pero podemos resumir el procedimiento de la siguiente
+manera:
+      ·  Cortar un pedazo erno y vivo de la planta
+         progenitora.
+      ·  Meter en un recipiente con agua hasta que
+         desarrolle raíces. Este paso puede ser omi do
+         en algunos casos, y con nuar con el siguiente si
+         es necesario, ya que antes de que esquejes de
+         ciertas plantas desarrollen raíces, su tallo
+         puede pudrirse. Con base en la
+         experimentación, probar ambos pasos en caso
+         de duda. Lo más probable es que ambos pasos
+         funcionen.
+         En este paso también pueden usarse
+         sustancias enraizantes, que favorecen el
+         crecimiento de las raíces principales y el
+         desarrollo de un mayor número de raíces
+         secundarias. Hay enraizantes químicos y
+         naturales. En el próximo apartado se
+         detallarán algunos enraizantes naturales.
+      ·  Enterrar el esqueje y regar abundantemente.
+Y si todo resulta como debe ser, en pocos días el sistema
+radicular del esqueje se habrá establecido en su nuevo
+sustrato y tendremos una planta completamente nueva e
+independiente de su progenitora.
+       3.2.2 – Enraizantes naturales
+           ·   Café: el café es buen enraizante natural que todos podemos producir en nuestras casas.
+               Esto es, llevando a ebullición un puñado de granos de café (también se puede hacer con
+               café molido) en medio litro de agua, se cuela para re rar los restos y se deja enfriar. El
+               esqueje se deja reposar un día en este líquido de café.
+           ·   Canela: Este enraizante es uno de los más sencillos y rápidos de hacer. En un litro de agua
+               se añaden 3 cucharadas de canela y se deja reposar toda la noche. Se le pueden añadir
+               también pieles de zanahoria que tengan algunas raicillas. Al día siguiente se filtra y ya
+               estaría preparado.
+           ·   Semillas de soja o trigo: Las semillas en general enen buenas propiedades y durante la
+               germinación generan hormonas para enraizar. Para hacer el enraizante, hay que dejar las
+               semillas reposar en agua unas 3 horas, luego se escurren, y el agua resultante se guarda en
+               la heladera. Por otro lado, se trituran las lentejas con agua nueva, y se filtra esta especie de
+               papilla, que finalmente debemos mezclar con el agua que habíamos guardado en la
+               heladera.
+           ·   Sauce: El sauce es una especie con numerosas propiedades, entre ellas que enraíza muy
+               bien y en poco empo. Se necesitan unas ramitas de sauce con corteza, éstas se lavan y se
+               dejan en un recipiente con agua durante unas 3-4 semanas. A con nuación, el agua se mete
+               en la heladera y sólo las ramas se hierven en agua durante unos minutos. Esto se filtra, y se
+               deja enfriar a temperatura ambiente. Una vez esté totalmente frío, se le añade al agua que
+               habíamos dejado en la heladera y ya está listo para usar.
+           ·   Lentejas: Este es uno de los más conocidos y u lizados. Las lentejas son semillas y durante
+               su germinación generan las hormonas enraizantes. Para su elaboración hay que dejar
+               reposar una tasa de lentejas en cuatro tasas de agua durante unos cuatro días, a
+               con nuación licúa todo junto el agua y las lentejas y luego se cuela o se filtra. Al líquido
+               resultante se le puede añadir diez partes de agua para que no quede tan concentrado y se
+               rocía por la zona del esqueje que es necesario tratar.
+       Hoy en día, existen en el mercado enraizantes aptos para la agricultura ecológica, se presentan en
+formato de polvo o líquido. El único inconveniente es que son algo elevados de precio.
+     4 Sustrato, siembra, repique y cuidado del plan n.
+     4.1- Sustrato.
+         El sustrato es todo material sólido o sustancia dis nto del suelo in situ, que colocado en un contenedor -en
+forma pura o en mezcla- permite el anclaje del sistema radicular desempeñando la función de soporte para la planta.
+Está compuesto por materiales orgánicos e inorgánicos, y sus funciones son la retención de agua y nutrientes, y
+fijación del sistema radicular. Estas funciones vienen determinadas por los componentes del mismo y las
+proporciones en las que se encuentran, por lo que es importante siempre preparar el sustrato de la misma manera,
+lote tras lote, para garan zar un sustrato predecible y de buena calidad. Un buen sustrato ene las propiedades
+  sicas y químicas que promueven el crecimiento rápido y saludable de las plantas. Un sustrato que ene muchos
+nutrientes, pero es pesado y compacto y no deja penetrar el agua, no es bueno. Del mismo modo, un sustrato con un
+drenaje adecuado pero que al que le falten alimentos para las plantas tampoco es bueno.
+         Sustratos                                                         Variantes
+                    Tierra             Arena           Ceniza
+         1                                                                 1 Lombricompuesto
+         2
+         3
+                      3                  2 1/3                             2 Compost
+                                                                           2 Aserrín o Cascara de maní
+                   partes             partes           partes
+         4                                                                 1/2 Lombricompuesto
+     4.1.2 – Componentes.
+          Se puede preparar sustratos con dis ntos materiales. Siempre es recomendable hacerlo con aquellos que
+ dispongamos localmente y con facilidad. Los componentes u lizados deben proveer a la mezcla final las
+ caracterís cas antes mencionadas, y pueden ser:
+     ·    Tierra, arena: brinda soporte y la porosidad necesaria para la un buen drenaje e intercambio de gases.
+     ·    Material orgánico: como puede ser compost, lombricompuesto, es ércol, cáscaras de maní, aserrín de
+          madera sin tratar, etc. Estos materiales aportan los nutrientes necesarios para el desarrollo de la planta.
+     ·    Ceniza: evita la contaminación con patógenos.
+ Usualmente lo que se hace al preparar el sustrato es mejorar la calidad de la erra disponible, agregando arena para
+ brindar porosidad y materia orgánica para los nutrientes. Se recomiendan a con nuación algunas composiciones
+ que deberán adaptarse según la disponibilidad de estos materiales:
+     4.2 - Siembra en almácigos.
+         La siembra en almácigos consiste en la disposición de una gran can dad de semillas en un único envase. Este
+puede ser cualquier recipiente plás co de gran superficie y poca profundidad, como pueden ser las bandejas plás cas
+descartables de comida, o bien cajones de verdulería cortados a una altura apropiada. En el primer caso se deberán
+prac car orificios para el drenaje del agua, y en el segundo caso se deberá cubrir el fondo del cajón con hojarasca
+gruesa de manera que no se escape la erra entre las tablillas del cajón. En estos recipientes se dispondrán de 10 a 15
+cms. de sustrato tamizado, luego se debe humedecer y se colocan las semillas acostadas, ya sea al voleo o dispuestas en
+pequeños surcos de poca profundidad. Luego se deberá cubrir toda la superficie del almácigo con una capa de sustrato
+de una profundidad igual al diámetro de las semillas. Finalmente, se puede cubrir todo con una fina capa de hojarasca
+seca para mantener la humedad.
+         Otra posibilidad es la siembra en germinadores. Esta consiste en depositar dos o tres semillas en placas
+cons tuidas por un gran número de pequeños envases, en los cuales se espera que germine al menos una de las
+semillas depositadas para luego repicar la plántula.
+         Los almácigos y los germinadores no deben exponerse al sol directo, ni tampoco deben estar en plena sombra.
+Se los deberá mantener dentro del invernadero y se deberá verificar ausencia de insectos y exceso de humedad.
+         Dependiendo de la especie sembrada, luego de una o dos semanas empezarán a emerger las primeras
+plántulas. Una vez que esto ocurra, y luego de que los co ledones y las primeras hojas verdaderas emerjan, se podrá
+hacer el repique de las pequeñas plántulas.
+4.3 – Repique.
+         El repique es el procedimiento por el cual las pequeñas plántulas que nacieron en los almácigos, son
+trasplantadas a los envases forestales o macetas (una plántula por envase). También se realiza repique cuando más
+de una semilla ha germinado en un único envase.
+         El procedimiento del repique depende de las condiciones iniciales del almácigo. En el caso de que pocas
+semillas hayan germinado se podrá, con la ayuda de una pequeña pala de mano o un cuchillo, aflojar la erra en la
+zona circundante a la plántula, sacar un pan de erra completo que la contenga, luego teniendo ya listo el envase
+forestal o maceta, lleno de sustrato, se le prac ca un hoyo en el mismo con la ayuda de un palo o punta, del diámetro y
+profundidad aproximado del pan de erra re rado del almácigo. Luego se coloca con cuidado la planta en el hoyo y se
+presiona levemente el sustrato circundante para afirmarlo, agregándose sustrato de ser necesario, cuidando de
+mantener el nivel de sustrato siempre a la misma altura del tallo de la plántula, sin dejar raíces expuestas ni cubrir el
+cuello de la plántula.
+         Por el contrario, si gran can dad de plántulas
+surgieron del almácigo, la metodología anteriormente
+descripta no es apropiada. Lo que se tendrá que hacer en
+este caso es remojar el sustrato con abundante agua, de
+manera que se afloje y se pueda re rar plántula por
+plántula, desde raíz sin sustrato, rando suavemente
+desde el tallo, ayudando a que se liberen de a poco todas
+las raíces. Luego, se coloca la plántula en el envase
+forestal, siempre tomándola desde la parte inferior del
+tallo, de manera que el cuello de la misma quede algunos
+cen metros por debajo del borde del envase, luego se irá
+ver endo sustrato alrededor de las raíces, procurando
+que se llenen todos los inters cios, para ello podemos
+efectuar pequeños golpecitos con todo el envase sobre la
+superficie de trabajo, y seguimos agregando sustrato a
+medida que éste baja. Cuando el envase se ha llenado
+hasta el nivel del tallo, presionamos suavemente con los
+dedos de manera de terminar de afirmar el sustrato.
+                  En ambos casos es muy importante que las raíces estén completamente en contacto con
+         el sustrato, es decir que no queden espacios vacíos, sin rellenar, ya que esto ocasionaría que la
+         planta se seque.
+                  Luego del repique, las plantas deben regarse con abundante agua, y mantenerse los
+         siguientes 30 a 60 días dentro del invernadero o bajo media sombra. El riego deberá ser diario,
+         evitando los excesos.
+4.4 – Siembra en envases forestales o macetas
+El procedimiento es el mismo que en el caso del almácigo, solamente que en este caso se colocan solamente dos o
+tres semillas por envase. Se hace esto por si alguna semilla llegase a fallar. En caso de que germine más de una se
+deberá repicar como se explicó en el apartado anterior.
+        Una opción muy adecuada para árboles y arbustos es usar envases sin fondo para la siembra. Para ello se
+deberá cortar el rollo con nuo o manga 5 a 10 cms. de diámetro, en tramos de 20 a 30 cms. de largo. Luego con erra
+húmeda y con la ayuda de un apisonador, se confecciona un tapado de aproximadamente 3 cm. presionando una
+pequeña can dad de erra en el fondo del envase.
+4.5 – Época ideal para la siembra.
+        En cuanto a la época de siembra, en general
+podemos decir que la germinación se producirá
+siempre y cuando las semillas encuentren una
+temperatura entre 12 y 36°C, y también se encuentren
+todas las otras condiciones ya mencionadas. Por ello,
+se recomienda sembrar en los meses de primavera y
+verano, extendiéndose un poco más, desde agosto
+hasta marzo si se cuenta con invernadero.
+4.6 – Rus ficación.
+        Hasta ahora, las nuevas plantas han estado dentro del invernadero, protegidas y resguardadas bajo
+condiciones ideales. Estas condiciones no son las que la planta deberá afrontar una vez plantada. Por ello, se debe
+someter a las mismas a un periodo de adaptación que puede oscilar entre los 3 y 6 meses. Para ello, las plantas son
+re radas del invernadero y trasladadas al exterior para que poco a poco se vayan aclimatando a condiciones más
+desfavorables. Durante este periodo las plantas se man enen en canchas, o caminos cubiertos de media sombra en
+verano, y con nailon transparente durante el invierno. En los meses de verano el riego será diario, prestando mucha
+atención en días de mucho calor a la posible necesidad de regar más de una vez en el día, pero siempre evitando los
+excesos. Durante los meses fríos, la evaporación es menor por lo que puede disminuirse la frecuencia de riego a dos o
+tres veces por semana.
+5 – Instalaciones básicas para un vivero.
+         Para funcionar de manera adecuada un vivero debe contar con una infraestructura mínima, la cual debe estar
+distribuida en diferentes áreas. A con nuación, se listan y describen brevemente las instalaciones básicas para un
+vivero.
+         5.1 – El terreno.
+                 En cuanto a la selección del terreno,
+         este debe reunir las siguientes caracterís cas:
+              · Condiciones climá cas, similares a las
+                  del si o de plantación.
+              · Terrenos planos y con buen drenaje.
+              · Cuando son terrenos con pendiente
+                  se deben construir terrazas.
+              · Fuente de agua cercana.
+              · Vías de acceso cercanas, a fin de
+                  facilitar la salida de las plantas y el
+                  ingreso de insumos y materiales.
+              · Cercanía al si o de plantación.
+              · Buena insolación.
+5.2 – El invernadero.
+         El invernadero es fundamental para poder trabajar durante todo el año, evitado el frío de la intemperie
+durante los meses de invierno. Como se mencionó anteriormente, en él se busca generar las condiciones apropiadas
+para la germinación de las semillas y proteger las plántulas en las primeras etapas de su desarrollo.
+5.3 – Canchas de rus ficación o sombráculos.
+          Las canchas deberán esta ubicadas de tal manera de tener buena insolación, y el terreno no debe ser
+inundable y con buen drenaje, idealmente de suelo compactado o cubierto con plás co negro para evitar el
+crecimiento de malezas entre las plantas. Las canchas deberán estar delimitadas o cercadas con canteros de poca
+altura, que se pueden construir de ladrillos, madera o cualquier material de descarte que sirva a los fines de delimitar
+las canchas y contener las plantas que allí se van a rus ficar. Las canchas deberán estar cubiertas de media sombra, y
+ésta ene que poder desmontarse o correrse con facilidad en el invierno y los días nublados.
+          Las dimensiones de las canchas dependerán de la can dad que se pretende producir y del espacio disponible,
+pero en todos los casos se recomienda que no sean más anchas que un metro o metro y medio, para poder tener fácil
+acceso para el riego, y separadas entre sí por una distancia suficiente como para poder circular con facilidad con una
+carre lla, para lo cual se recomienda 1.5 m. De esta manera, la única variable que nos queda es la longitud de las
+canchas, que dependerá del terreno disponible.
+         5.4 - Área de preparación de sustrato.
+                 Siempre es recomendable contar en un vivero con una producción propia de abono y
+         lombricompuesto, y para ello también se deberá disponer de un lugar adecuado, de fácil acceso y con
+         espacio suficiente además para poder disponer de la erra y la arena, y para preparar el sustrato,
+         tamizado de los insumos y llenado de envases.
+         De ser posible, la erra y la arena deben estar cubiertos para evitar el exceso de agua en estos insumos
+         debido a la lluvia, ya que luego esto imposibilita el preparado del sustrato.
+  5.5 – Depósito.
+           Se deberá disponer algún lugar en el vivero para guardar herramientas y elementos de valor, para
+  protegerlos de la intemperie y de posibles robos y/o vandalismo. Un armario de chapa con llave dentro del
+  invernadero puede ser suficiente. Esto se deberá evaluar en cada caso.
+7 – Bibliogra a.
+   ·  Manual de cul vo y forestación con especies na vas para el centro de Argen na. Natalia C. De
+      Luca. 2019.
+   ·  Cul vo de Plantas Na vas. Propagación y Viverismo de Especies de Argen na Central. Cecilia
+      Eynard, Ana Calviño y Lorena Ashworth. 2018.
+   ·  Reforestación en el ambiente serrano. Luis R. Volkmann y Ricardo Suárez.
+   ·  Árboles na vos de Argen na, Tomo 1: Centro y Cuyo. Pablo Damaio, Ulf Ola Karlin y Mariano
+      Medina.
