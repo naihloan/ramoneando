@@ -1,16 +1,30 @@
-\documentclass[justified,spanish]{tufte-book}
+% \documentclass[nols,notoc,a4paper,justified,spanish]{tufte-book} % symmetric
+% \documentclass[nols,a4paper,twoside,symmetric,justified,marginals=raggedouter,notoc]{tufte-book}
+
+\documentclass[%
+nols,
+a4paper,
+twoside,
+% symmetric,
+justified,
+marginals=raggedouter,
+notoc]{tufte-book}
+
 \usepackage[spanish]{babel}
 \selectlanguage{spanish}
 \usepackage[utf8]{inputenc}
 % For A4 paper 
 % https://tex.stackexchange.com/questions/119900/how-do-i-set-a-hard-minimum-margin-size-with-the-tufte-book-document-class
-\geometry{
-  left=21.8mm, % left margin
-  textwidth=131mm, % main text block
-  marginparsep=7mm, % gutter between main text block and margin notes
-  marginparwidth=49.4mm % width of margin notes
-}
+% \geometry{
+%   left=21.8mm, % left margin
+%   textwidth=131mm, % main text block
+%   marginparsep=7mm, % gutter between main text block and margin notes
+%   marginparwidth=49.4mm % width of margin notes
+% }
 
+\usepackage[all]{nowidow}
+% \widowpenalty 10000
+% \clubpenalty 10000
 
 \hypersetup{colorlinks}% uncomment this line if you prefer colored hyperlinks (e.g., for onscreen viewing)
 
@@ -89,7 +103,7 @@
 % Prints an epigraph and speaker in sans serif, all-caps type.
 \newcommand{\openepigraph}[2]{%
   %\sffamily\fontsize{14}{16}\selectfont
-  \begin{fullwidth}
+
   \sffamily\large
   \begin{doublespace}
   \noindent\allcaps{#1}\\% epigraph
@@ -170,12 +184,11 @@
 % v.2 epigraphs
 \newpage\thispagestyle{empty}
 \openepigraph{%
+\vfill %
+\emph{Dedicado a todos los que creen en el desarrollo sostenible de sus comunidades.} \vfill
+\emph{A los que se atreven a emprender, a ser disruptivos en las soluciones y hacer frente a los desafíos que enfrenta el planeta.}
+} 
 \vfill
-\emph{Dedicado a todos los que creen en el desarrollo sostenible de sus
-comunidades.} \vfill
-\emph{A los que se atreven a emprender, a ser disruptivos en las
-soluciones y hacer frente a los desafíos que enfrenta el planeta.}
-} \vfill
 % The public is more familiar with bad design than good design.
 % It is, in effect, conditioned to prefer bad design, 
 % because that is what it lives with. 
@@ -237,7 +250,11 @@ titulares del \emph{copyright.}
 \end{fullwidth}
 
 % r.5 contents
+\begin{fullwidth}
+ 
+
 \tableofcontents
+\end{fullwidth}
 
 % \listoffigures
 
@@ -256,7 +273,44 @@ titulares del \emph{copyright.}
 % \vfill
 % \vfill
 
-\input{capitulos/experiencias-libro}
+% \input{capitulos/experiencias-libro}
+% \input{capitulos/partes.tex}
+
+\begin{fullwidth}
+ 
+\input{capitulos/prologo.tex}
+
+\part{\textsc{Redes e intercambios}}
+% \addcontentsline{toc}{part}{%
+% \arabic{part}.\arabic{part}.\arabic{part}.\arabic{part}~~ 
+% Redes e intercambios}
+% \addcontentsline{Redes e intercambios}{}{Redes e intercambios}
+\input{capitulos/conectando}          % Redes Cambio
+\input{capitulos/pacha}               % Redes
+\input{capitulos/ecosistema-verdades} % Cambio/Conservación
+
+\part{\textsc{Aire, conservación y conciencia verde}}
+\input{capitulos/recuperando-verde}   % AIRE
+\input{capitulos/parques}             % AIRE
+\input{capitulos/reserva-respira}     % AIRE
+\input{capitulos/sustentable-rebeldia}% Cambio/Conservación Eco Comida?
+
+\part{\textsc{Reciclando. Nuevos valores y recursos}}
+\input{capitulos/desperdicio-cero}    % BASURA
+\input{capitulos/residuo-cero}        % BASURA
+\input{capitulos/biobriz}             % BASURA
+\input{capitulos/basura-recurso}      % BASURA
+
+\part{\textsc{Cambios productivos, legales y de difusión}}
+\input{capitulos/mikuna}              % Cambio/Conservación Eco Comida
+\input{capitulos/escuela}             % Cambio
+\input{capitulos/chacra}              % Cambio/Conservación
+\input{capitulos/ordenanza}           % Cambio
+\input{capitulos/rse}                 % Cambio
+
+\input{capitulos/gracias}             % Redes
+\end{fullwidth}
+
 
 \end{document}
 

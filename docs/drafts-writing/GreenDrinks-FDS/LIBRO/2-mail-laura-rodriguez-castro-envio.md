@@ -1,3 +1,6 @@
+
+
+
 Hola Laura,
 ¿Cómo estás? Espero estés bien, nos conocimos virtualmente un poco vía twitter (@venhamon). Yo publiqué en el so-fi zine #2 bajo seudónimo: Rumi Ando, una página sobre el personaje de Los Simpsons, "being ralphy wiggum".
 https://sofizine.com/latest-edition/edition-2/
