@@ -2519,11 +2519,12 @@ diversidad de visiones.
 
 \cleardoublepage
 
+
 DE UN TRABAJO PRÁCTICO A UNA ORDENANZA MUNICIPAL
 ================================================
 
 
-**Matías Roldán **
+**Matías Roldán**
 
 Técnico Superior en Gestión Ambiental del Colegio Universitario IES.
 Actual docente de la misma carrera, en la Cátedra de Evaluación de
@@ -2531,7 +2532,7 @@ Impacto Ambiental, Sistemas de Gestión ISO 14000 entre otras. Asesor
 Empresarial y de organismos públicos. Actualmente se especializa en
 comunicación ambiental empresaria y RSE.
 
-Proyecto Consumo Responsable de Bolsas Plásticas Córdoba
+##### Proyecto Consumo Responsable de Bolsas Plásticas Córdoba
 
 *Apodado por algunos como “el chico de las bolsas”, nunca pensé que un
 trabajo práctico pensado para una materia o como temática pensada para
@@ -2543,7 +2544,7 @@ regule el consumo de bolsas plásticas en Córdoba y 5 años después, de la
 mano de un proceso consensuado entre distintos actores basados en mi
 proyecto, se logró que el consumo disminuyera casi en un 90%.*
 
-**Embolsando la idea**
+##### Embolsando la idea
 
 Agosto del año 2010, todavía en papel de alumno de la carrera de Gestión
 Ambiental del Colegio Universitario IES, buscaba una temática que
@@ -2565,9 +2566,7 @@ la arista no fue tratada en el trabajo práctico puntual, la inquietud
 gestó en mí, interrogantes que dieron lugar posteriormente a un
 proyecto.
 
- 
-
-**Involucrando a las bolsas**
+##### **Involucrando a las bolsas**
 
 Al año siguiente (2011), se decide proseguir con el análisis de la
 inquietud definiendo que dicha temática debería ser abordada en el
@@ -2583,7 +2582,7 @@ desde el 2011 hasta el 2016, donde implementado, redujo el consumo de
 bolsas camiseta entregadas por cadenas de supermercados en más de un
 86%.
 
-**¿Cuál es el problema?**
+##### **¿Cuál es el problema?**
 
 Al inicio lo importante fue descubrir, luego de mucho analizar, que era
 un error pensar que la fabricación o entrega de bolsas camiseta eran
@@ -2631,9 +2630,7 @@ por más de 4 años. El haber encarado a una organización similar, y el
 haber propuesto iniciar un proyecto sumamente ambicioso, creo que fue EL
 paso que dio nacimiento al proyecto.
 
- 
-
-**Objetivo concreto**
+##### **Objetivo concreto**
 
 Febrero del 2012, inició la pasantía donde se plantearon objetivos
 concretos “Queremos disminuir la entrega de bolsas que la gente nos
@@ -2652,8 +2649,6 @@ peor eso a que no existiera, lo que mostró que era esencial, antes que
 cualquier acción, proponer un marco regulatorio sobre el consumo de
 bolsas camiseta, tarea que emprendí con dudas pero sin temor.
 
- 
-
 Comencé a trabajar en un proyecto de ordenanza que fue inspirado en el
 espíritu de distintas normativas (de nivel provincial y nacional) y con
 la ayuda del Ab. Victor Layus (un amigo cercano) quien complementó mi
@@ -2663,9 +2658,7 @@ debería ser restringido por normativa, pensando así que podría
 resolverlo todo. Una percepción totalmente errónea ubicada en el
 nacimiento y en los primeros pasos del proyecto.
 
- 
-
-**La fundamentación ambiental**
+##### **La fundamentación ambiental**
 
 Pensando que se había logrado el mejor proyecto de la historia, al
 momento de presentarlo ante las autoridades municipales, ellos invitaron
@@ -2690,9 +2683,7 @@ relevamiento de consumo de bolsas camiseta, estudio de tendencias de
 consumo y transporte de mercadería y hábitos sustentables. Sin hablar
 del sentido total de pertenencia que uno genera para con el proyecto.
 
- 
-
-**El consumo**
+##### **El consumo**
 
 “Se generó un relevamiento exhaustivo del consumo mensual y bimestral
 –dependiendo la cadena- en conjunto con una encuesta que propuse y
@@ -2733,7 +2724,7 @@ bolsas de consorcio.
 sus compras, por desinterés, precio e incluso “por no combinar con su
 ropa, el diseño de las mismas”.
 
-**Seguir el trabajo como profesional**
+##### **Seguir el trabajo como profesional**
 
 Luego, en el año 2013, momento donde el proyecto de bolsas no pudo ser
 involucrado en la tesis que defendí para obtener el primero de mis
@@ -2751,8 +2742,6 @@ totalmente modificado evolucionando hacia una propuesta integral
 trabajada junto con la municipalidad de Córdoba y sus autoridades de
 ambiente durante todo ese año.
 
- 
-
 El proyecto evolucionado presentó la mejora del diseño de bolsas
 enmarcado en una NORMA IRAM (Nº 13610) que implementa un modelo
 estandarizado, a utilizar en todas las cadenas, de colores distintos
@@ -2766,9 +2755,7 @@ supermercados – sustitución en locales comerciales en general –
 reducción total), sumó plan de educación, difusión y promoción de la
 ordenanza en conjunto con el seguimiento de consumos.
 
- 
-
-**Hacia una propuesta formal**
+##### **Hacia una propuesta formal**
 
 La evolución del proyecto y la revisión conjunta con la municipalidad
 acerca de las modificaciones, generaron que en el año 2014 se creara un
@@ -2778,8 +2765,6 @@ involucrados en el tema. Se tomó como base mi proyecto, y se convirtió
 la propuesta que presenté años atrás, en un proyecto de ordenanza que
 abordaba una problemática que comenzaba a tomar protagonismo en los
 medios y en la percepción social.
-
- 
 
 Dicho espacio creado para la discusión de proyectos similares se llamó
 “Espacio para la Construcción de Ciudadanía Ambiental” (ECCA) y fue aquí
@@ -2806,9 +2791,7 @@ compartiendo exposiciones, modificaciones y justificaciones de un
 proyecto que se fue puliendo de a poco, para terminar siendo una
 ordenanza.
 
- 
-
-**La Ordenanza**
+##### **La Ordenanza**
 
 Como conclusión del proyecto, a fines del 2015 es presentado ante el
 honorable Concejo Deliberante de la ciudad de Córdoba mediante el
@@ -2836,8 +2819,9 @@ sociedad y planeta.
 
 \cleardoublepage
 
-¡RESERVA SAN MARTÍN…DONDE CÓRDOBA RESPIRA!
-==========================================
+
+¡RESERVA SAN MARTÍN: DONDE CÓRDOBA RESPIRA!
+===========================================
 
 
 **Rita Stanislavs**
@@ -2851,12 +2835,10 @@ de la Universidad Tecnológica Nacional.
 
 *“Conservar para educar, educar para conservar”*
 
- 
-=
 
 Asociación Civil Amigos de la Reserva Natural San Martín
 
-**Y nos juntamos a defender la plaza del barrio**
+##### Y nos juntamos a defender la plaza del barrio
 
 Todo empezó en la ciudad de Córdoba, en mayo de 2009. Una nota del
 diario anunciaba obras en el sector noroeste de la ciudad: un puente
@@ -2883,7 +2865,7 @@ potencial del lugar por lo que nos decidimos luchar. Luego
 descubriríamos que varios "desarrollistas" también pensaban lo mismo,
 pero no con el fin de preservación.
 
-**Y nos pusimos a trabajar**
+##### Y nos pusimos a trabajar
 
 Eran 114 hectáreas de bosque nativo en pleno ejido municipal, con casi
 200 especies de aves, mamíferos, reptiles y anfibios que uno no
@@ -2908,7 +2890,7 @@ La gestión municipal tenía graves deficiencias y problemas económicos,
 al punto que llegamos a adquirir y donar una batería a la Dirección de
 Defensa Civil que debía patrullar el Parque procurando evitar incendios.
 
-**Y había que interactuar con leyes y políticos**
+##### Y había que interactuar con leyes y políticos
 
 En ese año el parque sufrió siete incendios, todos intencionales.
 Evidentemente había intenciones de que ese lugar no se preservara.
@@ -2942,7 +2924,7 @@ y el riesgo que corría, llevamos la problemática a encuentros, talleres,
 e incluso, con una masiva difusión de afiches en el centro de la ciudad,
 costeada con el apoyo de una tarjeta de crédito.
 
-**Y se creó la Reserva**
+##### Y se creó la Reserva
 
 Finalmente tras mucho "peregrinar" detrás de los concejales, el último
 día de sesión el 30 de Noviembre del 2009 a las 21 hs se votó por
@@ -2956,7 +2938,7 @@ microclima, brindar beneficios de tipo psicológico, social y cultural,
 mejorar de la calidad del aire, brindar un hábitat para polinizadores,
 etc.).
 
-**Y nos premiaron**
+##### Y nos premiaron
 
 Después de meses de mucha actividad, fuimos reconocidos. La Voz del
 Interior postuló al entonces presidente de la Asociación como candidato
@@ -2967,7 +2949,7 @@ realizado. También la Vice Intendencia de la ciudad de Córdoba nos
 entregó la distinción "Agustín Tosco" por nuestra labor en defensa de la
 Reserva San Martín.
 
-**Y había que seguir trabajando**
+##### Y había que seguir trabajando
 
 Se consiguió mucho a partir de la creación de la Reserva. Aumentó la
 cantidad de guardaparques, lo cual permitía más visitas guiadas para
@@ -2999,7 +2981,7 @@ de guardaparques y vecinos, se extrajeron y trasladaron los postes, y se
 realizó el cerramiento de más de 700 metros, habiendo colaborado incluso
 grupos de niños Boy Scout.
 
-**Y se desarrolló el programa de Vigías voluntarios**
+##### Y se desarrolló el programa de Vigías voluntarios
 
 En el año 2011 un incendio (intencional, claro) destruyó unas 30
 hectáreas de la zona alta de la Reserva y otro en 2013 también
@@ -3013,7 +2995,7 @@ vandalismo, actitudes sospechosas de algún visitante). Desde que se
 implementó esta iniciativa no ha habido más incendios durante los fines
 de semana.
 
-**Y siguieron los problemas y peligros**
+##### Y siguieron los problemas y peligros
 
 Un día los guardaparques se encuentran con máquinas ajenas a la Reserva
 intentando talar la ribera del canal maestro sur, límite de la Reserva.
@@ -3064,7 +3046,7 @@ tránsito sin dañar la Reserva y conectaría la zona Oeste y la Noroeste.
 Se presentó el proyecto ante autoridades competentes sin tener respuesta
 hasta el momento.
 
-**Y participamos en ámbitos académicos y de participación ciudadana.**
+##### Y participamos en ámbitos académicos y de participación ciudadana.
 
 Como la reserva es un ámbito educativo por excelencia firmamos con la
 Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad
@@ -3098,7 +3080,7 @@ Chicas", que se realiza todos los años a fines de noviembre. Y
 actualmente estamos participando activamente en todas las marchas en
 defensa del bosque nativo.
 
-**Y pudimos, se puede y podremos**…
+##### Y pudimos, se puede y podremos*
 
 Desde 2009 el Parque San Martín es Reserva Natural Urbana. Los incendios
 la dañaron pero ya el bosque está renaciendo. Renovales de más de dos
@@ -3113,16 +3095,15 @@ que amen la naturaleza.
 
 ==============================================================================================
 
+
+Chacra de Luna: inteligencia natural
+====================================
+
 **Federico Uanino**
 
 Gerente General de CARPAL y Fundador de Chacra de Luna.
 
 “*Si todo te da igual, estás haciendo mal las cuentas.” A. Einstein*
-
-**\
-**
-
-Chacra de Luna: inteligencia natural
 
 La historia de Chacra de Luna, ocho hectáreas en las que producimos de
 forma responsable y que dejamos abierta al público, para que todos
@@ -3144,7 +3125,7 @@ el trabajo. Con muchas ganas de hacer florecer de la tierra fértil de
 Argentina, sus sueños y experiencias de su tierra italiana. Cómo a pesar
 de tantas dificultades supieron germinan una ciudad.
 
-**Luego de cinco generaciones**
+##### Luego de cinco generaciones
 
 Hoy, cuando pasaron más de 130 años y cinco generaciones, con todas las
 herramientas y conocimientos al alcance de nuestras manos, pareciera que
@@ -3166,7 +3147,7 @@ atención, los aromas y texturas nos parecen extraños.
 Chacra de Luna, en Colonia Caroya, provincia de Córdoba, es un espacio
 que fue pensado para que podamos encontrar esa inteligencia natural.
 
-**Los antecedentes**
+##### Los antecedentes
 
 En 1892 se instaló en el predio que ocupa actualmente este
 emprendimiento, una familia que provenía del norte de Italia. Como
@@ -3192,7 +3173,7 @@ aprovechar la influencia de la luna y los astros en las labores diarias,
 cómo manejar las malezas y las plagas, cómo valerse del entorno hasta
 para mejorar su salud. También cómo divertirse y cómo ser felices.
 
-**La historia y la cultura**
+##### La historia y la cultura
 
 En 2000, mi nono me comentó que había decidido demoler una de las
 primeras industrias dedicadas a la fabricación de herramientas para la
@@ -3210,7 +3191,7 @@ uso más racional de los recursos. Convencido que somos sólo un instante
 de la historia y que es nuestro deber ser responsables con el futuro que
 dejamos.
 
-**Queríamos producir algo**
+##### Queríamos producir algo
 
 Así comencé, sin saber muy bien cuál era el fin, ni cuando lo lograría,
 pero convencido que quería producir frutales, hortalizas, vides; quería
@@ -3241,7 +3222,7 @@ vida, cuáles son las cosas que no podemos prescindir. No podremos nunca,
 si queremos ser felices, dejar de alimentarnos, tener salud y vivir en
 paz con nuestro entorno.
 
-**Actualmente**
+##### Actualmente
 
 En el predio se encuentra restaurada completamente la vieja fábrica
 familiar. En ella se puede ver cómo el ingenio y la cultura del trabajo
@@ -3279,6 +3260,7 @@ y descubrir la inteligencia natural.
 
 \cleardoublepage
 
+
 COMPROMISO ESCOLAR CON EL MEDIO AMBIENTE
 ========================================
 
@@ -3292,13 +3274,10 @@ Directora de la Escuela Pablo Pizzurno - San Antonio de Litín.
 <span id="_b05mbdgbx2f6" class="anchor"></span>**“Reciclar y no
 contaminar TODOS UNIDOS el planeta debemos cuidar”**
 
-<span id="_ui7ubdln8of2" class="anchor"></span>
-
-<span id="_mtkd1ps46ywt" class="anchor"></span>La escuela está inserta
+La escuela está inserta
 en San Antonio de Litín, un poblado de 1800 habitantes, ubicado en el
 sudeste de la provincia de Córdoba.
 
-<span id="_c338x57u0zi8" class="anchor"></span>
 
 En el año 2016, la escuela participa en el Rally Continental de Escuelas
 con Futuro Sostenible, siendo la única en la Provincia de Córdoba
@@ -3311,7 +3290,7 @@ promoción de árboles a través de la participación y donación de
 diferentes fundaciones y entidades de todo el país, con el objetivo de
 reforestar gran parte de la localidad y la zona.
 
-**La problemática**
+##### La problemática
 
 La contaminación por residuos sólidos es un tema que nos concierne a
 todos. En este caso nos referiremos al caso específico dentro de nuestra
@@ -3332,7 +3311,7 @@ ciudades mayores, lo cual es un indicador suficiente para proponer
 hacernos cargo de ello, otorgarle la prioridad adecuada y comenzar a
 tratarlo lo antes posible.
 
-**El Compromiso de la comunidad **
+##### El Compromiso de la comunidad
 
 El proyecto actual consiste en reciclar y reutilizar distintos
 materiales y elementos, comprometiendo a toda la comunidad educativa.
@@ -3342,7 +3321,7 @@ sólidos contaminantes en objetos decorativos y/o de uso cotidiano,
 utilizando diferentes técnicas y métodos: activos, participativos, y
 enfoques constructivistas.
 
-**La razón de hacer **
+##### La razón de hacer 
 
 La razón que nos llevó a realizar este proyecto es la observación de una
 actividad contaminante como hábito dentro de la rutina diaria de nuestra
@@ -3350,14 +3329,14 @@ comunidad e institución. La cual nos llevó a reflexionar grupalmente
 sobre la situación para luego comenzar con un proceso de concientización
 general respecto del deterioro del medio ambiente.
 
-**Tenemos objetivos**
+##### Tenemos objetivos
 
 Nuestros objetivos se basan en la sensibilización y fortalecimiento de
 los valores éticos relacionados a la protección, uso y conservación del
 entorno ambiental, principalmente, de los alumnos para luego extenderlos
 a la comunidad.
 
-**La propuesta y su desarrollo**
+##### La propuesta y su desarrollo
 
 La propuesta nace a partir de la enseñanza, a todos los alumnos por
 igual y desde todos los espacios curriculares posibles, acerca de la
@@ -3370,7 +3349,7 @@ actividades especiales dentro de espacios escolares agradables y
 provistos de todas las herramientas e insumos necesarios para su
 ejecución.
 
-**Aprendemos jugando**
+##### Aprendemos jugando
 
 Para el desarrollo de la propuesta, la escuela propone reutilizar
 diferentes materiales, reciclándolos a través de un proyecto
@@ -3385,7 +3364,7 @@ curiosidad, la imaginación y la experiencia, ocupan un lugar muy
 importante, valorando lo que se hace y procurando un acercamiento
 afectivo que desarrolla el respeto y el cuidado del entorno.
 
-**Materiales empleados**
+##### Materiales empleados
 
 Prácticamente todo lo que vemos a nuestro alrededor puede ser
 recicla-do, es por ello que creemos en el gran potencial que esta
@@ -3396,8 +3375,6 @@ cables, cajas, cajones, botellas, ropa, revistas, troncos.
 
 <span id="_lfjh5v8ovbq5" class="anchor"></span>La importancia de los
 juegos EN EL PROCESO EDUCATIVO
-
-<span id="_crimm4xjx5j5" class="anchor"></span>
 
 Una excelente forma de generar interés en el niño, en distintos ámbitos,
 es a través de juegos didácticos, los cuales nos garantizan
@@ -3410,7 +3387,7 @@ actitud sobre cómo utilizar la mente. Es un marco en el que poner a
 prueba las cosas, un invernadero en el que poder combinar pensamiento,
 lenguaje y fantasía.”* JP
 
-**Prolongar la vida de los recursos**
+##### Prolongar la vida de los recursos
 
 Los resultados fueron y son absolutamente positivos. Se ha logrado
 comprender el proyecto como un proceso de transformación de elementos
@@ -3425,8 +3402,7 @@ capacidad de participación que estas actividades permiten, conformando
 diferentes grupos humanos con el más amplio abanico de edades y
 experiencias trabajando por un objetivo en común.
 
-<span id="_3qahj1i8c1w3" class="anchor"><span id="_dje8yrrvew7s"
-class="anchor"></span></span>Impacto social
+##### Impacto social
 
 El impacto social fue reflejado por diferentes factores: en principio,
 la participación de la comunidad en su totalidad, incluyendo diferentes
@@ -3449,7 +3425,7 @@ dentro de su núcleo familiar con el objetivo de insertarlos en un área
 del poblado y luego hacerse cargo de la mantención del mismo, fomentando
 la actividad colectiva y comunitaria en su totalidad.
 
-<span id="_e8d930zeu4l6" class="anchor"></span>El impacto ambiental
+##### El impacto ambiental
 
 A partir de nuestro proyecto se ha logrado el apoyo y acompañamiento de
 diferentes instituciones ambientalistas para el logro de los objetivos y
@@ -3457,7 +3433,7 @@ desafíos sustentables propuestos. Además, la escuela le presenta a la
 comunidad posibles soluciones a una problemática concreta, generando una
 reflexión colectiva para continuar con la búsqueda de respuestas.
 
-<span id="_dld5dcvfjax6" class="anchor"></span>El impacto económico
+##### El impacto económico
 
 El impacto económico está relacionado directamente con los elementos
 re-elaborados dentro del instituto, los cuales provienen de materiales
@@ -3468,9 +3444,7 @@ por lo tanto se puede afirmar que el proyecto es 100% rentable en este
 sentido, ya que a partir de un elemento sin valor, uso ni función, se
 genera uno nuevo y totalmente opuesto en esos aspectos.
 
-<span id="_fo3lb8bbxv81" class="anchor"></span>
-
-Trabajar en comunidad
+##### Trabajar en comunidad
 
 A partir de esta experiencia, personalmente, pude comprender, una vez
 más, la importancia que tiene el trabajo en conjunto y las implicancias
@@ -3497,8 +3471,9 @@ cualquier tipo de consulta o contacto al respecto.
 
 \cleardoublepage
 
-<span id="_Toc486429368" class="anchor"></span>**VOLVER A LA PACHA**
 
+VOLVER A LA PACHA
+=================
 
 **Claudia Lamas**
 
@@ -3506,10 +3481,6 @@ Ing. en computación, Especialista en vinculación y gestión tecnológica.
 Desde el 2013 organiza Green Drinks en San Salvador de Jujuy. Comenzó su
 "vuelta a La Pachamama" luego de investigar cómo tesis de su
 especialidad el problema de los RAEEs.
-
-
-
-Volver a la pacha
 
 Conocí la existencia de los Green Drinks accidentalmente, por medio de
 una amiga que en un autobús de Córdoba a Jujuy, le tocó estar sentada al
@@ -3575,14 +3546,10 @@ Los hermanos Mayorga son los fundadores de Mikuna. Ignacio como
 Ingeniero Agrónomo promueve los sistemas productivos ecológicos, y
 Agustín Gerencia la empresa.
 
-Mikuna
-
- 
-
 *Mikuna, una pequeña gran empresa trabajando para un cambio de paradigma
 en el sistema agroalimentario.*
 
- **Orígenes**
+##### Orígenes
 
 Mi nombre es Ignacio Mayorga y desde muy pequeño tuve un profundo
 interés y amor por la naturaleza. Antes de ingresar a la carrera de
@@ -3603,7 +3570,7 @@ problemas resultantes de los paradigmas imperantes. No respondía al
 perfil estereotipado del ingeniero agrónomo, al punto que mi abuela
 materna solía preguntarle a mi mamá qué era lo que yo hacía.
 
-**China y el llamado a recorrer otro camino**
+##### China y el llamado a recorrer otro camino
 
 En 2010 estaba haciendo un doctorado en economía rural en China. Esa
 experiencia en Nanjing fue un momento bisagra en mi vida en la que
@@ -3625,7 +3592,7 @@ comercialización, les de visibilidad y promueva el turismo rural en
 ellos. Allí, un par de colegas me animaron a armar el proyecto para
 conseguir financiamiento.
 
-**Mi hermano Agustín**
+##### Mi hermano Agustín
 
 Mientras tanto, durante todos esos años, mi hermano Agustín se venía
 dedicando al mundo de los eventos corporativos. Se había iniciado en ese
@@ -3638,7 +3605,7 @@ de antes: algo adentro de él le reclamaba un cambio. Sin embargo, pasaba
 el momento o período de angustia aguda y como le gustaba su trabajo, él
 seguía con esa forma de vida.
 
-**Primeros pasos**
+##### Primeros pasos
 
 Estaba viviendo en el campo, tenía un sueldo en blanco, mi primer hijo
 ya había nacido y la idea de esta red tuvo la oportunidad en 2014 de
@@ -3663,7 +3630,7 @@ dependencia junto con este proyecto de la red. Le propuse y ofrecí esto
 al entonces jefe mío, era un ganar-ganar desde mi perspectiva, pero la
 respuesta fue no positiva.
 
-**Casualidades y la llegada de Agustín**
+##### Casualidades y la llegada de Agustín
 
 La situación convergió casualmente con tres sucesos muy sincrónicos: 1)
 el 14 de marzo de 2015 cerca del mediodía me avisan que el proyecto de
@@ -3687,7 +3654,7 @@ venirse a vivir e iniciar el proyecto de MIKUNA, que significa alimento
 en voz quechua… ¡y la novia se enteraría de esto a su regreso a Buenos
 Aires cuando fue a preparar su venida definitiva!
 
-**Situación difícil, viaje y salto al vacío**
+##### Situación difícil, viaje y salto al vacío
 
 Para abril me encontraba en una situación muy difícil: 1) mi jefe no
 había apoyado la idea de integrar el proyecto de la red desde su empresa
@@ -3724,7 +3691,7 @@ significó que al poco tiempo yo le presentara mi renuncia… tiempo
 impregnado de angustias, incertidumbres y la sensación de estar saltando
 al vacío.
 
-**El baile emprendedor**
+##### El baile emprendedor
 
 El 27 de mayo de 2015, luego de recibir alguna ayuda y con mucho
 esfuerzo, inaugurábamos el primer local de Mikuna en el barrio Los
@@ -3754,7 +3721,7 @@ energía pusimos en esto, cuyo costo se sentía día a día y cuyos
 beneficios sabíamos que iban a llegar en algún momento, pero sin saber
 cuándo.
 
-**Más avances**
+##### Más avances
 
 En ese tiempo fuimos becados por el PROCAL para capacitarnos, avanzamos
 con los registros de nuestra marca, aprendimos sobre la demanda en el
@@ -3778,7 +3745,7 @@ tiempos fueron que la novia de mi hermano decidió también venir a Jujuy,
 consiguiendo a los pocos meses una muy buena oportunidad laboral y con
 mi mujer iniciamos la *dulce espera* de una niña.
 
-**Los más recientes pequeños grandes logros**
+##### Los más recientes pequeños grandes logros
 
 Tenemos total certeza que producir alimentos genuinamente saludables con
 triple impacto simultáneo social, ambiental y económico es el presente y
@@ -3807,16 +3774,13 @@ lector por interesarse en ellas.
 DE TRADUCTORA DE ALEMÁN A HOTELERA RESPONSABLE
 ==============================================
 
-
-**Lucy Vilte **
+**Lucy Vilte**
 
 Gerente de Hostal Posta de Purmamarca. Traductora pública de alemán.
 Multi premiada por Federaciones y Cámaras por su labor en RSE y
 Hotelería Sustentable.
 
 *"Ser feliz con lo que te toca"*
-
-De traductora de alemán a hotelera responsable
 
 Soy jujeña, hija de padre purmamarqueño y madre salteña, ambos muy
 arraigados a su tierra y enamorados de ella. Así crecí, en el seno de
@@ -3834,7 +3798,7 @@ es que lo hemos ido olvidando, lo cual nos está conduciendo al colapso
 de valores y principios; a una crisis como sociedad y
 ecosistema…Entonces debemos ¡ACTUAR!
 
-**Los comienzos**
+##### Los comienzos
 
 Pasé la infancia en mi provincia natal y en la adolescencia tuve la
 oportunidad de realizar un intercambio estudiantil con una beca, durante
@@ -3876,7 +3840,7 @@ bajo el paradigma de la RSE implicó mucho esfuerzo y compromiso de todos
 los integrantes del equipo, aunque con el claro objetivo de transformar
 las aspiraciones en resultados concretos.
 
- **Turismo Sostenible en una Pyme**
+##### Turismo Sostenible en una Pyme
 
 En el ámbito mundial, el turismo es uno de los sectores económicos más
 importantes y con mayores tasas de crecimiento de los últimos años. Por
@@ -3908,7 +3872,7 @@ instituciones y personas que nos ayuden a alcanzar objetivos comunes.
 Porque la pyme no necesita grandes reportes, sino más bien empezar y
 sostener pequeñas acciones cada vez más ambiciosas.
 
-**Dónde estamos**
+##### Dónde estamos
 
 El Hostal Posta de Purmamarca es un Ecohotel certificado que promueve
 desde hace ya 13 años los principios del Turismo sostenible. Está
@@ -3925,7 +3889,7 @@ sumamente frágil, lo que nos compromete a actuar de manera responsable
 para poder vivir, trabajar y legar este paraíso, así como lo conocemos,
 a los que vendrán después.
 
-**Gestión Sustentable **
+##### Gestión Sustentable
 
 Hoy en día es cada vez más urgente e indispensable asumir un compromiso
 de cambio y ayuda frente a los problemas de nuestra sociedad y la
@@ -3948,7 +3912,7 @@ para la elaboración de tesis de alumnos universitarios y de posgrado. En
 2014 fue el primer Ecohotel en obtener la Certificación oficial Hoteles
 Más Verdes en la provincia de Jujuy, y el tercero en Argentina.
 
-**Lo que hacemos**
+##### Lo que hacemos
 
 Somos un equipo que día a día trabaja para que tanto huéspedes como
 lugareños disfruten de la naturaleza y se sientan a gusto en este
@@ -3984,7 +3948,7 @@ otros, o ir más allá y contribuir a la causa global: el cuidado del
 planeta. Debemos actuar localmente pero pensando globalmente y creer que
 cada uno, desde nuestro lugar, puede cambiar el mundo.
 
-**Con la mirada hacia el futuro**
+##### Con la mirada hacia el futuro
 
 La consolidación de la sustentabilidad económica, social y ambiental en
 la gestión de los negocios implica, sin dudas, un proceso de permanente
@@ -4015,6 +3979,7 @@ apasiona. Y le ponemos todo el corazón en la tarea.
 
 \cleardoublepage
 
+
 **Agradecimientos:**
 
 A toda la Comunidad Green Drinks y a los lectores que disfrutaron de
@@ -4025,5 +3990,3 @@ Pueden escribirnos y visitarnos en
 [*www.greendrinkscba.org*](http://www.greendrinkscba.org)
 
 Junio 2017
-
-
