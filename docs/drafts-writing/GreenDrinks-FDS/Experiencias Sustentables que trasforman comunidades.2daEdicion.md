@@ -1208,15 +1208,16 @@ que es mejor que no haya nada que clasificar, adecuar o mover.
 El resultado no solo ha traído impactos ambientales de alto nivel,
 además redundó en beneficios económicos directos, tales como la
 desaparición del gasto de traslado de residuos en contenedores de basura
-y el costo de su disposición. La disminución de los desperdicios en el
+y el costo de su disposición, la disminución de los desperdicios en el
 proceso, el menor tiempo de limpieza y traslado, lugares libres en
 planta, una mejor y más limpia imagen general, así como también la
 disminución de materiales e insumos para embalar estos residuos.
+
 Por sobre todos estos beneficios, lo más gratificante vino por el
 impacto ambiental, que fue lo que nos motivó a comenzar a trabajar. Y el
 regalo no esperado fue el impacto social que generó fundamentalmente en
 las organizaciones beneficiadas con nuestro programa de clasificación y
-reaprovechamiento.
+re-aprovechamiento.
 
 En este aspecto, fuimos partícipes de la creación de actividades de
 aprovechamiento de residuos, de la expansión de cooperativas y otras
@@ -2057,7 +2058,7 @@ ECOSISTEMAS Y SOCIEDAD: LA DIVERSIDAD DE LAS “VERDADES”
 **Marcos S. Karlin**
 
 Ingeniero Agrónomo y Doctor en Ciencias Agropecuarias. Docente en la
-Facultad de Ciencias Agropecuarias (UNC). Miembro co-fundador de la
+Facultad de Ciencias Agropecuarias, UNC [Universidad Nacional de Córdoba]. Miembro co-fundador de la
 Asociación Civil El Cuenco. Actualmente trabaja en proyectos de manejo y
 conservación de cuencas en la Reserva Natural de la Defensa La Calera y
 en Chancaní.
@@ -2534,7 +2535,7 @@ comunicación ambiental empresaria y RSE.
 
 ##### Proyecto Consumo Responsable de Bolsas Plásticas Córdoba
 
-*Apodado por algunos como “el chico de las bolsas”, nunca pensé que un
+> *Apodado por algunos como “el chico de las bolsas”, nunca pensé que un
 trabajo práctico pensado para una materia o como temática pensada para
 mi tesis de tecnicatura pudiese terminar como una ordenanza modelo que
 inspiró a ciudades de la provincia de Córdoba, otras provincias y/o
@@ -2555,12 +2556,12 @@ informal que sirviera como modelo para otros basurales, problemática que
 contempla muchas variables y elementos específicos.
 
 Dentro del tema elegido, quedó una arista no menor que involucraba uno
-de los elementos que desde la década el 70, está presente entre nosotros
+de los elementos que desde la década del '70, está presente entre nosotros
 asociado directamente a todas las cadenas de supermercados que luego
 fueron seguidas por los comercios en general. Un elemento que hace casi
 10 años a la fecha transitaban la misma exigencia por parte de los
-clientes ante locales comerciales que hoy tiene el servicio de WIFI,
-estamos hablando de los MILLONES DE BOLSAS PLÁSTICAS (llamadas CAMISETA)
+clientes ante locales comerciales que hoy tiene el servicio de wi-fi,
+estamos hablando de los millones de bolsas plásticas (llamadas Camiseta)
 que los cordobeses “utilizábamos” como contención de residuos. Si bien
 la arista no fue tratada en el trabajo práctico puntual, la inquietud
 gestó en mí, interrogantes que dieron lugar posteriormente a un
@@ -2568,15 +2569,14 @@ proyecto.
 
 ##### **Involucrando a las bolsas**
 
-Al año siguiente (2011), se decide proseguir con el análisis de la
+Al año siguiente, en 2011, se decide proseguir con el análisis de la
 inquietud definiendo que dicha temática debería ser abordada en el
-trabajo final (tesis) para obtener mi título o como en un proyecto
+trabajo final: la tesis para obtener mi título, o como en un proyecto
 personal. Ambas ideas tenían el mismo objeto, involucrar a las bolsas
 camiseta, aquel elemento abundante en el ciclo de residuos que escapaba
 a una mirada social crítica, y su consumo intentando comprender ¿cuál
-era la problemática real que presentaban? aparte de los impactos
+era la problemática real que presentaban? Todo esto, aparte de los impactos
 visuales y ambientales.
-
 Lo que sigue a continuación son las etapas que dicho proyecto siguió,
 desde el 2011 hasta el 2016, donde implementado, redujo el consumo de
 bolsas camiseta entregadas por cadenas de supermercados en más de un
@@ -2587,25 +2587,23 @@ bolsas camiseta entregadas por cadenas de supermercados en más de un
 Al inicio lo importante fue descubrir, luego de mucho analizar, que era
 un error pensar que la fabricación o entrega de bolsas camiseta eran
 todo el problema*.*
-
-“Cuando la formulación de la problemática se vuelve confusa, se debe
-procurar comenzar a involucrar a los actores de la temática…” decía una
+*“Cuando la formulación de la problemática se vuelve confusa, se debe
+procurar comenzar a involucrar a los actores de la temática…”* decía una
 docente de la carrera que cursé, frase que comenzó a resonar en un punto
-donde la hipótesis era “el problema con las bolsas camiseta es generado
-por los supermercados, ya que no controlan la cantidad entregada”...
-teoría simple, pero no por ello acertada.
-
+donde la hipótesis era *“El problema con las bolsas camiseta es generado
+por los supermercados, ya que no controlan la cantidad entregada”*.
+Teoría simple, pero no por ello acertada.
 Es más, eso tampoco definía un problema, sino que expresaba una opinión
 y dejaba más dudas que certezas ¿Las bolsas contaminan? ¿Es mucho el
 plástico que se usa para fabricarlas? ¿Cuánto demoran en degradarse?
-¿Otras ciudades usan más o menos que nosotros? ¿La normativa que exige
-que sean OXIDEGRADABLES, como se controla?
+¿Otras ciudades usan más o menos que nosotros? La normativa que exige
+que sean *oxidegradables*: ¿cómo se controla?
 
 Todos estos interrogantes que se desarrollaron a lo largo de casi 10
 meses, entre investigaciones y relevamientos sin resultados, llevaron a
-un acto puntual, se decidió contactar en forma directa a quienes
+un acto puntual. Se decidió contactar en forma directa a quienes
 parecían ser los responsables del tema, los supermercados representados
-en la Cámara de Supermercados y Autoservicios de Córdoba – CASAC.
+en la Cámara de Supermercados y Autoservicios de Córdoba [CASAC].
 
 En un primer momento se pensó que el total de las respuestas, sumado a
 una obvia evasión de darlas, iban a estar tras esa puerta vidriada de la
@@ -2613,46 +2611,47 @@ oficina de dicha cámara empresaria en pleno centro cordobés, pero no fue
 así. Por lo contrario, muchas de las preguntas que hice, muy amablemente
 Luciana y Valeria –encargadas de CASAC quienes serían a futuro,
 compañeras de trabajo– pudieron responder y también replantear otras, lo
-que generó una nueva percepción del problema y al a vez una reacción
-casi adrenalínica, y que en este caso iba a ser el puntapié de una
-oportunidad única… junté coraje y con voz temblorosa pero segura, les
+que generó una nueva percepción del problema y a la vez una reacción
+casi de adrenalina, y que en este caso iba a ser el puntapié de una
+oportunidad única. Junté coraje y con voz temblorosa pero segura, les
 propuse tomar el problema como trabajo final, a los 15 minutos de la
 reunión que nos convocó por primera vez.
-
 Sorprendidas por la propuesta pero elogiando de alguna forma la
 proactividad, quedaron en comunicarme la decisión que la presidencia de
-CASAC diera, y al cabo de unas semanas de aquella propuesta arrojada
-dieron el visto bueno para hacerlo, y varios pasos después, (aclarando
+CASAC diera. Y al cabo de unas semanas de aquella propuesta arrojada,
+dieron el visto bueno para hacerlo. Y varios pasos después, (aclarando
 que la temática no podía ser tomada como tesis, pero sí como un proyecto
 asociado a una pasantía o práctica profesional), inició el proceso de
-acompañamiento mutuo que derivó en mi primer experiencia laboral formal
+acompañamiento mutuo que derivó en mi primera experiencia laboral formal
 por más de 4 años. El haber encarado a una organización similar, y el
-haber propuesto iniciar un proyecto sumamente ambicioso, creo que fue EL
+haber propuesto iniciar un proyecto sumamente ambicioso, creo que fue *el*
 paso que dio nacimiento al proyecto.
 
 ##### **Objetivo concreto**
 
-Febrero del 2012, inició la pasantía donde se plantearon objetivos
-concretos “Queremos disminuir la entrega de bolsas que la gente nos
+Febrero del 2012, inició la pasantía donde se plantearon objetivos concretos:
+
+> *“Queremos disminuir la entrega de bolsas que la gente nos
 exige. Sabemos que contaminan y que somos de alguna forma los
 protagonistas del cuento y queremos que nos ayudes a proponer un
-proyecto para un consumo responsable” decían las autoridades de CASAC en
-aquel primer día de trabajo. Los nervios, la ansiedad y la sensación de
+proyecto para un consumo responsable.”*
+
+Esto decían las autoridades de CASAC en aquel primer día de trabajo.
+Los nervios, la ansiedad y la sensación de
 estar en un desafío que podía superarme, estuvieron conmigo las primeras
 semanas hasta que pude vislumbrar el primer obstáculo que formaba parte
 principal de la cuestión y que hizo olvidarme por completo las
 preocupaciones para poder ocuparme de lleno en resolverlo, la normativa
 existente era imposible de aplicar.
-
 Si la ordenanza no podría reglamentarse ni enmarcar los controles, era
 peor eso a que no existiera, lo que mostró que era esencial, antes que
-cualquier acción, proponer un marco regulatorio sobre el consumo de
+cualquier acción, proponer un marco de regulación sobre el consumo de
 bolsas camiseta, tarea que emprendí con dudas pero sin temor.
 
 Comencé a trabajar en un proyecto de ordenanza que fue inspirado en el
-espíritu de distintas normativas (de nivel provincial y nacional) y con
-la ayuda del Ab. Victor Layus (un amigo cercano) quien complementó mi
-escasa experiencia en la redacción de documentos legales, se llegó a un
+espíritu de distintas normativas, de nivel provincial y nacional. La ayuda
+del Abogado Víctor Layus, un amigo cercano, complementó mi
+escasa experiencia en la redacción de documentos legales. Se llegó a un
 resultado sencillo que apuntaba principalmente a que el uso de bolsa
 debería ser restringido por normativa, pensando así que podría
 resolverlo todo. Una percepción totalmente errónea ubicada en el
@@ -2689,38 +2688,37 @@ del sentido total de pertenencia que uno genera para con el proyecto.
 –dependiendo la cadena- en conjunto con una encuesta que propuse y
 realicé a un universo de casi 1000 personas para identificar la
 percepción social del consumo de bolsas camiseta”.
-
 Los resultados del relevamiento y de la encuesta fueron tanto alarmantes
 como sorprendentes respectivamente:
 
--Las cadenas asociadas a CASAC, dispensaban 20.000.000 de bolsas
+- Las cadenas asociadas a CASAC, dispensaban 20.000.000 de bolsas
 camiseta por mes.
 
--Las cadenas de supermercados representan el 45% del consumo total de
+- Las cadenas de supermercados representan el 45% del consumo total de
 bolsas camiseta, el resto son comercios en general. Es decir, en Córdoba
 se dispensaba hasta 45.000.000 de bolsas al mes.
 
--El 95% de esas bolsas, luego de las compras, se utilizaban
+- El 95% de esas bolsas, luego de las compras, se utilizaban
 automáticamente para contener residuos. Es decir, no se reutilizaban.
 
--Los modelos de bolsas variaban sus tamaños según las cadenas, generando
+- Los modelos de bolsas variaban sus tamaños según las cadenas, generando
 innumerables diferencias de practicidad, contención y percepción de
 eficiencia.
 
--Las personas utilizaban las bolsas de forma ineficiente. Poco contenido
+- Las personas utilizaban las bolsas de forma ineficiente. Poco contenido
 y muchas bolsas.
 
--Las personas no registraban cifras de su consumo diario o mensual de
+- Las personas no registraban cifras de su consumo diario o mensual de
 bolsas en el hogar. Mostrando un claro desinterés en hacerlo.
 
--Las personas no reutilizaban la bolsa camiseta para comprar nuevamente,
-incluso la bolsa en sí, muchas veces luego de las compras era residuo.
+- Las personas no reutilizaban la bolsa camiseta para comprar nuevamente.
+Incluso la bolsa en sí, muchas veces luego de las compras era residuo.
 
--Las personas consumían muchas bolsas para luego generar stock en sus
+- Las personas consumían muchas bolsas para luego generar stock en sus
 casas, para los residuos y ahorrarse comprar bolsas de basura llamadas
 bolsas de consorcio.
 
--Las personas no utilizaban bolsas reutilizables (de tela) para hacer
+- Las personas no utilizaban bolsas reutilizables (de tela) para hacer
 sus compras, por desinterés, precio e incluso “por no combinar con su
 ropa, el diseño de las mismas”.
 
@@ -2743,16 +2741,16 @@ trabajada junto con la municipalidad de Córdoba y sus autoridades de
 ambiente durante todo ese año.
 
 El proyecto evolucionado presentó la mejora del diseño de bolsas
-enmarcado en una NORMA IRAM (Nº 13610) que implementa un modelo
+enmarcado en una NORMA IRAM, Nº 13610, que implementa un modelo
 estandarizado, a utilizar en todas las cadenas, de colores distintos
 para complementar el sistema de recolección diferenciada de residuos y
 la necesidad de una estrategia de comunicación y difusión para disminuir
 el consumo de bolsas y educar a los vecinos en hábitos más sustentables.
 
 Propuso la implementación de un plan de reducción de consumo de bolsas
-en 4 etapas (aviso – sustitución de modelo de bolsa a estandarizada en
-supermercados – sustitución en locales comerciales en general –
-reducción total), sumó plan de educación, difusión y promoción de la
+en 4 etapas: aviso, sustitución de modelo de bolsa a estandarizada en
+supermercados, sustitución en locales comerciales en general,
+reducción total). Se sumó un plan de educación, difusión y promoción de la
 ordenanza en conjunto con el seguimiento de consumos.
 
 ##### **Hacia una propuesta formal**
@@ -2766,8 +2764,8 @@ la propuesta que presenté años atrás, en un proyecto de ordenanza que
 abordaba una problemática que comenzaba a tomar protagonismo en los
 medios y en la percepción social.
 
-Dicho espacio creado para la discusión de proyectos similares se llamó
-“Espacio para la Construcción de Ciudadanía Ambiental” (ECCA) y fue aquí
+El espacio creado para la discusión de proyectos similares se llamó
+“Espacio para la Construcción de Ciudadanía Ambiental” (ECCA). Fue aquí
 donde la humilde propuesta, respaldada por casi 3 años de relevamientos
 e investigación, fue sometida a análisis y discusión por parte de
 representantes del Instituto Nacional de Tecnología Industrial INTI,
@@ -2777,13 +2775,12 @@ provinciales, organizaciones del ámbito civil y por supuesto, el autor
 del proyecto representando a CASAC, entre otros.
 
 Durante los dos años que duró el proceso de discusión y consenso (2014 a
-2016) jamás dudé del objetivo y espíritu original del proyecto, y aunque
+2016) jamás dudé del objetivo y espíritu original del proyecto. Y aunque
 muchas veces comentar a modo técnico y anecdótico toda la información
 relevada fue causa de observaciones, objeciones y hasta cierta
 descalificación de algunos participantes con intereses puntuales, nunca
 se vieron afectadas mis ganas de seguir trabajando.
-
-Fueron dos años arduos a nivel profesional y proyectual, donde TODO lo
+Fueron dos años arduos a nivel profesional y de proyecto, donde *todo* lo
 que aprendí, aportó de una forma inimaginable a mi rol como futuro
 profesional en ambiente, a mi rol de consultor, representante de
 empresas, vecino y/o posible promotor de hábitos sustentables
@@ -2823,18 +2820,15 @@ sociedad y planeta.
 ¡RESERVA SAN MARTÍN: DONDE CÓRDOBA RESPIRA!
 ===========================================
 
-
 **Rita Stanislavs**
 
 Vicepresidenta de la Asociación Amigos de la Reserva Natural San Martín.
 
-Ing. Química. Especialista en Ingeniería Ambiental.
+Ingeniera Química. Especialista en Ingeniería Ambiental.
 
-Docente de la Facultad de Ciencias Exactas Físicas y Naturales (U.N.C) y
-de la Universidad Tecnológica Nacional.
+Docente de la Facultad de Ciencias Exactas, Físicas y Naturales: UNC [Universidad Nacional de Córdoba] y UTN [Universidad Tecnológica Nacional].
 
 *“Conservar para educar, educar para conservar”*
-
 
 Asociación Civil Amigos de la Reserva Natural San Martín
 
@@ -2906,9 +2900,9 @@ necesitaba una mayor protección, por eso junto a otras ONG nos pusimos a
 redactar un proyecto de ordenanza que jerarquizara el parque llevándolo
 a categoría de Reserva, adquiriendo así un mayor nivel de protección.
 Con entusiasmo se suplió la falta de experiencia. Y finalmente Graciela
-Villata concejal por el Frente Cívico y vecina del barrio, tomó el
+Villata, concejal por el Frente Cívico y vecina del barrio, tomó el
 proyecto y lo presentó. Como la gran mayoría de los concejales no
-conocían el Parque, les alquilamos una Trafic y los llevamos a
+conocían el Parque, les alquilamos una van y los llevamos a
 recorrerlo.
 
 También llevamos especialistas al Concejo para que informen la
@@ -2930,13 +2924,14 @@ Finalmente tras mucho "peregrinar" detrás de los concejales, el último
 día de sesión el 30 de Noviembre del 2009 a las 21 hs se votó por
 unanimidad la creación de la Reserva Natural Urbana San Martín. El
 objetivo era y es "Conservar para Educar y Educar para Conservar":
-destacar los servicios ambientales que brindan los espacios verdes
-nativos (ser reservorio genético que favorece la persistencia de la
+
+> destacar los servicios ambientales que brindan los espacios verdes
+nativos, ser reservorio genético que favorece la persistencia de la
 biodiversidad animal y vegetal nativa, reducir del ruido y la
-escorrentía de agua superficial y conservarla humedad, regular del
-microclima, brindar beneficios de tipo psicológico, social y cultural,
+escorrentía de agua superficial y conservar la humedad, regular el
+micro-clima, brindar beneficios de tipo psicológico, social y cultural,
 mejorar de la calidad del aire, brindar un hábitat para polinizadores,
-etc.).
+etc.
 
 ##### Y nos premiaron
 
@@ -3046,17 +3041,15 @@ tránsito sin dañar la Reserva y conectaría la zona Oeste y la Noroeste.
 Se presentó el proyecto ante autoridades competentes sin tener respuesta
 hasta el momento.
 
-##### Y participamos en ámbitos académicos y de participación ciudadana.
+##### Y participamos en ámbitos académicos y de participación ciudadana
 
 Como la reserva es un ámbito educativo por excelencia firmamos con la
 Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad
 Nacional de Córdoba un convenio marco para realizar diferentes tareas,
-en pos de la educación ambiental. Concretamente con el CERNAR se
-organizó la “Diplomatura Ambiente, Territorio y Conservación”, donde con
+en pos de la educación ambiental. Concretamente con el CERNAR [Centro de Ecología y Recursos Naturales Renovables] se organizó la “Diplomatura Ambiente, Territorio y Conservación”, donde con
 docentes de la Universidad y la organización administrativa de la
 Asociación ya van dos promociones de alumnos formados en esta
 problemática ambiental.
-
 También desde la Asociación dictamos cursos para docentes de la
 Universidad Libre del Ambiente, de distintos niveles, sobre las Reservas
 naturales como espacios educativos.
@@ -3069,8 +3062,7 @@ el cual se pretende crear una continuidad entre distintas áreas
 protegidas desde Ascochinga hasta la ciudad de Córdoba.
 
 En el año 2016 para el "2° Encuentro de Reservas y Áreas Protegidas"
-tuvimos la satisfacción de contar con el apoyo del CONICET a través del
-Instituto de Ecología Animal, lo cual significó contar con fondos para
+tuvimos la satisfacción de contar con el apoyo del CONICET [Consejo Nacional de Investigaciones Científicas y Técnicas] a través del Instituto de Ecología Animal, lo cual significó contar con fondos para
 el evento pero por sobre todo el reconocimiento de que organizamos
 seriamente los eventos y por eso el aval de instituciones de peso
 científico.
@@ -3080,20 +3072,16 @@ Chicas", que se realiza todos los años a fines de noviembre. Y
 actualmente estamos participando activamente en todas las marchas en
 defensa del bosque nativo.
 
-##### Y pudimos, se puede y podremos*
+##### Y pudimos, se puede y podremos
 
 Desde 2009 el Parque San Martín es Reserva Natural Urbana. Los incendios
 la dañaron pero ya el bosque está renaciendo. Renovales de más de dos
 metros de altura crecen donde solo había cenizas. Nuevas generaciones
 con más conciencia ambiental seguirán defendiendo este espacio, para que
 nuestro bosque siga creciendo y protegiendo plantas, animales y personas
-que amen la naturaleza.
-
-... En la Reserva San Martín, donde Córdoba respira...
+que amen la naturaleza: en la Reserva San Martín, donde Córdoba respira.
 
 \cleardoublepage
-
-==============================================================================================
 
 
 Chacra de Luna: inteligencia natural
@@ -3103,7 +3091,7 @@ Chacra de Luna: inteligencia natural
 
 Gerente General de CARPAL y Fundador de Chacra de Luna.
 
-“*Si todo te da igual, estás haciendo mal las cuentas.” A. Einstein*
+“*Si todo te da igual, estás haciendo mal las cuentas.”* A. Einstein
 
 La historia de Chacra de Luna, ocho hectáreas en las que producimos de
 forma responsable y que dejamos abierta al público, para que todos
@@ -3113,7 +3101,7 @@ puedan encontrarse y descubrir la inteligencia natural.
 lugares, aromas, sabores, canciones, saberes? ¿Cómo podemos contribuir
 para que el paso de los días nos permita mejorar nuestra existencia y la
 de los que vendrán? ¿Cómo hacemos para que los momentos felices que
-pasaron podamos postergarlos en el tiempo, como hacer para que el día a
+pasaron podamos postergarlos en el tiempo? ¿Cómo hacer para que el día a
 día nos permita rescatar lo bueno de la vida y mejorar lo que pudo ser
 mejor?
 
@@ -3123,7 +3111,7 @@ donde el hombre no había impreso su sello, llegaban hombres y mujeres,
 niños y ancianos, sólo con sus baúles cargados de sabiduría y amor por
 el trabajo. Con muchas ganas de hacer florecer de la tierra fértil de
 Argentina, sus sueños y experiencias de su tierra italiana. Cómo a pesar
-de tantas dificultades supieron germinan una ciudad.
+de tantas dificultades supieron germinar una ciudad.
 
 ##### Luego de cinco generaciones
 
@@ -3143,7 +3131,6 @@ sabia. Conocer esa sabiduría nos hace valorarla y cuidarla, pero para
 poder conocerla debemos estar formados, y esto es lo que hemos perdido.
 Lo natural hoy nos parece extraño, los sabores auténticos nos llaman la
 atención, los aromas y texturas nos parecen extraños.
-
 Chacra de Luna, en Colonia Caroya, provincia de Córdoba, es un espacio
 que fue pensado para que podamos encontrar esa inteligencia natural.
 
@@ -3162,7 +3149,6 @@ de donde extraían lo suficiente para vivir. Supieron cultivar la tierra,
 plantar árboles frutales, viñedos, criar animales y hasta fabricar sus
 propias herramientas y medios de transporte, además de construir sus
 propias casas con los materiales que tenían disponibles a su alrededor.
-
 Con los frutos de sus crianzas y cosechas obtuvieron alimentos de
 guarda, para poder administrarlos a lo largo del año. Así se forjó
 nuestro pueblo, hoy ciudad.
@@ -3187,16 +3173,16 @@ Allí surgió la necesidad de ser actor de la película que todos los días
 se está rodando. Imaginé un espacio rural donde las nuevas generaciones
 pudieran interactuar con la historia y la naturaleza, volver a producir
 la tierra con respeto, aprovechando las nuevas tecnologías para hacer un
-uso más racional de los recursos. Convencido que somos sólo un instante
+uso más racional de los recursos. Estoy convencido de que somos sólo un instante
 de la historia y que es nuestro deber ser responsables con el futuro que
 dejamos.
 
 ##### Queríamos producir algo
 
 Así comencé, sin saber muy bien cuál era el fin, ni cuando lo lograría,
-pero convencido que quería producir frutales, hortalizas, vides; quería
-frutos sanos, ricos y sabrosos; quería producir alimentos de una forma
-responsable y eficiente; no quería producir dinero y utilizar la
+pero convencido de que quería producir frutales, hortalizas, vides. Quería
+frutos sanos, ricos y sabrosos. Quería producir alimentos de una forma
+responsable y eficiente. No quería producir dinero y utilizar la
 producción como medio, porque allí las ecuaciones cambian totalmente.
 
 Quería también criar animales en forma responsable y saludable, para
@@ -3227,13 +3213,11 @@ paz con nuestro entorno.
 En el predio se encuentra restaurada completamente la vieja fábrica
 familiar. En ella se puede ver cómo el ingenio y la cultura del trabajo
 supieron levantar una industria con lo que había alrededor. Es un
-espacio que se usa para eventos culturales, como muestras de pinturas,
+espacio que se usa para eventos culturales como muestras de pinturas,
 fotografías, conciertos, para reuniones sociales y empresariales.
-
 Contiguo a este espacio se encuentra el sótano, donde se conservan los
 vinos y embutidos que elaboramos y que los visitantes pueden comprar
 para degustar en el lugar o llevarlo a sus casas.
-
 Donde se hacía pintura y fileteado de sulkys y carretas, funciona la
 cantina, con productos de la Chacra.
 
@@ -3271,13 +3255,10 @@ La importancia de inculcar el reciclaje a los más chicos.
 
 Directora de la Escuela Pablo Pizzurno - San Antonio de Litín.
 
-<span id="_b05mbdgbx2f6" class="anchor"></span>**“Reciclar y no
-contaminar TODOS UNIDOS el planeta debemos cuidar”**
+*“Reciclar y no contaminar. Todos unidos el planeta debemos cuidar”*
 
-La escuela está inserta
-en San Antonio de Litín, un poblado de 1800 habitantes, ubicado en el
+La escuela está inserta en San Antonio de Litín, un poblado de 1800 habitantes, ubicado en el
 sudeste de la provincia de Córdoba.
-
 
 En el año 2016, la escuela participa en el Rally Continental de Escuelas
 con Futuro Sostenible, siendo la única en la Provincia de Córdoba
@@ -3294,8 +3275,8 @@ reforestar gran parte de la localidad y la zona.
 
 La contaminación por residuos sólidos es un tema que nos concierne a
 todos. En este caso nos referiremos al caso específico dentro de nuestra
-comunidad y comenzaremos a abordarlo desde nuestra institución, *aunque
-consideramos que esta cultura ambientalista debe comenzar en los hogares
+comunidad y comenzaremos a abordarlo desde nuestra institución, aunque
+*consideramos que esta cultura ambientalista debe comenzar en los hogares
 para luego ser fortalecida en las escuelas.*
 
 Los residuos sólidos corresponden al material de desecho resultante de
@@ -3340,9 +3321,9 @@ a la comunidad.
 
 La propuesta nace a partir de la enseñanza, a todos los alumnos por
 igual y desde todos los espacios curriculares posibles, acerca de la
-problemática existente con el objetivo de concientizarlos al respecto. A
+problemática existente con el objetivo de hacerlos más conscientes al respecto. A
 partir de allí comenzamos a trabajar en la identificación de diferentes
-materiales que ellos mismos podrán detectar y reciclar, aprendiendo como
+materiales que ellos mismos podrán detectar y reciclar, aprendiendo cómo
 es el tratamiento adecuado para los mismos. El trabajo de reciclado se
 lleva a cabo de forma íntegra dentro del establecimiento, conformando
 actividades especiales dentro de espacios escolares agradables y
@@ -3353,10 +3334,10 @@ ejecución.
 
 Para el desarrollo de la propuesta, la escuela propone reutilizar
 diferentes materiales, reciclándolos a través de un proyecto
-interdisciplinario denominado Aprendemos Jugando: Producto de la
-vinculación de diferentes campos curriculares como Ciencias e
-Investigación, Actividades Corporales y Ludomotrices y Expresión
-Artística y Cultural, entre otros espacios curriculares convencionales
+interdisciplinario denominado *Aprendemos Jugando*, producto de la
+vinculación de diferentes campos curriculares como: Ciencias e
+Investigación, Actividades Corporales y Ludomotrices, y Expresión
+Artística y Cultural; entre otros espacios curriculares convencionales
 como Lengua, Ciencias y Matemática.
 
 En nuestra escuela se desarrollan espacios en donde la creatividad, la
@@ -3367,19 +3348,18 @@ afectivo que desarrolla el respeto y el cuidado del entorno.
 ##### Materiales empleados
 
 Prácticamente todo lo que vemos a nuestro alrededor puede ser
-recicla-do, es por ello que creemos en el gran potencial que esta
+reciclado, es por ello que creemos en el gran potencial que esta
 actividad presenta, además de entender los diferentes niveles en los que
-se puede colaborar. Entre los materiales más utilizados por nosotros se
+se puede colaborar. Entre los materiales que más usamos se
 destacan: plástico, goma, papel, telas, madera, ladrillo, cartón, metal,
 cables, cajas, cajones, botellas, ropa, revistas, troncos.
 
-<span id="_lfjh5v8ovbq5" class="anchor"></span>La importancia de los
-juegos EN EL PROCESO EDUCATIVO
+##### La importancia de los juegos en el Proceso Educativo
 
 Una excelente forma de generar interés en el niño, en distintos ámbitos,
 es a través de juegos didácticos, los cuales nos garantizan
-entretenimiento preocupación y dedicación colectiva por un objetivo en
-común.
+entretenimiento, preocupación y dedicación colectiva por un objetivo en
+común:
 
 *“El juego no es sólo juego infantil. Jugar, para el niño y para el
 adulto... es una forma de utilizar la mente e, incluso mejor, una
@@ -3389,11 +3369,11 @@ lenguaje y fantasía.”* JP
 
 ##### Prolongar la vida de los recursos
 
-Los resultados fueron y son absolutamente positivos. Se ha logrado
+Los resultados fueron y son absolutamente positivos. Se logró
 comprender el proyecto como un proceso de transformación de elementos
-con el objetivo de re funcionalizarlos y reutilizarlos, entendiendo la
-importancia de estos en la vida cotidiana, como si se tratara de un
-reciclaje doméstico. Por otro lado, tanto los alumnos, como la comunidad
+con el objetivo de re-funcionalizarlos y re-utilizarlos, entendiendo la
+importancia de éstos en la vida cotidiana, como si se tratara de un
+reciclaje doméstico. Por otro lado, tanto los alumnos como la comunidad
 han aprendido la importancia de “prolongar la vida útil de los
 recursos”, siendo testigos de los beneficios que actividades simples y
 sencillas pueden presentar tanto para nosotros como para el medio
@@ -3404,25 +3384,25 @@ experiencias trabajando por un objetivo en común.
 
 ##### Impacto social
 
-El impacto social fue reflejado por diferentes factores: en principio,
+El impacto social del proyecto fue reflejado en diferentes ámbitos: en principio,
 la participación de la comunidad en su totalidad, incluyendo diferentes
 medios de comunicación audiovisual de la zona. Además, es importante
 destacar la importancia de los espacios áulicos relacionados con
 bibliotecas y sectores para lectura, los cuales tuvieron un éxito
 rotundo, contribuyendo a la concentración de alumnos y padres para la
 comunicación de diferentes mensajes. Por otro lado, el proyecto se
-complementó con la participación de nuestra institución Educativa en el
+complementó con la participación de nuestra institución educativa en el
 Rally Continental con Futuro Sostenible, dentro del cual se elaboró el
-proyecto “Árboles y Niños” que constó de promover una política de
+proyecto “Árboles y Niños” que consistió en promover una política de
 protección de árboles de la zona, a través de la reforestación de
 diferentes sectores del poblado y los alrededores, la cual fue posible
 gracias a la donación de diferentes cantidades y calidades de vegetación
 por parte de distintos entes y fundaciones como por ejemplo Fundación
 Natura, Green Drinks o la Facultad de Ciencias Agropecuarias. La
-mecánica del proyecto simplemente se trató de otorgarle a cada familia
+mecánica del proyecto simplemente trató de darle a cada familia
 un cierto número de árboles para incluirlos como “miembros verdes”
 dentro de su núcleo familiar con el objetivo de insertarlos en un área
-del poblado y luego hacerse cargo de la mantención del mismo, fomentando
+del poblado y después hacerse cargo del mantenimiento del mismo, fomentando
 la actividad colectiva y comunitaria en su totalidad.
 
 ##### El impacto ambiental
@@ -3439,21 +3419,20 @@ El impacto económico está relacionado directamente con los elementos
 re-elaborados dentro del instituto, los cuales provienen de materiales
 con ningún tipo de valor monetario, para luego pasar a ser elementos de
 bajo costo que, si bien pueden ser comercializados como tales, cumplen
-funciones muy claras y son muy útiles a la hora de otorgarles un uso,
-por lo tanto se puede afirmar que el proyecto es 100% rentable en este
+funciones muy claras y son muy útiles a la hora de otorgarles un uso.
+Por lo tanto se puede afirmar que el proyecto es 100% rentable en este
 sentido, ya que a partir de un elemento sin valor, uso ni función, se
 genera uno nuevo y totalmente opuesto en esos aspectos.
 
 ##### Trabajar en comunidad
 
 A partir de esta experiencia, personalmente, pude comprender, una vez
-más, la importancia que tiene el trabajo en conjunto y las implicancias
-logísticas y organizativas que esto implica porque, si bien estamos
+más, la importancia que tiene el trabajo en conjunto y la logística y
+gestión organizativa que esto implica. Porque, si bien estamos
 acostumbrados a realizar trabajos en equipo a lo largo de nuestras
 vidas, en esta oportunidad tuvimos que aprender a desarrollar un trabajo
 directamente como comunidad, en todos sus niveles.
-
-Además, siento que hemos logrado concientizar a los principales
+Además, siento que hemos logrado generar conciencia en los principales
 colaboradores y protagonistas de este proyecto, los alumnos, los cuales
 han demostrado un alto grado de responsabilidad con respecto al tema a
 la hora de realizar cualquier tipo de investigación o trabajo.
@@ -3462,7 +3441,6 @@ Hemos aprendido, también, a trabajar con diferentes herramientas y
 materiales que hasta ahora no conocíamos o no habíamos maniobrado, lo
 cual nos permitió desarrollar diferentes capacidades y habilidades
 aplicables en muchos otros ámbitos.
-
 Humildemente, creo que nuestro trabajo puede servir de ejemplo o ayuda
 para cualquier otra persona o institución interesada en este tipo de
 proyectos, por lo cual permanecemos atentos y abrimos nuestras puertas a
@@ -3477,47 +3455,43 @@ VOLVER A LA PACHA
 
 **Claudia Lamas**
 
-Ing. en computación, Especialista en vinculación y gestión tecnológica.
+Ingeniera en Computación, Especialista en vinculación y gestión tecnológica.
 Desde el 2013 organiza Green Drinks en San Salvador de Jujuy. Comenzó su
 "vuelta a La Pachamama" luego de investigar cómo tesis de su
-especialidad el problema de los RAEEs.
+especialidad el problema de los RAEEs [Residuos de Aparatos Eléctricos y Electrónicos].
 
 Conocí la existencia de los Green Drinks accidentalmente, por medio de
 una amiga que en un autobús de Córdoba a Jujuy, le tocó estar sentada al
 lado de Elga Velásquez, referente de Green Drinks Córdoba. Allí, Elga le
 sugirió hacer este evento en San Salvador de Jujuy.
-
 Personalmente estaba buscando alguna actividad de voluntariado y
 comenzando un cambio interno, personal, que me haga “volver al origen, a
 la Pacha”.
-
 En la próxima reunión con mi amiga, me comenta este encuentro casual y
-comienzo a investigar de qué trataba realmente esto de los “***Green
-Drinks***”.
+comienzo a investigar de qué trataba realmente esto de los “*Green
+Drinks*”.
 
-Me gustó la idea de encuentros libres, de los temas relacionados con la
+Me gustó la idea de encuentros libres, de temas relacionados con la
 sustentabilidad, de buscar referentes locales, ya que tenía, todo esto,
 mucho que ver con mi búsqueda personal.
-
-Así, en noviembre 2013, organicé el primer “***Green Drinks***” en San
+Así, en noviembre 2013, organicé el primer “*Green Drinks*” en San
 Salvador de Jujuy. A través de conocidos llegué a Lucy Vilte. Si bien la
-conocía por los diarios y por la tele, muy bien no tenía en claro que es
-lo que hacía, pero sabía que tenía que estar, todos mis conocidos
-coincidieron en que “Tiene que estar Lucy”. Y ¡Sí! no se equivocaron.
-
-Recuerdo perfectamente el título de su charla “**Trabajar en red para un
-objetivo común**”. Y fueron más de 40’ desde que comenzó su charla,
-llena de proyectos, ideas llevadas a cabo, un huracán de HACER, más que
-DECIR. Una charla llena de adrenalina. Eran tantas cosas realizadas por
+conocía por los diarios y por la tele, muy bien no tenía en claro qué es
+lo que hacía, pero sabía que tenía que estar. Todos mis conocidos
+coincidieron en que “Tiene que estar Lucy”. Y ¡Sí! No se equivocaron.
+Recuerdo perfectamente el título de su charla: “*Trabajar en red para un
+objetivo común*”. Y fueron más de cuarenta minutos desde que comenzó su charla,
+llena de proyectos, ideas llevadas a cabo, un huracán de hacer, más que
+decir. Una charla llena de adrenalina. Eran tantas cosas realizadas por
 ella, que uno se sentía una hormiga frente a tanta grandeza, tanta
-energía destinada a HACER, para que otros Hagan y entre todos, GENERAR
-un **bienestar común.** Una mujer con muchas cualidades, entre las que
+energía destinada a hacer, para que otros *hagan* y entre todos, generar
+un *bienestar común*. Una mujer con muchas cualidades, entre las que
 destaco su humildad y su gran humanidad.
 
-En este largo viaje de GD, encontré varios HACEDORES en mi provincia,
+En este largo viaje de Green Drinks, encontré varios hacedores en mi provincia,
 tantos desconocidos que trabajan y viven en pos del bienestar general.
 Así, cuando planteamos el tema de “Alimentación Sustentable” para un
-próximo encuentro, mis “contactos” me dijeron: “Nacho Mayorga”. Me
+próximo encuentro, mis contactos me dijeron: Nacho Mayorga. Me
 pasaron su teléfono, lo llamé y conocí a un tipo admirable, sencillo,
 capaz, solvente, un hacedor por naturaleza. Y fue maravilloso tenerlo en
 ese encuentro. Tanta pasión en su trabajo, en su profesión, fueron
@@ -3536,18 +3510,16 @@ todo lo que nos rodea.
 
 \cleardoublepage
 
-MIKUNA
-======
-
+MIKUNA | Hacia la producción de eco-alimentos
+=============================================
 
 **Ignacio y Agustín Mayorga**
 
-Los hermanos Mayorga son los fundadores de Mikuna. Ignacio como
-Ingeniero Agrónomo promueve los sistemas productivos ecológicos, y
-Agustín Gerencia la empresa.
+Los hermanos Mayorga son los fundadores de Mikuna. Ignacio, como
+Ingeniero Agrónomo, promueve los sistemas productivos ecológicos.
+Agustín gerencia la empresa.
 
-*Mikuna, una pequeña gran empresa trabajando para un cambio de paradigma
-en el sistema agroalimentario.*
+*Mikuna, una pequeña gran empresa trabajando para un cambio de paradigma en el sistema agro-alimentario.*
 
 ##### Orígenes
 
@@ -3588,7 +3560,7 @@ de 2013 en una reunión en Salta con referentes nacionales en la temática
 se da la oportunidad de contar la idea de armar una red de
 emprendimientos productivos de tipo orgánico. La propuesta era la de
 agregar valor a través de iniciar con un local comercial que coordine la
-comercialización, les de visibilidad y promueva el turismo rural en
+comercialización, les dé visibilidad y promueva el turismo rural en
 ellos. Allí, un par de colegas me animaron a armar el proyecto para
 conseguir financiamiento.
 
@@ -3610,12 +3582,12 @@ seguía con esa forma de vida.
 Estaba viviendo en el campo, tenía un sueldo en blanco, mi primer hijo
 ya había nacido y la idea de esta red tuvo la oportunidad en 2014 de
 participar en el concurso del Centro Jujeño de Apoyo a Emprendedores
-(CeJAE). Allí conocí, por ejemplo, la plantilla de negocios CANVAS, que
+(CeJAE). Allí conocí, por ejemplo, la plantilla de negocios Canvas, que
 en tantos años de academia no había visto nunca, como tantas otras
 cosas. Además, conocí a gente muy interesante, inquieta y que le
 aportaron mucho al proyecto. En simultáneo, gestionaba financiamiento
 vía un canal institucional en Salta que para los últimos meses del año
-objetó la propuesta. Esto motivó que impulsará junto a otras personas y
+objetó la propuesta. Esto motivó que impulsara, junto a otras personas y
 referentes, la creación de una vía similar en el seno de un ministerio
 en Jujuy.
 
@@ -3628,7 +3600,7 @@ conjuntamente a un colega-socio que se sumó al proyecto. Mi deseo era
 alinear acciones e integrar lo que estaba haciendo en relación de
 dependencia junto con este proyecto de la red. Le propuse y ofrecí esto
 al entonces jefe mío, era un ganar-ganar desde mi perspectiva, pero la
-respuesta fue no positiva.
+respuesta no fue positiva.
 
 ##### Casualidades y la llegada de Agustín
 
@@ -3650,8 +3622,8 @@ de la propuesta de la red. Esa noche hablamos un buen rato por teléfono
 y lo invité a que venga a Jujuy para que renueve los aires y vea lo que
 estaba impulsando, sobre todo con las buenas nuevas de ese día. Antes de
 fin de mes, no solamente ya estaba en Jujuy, sino que había decidido
-venirse a vivir e iniciar el proyecto de MIKUNA, que significa alimento
-en voz quechua… ¡y la novia se enteraría de esto a su regreso a Buenos
+venirse a vivir e iniciar el proyecto de Mikuna, que significa alimento
+en voz quechua. ¡Y la novia se enteraría de esto a su regreso a Buenos
 Aires cuando fue a preparar su venida definitiva!
 
 ##### Situación difícil, viaje y salto al vacío
@@ -3676,7 +3648,7 @@ una vez allá no quise recordárselo. Él vivía en Buenos Aires y yo sentía
 que con seguridad iba a cuestionarme por no hacer este tipo de cosas de
 la manera que él hubiera querido, es decir, con un enfoque de empresa
 individual y no como una red temática o sectorial. Por mi parte entendía
-que sobre cumplía con la empresa que me pagaba mi sueldo ya que le
+que cumplía por demás con la empresa que me pagaba mi sueldo ya que le
 conseguía participar en Buenos Aires en un stand muy bonito sin tener
 que pagarlo, además de todas las ventas concretadas como así otros
 beneficios.
@@ -3693,8 +3665,8 @@ al vacío.
 
 ##### El baile emprendedor
 
-El 27 de mayo de 2015, luego de recibir alguna ayuda y con mucho
-esfuerzo, inaugurábamos el primer local de Mikuna en el barrio Los
+El 27 de mayo de 2015, luego de recibir ayuda y con mucho esfuerzo,
+inaugurábamos el primer local de Mikuna en el barrio Los
 Perales, en la periferia de la ciudad de San Salvador de Jujuy. Éramos 3
 socios y teníamos tan sólo 3 consultorías como ingresos aparte de lo que
 iba a generar el local. El mismo ponía a la venta productos elaborados
@@ -3723,16 +3695,16 @@ cuándo.
 
 ##### Más avances
 
-En ese tiempo fuimos becados por el PROCAL para capacitarnos, avanzamos
-con los registros de nuestra marca, aprendimos sobre la demanda en el
-nuevo punto de venta, participamos en la Escuela Inclusiva de Negocios
+En ese tiempo fuimos becados por el PROCAL [Programa de Control de Alimentos]
+para capacitarnos, avanzamos con los registros de nuestra marca, aprendimos sobre la demanda en el
+nuevo punto de venta, participamos en la Instituto Inclusivo de Negocios
 MINKA y fuimos finalistas del concurso que organizaba, nos reunimos con
-mil u un actores privados y públicos, dimos una buena cantidad de notas
+mil y un actores privados y públicos, dimos una buena cantidad de notas
 en diversos medios locales y nacionales, fuimos invitados a participar
-de un grupo de trabajo de Naciones Unidas -¡Muy inesperadamente
-ingresando al mismo junto a YPF y el Banco Provincia de Buenos Aires!-,
-participamos en concursos como el Jóvenes Empresarios de CAME a la par
-de llevar adelante la difícil tarea de asistir técnica y comercialmente
+de un grupo de trabajo de Naciones Unidas. ¡Muy inesperadamente
+ingresando al mismo junto a YPF [Yacimientos Petrolíferos Fiscales] y el Banco Provincia de Buenos Aires!.
+Participamos en concursos como el Jóvenes Empresarios de CAME [Confederación Argentina de la Mediana Empresa]
+a la par de llevar adelante la difícil tarea de asistir técnica y comercialmente
 a pequeños productores, entre tantas cosas más que muchos emprendedores
 se podrán ya imaginar.
 
@@ -3747,13 +3719,13 @@ mi mujer iniciamos la *dulce espera* de una niña.
 
 ##### Los más recientes pequeños grandes logros
 
-Tenemos total certeza que producir alimentos genuinamente saludables con
+Tenemos certeza de que producir alimentos genuinamente saludables con
 triple impacto simultáneo social, ambiental y económico es el presente y
 es el futuro al que la humanidad debe retornar. En 2016 aprendimos que
 en nuestro nuevo punto de venta lo que se demandaba eran los alimentos
 listos para ser consumidos ahí mismo o en domicilio. Entonces, ante la
 situación de crecer o cerrar, decidimos crecer. Al local lo
-transformamos en un Bar temático franquiciable (MIKUNA BAR) para el
+transformamos en un Bar temático franquiciable (Mikuna Bar) para el
 encuentro con y de la sociedad. Hace unos días, el 28 de abril de 2017,
 no sabemos bien cómo lo logramos, pero lo re inauguramos. Las ventas son
 buenas y en todo momento recibimos las felicitaciones y el apoyo tanto
@@ -3766,7 +3738,7 @@ progresivamente las oportunidades para los productores que desde el
 medio rural, trabajan con la tierra, y no en su contra. Ojalá que a todo
 el esfuerzo que ponemos, se nos sume una buena dosis de suerte, y
 celebremos pronto también la concreción de dicha planta. Gracias, tanto
-a Green Drinks por la oportunidad de compartir estas líneas como al
+a Green Drinks por la oportunidad de compartir estas líneas, como al
 lector por interesarse en ellas.
 
 \cleardoublepage
@@ -3777,7 +3749,7 @@ DE TRADUCTORA DE ALEMÁN A HOTELERA RESPONSABLE
 **Lucy Vilte**
 
 Gerente de Hostal Posta de Purmamarca. Traductora pública de alemán.
-Multi premiada por Federaciones y Cámaras por su labor en RSE y
+Multi premiada por Federaciones y Cámaras por su labor en RSE [Responsabilidad Social Empresarial] y
 Hotelería Sustentable.
 
 *"Ser feliz con lo que te toca"*
@@ -3788,7 +3760,7 @@ esta familia y rodeada de un entorno hermoso. Y cuando uno se cría
 inmerso en la maravilla de la naturaleza y siendo plenamente consciente
 del valor de la Pachamama, el interés por cuidarla se afila, y se
 desarrolla aún más al viajar y conocer otras culturas, al asumir la
-responsabilidad como de ser ciudadano del mundo y tomar conciencia de
+responsabilidad de ser ciudadano del mundo y tomar conciencia de
 que somos parte de un todo.
 
 Creo además que los jujeños tenemos una idea acabada y profunda de lo
@@ -3796,7 +3768,7 @@ que significa la Madre Tierra, el espacio vital, la hermandad y el
 respeto que debe existir entre los seres vivos. Lo que más lamento hoy
 es que lo hemos ido olvidando, lo cual nos está conduciendo al colapso
 de valores y principios; a una crisis como sociedad y
-ecosistema…Entonces debemos ¡ACTUAR!
+ecosistema. Entonces debemos *¡Actuar!*
 
 ##### Los comienzos
 
@@ -3822,9 +3794,9 @@ también era parte de mi formación como persona. Básicamente empecé a ver
 cómo podía ser feliz con lo que me había tocado en suerte. Y me quedé.
 
 Tomé como premisa basar la gestión del negocio en políticas de
-Responsabilidad Social Empresaria (RSE). Por aquel entonces (2004) era
+Responsabilidad Social Empresaria [RSE]. Por aquel entonces en 2004, era
 algo bastante nuevo en Argentina y más aún en mi provincia, sobre todo
-para una Pyme. Pero a mí no me resultaba nada ajeno: con distintos
+para una PyME [Pequeña y Mediana Empresa]. Pero a mí no me resultaba nada ajeno: con distintos
 nombres (ética en los negocios, respeto hacia los vecinos, etc.) yo lo
 había absorbido de mis padres. Sumado a eso, todo lo aprendido en mi
 corta experiencia laboral y en mis viajes me pareció perfectamente
@@ -3832,7 +3804,7 @@ replicable y adaptable a cualquier lugar, ¿por qué no? Para ser
 responsable, no hace falta tener una gran empresa ni estar en las
 grandes ciudades. A veces, la menor escala es una aliada para
 aventurarse en iniciativas que obtengan un verdadero impacto local. Lo
-importante es querer hacerlo y EMPEZAR.
+importante es querer hacerlo y *empezar*.
 
 Lo que inició como un negocio familiar, se fue transformando en una
 empresa que no perdió el carisma y el calor de una familia. Situarnos
@@ -3840,7 +3812,7 @@ bajo el paradigma de la RSE implicó mucho esfuerzo y compromiso de todos
 los integrantes del equipo, aunque con el claro objetivo de transformar
 las aspiraciones en resultados concretos.
 
-##### Turismo Sostenible en una Pyme
+##### Turismo Sostenible en una PyME
 
 En el ámbito mundial, el turismo es uno de los sectores económicos más
 importantes y con mayores tasas de crecimiento de los últimos años. Por
@@ -3855,7 +3827,7 @@ naturaleza.
 
 Con los años comprobé que las políticas de RSE son una herramienta
 importantísima para alcanzar no solo la sostenibilidad de la empresa
-sino también del destino. Las pymes constituyen el terreno más fértil y
+sino también del destino. Las PyMEs constituyen el terreno más fértil y
 apto para aplicarlas, debido a que la proximidad al entorno natural y a
 la comunidad local brinda un inmenso potencial para trabajar en este
 sentido. Las perspectivas son aún mejores que en las grandes empresas.
@@ -3869,7 +3841,7 @@ pelear con la fuerza y el tamaño de Goliat, sino que vamos a actuar
 inteligentemente como David: haciendo las cosas paso a paso,
 estableciendo prioridades, creando alianzas con todo tipo de
 instituciones y personas que nos ayuden a alcanzar objetivos comunes.
-Porque la pyme no necesita grandes reportes, sino más bien empezar y
+Porque la PyME no necesita grandes reportes, sino más bien empezar y
 sostener pequeñas acciones cada vez más ambiciosas.
 
 ##### Dónde estamos
@@ -3898,7 +3870,6 @@ cabo acciones conjuntas con las personas, organizaciones e instituciones
 con las que se relaciona, promoviendo el desarrollo sostenible y una
 sociedad más justa e inclusiva; fomentando la conciencia ambiental y
 poniendo en valor la riqueza cultural y natural de la región.
-
 En los años que llevamos adelante esta gestión, no sólo cosechamos
 frutos en lo cotidiano, sino que también nos reconfortamos con la
 aprobación de otras organizaciones que ven en nuestro trabajo una gran
@@ -3909,7 +3880,7 @@ los clientes y reconocimiento en distintos ámbitos siendo galardonados
 por distintas Cámaras empresarias, instituciones públicas y privadas.
 También, en reiteradas oportunidades, el hostal ha sido caso de estudio
 para la elaboración de tesis de alumnos universitarios y de posgrado. En
-2014 fue el primer Ecohotel en obtener la Certificación oficial Hoteles
+2014 fue el primer Eco-Hotel en obtener la Certificación oficial Hoteles
 Más Verdes en la provincia de Jujuy, y el tercero en Argentina.
 
 ##### Lo que hacemos
@@ -3918,20 +3889,21 @@ Somos un equipo que día a día trabaja para que tanto huéspedes como
 lugareños disfruten de la naturaleza y se sientan a gusto en este
 pintoresco pueblo quebradeño, en una convivencia sana y equitativa entre
 todos.
-
 Internamente contamos con un programa de ahorro y uso eficiente de
 recursos que apuesta sobre todo a la concientización, la toma de
 decisiones inteligentes y la adquisición de productos y servicios que
 reduzcan el consumo: cartelería indicativa de sensibilización, jardín de
 plantas autóctonas, sistemas de iluminación y provisión de agua
-eficientes, cocina y artefactos de iluminación solar, etc. Se gestionan
+eficientes, cocina y artefactos de iluminación solar, etc.
+
+Se gestionan
 el 75% de los residuos, reciclando o reutilizando los mismos y
 minimizando la generación de envases y embalajes. Nuestra política de
 compras, además, se basa en el comercio justo y el consumo responsable,
 que implica integrar el componente socio-ambiental en la toma de
 decisiones al momento de adquirir productos o contratar servicios.
 
-La edificación sigue normas de construcción bioclimática, utilizando
+La edificación sigue normas de construcción bio-climática, utilizando
 materiales del lugar vinculados también a la cultura y tradición de los
 habitantes andinos pero sin renunciar en ningún momento al confort. La
 decoración es amigable con el entorno: telas artesanales u orgánicas,
@@ -3989,4 +3961,4 @@ Pueden escribirnos y visitarnos en
 
 [*www.greendrinkscba.org*](http://www.greendrinkscba.org)
 
-Junio 2017
+Noviembre 2019

@@ -22,6 +22,40 @@ notoc]{tufte-book}
 %   marginparwidth=49.4mm % width of margin notes
 % }
 
+% % % % % % % % % % %   
+
+\renewcommand{\thesection}{\arabic{section}}
+\setcounter{secnumdepth}{3} % Subsection mit Zähler (1.1) versehen
+
+%%
+% Kolumnentitel
+%%
+\renewcommand{\chaptermark}[1]{ \markboth{#1}{}  } % Stil der Kopfzeile zurücksetzen
+\renewcommand{\sectionmark}[1]{ \markright{#1}{} } % Stil der Kopfzeile 
+
+
+%%
+% Inhaltsverzeichnis
+%%
+\usepackage{tocloft}
+\renewcommand*{\cftchapdotsep}{\cftdotsep}
+\setcounter{tocdepth}{0}
+\renewcommand{\cftchapfont}{\normalfont}
+\renewcommand{\cftchappagefont}{\normalfont}
+
+\makeatletter
+\DeclareRobustCommand\authortoctext[1]{%
+{\addvspace{-3pt}\nopagebreak\leftskip0em\relax
+\rightskip \@tocrmarg\relax
+\noindent\itshape#1\par\addvspace{-7pt}}}
+\makeatother
+\newcommand\authortoc[1]{%
+  \gdef\chapterauthor{#1}%
+  \addtocontents{toc}{\authortoctext{#1}}}
+  
+% % % % % % % % % % %   
+
+
 \usepackage[all]{nowidow}
 % \widowpenalty 10000
 % \clubpenalty 10000
@@ -229,7 +263,7 @@ Copyright \copyright\ \the\year\ \thanklessauthor
 
 \par\smallcaps{http://greendrinkscba.org}
 
-\par © 2017 - Green Drinks Córdoba 1ª EdiciónTodos los derechos reservados.\\
+\par © 2019 - Green Drinks Córdoba 2ª EdiciónTodos los derechos reservados.\\
 Quedan prohibidos, dentro de los límites establecidos y bajo los
 apercibimientos legalmente previstos, la reproducción total o parcial de
 esta obra por cualquier medio o procedimiento, ya sea electrónico o
@@ -246,19 +280,21 @@ titulares del \emph{copyright.}
 % under the License.
 \index{license}
 
-\par\textit{Segunda edición, \monthyear}
+\par\textit{Segunda edición, Noviembre 2019}
 \end{fullwidth}
 
 % r.5 contents
 \begin{fullwidth}
- 
+
+\cleardoublepage
 
 \tableofcontents
+
+% \chapter{Ich sass uf eynem Steine?}
+% \authortoc{Roberto Arlt}
+
+
 \end{fullwidth}
-
-% \listoffigures
-
-% \listoftables
 
 % r.7 dedication
 % \cleardoublepage
@@ -279,36 +315,41 @@ titulares del \emph{copyright.}
 \begin{fullwidth}
 
 % \cleardoublepage
+\addtocontents{toc}{\protect\enlargethispage{\vfill}}
  
 \input{capitulos/prologo.tex}
+\authortoc{Fernando Colautti}
 
 \part{\textsc{Redes e intercambios}}
 % \addcontentsline{toc}{part}{%
 % \arabic{part}.\arabic{part}.\arabic{part}.\arabic{part}~~ 
 % Redes e intercambios}
 % \addcontentsline{Redes e intercambios}{}{Redes e intercambios}
-\input{capitulos/conectando}          % Redes Cambio
-\input{capitulos/pacha}               % Redes
-\input{capitulos/ecosistema-verdades} % Cambio/Conservación
+\input{capitulos/conectando}          \authortoc{Elga Ruth Velásquez}	% Redes Cambio 
+\input{capitulos/pacha}               \authortoc{Claudia Lamas}	% Redes
+\input{capitulos/ecosistema-verdades} \authortoc{Marcos S. Karlin}	% Cambio/Conservación
 
 \part{\textsc{Aire, conservación y conciencia verde}}
-\input{capitulos/recuperando-verde}   % AIRE
-\input{capitulos/parques}             % AIRE
-\input{capitulos/reserva-respira}     % AIRE
-\input{capitulos/sustentable-rebeldia}% Cambio/Conservación Eco Comida?
+\input{capitulos/recuperando-verde}   \authortoc{Leonardo Peralta}	% AIRE
+\input{capitulos/parques}             \authortoc{Emmanuel Baghin}	% AIRE
+\input{capitulos/reserva-respira}     \authortoc{Rita Stanislavs}	% AIRE
+\input{capitulos/sustentable-rebeldia}\authortoc{Fabián Gabriel Fábrega}% Cambio/Conservación Eco Comida?
+
+\addtocontents{toc}{\protect\enlargethispage{\clearpage}}
+% \addtocontents{toc}{\protect\enlargethispage{3\baselineskip}}
 
 \part{\textsc{Reciclando. Nuevos valores y recursos}}
-\input{capitulos/desperdicio-cero}    % BASURA
-\input{capitulos/residuo-cero}        % BASURA
-\input{capitulos/biobriz}             % BASURA
-\input{capitulos/basura-recurso}      % BASURA
+\input{capitulos/desperdicio-cero}    \authortoc{Natalia Emma Basso}	% BASURA
+\input{capitulos/residuo-cero}        \authortoc{Daniel Blanco}	% BASURA
+\input{capitulos/biobriz}             \authortoc{Daniel Horacio Blando}	% BASURA
+\input{capitulos/basura-recurso}      \authortoc{Pablo Martín Capitanelli}	% BASURA
 
 \part{\textsc{Cambios productivos, legales y de difusión}}
-\input{capitulos/mikuna}              % Cambio/Conservación Eco Comida
-\input{capitulos/escuela}             % Cambio
-\input{capitulos/chacra}              % Cambio/Conservación
-\input{capitulos/ordenanza}           % Cambio
-\input{capitulos/rse}                 % Cambio
+\input{capitulos/mikuna}              \authortoc{Ignacio y Agustín Mayorga}	% Cambio/Conservación Eco Comida
+\input{capitulos/escuela}             \authortoc{Gladis Vera}		% Cambio
+\input{capitulos/chacra}              \authortoc{Federico Uanino}	% Cambio/Conservación
+\input{capitulos/ordenanza}           \authortoc{Matías Roldán}		% Cambio
+\input{capitulos/rse}                 \authortoc{Lucy Vilte}		% Cambio
 
 \input{capitulos/gracias}             % Redes
 \end{fullwidth}
