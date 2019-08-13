@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.3.10)  25 MAR 2019 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.18)  9 AUG 2019 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,32 +1278,32 @@ LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 87.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 115.
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--144
-
- []
-
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 189.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 190.
+(Font)              scaled to size 10.0pt on input line 115.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--149
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 195.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 188--196
+Underfull \hbox (badness 10000) in paragraph at lines 193--201
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./avatar.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
 
 (./juarez-cv-2019-03-spanish.aux
 LaTeX Info: Redefining \. on input line 23.
@@ -1311,8 +1311,8 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
 Package rerunfilecheck Info: File `juarez-cv-2019-03-spanish.out' has not chang
 ed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1324,7 +1324,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  18534 strings out of 494883
  336426 string characters out of 6179094
- 408411 words of memory out of 5000000
+ 408400 words of memory out of 5000000
  21483 multiletter control sequences out of 15000+600000
  52976 words of font info for 36 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1333,11 +1333,12 @@ Here is how much of TeX's memory you used:
 pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on juarez-cv-2019-03-spanish.pdf (1 page, 489258 bytes).
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on juarez-cv-2019-03-spanish.pdf (1 page, 499806 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

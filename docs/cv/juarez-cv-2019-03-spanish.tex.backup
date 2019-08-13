@@ -40,7 +40,7 @@
  
 \skills{%
 {portugués (fluído)/4.7},
-{\textsc{INGLÉS (NATIVO)}/6}%
+{\textsc{inglés (nativo)}/6}%
 % {esfuerzo/5.9},
 % {atención al detalle/5.7},
 % {buenos modales/5.3}%
@@ -98,27 +98,30 @@
 % \test{FreeSans}
 % \test{Segoe UI Symbol}
 
-% \section{Perfil General} % Symbol: ☭
+\section{Perfil General} % Symbol: ☭
 
-% Tengo buena capacidad de adaptación, interés en áreas nuevas y la constancia de hacer continuadamente. 
-%para empujar de manera continua. 
-% Me crié en Córdoba desde los 7 años. Antes viví en EEUU. 
+Me crié en Córdoba desde los 7 años. Antes viví en EEUU. 
+Manejo excelente el inglés y muy bien el portugués.\\
 % Desarrollé desde temprana edad gusto por el idioma: estudié inglés hasta nivel nativo C1 [CEFR] y lo uso a diario para leer y escribir. 
 % También leo, escucho y hablo portugués fluidamente, estuve en Brazil más de dos años. 
-% Programación: varios años autodidacta, ahora en Curso de Desarrollo Web en UTN.\\
+Programación: varios años autodidacta. Ahora en curso de Desarrollo Web en UTN, y en Analista en la Escuela Superior de Comercio Manuel Belgrano.
+% Tengo buena capacidad de adaptación, interés en áreas nuevas y la constancia de hacer continuadamente.\\
 
 \section{Trabajo}
 
 \begin{twentyshort} % Environment for a short list with no descriptions
-	\twentyitem{2018–2019}{Asistente de Investigación}{Royal Roads, British Columbia, CA}{Producción. Traducción, Transcripción, y Edición de Entrevistas
-    % traducción, transcripciones, edición de materiales 
-	[Calafate/Chaltén, Argentina]}
+% 	\twentyitem{2019–}{Traductor Freelance}{Fundación Desarrollo Sostenible}{[español $>>$ inglés]}
+	\twentyitem{2018-2019}{Curso de Desarrollo Web}{[UTN, Córdoba, Argentina]}{
+	Javascript Jquery Angular ApiRest Mongodb Node.js Express.js\\ 
+	HTML5 CSS3 Bootstrap}
+	\twentyitemshort{2018–2019}{Asistente de Investigación | Productor [Canadá \& Argentina]}
+% 	Royal Roads, British Columbia, CA
 	\twentyitemshort{desde 2012}{Clases de Sociología [Argentina-Brasil]}
-	\twentyitemshort{2015-2018}{Cursos de conversación en inglés [Córdoba, Argentina]}
-	\twentyitemshort{2018}{IICANA Valle Escondido [Córdoba, Argentina]} 
-	\twentyitemshort{2017-2018}{Pearson [Córdoba, Argentina]} 
-	\twentyitemshort{2017-2018}{Juice Bar [Córdoba, Argentina]}
-	% \twentyitemshort{2012-2014}{Beca de investigación \textsc{CNPq} en Sociología [S\~{a}o Paulo, Brasil]}
+	\twentyitemshort{año 2018}{IICANA Valle Escondido [Córdoba, Argentina]} 
+	\twentyitemshort{2017–2018}{Pearson [Córdoba, Argentina]} 
+	\twentyitemshort{2017–2018}{Juice Bar [Córdoba, Argentina]}
+	\twentyitemshort{2015–2018}{Cursos de conversación en inglés [Córdoba, Argentina]}
+	\twentyitemshort{2012–2014}{Beca de investigación \textsc{CNPq} en Sociología [S\~{a}o Paulo, Brasil]}
 	% \twentyitemshort{2009--2010}{Librería Borders [Atlanta, EEUU]}
 	%\twentyitemshort{<dates>}{<title/description>}
 \end{twentyshort}
@@ -131,42 +134,42 @@
 
 \begin{twenty} % Environment for a list with descriptions
  
-	\twentyitem{2019-2021}{Analista Universitario de Sistemas Informáticos}{[ESCMB, Córdoba, Argentina]}{}
-	\twentyitem{2018-2019}{Curso de Desarrollo Web}{[UTN, Córdoba, Argentina]}{
+\twentyitemshort{2019-2021}{Analista Universitario de Sistemas Informáticos [ESCMB, CBA]}%{}
+\twentyitem{2018-2019}{Curso de Desarrollo Web}{[UTN, Córdoba, Argentina]}{
 	Javascript Jquery Angular ApiRest Mongodb Node.js Express.js\\ 
 	HTML5 CSS3 Bootstrap}
- \twentyitemshort{2017--}{Candidato doctoral en Sociología [University of Exeter, UK]}%{El æfecto de los atletas de distancia en el ritmo urbano: cómo corren los ultramaratonistas en ciudades automatizadas?}
+ \twentyitemshort{desde 2017}{Candidato doctoral en Sociología [University of Exeter, UK]}%{El æfecto de los atletas de distancia en el ritmo urbano: cómo corren los ultramaratonistas en ciudades automatizadas?}
  \twentyitemshort{desde 2013}{Lenguajes de programación-edición [hechos: libro + sitio web]}%{Autopubliqué libro [\textit{exhalaciones}] y sitio web [\texttt{ramoneando.com}]}
  \twentyitemshort{2012-2014}{Maestría en Sociología [UNICAMP, S\~{a}o Paulo. Brazil]}%{Arte Urbano [graffiti y pixaç\~{a}o]}
  \twentyitemshort{2002-2009}{Licenciado en Sociología [Universidad de Buenos Aires, Argentina]}%
 % 	{%Estudios de graduación%} %\twentyitem{<dates>}{<title>}{<location>}{<description>}
 \end{twenty}
 
-\section{Publicaciones/Presentaciones}
-
-\begin{twenty} % Environment for a list with descriptions
-	\twentyitemshort{2017}{being ralphy wiggum}
-	\twentyitemshort{2016}{The visual and social indeterminacy of pixação: the inextricable moods of São Paulo’s inscriptions}
-% 	\twentyitemshort{2016}{exhalaciones}
-	\twentyitemshort{2014}{Espacios abiertos: la calle como hábitat}
-	\twentyitemshort{2013}{Arte urbano paulistano: degradación urbana y paisajismo turístico}
-	\twentyitemshort{2012}{Urban Geopolitics: Recongurations in Art, Activism, and Research}
-	\twentyitemshort{2011}{(No) es tan fácil ser grafitero}
-	\twentyitemshort{2008}{El legado de Durkheim en Schutz: hacia un horizonte en diálogo}
-	\twentyitemshort{2008}{Observaciones sobre la opinión pública a partir de El ciudadano bien informado}
-	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
-\end{twenty}
-
-
-\section{Traducciones}
-
-\begin{twenty} % Environment for a list with descriptions
-	\twentyitemshort{2019... }{23 ideas sobre la juventud [Howard Becker]}
-	\twentyitemshort{2011}{La influencia de las cosmovisiones en el pasado y en el presente según Max Weber [Stephen Kalberg]}
-	\twentyitemshort{2005}{Los tipos de racionalidad de Max Weber: piedras angulares para el análisis del proceso de racionalización de la historia [S. Kalberg]}
-	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
-\end{twenty}
-
+% \section{Publicaciones/Presentaciones}
+% 
+% \begin{twenty} % Environment for a list with descriptions
+% 	\twentyitemshort{2017}{being ralphy wiggum}
+% 	\twentyitemshort{2016}{The visual and social indeterminacy of pixação: the inextricable moods of São Paulo’s inscriptions}
+% % 	\twentyitemshort{2016}{exhalaciones}
+% 	\twentyitemshort{2014}{Espacios abiertos: la calle como hábitat}
+% 	\twentyitemshort{2013}{Arte urbano paulistano: degradación urbana y paisajismo turístico}
+% 	\twentyitemshort{2012}{Urban Geopolitics: Recongurations in Art, Activism, and Research}
+% 	\twentyitemshort{2011}{(No) es tan fácil ser grafitero}
+% 	\twentyitemshort{2008}{El legado de Durkheim en Schutz: hacia un horizonte en diálogo}
+% 	\twentyitemshort{2008}{Observaciones sobre la opinión pública a partir de El ciudadano bien informado}
+% 	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+% \end{twenty}
+% 
+% 
+% \section{Traducciones}
+% 
+% \begin{twenty} % Environment for a list with descriptions
+% 	\twentyitemshort{2019... }{23 ideas sobre la juventud [Howard Becker]}
+% 	\twentyitemshort{2011}{La influencia de las cosmovisiones en el pasado y en el presente según Max Weber [Stephen Kalberg]}
+% 	\twentyitemshort{2005}{Los tipos de racionalidad de Max Weber: piedras angulares para el análisis del proceso de racionalización de la historia [S. Kalberg]}
+% 	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+% \end{twenty}
+% 
 %----------------------------------------------------------------------------------------
 %	 OTHER INFORMATION
 %----------------------------------------------------------------------------------------
@@ -175,17 +178,18 @@
 
 % \subsection{Review}
 
-Entre 2017-2018 trabajé en la editorial \textit{Pearson} como Asesor de Servicios de aprendizaje: me reunía con docentes, coordinadores y directivos de institutos y colegios para hacer seguimiento y recomendación de materiales de trabajo. 
-Antes aprendí en sociedad comercial a gestionar \textit{Juice Bar}.\\
+En los últimos años vengo trabajando en áreas fuera del ámbito académico: en editoriales, dando clases de inglés, y aprendiendo sobre desarrollo editorial, web, base de datos y de programación.
+% Entre 2017-2018 trabajé en la editorial \textit{Pearson} como Asesor de Servicios de aprendizaje: me reunía con docentes, coordinadores y directivos de institutos y colegios para hacer seguimiento y recomendación de materiales de trabajo. 
+% Antes aprendí en sociedad comercial a gestionar \textit{Juice Bar}.\\
 % Tengo buena capacidad de adaptación, interés en áreas nuevas y la constancia para empujar de manera continua. Me crié en Córdoba desde los 7 años. Antes viví en EEUU. Desarrollé desde edad gusto por el idioma y estudié inglés hasta un nivel C1 [CEFR] y lo uso a diario para leer y escribir. También aprendí a leer, escuchar y hablar portugués de manera fluida, teniendo una estancia en Brazil durante más de dos años.\\
-En los últimos cinco años además trabajé académicamente: supervisando proyectos de investigación, dando clases de sociología y cursos de conversación en inglés. En todos los casos me interesa trabajar con un ambiente relacionado al mundo editorial, de programación/gestión y de servicio.
+% En los últimos cinco años además trabajé académicamente: supervisando proyectos de investigación, dando clases de sociología y cursos de conversación en inglés. En todos los casos me interesa trabajar con un ambiente relacionado al mundo editorial, de programación/gestión y de servicio.
 
 % Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
 
 \section{Otros proyectos}
 
 \begin{twenty} % Environment for a list with descriptions
-	\twentyitemshort{2016-hoy}{\textit{ediciones inextricables} [publicación independiente]}
+	\twentyitemshort{2016-hoy}{\textit{ediciones inextricables} [publicación independiente en papel]}
 	\twentyitemshort{2014-hoy}{Sitio web personal: \texttt{ramoneando.com}}
 % 	\twentyitemshort{2013-hoy}{herramientas de programación: html [+ css javascript md vim]}
 	\twentyitemshort{2009-hoy}{herramientas de edición de texto y diseño: \LaTeX}
