@@ -2,6 +2,8 @@
 
 # 52º Green Drinks | Tecnologías para la sustentabilidad
 
+###### Por [Benjamín Juárez](benjaminjuarezarlt@greendrinkscba.org) | 2019-0X-XX
+
 palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras 
 
 palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras palabras 
