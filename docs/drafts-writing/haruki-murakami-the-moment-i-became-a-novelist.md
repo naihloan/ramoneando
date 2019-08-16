@@ -28,8 +28,6 @@ reality I married, then started working, then (somehow) finally managed
 to graduate. In other words, the order I followed was the exact opposite
 of what was considered normal.
 
-Article continues after advertisement
-
 Since I hated the idea of working for a company, I decided to open my
 own establishment, a place where people could go to listen to jazz
 records, have a coffee, eat snacks, and drink. It was a simple, rather
