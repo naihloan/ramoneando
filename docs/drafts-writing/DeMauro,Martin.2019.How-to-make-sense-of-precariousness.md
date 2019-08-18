@@ -1,7 +1,6 @@
-“palabra”
-
-
-# **How to make sense of precariousness? *Bíos*-precarious and sensitive life**
+---
+title: How to make sense of precariousness? *Bíos*-precarious and sensitive life
+---
 
 # **¿Cómo hacer sentido en la precariedad? *Bíos*-precario y vida sensible**
 
@@ -14,18 +13,18 @@ with cultural materials and that suppose a conceptual complementarity
 between the paths of biopolitics and precariousness. What these analyzes
 and their work with materials indicate, in a very clear way, is a set of
 dimensions, lines of inquiry and areas of problematization that do not
-acquire sufficient relevance in contemporary debates about biopolitics
+acquire enough relevance in contemporary debates about biopolitics
 and precarity. Hence the need to develop a conceptual framework tool,
 which accounts for these markers that encode a precarious life. And
 precisely, that is the blind spot in common and at the same time, a
 space of conceptual intersection: the paths in biopolitics that have not
 considered the processes of precarization of life and in equal measure,
 the theorizations about the precarious condition that they have not
-thought about in strictly biopolitical terms. This conceptual knot we
-call bíos-precarious from the conjunction between the toolbox of Judith
-Butler in relation to the bodily ontology of precariousness and the
-crossing in the biopolitical path of Roberto Esposito between impersonal
-life and affirmative biopolitics.
+thought about in strictly biopolitical terms.
+We call this conceptual knot: *bíos*-precarious.
+The *bíos*-precarious concept spawns from the conjunction between
+Judith Butler's toolbox in relation to the bodily ontology of precariousness; and
+the crossing in Roberto Esposito's biopolitical path between impersonal life and affirmative biopolitics.
 
 **Keywords:** Biopolitics, Precarity, Judith Butler, Roberto Espósito
 
@@ -64,105 +63,78 @@ Speaking with radio journalists on the show
 the Secretary, Gustavo Blanco states:
 “We've gone 17 times to pick her up. Every time we leave her at the hospital she goes back.
 *Just like a dog*, she goes back to the place where she feels comfortable”.
-Quoting on a old normative code, with old positivist and hygienist reminiscences,
-the Health Secretary argues about a sustained effort to “retire” this woman
-to get her into the hospital, but despite sanitary policies and the efforts made,
-she insists on “going back to her place because she feels comfortable”.
+The Health Secretary quoted old normative code, with early positivist and hygienist reminiscences. He argued about a sustained effort to “retire” this woman to get her into the hospital but despite sanitary policies and the efforts made, she insists on “going back to her place because she feels comfortable”.
 
 *Buenos Aires [Autonomous City], Argentina, September 2018*.
-Journalist writer Carolina Koruk publishes in the *Para Tí* Magazine an article on
-“Emotional salary time: what is this new work benefit about” which shows a new
-trend with strong repercussions in Europe: *the emotional salary*. Koruk comments on
-a research by the
-*iOpener Institute for People & Performance*, in England, about happiness in the daily duties of workers, and about the emotional state the returns in a stronger commitment of employees at their companies.
+Journalist writer Carolina Koruk publishes in the *Para Tí* Magazine an article on “Emotional salary time: what is this new work benefit about” which shows a new trend with substantial repercussions in Europe: *the emotional salary*. Koruk comments on research by the *iOpener Institute for People & Performance*, in England, about happiness in the daily duties of workers, and the emotional state the returns in a stronger commitment of employees at their companies.
 In critical times, explains Koruk, many companies dive into extra expenses as a decisive element
 “so that employees can be happy, even when you don't pay them”,
-and this way the company avoids workers from migrating to other companies.
+and this way, the company avoids workers from migrating to other companies.
 Attached to the flexible culture
-(where goal completion is above everything, and there is a certain freedom regarding work time)
+(where goal completion is above everything, and there is certain freedom regarding work time)
 this kind of salary aims towards emotions and well being,
 to appreciating each of the people working, hearing to them to keep them motivated, and work climate.
 
+The ideas at the core of these scenes are biopolitics and precariousness.
+The events exposed above are images that allow a thought upon how
+public servants and journalists and in general our societies
+mark hierarchical distinctions between
+lives to be protected, taken care of, or plan a future for, on one side;
+or insead lives to abandon, sacrifice, or eliminate.
+This primary mark, which is at the main center of biopolitics and precarization processes,
+entails a series of incisions, gradients, and thresholds around which a stake is decided about which individuals and groups can be recognized as humans or less-than-humans.
+These images are inscribed on a line of inquiry about the conditions in which it is possible to learn about a life, or about the specific power mechanisms through which life is produced, taken cared of, or valued as differential.
+These gazes return a sharpened image, yet clearly self-evident, of a dynamic which aims towards a life, a living being or the animate over the basis of a series of distinctions and oppositions -more or less stable-: between life and no-life, alive and not alive, or between purely biological life (*zoé*) in comparison to a way of life (*bíos*).
+Indeed, life and precariousness name a displacement of meanings,
+just as Gustavo Blanco, the Health Secretary, when he refers to a field of concepts and practices that casts thought beyond the humane because he locates homeless to a frontier along with the wilderness and the animal world.
+In such a way, precariousness stages a reconfiguration of structural inequality associated with poverty and its
+inequity markers through the recurring inquiry about the species limits, about what is human and its edges.
+
+In this context, a series of critical analysis and cultural studies that work based on aesthetic materials made in Latin America explore that life as an expansive field and a set of reading operations that mobilize meanings upon the visible and the sensitive, which are primarily defined by the biopolitics logic, but also by livings' precarization processes.
+Such materials include works by Fermín Rodríguez (2010), Florencia Garramuño (2015),
+Gabriel Giorgi (2014), Ximena Briceño (2017) and many others.
+
+The critical work of reading with cultural materials (De Mauro Rucovsky, 2016; 2018a; 2018b; 2019a; 2019b)
+illuminate dimensions that we intend to highlight.
+The operation that we want to emphasize upon this life,
+supposes a conceptual complementarity between the paths of biopolitics and precariousness.
+What these analysis and their work with materials indicate, is a set of
+dimensions, lines of inquiry and areas of problematization that do not
+acquire enough relevance in contemporary debates about biopolitics and precarity.
+Hence the need to develop a tool for a conceptual framework,
+which can account for these markers that encode a precarious life.
+And even further, such is at the same time both the blind spot and space of conceptual intersection:
+the paths in biopolitics that have not yet considered the processes of precarization of life;
+and in the same vein, the theorizations about the precarious condition that have not been
+thought about in strictly biopolitical terms.
+We call this conceptual knot: *bíos*-precarious.
+The *bíos*-precarious concept arises from the conjunction between
+Judith Butler's toolbox in relation to the bodily ontology of precariousness; and
+the crossing in Roberto Esposito's biopolitical path between impersonal life and affirmative biopolitics.
+
+There are many points of divergence between Butler's and Esposito's ponderations indeed,
+but perhaps there are even more points of convergence.
+We want to highlight two operations with this remark:
+both of Butler's and Esposito's corporeal ontologies well as their affirmative biopolitics;
+because they allow a delimitation for this way precarious way of life and the relationships between
+*bíos*, culture and politics surrounding the question about the present time:
+up to which degree is the current time crossed through by precariousness and biopolitics?
+Or in other terms:
+in which degree is the present time understood in terms of
+Judith Butler's and Roberto Espósito's conceptual remapping?
+
+And so, what guides the present inquiry is not an exegetic pursue around the work and thought of both
+Butler and Esposito (by their proper names) which would seek justice to the nominal reputation of these authors,
+but rather to aim for another procedure and towards another epistemological direction.
+The intent is to unfold the viewpoint -or even better, to locate this *bíos*-precarious in a superimposed level- following a topologic and systematic procedure,
+that is, a fold among the broader figure it intends to counter:
+which are the possible conditions of the precarized living, of the *bíos*-precarious?
+How can we account these vectors and modulations, as well as the epochal dimension
+or of the historical present time which codifies a life?
 
 
-“palabra”
 
-En el centro de estas escenas están las nociones de biopolítica y de
-precariedad. Los acontecimientos expuestos son imágenes que nos permiten
-pensar los modos en que funcionarios y periodistas y en general nuestras
-sociedades trazan distinciones jerárquicas entre vidas a proteger,
-cuidar o futurizar y vidas a abandonar, sacrificar o directamente
-eliminar. Ese trazado fundamental, que es el núcleo central de la
-biopolítica y de los procesos de precarización, conlleva una serie de
-cortes, gradaciones y de umbrales diferenciados en torno a los cuales se
-decide la humanidad o la no-humanidad de individuos y grupos. Imágenes
-que se inscriben en una línea de interrogación sobre las condiciones en
-que resulta posible aprender una vida o sobre los mecanismos específicos
-de poder a través de los cuales se produce, se cuida o se valora
-diferencialmente la vida. Estas miradas nos devuelven una imagen
-agudizada, pero ciertamente patente, de una dinámica que tiene por
-objeto una vida, el ser vivo o el viviente sobre la base de una serie de
-distinciones y oposiciones -más o menos estabilizadas- entre vida y no
-vida, entre vida y muerte, entre lo vivo y lo no vivo, o entre la vida
-puramente biológica (*zoé*) respecto de una forma de vida (*bíos*). Y en
-efecto, vida y precariedad nombran un desplazamiento de sentidos, como
-lo hace el secretario de salud Gustavo Blanco, en relación a un campo de
-conceptos y de prácticas que arroja al pensamiento más allá de lo humano
-porque ubica a los indigentes en el confín de lo salvaje y lo animal.
-Así, la precariedad escenifica una reconfiguración de la desigualdad
-estructural asociada a la pobreza y sus marcadores de inequidad a través
-de la indagación recurrente de los límites de la especie, de lo humano y
-sus bordes.
-
-En ese contexto una serie de análisis críticos y estudios culturales que
-trabajan desde materiales estéticos elaborados en América Latina, como
-los trabajos de Fermín Rodríguez (2010), Florencia Garramuño (2015),
-Gabriel Giorgi (2014), Ximena Briceño (2017) y tantos otros, exploran
-esa vida como un campo expansivo y un conjunto de operaciones de lectura
-que movilizan sentidos de lo visible y de lo sensible definidos en gran
-medida por la lógica biopolítica pero también por procesos de
-precarización de lo viviente. La operación que nos interesa subrayar
-sobre esa vida gira en torno a las dimensiones que se iluminan en el
-trabajo crítico de lectura con materiales culturales (De Mauro Rucovsky,
-2016; 2018a; 2018b;2019a;2019b) y que suponen una complementariedad
-conceptual entre los recorridos de la biopolítica y de la precariedad.
-Lo que estos análisis y su trabajo con materiales indican es un conjunto
-de dimensiones, líneas de indagación y zonas de problematización que no
-adquieren la suficiente relevancia en los debates contemporáneos sobre
-biopolítica y sobre precariedad. De allí la necesidad de elaborar una
-herramienta de entramado conceptual que dé cuenta de estos marcadores
-que codifican una vida precaria. Y justamente, ese es el punto ciego en
-común y a la vez el espacio de intersección conceptual: los recorridos
-en biopolítica que no han considerado los procesos de precarización de
-la vida y en igual medida, las teorizaciones sobre la condición precaria
-que no han pensado en términos estrictamente biopolíticos. Denominamos
-*bíos*-precario a este nuedo conceptual a partir de la conjunción entre
-la caja de herramientas de Judith Butler en relación a la ontología
-social-corporal de la precariedad y el cruce en el recorrido biopolítico
-de Roberto Esposito entre vida impersonal y biopolítica afirmativa. En
-efecto, en las consideraciones de Butler y Esposito se descubren muchos
-puntos de divergencia pero quizás más de convergencia. Con esto queremos
-resaltar dos operaciones, la ontología corporal y de la biopolítica
-afirmativa de Butler y Esposito, porque permiten delimitar esta forma de
-vida precaria y las relaciones entre *bíos*, cultura y política en torno
-a la pregunta por la actualidad: ¿en qué medida el presente está
-atravesado por la precariedad y la biopolítica? o en otros términos ¿en
-que medida el presente se interpreta a partir de la configuración
-conceptual de Judith Butler y Roberto Espósito?
-
-Así, lo que guía la presente indagación no es un afán exegético sobre la
-obra y el pensamiento de Butler y Esposito (los nombres propios) que
-haga honor a la reputación nominal de tales autores, sino apuntar a otro
-procedimiento y en otra dirección epistemológica. La intención es
-desdoblar la mirada -o mejor, localizar este *bíos*-precario en un plano
-superpuesto- conforme a un procedimiento topológico y sistemático, esto
-es, un pliegue dentro de la figura más amplia a la que pretende
-contraponerse: ¿cuáles son las condiciones de posibilidad de los
-vivientes precarizados, del *bíos*-precario? ¿Cómo dar cuenta de estos
-vectores y modulaciones pero también de la dimensión epocal o del
-presente histórico que codifican una vida?
-
-**La biopolítica es el horizonte insuperable de nuestro tiempo**
+**Biopolitics is the insurmountable horizon of our time**
 
 Muita coisa não posse te contar.
 
@@ -174,29 +146,34 @@ Escrevo ao correr das palavras
 
 Clarice Lispector - *Água viva* (1973)
 
-La biopolítica es un campo de investigación heterogéneo, de límites
-difusos y en constante expansión, que involucra un conjunto vasto de
-estudios y líneas de investigación difícilmente agrupable en una
-perspectiva única. En un sentido intuitivo, el término parece iluminar
-una constelación imprecisa que gira en torno a los pares de conceptos
-*bíos* (la vida nutritiva para Aristóteles, el cuerpo o los vivientes) y
-política (el poder, el gobierno, las instituciones, las leyes, los
-conflictos). Según el sentido de la palabra, la biopolítica se refiere a
-la política que se ocupa y se encarga de la vida (en griego *bíos
-politikós*) pero sobre la base de la distinción entre *bíos* y *zoé*, la
-biopolítica se refiere a la vida cualificada de los hombres
-(*bíos*).[^1] Considerada como un *oxímoron* (la fusión de dos conceptos
-que se contradicen, pues la política en el sentido clásico sobrepasa la
-mera criatura y lo corporal) o una simple *tautología* -¿no se ocupa e
-incide la política siempre sobre la vida?- (Lemke, 2017:13), el término
-biopolítica implica una inestabilidad constitutiva que demuestra la
-vitalidad del término y la “particular movilidad semántica” que le es
-inherente (Bazzicalupo, 2017:41). De aquí su oscilación que delimita la
-relación entre los dos términos que componen la categoría: ¿que debe
-entenderse por *bíos*? ¿como hipotetizar una relación exclusiva entre
-vida y política?
+Biopolitics is a heterogeneous research field, with difuse limits
+and in constant expansion, and which involves a vast set of studies
+and research lines that would be hard to put together in a single perspective.
+In a intuitive sense, the term seems to shed light to an imprecise constellation that
+circuits around the concept pair formed by
+*bíos* (the nourishing life according to Aristotle, the body, or the living) and
+politics (power, government, institutions, laws, conflicts).
+According to the word's meaning, biopolitics refers to
+the politics that occupies itself with and takes care of life
+(in greek *bíos politikós*) but upon the distinction between
+*bíos* and *zoé*, biopolitics refers to the qualified life of men (*bíos*).
+[^1]
 
-Todo esto conduce a un desdoblamiento, escribe Espósito (2006), entre
+Biopolitics, as term, has been considered an *oximoron*
+(a fusion of two concepts that contradict each other,
+because politics in a classical sense goes beyond the mere creature and the bodily);
+or even a simple *tautology* -isn't politics always a matter that delves around life?- (Lemke, 2017:13).
+The term biopolitics implies a constitutive instability that reflects the terms vitality and the
+“peculiar semantic mobility” that is proper to it (Bazzicalupo, 2017:41).
+Hence its oscillation, which goes through a hesitation between the two terms that compound the category:
+what should be understood as *bíos*?
+would it be possible to elaborate an exclusive hypothesis between life and politics?
+
+All the prior drives to a fold, according to Espósito (2006),
+between two tonalities and categories:
+
+
+
 dos tonalidades y categorías: por un lado, la vida en función de la
 política o la vida como objeto de la política, el poder hacer vivir o la
 vida traducible a política (una política que se ejerce exteriormente
@@ -223,6 +200,8 @@ muerte (que en Foucault se juegan en torno al *hacer morir* y su reverso
 complementario, el *hacer vivir)*, los entes vivos frente a los no vivos
 (Haraway, 2016) y la vida puramente biológica respecto de una forma de
 vida, una vida formada o cualificada (Biset, 2016).
+
+“palabra”
 
 En los amplios recorridos trazados alrededor de la biopolítica se pone
 en foco en la dimensión constitutivamente política de la vida (a nivel
@@ -969,18 +948,8 @@ Watson, Janell (2012) “Butler's Biopolitics: Precarious Community”. En
 *Theory & Event* , Vol. 15 , Iss. 2; 2012 Baltimore: Johns Hopkins
 University Press.
 
-[^1]: El término biopolítica se distancia, a su vez, de la noción de
-    *zoopolítica*, la cual se refiere a la política que toma por objeto
-    a la *zoé*, a la totalidad indiferenciada de los vivientes,
-    animales, humanos y no humanos. La prevalencia del término *bíos*
-    sobre *zoé* se debe a la aparición a comienzos del siglo XIX del
-    término biología y en particular al proyecto de Jean-Baptiste
-    Lamarck (1744-1829) de una ciencia de los cuerpos vivos, de los
-    seres vivientes en cuanto vivientes, escribe Edgardo Castro
-    (2011:19). Una reapropiación contemporánea de la noción de
-    *zoopolítica* es la que sostiene Fabián Ludueña Romandini (2010)
-    sobre una instancia de cruce entre vida y política que no pasan por
-    la exclusión de algo así como *zoé* sino por su politización.
+[^1]: The term biopolitics moves away, from the idea of *zoopolitics*,
+which refers to the politics that takes into consideration *zoé*, the undifferentiated totality of the living, animals, humans and non humans. The prevalence of the term *bíos*  over *zoé* is due to the appearance, at the beginning of the XIXth Century of the term "biology", and specifically to Jean-Baptiste Lamarck's (1744-1829) project of a science of living bodies, of the living as living, as Edgardo Castro (2011:19) points out. Fabián Ludueña Romandini (2010) currently reappropiates the idea of *zoopolitics*, as a way of connecting life and politics without relying on an exclusion of *zoé*, but rather by its politization.
 
 [^2]: A diferencia de Janell Watson (2012) quien encuentra en Butler y
     Esposito una lógica conceptual compartida, que se mantiene
