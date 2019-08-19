@@ -118,9 +118,9 @@ We want to highlight two operations with this remark:
 both of Butler's and Esposito's corporeal ontologies well as their affirmative biopolitics;
 because they allow a delimitation for this way precarious way of life and the relationships between
 *bíos*, culture and politics surrounding the question about the present time:
-up to which degree is the current time crossed through by precariousness and biopolitics?
+Up to which degree is the current time crossed through by precariousness and biopolitics?
 Or in other terms:
-in which degree is the present time understood in terms of
+In which degree is the present time understood in terms of
 Judith Butler's and Roberto Espósito's conceptual remapping?
 
 And so, what guides the present inquiry is not an exegetic pursue around the work and thought of both
@@ -128,10 +128,9 @@ Butler and Esposito (by their proper names) which would seek justice to the nomi
 but rather to aim for another procedure and towards another epistemological direction.
 The intent is to unfold the viewpoint -or even better, to locate this *bíos*-precarious in a superimposed level- following a topologic and systematic procedure,
 that is, a fold among the broader figure it intends to counter:
-which are the possible conditions of the precarized living, of the *bíos*-precarious?
+Which are the possible conditions of the precarized living, of the *bíos*-precarious?
 How can we account these vectors and modulations, as well as the epochal dimension
 or of the historical present time which codifies a life?
-
 
 
 **Biopolitics is the insurmountable horizon of our time**
@@ -146,189 +145,164 @@ Escrevo ao correr das palavras
 
 Clarice Lispector - *Água viva* (1973)
 
-Biopolitics is a heterogeneous research field, with difuse limits
-and in constant expansion, and which involves a vast set of studies
-and research lines that would be hard to put together in a single perspective.
-In a intuitive sense, the term seems to shed light to an imprecise constellation that
+Biopolitics is a heterogeneous research field, it has diffuse limits
+and is in constant expansion. Biopolitics involves a broad set of studies
+and research lines that would be hard to put together on a single perspective.
+In an intuitive sense, the term seems to shed light to an imprecise constellation that
 circuits around the concept pair formed by
 *bíos* (the nourishing life according to Aristotle, the body, or the living) and
 politics (power, government, institutions, laws, conflicts).
 According to the word's meaning, biopolitics refers to
 the politics that occupies itself with and takes care of life
 (in greek *bíos politikós*) but upon the distinction between
-*bíos* and *zoé*, biopolitics refers to the qualified life of men (*bíos*).
+*bíos* and *zoé*, biopolitics refers to men's qualified life (*bíos*).
 [^1]
 
-Biopolitics, as term, has been considered an *oximoron*
+Biopolitics, as a term, has been considered an *oxymoron*
 (a fusion of two concepts that contradict each other,
 because politics in a classical sense goes beyond the mere creature and the bodily);
-or even a simple *tautology* -isn't politics always a matter that delves around life?- (Lemke, 2017:13).
+or even a simple *tautology* -Isn’t politics always a matter that delves around life?- (Lemke, 2017:13).
 The term biopolitics implies a constitutive instability that reflects the terms vitality and the
 “peculiar semantic mobility” that is proper to it (Bazzicalupo, 2017:41).
 Hence its oscillation, which goes through a hesitation between the two terms that compound the category:
-what should be understood as *bíos*?
-would it be possible to elaborate an exclusive hypothesis between life and politics?
+What should we understand as *bíos*?
+Would it be possible to elaborate on an exclusive hypothesis between life and politics?
 
 All the prior drives to a fold, according to Espósito (2006),
 between two tonalities and categories:
+on one side, life as a matter of politics or life as politics objects,
+the capability to make live or life translatable as politics
+(a politics that is exerted exteriorly *upon life*); and on another side,
+the political side of *bíos*, the interior of politics, a matter of life,
+life as a politics matter (a politics that is immanent *in life*).
+If we attend to the Greek lexicon, especially attending to the Aristotelic (Agamben, 2010:9-23),
+biopolitics remits to a *zoé* dimension: life in its simple biological maintenance, with no qualification,
+stripped from any formal attributes
+(perhaps we should then refer to this as a *zoopolitics*?).
+In its semantic content, the term highlights the connexion between the meaning of *what is alive* and especially of *what is human*.
+In this sense, a biopolitical line of thought can then allow opening a vast field of problems and questions:
+What consequences does this encounter have,
+the conceptual syntagma or the reciprocal interpellation between life and power?
+What is the nature of this relationship?
+Are they external dimensions?
+Or do they reveal an intrinsical imbrication, of native knotting?
+(Giorgi & Rodríguez, 2007:32)
+In this sense, we want to highlight the set of oppositions and epistemological demarcations that seem to function as conditions of possibility of the fixation of a sense to the idea of biopolitics:
+the difference between life (as an exceptionally humane matter) and no life
+(animal, mechanical, vegetal, spectral),
+the limit between life and death (which in Foucault are interplayed amongst the *making die* and the reverse, *making live*), the living entities against the non living (Haraway, 2016) and the purely biological life compared to a way of life, a formed life or a qualified one (Biset, 2016).
 
+Over the broad routes paved around biopolitics,
+there is a focus that places to the center of the constitutively political dimension of life (at the individual, and population levels)
+and the managerial ways of that life,
+the making live and its counterpart, the letting die.
+These distinctions are the axis of the canonic theorizations by Michel Foucault,
+along with the Italian reading by Giorgio Agamben, Antonio Negri, and Roberto Esposito;
+up to the considerations by Nikolas Rose, Peter Miller, and Paul Rabinow.
+In the discussions that delve around the precarious condition, with Judith Butler at the center
+but also with Richard Gilman-Opalsy, Guillaume Le Blanc, Guy Standing, Athena
+Athanasiou, Lauren Berlant, Isabell Lorey, and including the Spaniard 
+Remedios Zafra, the emphasis is placed on the type of exposed corporeal life and dependant upon others,
+defined mainly by its physical vulnerability and its potential of being damaged, and its existentially
+finite and contingent condition.
+But specific paths undertaken by the cultural critique in the past decades bring to surface an epochal dimension,
+not only a political logic, or a governmental rationality
+(what Foucault described as the neoliberal governmentality),
+a corporeal life signaled by the mutual exposition and vulnerability,
+or the processes of dispossession and expropriation that damages such condition
+(Athanasiou & Butler, 2013); but rather a precarious life, a *bíos*-precarious which opens
+a politicization threshold and which can be, at the same time,
+a field of experimentations across several levels: conceptual, formal, aesthetic, and political.
 
+From this angle, there seems to be a point that would be useful to clarify in advance:
+Why *bíos*, and not *nuda vita* or *zoé*?
+Why *bíos*, and why not a way-of-life?
+We can locate *bíos*-precarious at this intersection,
+in between of Roberto Esposito and Judith Butler
+and separated from the thinking of Giorgio Agamben (2010),
+who identifies in biopolitics -and the sovereign regime-
+a field of incisions and partitioning practices between the
+recognizable lives and the lives to abandon, or the conversion of the *bíos*
+(a specific and qualified way of life)
+into *zoé* (the stripped life).
+According to Agamben, the governmental occidental machine is the one that articulates
+a theological-political paradigm, a theological-economic one, and the third one of glory and spectacle,
+and which operates as an exception state; that is, as a State that includes upon itself
+the anomic element that establishes it and whose mission is to capture and produce the stripped life,
+the *nuda vita*.
+Biopolitics, in Agamben's path, is characterized by producing
+the supposition of mere life, and in pretending so,
+in the way of a vicious cycle, produces it (Moyano, 2019: 294).
+But biopolitics is also characterized in the conceptual development of his thought,
+in a wager in favor of minor biopolitics (Agamben, 2003)
+which directs attention to a life that is inseparable from its forms,
+or a life that is cannot be isolated as a stripped life.
+In other terms, every life is already a way-of-life that is about, primarily,
+individual ways, living acts, and processes that are life and imagination possibilities,
+of common potencies (*General Intellect*).
 
-dos tonalidades y categorías: por un lado, la vida en función de la
-política o la vida como objeto de la política, el poder hacer vivir o la
-vida traducible a política (una política que se ejerce exteriormente
-*sobre la vida*) y por otro lado, el carácter político del *bíos,* la
-política en su interior, constitutivo de la vida, la vida como sujeto de
-la política (una política inmanente *de la vida*). Si nos atenemos al
-léxico griego y en particular al aristotélico (Agamben, 2010:9-23), la
-biopolítica remite a la dimensión de la *zoé*, la vida en su simple
-mantenimiento biológico, sin calificar despojada de todo rasgo formal
-(¿deberíamos hablar de estructura zoopolítica entonces?). En su
-contenido semántico pone de relieve el nexo representado por la
-definición de *lo que está vivo* y especialmente *lo que es humano*. En
-tal sentido, el pensamiento biopolítico abre entonces un vasto campo de
-problemas e interrogantes: ¿qué consecuencias tiene ese encuentro, ese
-sintagma conceptual o esa interpelación recíproca entre la vida y el
-poder? ¿Cuál es la naturaleza de esa relación? ¿Son dimensiones externas
-o revelan una imbricación intrínseca, un anudamiento originario? (Giorgi
-& Rodríguez, 2007:32) En tal sentido queremos subrayar el conjunto de
-oposiciones y demarcaciones epistemológicas que parecen funcionar como
-condición de posibilidad de la fijación de un sentido de la noción de
-biopolítica: la diferencia entre vida (excepcionalmente humana) y no
-vida (animal, mecánica, vegetal, espectral), el límite entre vida y
-muerte (que en Foucault se juegan en torno al *hacer morir* y su reverso
-complementario, el *hacer vivir)*, los entes vivos frente a los no vivos
-(Haraway, 2016) y la vida puramente biológica respecto de una forma de
-vida, una vida formada o cualificada (Biset, 2016).
+*Bíos*-precarious is a syntagma that appears away from Agamben's proposal.
+*Bíos*-precarious can superimpose and juxtapose at the same time
+Esposito's affirmative biopolitics and impersonal philosophy;
+with Butler's bodily social ontology.
+In Esposito's (2005; 2006; 2007; 2009a; 2009b) line of work
+*bíos* names the singularity of life processes that are recognized at the interior of the immunization mechanism
+(*katékhon, phármakon* figure), which operates dialectically by increment, protection, and development of life
+and reaching an aporetic point, it impedes any further development, or destruction and annihilation.
+At the heart of the immunity functioning, which as we know is included as the third term in between of the sovereign and bipolitics, Esposito identifies a line of flight to the theological-juridical-biomedic capture of the deploying immunity,
+now not *upon* life, but rather upon life's immanent normativity.
+*Bíos* signals something else: it is not the negation or privation of what is shared in common (the *proprium*),
+nor is it the mechanics of enclosing the body over itself and inside itself.
+*Bíos* rather signals a projectual horizon of the subject outside of himself,
+a shared reciprocal relationship that exposes the subject to contact and even to contagion with the other,
+or with the *sôma*, which is the constitutive part of *the flesh of the world*.
+A vital and compositive potential, which is a capability of modifying ourselves,
+*bíos* is a transplant, prosthetic incorporation, and graft because it shatters the frontiers of personal property,
+the dimensions of what is inside and outside, natural and artificial.
 
-“palabra”
+*Bíos* has yet another defining characteristic, and that is by contrast to the norm that makes incisions into life.
+Esposito's remark is the following: at the opposing reverse of life's normativization,
+*bíos* inflects as an attempt of vitalizing the norm, or as pure vital facticity in its absolute singularity.
+It is all about a living being that is always beyond its self, going over the individual sphere,
+its pre-established forms and figures, in variation and mobilization of bodies.
+*Bíos* is any form of existence that has equal legitimacy to live in a complex relationship with the surroundings,
+and in a framework of relations in which it is necessarily inserted in.
+Such is the situation in which *bíos* moves upon, as a living being that depends on connexions and encounters
+with other intensities that, as an immanent rule of life, is a result of a process of successive individuations and reproduction, but as a process of de-individualization or of de-subjectivation as well, because nobody remains for a long time in the same state, self-identical.
+As is noticeable to this point, Esposito follows the Deleuzean and Spinozist legacy,
+which configures a line of thought about the virtual in relationship to a life that permanently oscillates between the actual and the virtual,
+which exceeds any possible actualization and precisely because of that, becomes along with others,
+producing relationships, affirming its singular style and rhythm.
 
-En los amplios recorridos trazados alrededor de la biopolítica se pone
-en foco en la dimensión constitutivamente política de la vida (a nivel
-de los individuos y de las poblaciones) y los modos de gestión de esa
-vida, el hacer vivir y su revés complementario, el dejar morir. Estas
-distinciones son los ejes de las teorizaciones canónicas de Michel
-Foucault, pasando por la lectura italiana de Giorgio Agamben, Antonio
-Negri y Roberto Esposito, hasta las interpretaciones de Nikolas Rose,
-Peter Miller y Paul Rabinow. En los debates que giran en torno a la
-condición precaria, con Judith Butler a la cabeza pero también con
-Richard Gilman-Opalsy, Guillaume Le Blanc, Guy Standing, Athena
-Athanasiou, Lauren Berlant, Isabell Lorey hasta la española Remedios
-Zafra, se hace hincapié en un tipo de vida corporal expuesta y en
-relación de dependencia con otros, definida en gran medida por su
-vulnerabilidad física y su dañabilidad, y su condición existencialmente
-finita o contingente. Pero ciertos recorridos de la crítica cultural en
-las últimas décadas traen a la superficie también una dimensión epocal,
-no sólo una lógica política o una racionalidad de gobierno (aquello que
-Foucault desarrolla alrededor de la gubernamentalidad neoliberal), una
-vida corporal configurada por la exposición mutua y la vulnerabilidad o
-por los procesos de desposesión y expropiación que dañan tal condición
-(Athanasiou & Butler, 2013) sino una vida precaria, un *bíos*-precario
-que abre un umbral de politización y que puede ser, al mismo, un campo
-de experimentaciones conceptuales y formales, estéticas y políticas.
+Esposito identifies, in a farther meaning, at the interior of the person's device mechanism
+an area that overflows and surpasses its mechanism.
+The person, as a category, functions as a biopolitical dominance operator,
+because it exposes living hierarchies, unequal distributions and
+corporeal reifications.
+The «theological-political machine» captures from the person a duplicity threshold in between
+of the person (as juridical-artificially abled) and the production of its negative opposite,
+the thing (a biological element with no value, part beast and animal,
+inert matter or utterly non-human).
+This structural unfolding element, or even of excluding assimilation, settles over a logic that seems to
+articulate unity and division, in two asymmetric parts, the spheres of *bíos* and *zoé*
+(the one submitted to the other).
+The person, as a concept, also entails a tanato-politics derive,
+which functioning consists of leaving or violently dismissing all of that which is not considered a person in the human being; and as a consequence of this, it can be destined to die.
+It is precisely there where the Italian thinker locates an impersonal *bíos* as a field of responses,
+in the alteration and contamination of its prevalent meaning, which gives potency to the opening to
+other life possibilities.
+In between of the extreme positions of the person and the thing, between human and natural;
+one of the genealogical analysis's focus is located in the emptying of the humanist overtone,
+in a long-standing tradition that defines men as distant and different from the animal genre,
+or in contraposition to an area of beastly humanity.
+The upsetting order on what is human and animal allows to open up to change and metamorphosis,
+multiplicity or plurality, all of which can begin to take into account the infinite difference between
+each singular life and at the same time that which is the pre-individual and post-individual in each one of living beings.
+The immanent potency of the *impersonal bíos*, that is recognizable in Maurice Blanchot's
+neutral (*ne-uter*) and in E. Benveniste's appraisal of the sphere of the (oneself) possessive «se»,
+which constitutes an interrogation plane about the forms, bodies and their orientation models,
+and is associated with a mobile margin of vicinity and interchange amongst livings.
 
-Desde este ángulo, hay un punto que parece útil aclarar por anticipado:
-*¿*por qué *bíos* y no *nuda vita o zoé*? ¿por qué *bíos* y por qué no
-una forma-de-vida? En ese intersección se ubica *bíos*-precario, entre
-Roberto Esposito y Judith Butler y a diferencia del pensamiento de
-Giorgio Agamben (2010) que identifica en la biopolítica -y en el régimen
-de soberanía- un campo de cesuras y prácticas divisorias entre las vidas
-reconocibles y las vidas a abandonar o la conversión del *bíos* (un modo
-de vida cualificada y particular) en *zoé* (la simple vida desnuda).
-Según Agamben, la máquina gubernamental de occidente es la que articula
-un paradigma teológico-político, otro teológico-económico y un tercero
-de gloria o espectáculo, y que opera como un estado de excepción, es
-decir, como un Estado que incluye dentro de sí el elemento anómico que
-lo funda y cuyo encargo consiste en capturar y producir la vida desnuda,
-la *nuda vita.* La biopolítica, en el recorrido de Agamben, se
-caracteriza por producir el supuesto de una mera vida y en cuya
-suposición, al modo de un círculo vicioso, la produce (Moyano, 2019:
-294). Pero también en el desplazamiento conceptual de su pensamiento, en
-la apuesta por una biopolítica menor (Agamben, 2003) que dirige su
-atención sobre una vida inseparable de sus formas o sobre una vida que
-jamás es posible aislar como una vida desnuda. En otros términos, toda
-vida ya es una forma-de-vida que trata ante todo de los modos
-individuales, los actos y procesos del vivir que son posibilidades de
-vida, de imaginación y de potencia común (*General Intellect*).
-
-A distancia de la propuesta de Agamben, como señalamos, *bíos*-precario
-es un sintagma que a un mismo tiempo superpone y yuxtapone la
-biopolítica afirmativa y la filosofía impersonal de Esposito con la
-ontología social corporal de Judith Butler. En el recorrido de Esposito
-(2005; 2006; 2007; 2009a; 2009b), *Bíos* nombra la singularidad de los
-procesos de vida que se reconocen al interior del mecanismo de
-inmunización (figura del *katékhon, phármakon),* que opera
-dialécticamente por incremento, protección y desarrollo de la vida y
-alcanzado un punto aporético termina impidiendo su desarrollo o su
-destrucción y aniquilamiento. En el corazón del funcionamiento
-inmunitario que, como sabemos, es incluido como tercer término entre la
-soberanía y la biopolítica, Esposito identifica una línea de fuga a la
-captura teológica-jurídica-biomédica de la inmunidad que se despliega,
-ya no *sobre* la vida sino sobre la normatividad inmanente *de* la vida.
-Antes que la negación y privación de lo común (lo *proprium)* o la
-mecánica de cerrar el cuerpo sobre sí y dentro de sí, *bíos* señala un
-horizonte de proyección del sujeto fuera de sí mismo, experiencia de
-relación recíproca que lo expone al contacto e incluso al contagio con
-el otro o con el *sôma* que es parte constitutiva de la *carne del
-mundo*. Potencia vital y compositiva que es capacidad de modificarnos a
-nosotros mismos, *bíos* es transplante, incorporación protésica e
-injerto porque derriba las fronteras de la propiedad personal, la
-dimensión del adentro y afuera, lo natural y lo artificial.
-
-Otro aspecto de *bíos* se define en contraste a una norma que cesura la
-vida. Así lo apunta Esposito: en el reverso oponible a la
-normativización de la vida, *bíos* se conjuga como tentativa de
-vitalización de la norma o como pura facticidad vital en su absoluta
-singularidad. De lo que se trata es de un ser viviente que está siempre
-más allá de sí mismo, rebasando la esfera del individuo, sus formas y
-figuras preestablecidas, en variación y en movilización de los cuerpos,
-conservando su propia capacidad normativa de establecer nuevas normas.
-*Bíos* es cualquier forma de existencia que tiene igual legitimidad para
-vivir en una relación compleja con el ambiente y en un entramado de
-relaciones en las que está necesariamente inserto. En ello se juega el
-bíos, como ser viviente que depende de conexiones y encuentros con otras
-intensidades que como regla inmanente de la vida es el resultado de un
-proceso de sucesivas individuaciones y reproducción pero como proceso de
-desindividualización o de desubjetivación también porque nadie permanece
-durante un largo período en el mismo estado, idéntico a sí. Como puede
-verse hasta aquí, Esposito sigue el legado deleuziano y spinozista, lo
-que configura una línea de pensamiento de lo virtual en relación a una
-vida que oscila permanentemente entre lo actual y lo virtual, que excede
-toda actualización y precisamente por ello, deviene junto a otras
-produciendo relaciones, afirmando su estilo singular y su ritmo.
-
-En un sentido ulterior, Esposito identifica en el dispositivo de la
-persona una zona que desborda y excede su mecanismo. La categoría de
-persona funciona como un operador de dominación biopolítico porque
-exhibe jerarquías del viviente, distribuciones desiguales y
-reificaciones de la corporeidad. Lo que capta la «máquina
-teológica-política» de la persona es un umbral de duplicidad entre la
-persona (capacidad jurídica-artificial) y la producción de su opuesto
-negativo, la cosa (elemento biológico sin valor, parte bestial y animal,
-materia inerte o simplemente no-persona). Elemento de desdoblamiento
-estructural o de asimilación excluyente, esta se asienta sobre una
-lógica que parece articular unidad y división, en dos partes
-asimétricas, esfera del *bíos* y la *zoé* (una sometida a la otra). La
-idea de la persona supone además una deriva tanatopolítica cuyo
-funcionamiento radica en dejar o descartar violentamente aquello que en
-el hombre no se considera persona y en consecuencia se puede destinar a
-la muerte. Es precisamente allí donde el pensador italiano ubica un
-*bíos* impersonal como un campo de contestaciones, en la alteración y
-contaminación de su significado prevaleciente que potencia la apertura
-hacia otras posibilidades de vida. Entre los extremos de la persona y la
-cosa, entre lo humano y lo natural, un foco del análisis genealógico se
-ubica en el vaciamiento del trasfondo humanista, en una larga tradición
-que define al hombre en la distancia y diferencia respecto al género
-animal o en contraposición con una zona de humanidad bestializada. El
-trastocamiento del orden de lo humano y lo animal viene a significar el
-cambio y la metamorfosis, la multiplicidad o pluralidad que permite
-abordar la infinita diferencia entre cada vida singular y al mismo
-tiempo lo preindividual y posindividual en cada uno de los vivientes. La
-potencia inmanente de este *bíos impersonal,* que se reconoce en lo
-neutro (*ne-uter*) de Maurice Blanchot y en la valorización de la esfera
-del «se» de E. Benveniste, se constituye en un plano de interrogación
-sobre la forma, los cuerpos y sus modelos de ordenación y se asocia a
-ese margen móvil de vecindad e intercambio entre vivientes.
 
 **La precariedad es el horizonte insuperable de nuestro tiempo**
 
@@ -374,6 +348,9 @@ decir, se alude a las formas históricas específicas que versan sobre
 relaciones sociales y económicas, de la presencia o ausencia de
 infraestructuras e instituciones que organizan la protección de las
 necesidades corporales.
+
+“palabra”
+
 
 **Zonas ciegas y problemas comunes**
 
@@ -949,7 +926,7 @@ Watson, Janell (2012) “Butler's Biopolitics: Precarious Community”. En
 University Press.
 
 [^1]: The term biopolitics moves away, from the idea of *zoopolitics*,
-which refers to the politics that takes into consideration *zoé*, the undifferentiated totality of the living, animals, humans and non humans. The prevalence of the term *bíos*  over *zoé* is due to the appearance, at the beginning of the XIXth Century of the term "biology", and specifically to Jean-Baptiste Lamarck's (1744-1829) project of a science of living bodies, of the living as living, as Edgardo Castro (2011:19) points out. Fabián Ludueña Romandini (2010) currently reappropiates the idea of *zoopolitics*, as a way of connecting life and politics without relying on an exclusion of *zoé*, but rather by its politization.
+which refers to the politics that takes into consideration *zoé*, the undifferentiated totality of the living, animals, humans and non-humans. The prevalence of the term *bíos*  over *zoé* is due to the appearance, at the beginning of the XIXth Century of the term "biology". The prevalence of *bíos*  is specifically due to Jean-Baptiste Lamarck's (1744-1829) project of a science of living bodies, of the living as living, as Edgardo Castro (2011:19) points out. Fabián Ludueña Romandini (2010) currently reappropriates the idea of *zoopolitics*, as a way of connecting life and politics without relying on the exclusion of *zoé*, but rather by its politicization.
 
 [^2]: A diferencia de Janell Watson (2012) quien encuentra en Butler y
     Esposito una lógica conceptual compartida, que se mantiene
