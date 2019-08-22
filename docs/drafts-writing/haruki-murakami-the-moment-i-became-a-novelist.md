@@ -74,8 +74,6 @@ own little domain. I didn’t have to squeeze onto packed commuter trains,
 or attend mind-numbing meetings, or suck up to a boss who I disliked.
 Instead, I had the chance to meet all kinds of interesting people.
 
-Article continues after advertisement
-
 My twenties were thus spent paying off loans and doing hard physical
 labor (making sandwiches and cocktails, hustling foul-mouthed patrons
 out the door) from morning till night. After a few years, our landlord

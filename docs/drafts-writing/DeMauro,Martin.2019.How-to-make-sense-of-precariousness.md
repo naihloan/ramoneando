@@ -1,5 +1,8 @@
 ---
 title: How to make sense of precariousness? *Bíos*-precarious and sensitive life
+subtitle: ¿Cómo hacer sentido en la precariedad? *Bíos*-precario y vida sensible
+url: http://revistas.pucsp.br/index.php/bakhtiniana/about/submissions#authorGuidelines
+documentclass: scrartcl
 ---
 
 # **¿Cómo hacer sentido en la precariedad? *Bíos*-precario y vida sensible**
@@ -26,7 +29,8 @@ The *bíos*-precarious concept spawns from the conjunction between
 Judith Butler's toolbox in relation to the bodily ontology of precariousness; and
 the crossing in Roberto Esposito's biopolitical path between impersonal life and affirmative biopolitics.
 
-**Keywords:** Biopolitics, Precarity, Judith Butler, Roberto Espósito
+**Keywords:**
+Bíos-precarious, Biopolitics, Precarity, Judith Butler, Roberto Espósito
 
 
 **Resumen**
@@ -51,7 +55,7 @@ Judith Butler en relación a la ontología corporal de la precariedad y el
 cruce en el recorrido biopolítico de Roberto Esposito entre vida
 impersonal y biopolítica afirmativa.
 
-**Palabras Clave:** Biopolítica, Precariedad, Judith Butler, Roberto
+**Palabras Clave:** Bíos-precario, Biopolítica, Precariedad, Judith Butler, Roberto
 Espósito
 
 ## **How to make sense of precariousness? *Bíos*-precarious and sensitive life**
@@ -303,72 +307,65 @@ neutral (*ne-uter*) and in E. Benveniste's appraisal of the sphere of the (onese
 which constitutes an interrogation plane about the forms, bodies and their orientation models,
 and is associated with a mobile margin of vicinity and interchange amongst livings.
 
+**Precariousness is the insurmountable horizon of our time**
 
-**La precariedad es el horizonte insuperable de nuestro tiempo**
+Judith Butler (2006; 2010; 2011; 2017), on her account, names as precarious a social ontology of bodies that
+proposes as an alternative epistemology to the liberal and neo-liberal matrix of the proprietary subject.
+Life's precarity, in this vein, opposes the discrete and walled ontology of possessive individualism.
+Life's precarity, the vulnerable condition of being-with, leads us to ask about the ways in which our societies and our structural dependency to social recognition norms build up what we define as life; and precisely because of that, the social and economic conditions so that it all remains as such.
 
-Por su parte, Judith Butler (2006; 2010; 2011; 2017) nombra alrededor de
-lo precario una ontología social de los cuerpos que se propone como
-epistemología alternativa a la matriz liberal y neoliberal del sujeto
-propietario. Así, frente a la ontología discreta y amurallada del
-individualismo posesivo (*possessive individualism*), la precariedad de
-la vida, la condición vulnerable del ser-con, nos conduce a preguntarnos
-por los modos en que nuestras sociedades y nuestra dependencia
-estructural de las normas sociales de reconocimiento construyen
-definiciones de vida y precisamente por ello, las condiciones sociales y
-económicas para que se mantenga como tal. Frente a la razón neoliberal
-que subyace en la ontología del individualismo posesivo, Butler
-identifica un doble nivel yuxtapuesto y convergente de los procesos de
-precarización: por un lado, *precariedad* (*precariousness)* y
-*desposesión* nombran una condición ontológica-existencial de los
-cuerpos, esa apertura constitutiva, ese estar siempre fuera de sí, el
-estar hecho de lazos y de relaciones con los otros. Esta condición
-implica un cierto reconocimiento del *carácter relacional de nuestra
-existencia* con personas y con un entorno pero también con normas y
-marcos normativos (toda existencia está inserta en un entramado de
-relaciones de poder y no hay vida que exceda al marco normativo sino
-reiteración-iteración y desplazamientos internos al mismo, corrimientos
-o resignificaciones normativas *in situ*). Según Butler nuestra
-existencia posee un carácter relacional, lo que apunta al vínculo con
-redes de interdependencia (social, económica, biológica, ecológica) y
-que permite tanto la supervivencia y la protección como la violencia y
-la desaparición física, el feminicidio y la agresión. Asimismo, el punto
-de partida de esta relacionalidad constitutiva en redes de vinculación
-supone que toda vida humana es fundamentalmente cuerpo y justamente
-porque supone mortalidad, finitud, necesidades físicas y fisiológicas,
-su condición es la de un ser constitutivamente vulnerable, expuesto al
-contacto con otros. Por otro lado, pero en convergencia y yuxtaposición,
-esta condición compartida de la precariedad nos diferencia: algunos
-cuerpos están más expuestos y protegidos que otros. Lo que se produce
-necesariamente es la asignación diferencial de la precaridad
-(*precarity*) o la forma privativa de desposesión (*becoming
-dispossessed)*, categoría que expone la maximización de la
-vulnerabilidad que nos constituye (dimensión frágil y necesaria de
-nuestra interdependencia) pero sujeta a distribuciones diferenciales, es
-decir, se alude a las formas históricas específicas que versan sobre
-relaciones sociales y económicas, de la presencia o ausencia de
-infraestructuras e instituciones que organizan la protección de las
-necesidades corporales.
+Butler opposes the neo-liberal ratio that underlies in possessive individualism's ontology,
+and identifies the second level of juxtaposed and convergent processes of precarization:
+on the one side, *precariousness* and *dispossession* name a bodily ontological-existential condition,
+a constitutive openness that always being out of the self,
+the fact of being made of bonds and relationship to each other.
+This condition implies a precise recognition of the
+*relational characteristic of our existence* with people and with a surrounding as well as with
+norms and normative framings:
+every existence is inserted in a framework of power relations,
+and there is no life that is capable of exceeding the normative framework, but rather
+reiterations-iterations that are internal to it,
+slippages or normative re-significations *in situ*.
 
-“palabra”
+Our existence, according to Butler, has a relational character,
+which aims towards the linkage with interdependent (social, economic, biological, ecological) nets, and
+allows all together survival, protection; as well as violence, physical disappearance, femicide and aggression.
+Likewise, the point of departure of this constitutive relatedness in linking networks
+assumes that all human life is basically bodily and because it assumes
+death, finitude, physical and physiological needs,
+its condition is to be a constitutively vulnerable being,
+exposed to contact with others.
+But on another hand, in convergence and juxtaposition,
+this shared condition of being precarious is what makes us different:
+some bodies are more exposed and protected than others.
+The situation is such that what irremediably happens is
+that precarity is assigned differentially,
+or becoming disposed appears as privative form,
+a category that exposes the maximization of precisely the vulnerability that constitutes who we are
+(a fragile but necessary dimension of our interdependence)
+but which is left to differential distributions, which is to say:
+this means specific historical forms that deal with social and economic relationships,
+about the presence or absence of infra-structures and institutions that organize the protection of bodily needs.
 
 
-**Zonas ciegas y problemas comunes**
+**Blind areas and common problems**
 
-*Bíos*-precario. La cuestión, entonces, vuelve. Es necesario argumentar
-sobre la utilización de esa fórmula conceptual ¿por qué *bíos*-precario?
-Ambos vocablos están en recíproca tensión para indicar algo que no se
-deja nombrar de otra manera. Lo que se descubre en ese punto de
-convergencia radica en la doble valencia del sintagma: de un lado, la
-*pregunta por el viviente* (*bíos*) que está en el centro del
-pensamiento biopolítico y que Espósito inscribe en los términos de un
-tipo de vida impersonal-neutra-anónima por fuera de la silueta de la
-persona, de la forma autoinmunizada del cuerpo y del régimen de la
-cosa-objeto. Pero, como apunta Butler, la pregunta por el viviente se
-dispone al interior mismo del mecanismo o al interior del marco
-normativo en los términos de un desplazamiento interno. En una misma
-línea de significado, la pregunta por el viviente apunta a las
-condiciones de posibilidad (sociales, económicas, políticas) para que se
-mantenga la vida como tal. La línea de indagación que Butler recupera
+*Bíos*-precarious. The issue, then, combes back again.
+We need to argue about why we use this conceptual formula.
+Why *bíos*-precarious?
+Both terms are in mutual tension to point out something that cannot be named in any other way.
+What we can find at the point of convergence is where we find the double valency of the syntagma:
+on the one side, *the question about the living (bíos)*
+which is at the core of the bio-political thought, and which Esposito addresses into the terms of a
+type of impersonal-neutral-anonymous life that goes outside of the person's silhouette,
+out of the auto-immune body's shape, and out of the object-thing regime.
+But Butler points out: the question regarding the living lives in the inside of the mechanism, or at the interior of the normative framework as in inner displacement.
+Under a same current of meaning,the question regarding the living points towards the possibility conditions
+(social, economical, political) so that life can continue going on as is.
+The line of inquiry that Butler reclaims about our structural dependency to social recognition norms;
+
+
+La línea de indagación que Butler recupera
 respecto a nuestra dependencia estructural a las normas sociales de
 reconocimiento y a los modos en que nuestras sociedades construyen
 definiciones de vida. Y en esas definiciones se juegan, precisamente,
@@ -378,6 +375,8 @@ sociales, económicas, ecopolíticas que la hacen sostenible y vivible ?
 Desde este ángulo, la pregunta por el viviente y por sus condiciones de
 posibilidad del viviente se solapan porque apuntan a un mismo eje
 transversal de lo precario.
+
+“palabra”
 
 Por otro lado, frente un legado subterráneo que Esposito identifica con
 la tradición romana-cristiana y que Butler remite a la herencia liberal,
