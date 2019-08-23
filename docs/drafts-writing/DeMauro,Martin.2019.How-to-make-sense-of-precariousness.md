@@ -361,15 +361,12 @@ type of impersonal-neutral-anonymous life that goes outside of the person's silh
 out of the auto-immune body's shape, and out of the object-thing regime.
 But Butler points out: the question regarding the living lives in the inside of the mechanism, or at the interior of the normative framework as in inner displacement.
 Under a same current of meaning,the question regarding the living points towards the possibility conditions
-(social, economical, political) so that life can continue going on as is.
-The line of inquiry that Butler reclaims about our structural dependency to social recognition norms;
+(social, economical, political) so that life can continue going on as is:
+This is the line of inquiry that Butler reclaims about our structural dependency to social recognition norms,
+and the ways in which our societies formulate definitions about what a life is.
 
 
-La línea de indagación que Butler recupera
-respecto a nuestra dependencia estructural a las normas sociales de
-reconocimiento y a los modos en que nuestras sociedades construyen
-definiciones de vida. Y en esas definiciones se juegan, precisamente,
-las *condiciones de posibilidad para que la vida sea vivible* y
+Y en esas definiciones se juegan, precisamente, las *condiciones de posibilidad para que la vida sea vivible* y
 sostenible. ¿Que es una vida y cuales son sus condiciones normativas,
 sociales, económicas, ecopolíticas que la hacen sostenible y vivible ?
 Desde este ángulo, la pregunta por el viviente y por sus condiciones de
@@ -831,6 +828,8 @@ Infobae, 26 de Septiembre de 2018. Versión on
 line:[*https://www.infobae.com/parati/estar-mejor/2018/09/26/tiempo-de-salario-emocional-
 de-que-se-trata-este-nuevo-beneficio-laboral/*](https://www.infobae.com/parati/estar-mejor/2018/09/26/tiempo-de-salario-emocional-de-que-se-trata-este-nuevo-beneficio-laboral/)
 (consultado 16/8/19)
+
+Haraway, Donna (2016) *Staying with the Trouble: Making Kin in the Chthulucen*. Durham: Duke
 
 Laera, Alejandra & Rodriguez, Fermín (2019) “El cuerpo del trabajo”. En
 *AContracorriente.* Vol. 16, Num. 3 (Spring 2019):31-38.
