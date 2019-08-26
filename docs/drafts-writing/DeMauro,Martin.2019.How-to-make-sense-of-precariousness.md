@@ -364,55 +364,39 @@ Under a same current of meaning,the question regarding the living points towards
 (social, economical, political) so that life can continue going on as is:
 This is the line of inquiry that Butler reclaims about our structural dependency to social recognition norms,
 and the ways in which our societies formulate definitions about what a life is.
+And it precisely under these definitions where *the possibility conditions so that life con be liveable* and sustainable appear.
+What is a life? And which are the normative, social, economic, ecopolitical conditions that make it sustainable and liveable?
+From this angle, the question about the living and about its possibility conditions overlap, because they aim to a same transversal axis, along precariousness.
+
+On another hand, against a underground legacy that Esposito identifies with the roman-christian tradition,
+and which Butler refers to as a liberal heritage,
+en both paths we find an unquestioned assumption that cuts across and continuously seals off
+an understanding about what it means to “be-with”, or what are the interdependence relationships with others.
+That is, all of this constitutes the theological-political person's device,
+the theological-biomedical immunity's semantic, and the late liberal matrix of possessive individualism.
+From this perspective, both Butler and Esposito propose relational ontologies for the ex-tactical subject, as for the being-with, but at different levels.
+In Esposito, the subject's projection outside of the self supposes a type of reciprocal relationship that exposes the subject beyond the frontiers of personal property, and even to the other's contagion, or to the *sôma*, which is a constitutive part of *the world's flesh*.
+In Butler we can find an exposition that defines interdependence with others and in the terms of social norms that constitute us.
+The common precariousness is an ontological condition that assumes life's interdependence
+(to other living beings, but also to norms and power relations)
+and the ecstatic character of vulnerable bodies.
+
+At this point appears an outline of a propositive aspect of *bíos*-precario,
+which -at least from this angle-, seems to assign the ecstatic and open, cut across by exterior agents;
+in contrast to the way-of-life that refers mainly to the individual modes, the acts and processes of living.
+Unlike Agamben, the being-with and the interdependence networks are not limited to the individual forms, and the acts of a life inseperable from its forms,
+but rather point out to a expansive process of precariousness, that inflects
+knowledge, experiences and collective areas at heterogeneous levels.
+
+*Bíos*-precario summons Esposito and Butler, it uses a toolbox that can use one line of inquiry that the other doesn't account for:
+a life's ontology (Esposito's impersonal *bíos* is defined over the life norm, departing from the exposition, vital openning and bodily contagion) that is configured as precarious
+(existentially vulnerable, ecstatic, and exposed to others)
+precisely due to a epocal diagnosis, the times of a new neoliberal intensity
+(Butler, 2004 y 2010) and its corresponding process that normalizes precariousness 
+(Lorey, 2016).[^2]
 
 
-Y en esas definiciones se juegan, precisamente, las *condiciones de posibilidad para que la vida sea vivible* y
-sostenible. ¿Que es una vida y cuales son sus condiciones normativas,
-sociales, económicas, ecopolíticas que la hacen sostenible y vivible ?
-Desde este ángulo, la pregunta por el viviente y por sus condiciones de
-posibilidad del viviente se solapan porque apuntan a un mismo eje
-transversal de lo precario.
-
-“palabra”
-
-Por otro lado, frente un legado subterráneo que Esposito identifica con
-la tradición romana-cristiana y que Butler remite a la herencia liberal,
-en ambos recorridos nos encontramos con un presupuesto incuestionado que
-atraviesa y obtura continuamente el entendimiento sobre aquello que es
-el “ser-con” o las relaciones de interdependencia con otros, es decir,
-el dispositivo teológico-político de la persona, la semántica
-teológica-biomédica de la inmunidad y la matriz tardo liberal del
-individualismo posesivo. Desde esta perspectiva, Butler y Espósito
-proponen ontologías relacionales del sujeto ex-táctico y del ser-con
-pero en distintos niveles. En Espósito la proyección del sujeto fuera de
-sí mismo supone una experiencia de la relación recíproca que lo expone
-al contacto más allá de las fronteras de la propiedad personal e incluso
-lo expone al contagio con el otro, o con el *sôma* que es parte
-constitutiva de la *carne del mundo*. En Butler se trata de una
-exposición que se define en los términos de una interdependencia con
-otros y con normas sociales que nos constituyen. La precariedad común
-(*precariousness*) es una condición ontológica que supone la
-interdependencia de la vida (a otros vivientes pero también la
-interdependencia a las normas o a las relaciones de poder) y el carácter
-extático de los cuerpos vulnerables. En este punto se perfila un aspecto
-propositivo del *bíos*-precario que -al menos desde este ángulo- parece
-asignar lo extático y lo abierto, atravesado por agentes exteriores, en
-contraposición a la forma-de-vida que trata ante todo de los modos
-individuales, los actos y procesos del vivir. Al contrario de Agamben,
-el ser-con y las redes de interdependencia no se limitan a los modos
-individuales y los actos de una vida inseparable de sus formas sino que
-apuntan a un proceso expansivo de lo precario, que conjuga saberes,
-experiencias y zonas de lo colectivo en niveles heterogéneos.
-
-*Bíos*-precario convoca a Esposito y Butler, allí donde una caja de
-herramientas asume una interrogación que la otra no considera: una
-ontología de la vida (el *bíos* impersonal de Esposito se define en
-torno a la norma de vida, a partir de la exposición, apertura vital y
-contagio corporal) que se configura como precaria (existencialmente
-vulnerable, extática y expuesta a otros) justamente, por un diagnóstico
-epocal, los tiempos de una nueva intensidad neoliberal (Butler, 2004 y
-2010) y su correspondiente proceso de normalización de la precariedad
-(Lorey, 2016).[^2] Y precisamente por ello, debemos anotar que si bien
+Y precisamente por ello, debemos anotar que si bien
 tanto Butler como Esposito identifican un núcleo común que se conserva
 incuestionado, es a partir de Butler que ese ser-con (*bíos* impersonal)
 podemos denominarlo *bíos*-precario. Y como un juego de espejos
@@ -428,7 +412,7 @@ humanos, normas y marcos normativos.
 
 De este modo, conforme a la articulación entre ambas cajas de
 herramientas, es importante notar que legados y tradiciones privilegian
-cada una, en términos generales, Derrida en el caso de Butler y Deleuze
+cada una, en términos generales, Derrida y Foucault en el caso de Butler y Deleuze
 en la reconstrucción de Espósito. Así como apunta Espósito, el *bíos* es
 un punto de fuga del dispositivo de la persona y de la semántica
 teológica-biomédica de la inmunidad. En Butler se trata de una condición
@@ -449,6 +433,8 @@ reiterativa de los mismos vuelve a perfilarse un desplazamiento hacia la
 facticidad vital o que habilita la vitalización subversiva de la norma.
 
 **Un sismógrafo del tiempo presente**
+
+“palabra”
 
 Este espacio de conexión y ensamblaje conceptual nos permite advertir la
 triangulación en la que se configura el *bíos-*precario a partir de la
@@ -926,14 +912,8 @@ University Press.
 [^1]: The term biopolitics moves away, from the idea of *zoopolitics*,
 which refers to the politics that takes into consideration *zoé*, the undifferentiated totality of the living, animals, humans and non-humans. The prevalence of the term *bíos*  over *zoé* is due to the appearance, at the beginning of the XIXth Century of the term "biology". The prevalence of *bíos*  is specifically due to Jean-Baptiste Lamarck's (1744-1829) project of a science of living bodies, of the living as living, as Edgardo Castro (2011:19) points out. Fabián Ludueña Romandini (2010) currently reappropriates the idea of *zoopolitics*, as a way of connecting life and politics without relying on the exclusion of *zoé*, but rather by its politicization.
 
-[^2]: A diferencia de Janell Watson (2012) quien encuentra en Butler y
-    Esposito una lógica conceptual compartida, que se mantiene
-    “vinculado a los límites biopolíticos de un discurso liberal” en las
-    valencias de los pares bíos/immunitas y precarity/precariouness,
-    nuestro recorrido apuesta por una lectura de complementariedad en
-    una ontología común que desborda el marco (neo)liberal, en donde una
-    caja de herramientas se encastra con la otra, pero solo a partir del
-    diagnóstico crítico y de resistencia al tiempo presente.
+[^2]: Our proposal is unlike Janell Watson (2012), who finds in Butler and Esposito a shared conceptual logic, that is maintained in relationship “linked to the biopolitical limits of a liberal discourse” in the valencies of the pairs: bíos/immunitas and precarity/precariouness.
+We propose, and this is our position, to read a complementarity in a shared ontology that overflows the (neo)liberal framing, in which one conceptual toolbox is embedded with the other, but only after achieving a critical diagnosis and resistance to the present time.
 
 [^3]: En la obra de Butler las menciones manifiestas sobre biopolítica
     son cuanto menos escasas, por tomar un ejemplo, la identificación
