@@ -4,9 +4,16 @@
 \section{\centerline{DOCENCIA %(NO UNIVERSITARIA)
 }} 
 
-    {\sl Profesor} \hfill 2016 | Presente \\
-Centro de Espiritualidad Santa María \hfill [Córdoba. Argentina] \\
-\textsc{Materia: Sociología}
+\vspace{15pt} % Gap between title and text
+
+\begin{itemize} 
+
+    {\sl Profesor de Sociología} \hfill 2016 | Presente \\
+Congreso Argentino de Estudiantes de Ingenieria Industrial %-- Universidad Tecnológica Nacional 
+\hfill UTN [Córdoba. Argentina] \\
+\textsc{De lo Individual a lo Colectivo | Repensando paradigmas %actuales 
+para %construir 
+un futuro sustentable}
 
 %  \item 2016 | Presente. Profesor de instituto [Centro de Espiritualidad Santa María]
 
@@ -70,7 +77,7 @@ Centro de Espiritualidad Santa María \hfill [Córdoba. Argentina] \\
  \item 2019. De Mauro, Martín. ``How to make sense of precariousness? \textit{Bíos}-precarious and sensitive life'', in 
  Bakhtiniana: Revista de Estudos do Discurso - ISSN 2176-4573.
 
- \item 2019. Various authors. \textsc{Libro}: \textit{Sustainable experiences that transform communities. Get inspired and impulse your idea!}
+ \item 2019. Various authors. \textit{Sustainable experiences that transform communities. Get inspired and impulse your idea!}
   [Versión Original Digital, 2017: Amazon (Por Green Drinks)].
   
   \end{itemize}
