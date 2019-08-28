@@ -1,0 +1,23 @@
+" Plug 'echuraev/translate-shell.vim'
+" Plug 'echuraev/translate-shell.vim', { 'do': 'wget -O ~/.vim/trans git.io/trans && chmod +x ~/.vim/trans'  }
+    Bundle 'echuraev/translate-shell.vim'
+
+" Agregar acentos con facilidad
+nnoremap <silent> - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
+:iabbrev </ </<C-X><C-O>
+
+hi IndentGuidesOdd  ctermbg=black
+hi IndentGuidesEven ctermbg=lightgrey
+hi clear SpellBad
+hi SpellBad cterm=bold cterm=underline  ctermfg=yellow " guifg=yellow 
+
+autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.pdf<Enter><Enter>
+autocmd Filetype markdown map <F9> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.html<space>-s<Enter><Enter> " my script for html template!! 
+
+noremap <silent> <leader>t <ESC>:Trans<CR>
+nnoremap <silent> <leader>t :Trans<CR>
+vnoremap <silent> <leader>t :Trans<CR>
+nnoremap <silent> <leader>td :TransSelectDirection<CR>
+vnoremap <silent> <leader>td :TransSelectDirection<CR>
+
+nnoremap <silent> <CR> :nohlsearch<CR><CR>

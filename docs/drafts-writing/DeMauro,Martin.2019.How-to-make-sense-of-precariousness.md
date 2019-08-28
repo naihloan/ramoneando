@@ -321,7 +321,7 @@ a constitutive openness that always being out of the self,
 the fact of being made of bonds and relationship to each other.
 This condition implies a precise recognition of the
 *relational characteristic of our existence* with people and with a surrounding as well as with
-norms and normative framings:
+norms and normative framing:
 every existence is inserted in a framework of power relations,
 and there is no life that is capable of exceeding the normative framework, but rather
 reiterations-iterations that are internal to it,
@@ -350,233 +350,195 @@ about the presence or absence of infra-structures and institutions that organize
 
 **Blind areas and common problems**
 
-*Bíos*-precarious. The issue, then, combes back again.
+*Bíos*-precarious. The issue, then, comes back again.
 We need to argue about why we use this conceptual formula.
 Why *bíos*-precarious?
 Both terms are in mutual tension to point out something that cannot be named in any other way.
 What we can find at the point of convergence is where we find the double valency of the syntagma:
-on the one side, *the question about the living (bíos)*
-which is at the core of the bio-political thought, and which Esposito addresses into the terms of a
+On the one side, *the question about the living (bíos)*
+which is at the core of the biopolitical thought, and which Esposito addresses into the terms of a
 type of impersonal-neutral-anonymous life that goes outside of the person's silhouette,
 out of the auto-immune body's shape, and out of the object-thing regime.
 But Butler points out: the question regarding the living lives in the inside of the mechanism, or at the interior of the normative framework as in inner displacement.
-Under a same current of meaning,the question regarding the living points towards the possibility conditions
-(social, economical, political) so that life can continue going on as is:
+Under the same current of meaning, the question regarding the living points towards the possibility conditions
+(social, economic, political) so that life can continue going on as-is:
 This is the line of inquiry that Butler reclaims about our structural dependency to social recognition norms,
-and the ways in which our societies formulate definitions about what a life is.
-And it precisely under these definitions where *the possibility conditions so that life con be liveable* and sustainable appear.
-What is a life? And which are the normative, social, economic, ecopolitical conditions that make it sustainable and liveable?
-From this angle, the question about the living and about its possibility conditions overlap, because they aim to a same transversal axis, along precariousness.
+and how our societies formulate definitions about what life is.
+And it precisely under these definitions where *the possibility conditions so that life con be livable* and sustainable appear.
+What is life? And which are the normative, social, economic, eco-political conditions that make it sustainable and livable?
+From this angle, the question about the living and its possibility conditions overlap, because they aim to the same transversal axis, along with precariousness.
 
-On another hand, against a underground legacy that Esposito identifies with the roman-christian tradition,
+On another hand, against an underground legacy that Esposito identifies with the Roman-Christian tradition,
 and which Butler refers to as a liberal heritage,
-en both paths we find an unquestioned assumption that cuts across and continuously seals off
+in both paths, we find an unquestioned assumption that cuts across and continuously seals off
 an understanding about what it means to “be-with”, or what are the interdependence relationships with others.
 That is, all of this constitutes the theological-political person's device,
 the theological-biomedical immunity's semantic, and the late liberal matrix of possessive individualism.
 From this perspective, both Butler and Esposito propose relational ontologies for the ex-tactical subject, as for the being-with, but at different levels.
 In Esposito, the subject's projection outside of the self supposes a type of reciprocal relationship that exposes the subject beyond the frontiers of personal property, and even to the other's contagion, or to the *sôma*, which is a constitutive part of *the world's flesh*.
-In Butler we can find an exposition that defines interdependence with others and in the terms of social norms that constitute us.
+In Butler, we can find an exposition that defines interdependence with others and in terms of social norms that constitute us.
 The common precariousness is an ontological condition that assumes life's interdependence
-(to other living beings, but also to norms and power relations)
+(to other living beings, but also norms and power relations)
 and the ecstatic character of vulnerable bodies.
 
-At this point appears an outline of a propositive aspect of *bíos*-precario,
+At this point appears an outline of a propositive aspect of *bíos*-precarious,
 which -at least from this angle-, seems to assign the ecstatic and open, cut across by exterior agents;
-in contrast to the way-of-life that refers mainly to the individual modes, the acts and processes of living.
-Unlike Agamben, the being-with and the interdependence networks are not limited to the individual forms, and the acts of a life inseperable from its forms,
-but rather point out to a expansive process of precariousness, that inflects
-knowledge, experiences and collective areas at heterogeneous levels.
+in contrast to the way-of-life that refers mainly to the individual modes, the acts, and processes of living.
+Unlike Agamben, the being-with and the interdependence networks are not limited to the individual forms, and the acts of a life inseparable from its forms,
+but instead point out to an expansive process of precariousness, that inflects
+knowledge, experiences, and collective areas at heterogeneous levels.
 
-*Bíos*-precario summons Esposito and Butler, it uses a toolbox that can use one line of inquiry that the other doesn't account for:
-a life's ontology (Esposito's impersonal *bíos* is defined over the life norm, departing from the exposition, vital openning and bodily contagion) that is configured as precarious
+*Bíos*-precarious summons Esposito and Butler, it uses a toolbox that can use one line of inquiry that the other doesn't account for:
+a life's ontology (Esposito's impersonal *bíos* is defined over the life norm, departing from the exposition, vital opening and bodily contagion) that is configured as precarious
 (existentially vulnerable, ecstatic, and exposed to others)
-precisely due to a epocal diagnosis, the times of a new neoliberal intensity
-(Butler, 2004 y 2010) and its corresponding process that normalizes precariousness 
-(Lorey, 2016).[^2]
+precisely due to an epochal diagnosis, the times of a new neo-liberal intensity
+(Butler, 2004 y 2010) and its corresponding process that normalizes precariousness (Lorey, 2016).[^2]
+And precisely because of that, we should notice that even if both
+Butler and Esposito identify an unquestioned common core,
+it is with Butler that this being-with (impersonal *bíos*)
+can then be called *bíos*-precarious. And as it goes with an interplay of inverted mirrors,
+it is with Esposito that we can call precarious life as an impersonal *bíos*, or even,
+understand such a precarious life in explicitly biopolitical terms.[^3]
+*Bíos*-precarious appears over the contrasts of affirmative biopolitics and a bodily social ontology
+that is drafted over linkage of contact and contagion
+(a *unicum*) between *bíos* and *zoé*, form and force, modality and substance,
+the dispossessed-precarious life but in terms of gifting relationships and interdependence with human livings;
+and not humans, norms, and normative framing.
+
+In this way, considering the articulation between both tool-boxes,
+it is crucial to notice which legacies and traditions does each prioritize.
+In general terms, Butler attends to Derrida and Foucault; and Esposito builds up through Deleuze.
+Just in the way that Esposito points out, *bíos* is a line of flight from the person's dispositive, as is of the theological-biomedical semantic on immunity.
+In Butler, it is a ontological condition with regards to interdependence with norms and other lives:
+in such a way, no life exceeds this normative frame but rather internal displacements.
+And this is just one side that does not acquire enough relevance in Esposito's affirmative biopolitics:
+every life is saturated, in a greater or lesser extent, by power.
+The excess of life, the capability for variation and empowerment does not presuppose as much of
+a life's overflow in contrast to a norm that tries to break through it,
+or even a norm that tends to subdue life's innovative potency;
+but instead, the assumption is that, in Butler's Derridean interpretation,
+the displacements and subversive re-significations happen at the inside of the norm.
+It is then, in its intrinsically iterative nature where the deviances and excesses undergo.
+Life is from the beginning inserted in mechanisms: of immunity, normativization and personifing, and in their own reiterative reproduction they reach a shape towards a displacement towards vital facticity,
+or that enables the norm's subversive vitalization.
 
 
-Y precisamente por ello, debemos anotar que si bien
-tanto Butler como Esposito identifican un núcleo común que se conserva
-incuestionado, es a partir de Butler que ese ser-con (*bíos* impersonal)
-podemos denominarlo *bíos*-precario. Y como un juego de espejos
-invertidos, es a partir de Esposito que a la vida precaria podemos
-nombrarla como *bíos* impersonal, o más aún, leer esa vida precaria en
-términos explícitamente biopolíticos.[^3] *Bíos*-precario se perfila en
-los contornos de una biopolítica afirmativa y de una ontología social
-corporal que se bosqueja alrededor de un lazo de contacto y contagio
-(este *unicum*) entre *bíos* y *zoé*, forma y fuerza, modalidad y
-sustancia, la vida desposeída-precarizada (*precarity*) pero en
-relaciones de entrega e interdependencia con vivientes humanos y no
-humanos, normas y marcos normativos.
+**A seismograph of the present time**
 
-De este modo, conforme a la articulación entre ambas cajas de
-herramientas, es importante notar que legados y tradiciones privilegian
-cada una, en términos generales, Derrida y Foucault en el caso de Butler y Deleuze
-en la reconstrucción de Espósito. Así como apunta Espósito, el *bíos* es
-un punto de fuga del dispositivo de la persona y de la semántica
-teológica-biomédica de la inmunidad. En Butler se trata de una condición
-ontológica respecto de la interdependencia con las normas y con otras
-vidas, así pues, no hay vida que exceda ese marco normativo sino
-desplazamiento internos. Y este es, precisamente, un aspecto que no
-adquiere suficiente relevancia en la biopolítica afirmativa de Esposito,
-toda vida se halla saturada, en mayor o menor medida, de poder. El
-exceso de vida, la capacidad de variación y de potenciación presuponen
-no tanto un resto de vida en contraste a una norma que la cesura o una
-norma que tiende a sojuzgar la potencia innovadora de la vida sino más
-bien, en la interpretación derrideana de Butler, los desplazamientos y
-resignificaciones subversivas se producen al interior de la norma, en su
-carácter intrínsecamente iterativo es donde se realizan los desvíos y
-excesos. La vida está desde el inicio inserta en los mecanismos
-inmunitarios, normativizantes y personificantes y en la reproducción
-reiterativa de los mismos vuelve a perfilarse un desplazamiento hacia la
-facticidad vital o que habilita la vitalización subversiva de la norma.
+This conceptual assembling and conexion space allows us to notice
+the triangulation in which *bíos*-precarious is configured, coming out of the toolboxes provided by
+Esposito, Butler, and the dimensions that are not present in them.
+In other terms, there are three great vectors that compose the *bíos*-precarious:
+Esposito's affirmative biopolitics,
+Butler's corporeal ontology,
+and a glimpse at an epochal dimension,
+all of which together, settle the conditions to think precariousness as ontology.
+The syntagma *bíos*-precarious operates like a coagulator for imaginaries,
+figurations, languages and images, as a cultural mechanism to condense meanings,
+but also as a conceptual and systematic tool with which it is possible to trace a seismograph of the present time.
+We are referring here to the analytical treatment with the works and cultural material that think about the present,
+the responsive and reformulating ways that culture brings forward (De Mauro Rucovsky, 2018; 2019).
+The matter is about what that present is:
+What is this present about in which we all, in one way or another, belong?
+What does it exactly mean when we talk about the present time, «today», now?
+What is the difference that today brings in comparison to yesterday?
+What characterizes it in its analytical description and diagnostic test,
+but in its contradictions as well as confrontations?
 
-**Un sismógrafo del tiempo presente**
+It is about a relationship with the present time that, in the wake of a
+Foucaultian reading on Kant (1983-1984), means a shift in the way we look at ourselves.
+One question points out to the other:
+What is my actuality?
+And what impact does it have that I speak with it?
+What is the current range of our experiences?
+And what is the current range of possible experiences?
+The attitude and will to assign to oneself the own present time as a duty,
+is what Michel Foucault calls *current ontology*, following the illuminist inspiration of Kant's texts.
+This expression labels a way of relating ontologically with and against the current time,
+a duty and a type of analytical attitude (an *ethos*, or continual critique) of the singular time,
+upon that historical way of being in which writing happens and the reason to do so.
+It is about a reflexive relationship with the present time, that aims not only to the vertiginous movement of what happens (a transitory time, of the fugitive and contingent) nor to the tight forces that cross it through;
+but mainly rather it refers to the permanent critique of one's own story,
+about the choice about what we are, and which in its latent potency
+can reveal and liberate that which we could be.
+In this sense, *bíos*-precarious emerges in the reading operations with cultural materials that demarcate a present time defined greatly by neo-liberalism, by the fall of the modernization and progress' dreams,
+indeterminacy and fluctuation, the lack of guarantees, or projections, and the deflection of teleological temporalities.
 
-“palabra”
+Our time is when precariousness becomes perceptible, and we make sense among precarity:
+Anna Tsing (2015: 20) writes that “*our time is ripe for sensing precarity*”.
+Or in other terms, precariousness is not the exception among how things work in a well-balanced world but rather
+the *ontological condition of our time* (Anna Tsing, 2015:20).
+There is a part of this epochal sense in *bíos*-precarious as a category:
+this is what grounds the conditions to think about *precariousness as an ontology of the current time*.
+Indeed, this is what happens when critically analyzing cultural materials (De Mauro Rucovsky, 2018; 2019)
+or as exposed above in the first two scenes (referring to the Health Secretary and the emotional salary):
+there is an opening up to a field of formal experimentations, but also to
+alternative epistemologies when apprehending the present as such,
+in its struggle fields and tension lines, in the ways in which it is possible to transform,
+transgress and imagine potentialities.
+Culture and aesthetics have, then, a capability to condense and capture.
+And that capability is measured here around the meanings of what this formula entails:
+*bíos*-precarious, a ground in which precarious life becomes a disputed threshold,
+where ways of agency spawn around politization and critical essay.
 
-Este espacio de conexión y ensamblaje conceptual nos permite advertir la
-triangulación en la que se configura el *bíos-*precario a partir de la
-caja de herramientas de Espósito, Butler y las dimensiones que no están
-presentes en estos. En otros términos, tres grandes vectores componen
-*bíos*-precario: la biopolítica afirmativa de Espósito, la ontología
-corporal de Butler y una dimensión epocal que se vislumbra y que en
-conjunto, sientan las condiciones para pensar lo precario como
-ontología.
+An expansive field of formal experimentations opens up through *bíos*-precarious:
+about what it means to “make live” and its counterpart, the ways of managing the “to make die”,
+how to understand a life and how to make it recognizable,
+what are the conditions under which a life can be sustainable (*liveability*),
+how to make life or a life livable, [^4]
+what are the (human and non human) networks to which lives are given, and where they are sustained,
+what pre-individual and impersonal living forces have place,
+and what is the variation and excess potencies that inhabit life,
+or which are the thresholds: unthought of, irrepresentable, and of what is possible from corporeal vulnerability.
 
-El sintagma *bíos*-precario funciona como coagulador de imaginarios,
-figuraciones, lenguajes e imágenes, como mecanismo cultural de
-condensación de sentidos, pero también es un instrumento conceptual y
-sistemático a través del cual delinear un sismógrafo del tiempo
-presente. Aquí nos referimos al trabajo analítico con aquello que las
-obras y los materiales culturales piensan en el presente, los modos de
-contestación y reformulación que la cultura trae a escena (De Mauro
-Rucovsky, 2018; 2019). La cuestión se refiere a lo que es ese presente:
-¿qué es pues este presente al que, de uno u otro modo, pertenecemos?
-¿Qué quiere decir exactamente eso que llamamos el presente, el «hoy», el
-ahora? ¿Qué diferencia introduce el hoy en relación con el ayer? ¿Qué lo
-caracteriza en su descripción análitica y su prueba diagnóstica pero
-también en sus contradicciones y enfrentamientos? Se trata de una
-relación con el presente que, en la estela de la relectura foucaultiana
-de Kant (1983-1984) significa un cambio en la mirada sobre nosotros
-mismos. Una pregunta señala a la otra, ¿cuál es mi actualidad? y ¿qué
-produce el hecho de que yo hable de ella? ¿cuál es el campo actual de
-nuestras experiencias? y ¿cuál es el campo actual de las experiencias
-posibles? La actitud y la voluntad de asignarse el propio presente como
-tarea es lo que Michel Foucault denomina *ontología de la actualidad*
-siguiendo la inspiración iluminista de los escritos kantianos. Esta
-expresión designa un modo de relacionarse ontológicamente con y frente a
-la actualidad, una tarea y un tipo de actitud analítica (*ethos* o
-crítica permanente) del momento singular, de ese modo de ser histórico
-en el que se escribe y por causa del que se escribe. Se trata de
-relación reflexiva con el presente que apunta no sólo al movimiento
-vertiginoso de lo que ocurre (tiempo de lo transitorio, fugitivo y
-contingente) ni a las líneas de fuerza que lo atraviesan sino sobre
-todo, se refiere a una crítica permanente de la propia historia, de la
-decisión sobre aquello que somos y que en su potencialidad latente puede
-desvelar y liberar aquello que podríamos ser. En este sentido,
-*bíos*-precario emerge en las operaciones de lectura con materiales
-culturales que delinean un tiempo presente definido en gran medida por
-el neoliberalismo, por la caída de los sueños de modernización y
-progreso, la indeterminación y la fluctuación, la falta de garantías, de
-proyecciones y el desfondamiento de temporalidades teleológicas. Nuestra
-época es el momento que percibe y hace sentido en la precariedad, *our
-time is ripe for sensing precarity* escribe Anna Tsing (2015: 20). O de
-otro modo, la precariedad no es la excepción en el funcionamiento
-equilibrado del mundo y de las cosas sino la *condición ontológica de
-nuestro tiempo* (Anna Tsing, 2015:20). Algo de lo epocal que se piensa
-desde la categoría de *bíos*-precario, sienta las condiciones para
-pensar *lo precario como ontología* *de la actualidad*. En efecto, sobre
-el análisis crítico de materiales culturales (De Mauro Rucovsky, 2018;
-2019) o como en las dos escenas iniciales (del Secretario de Salud y el
-salario emocional) se abre un campo de experimentaciones formales pero
-también epistemologías alternativas en la captura del presente como tal,
-en su campo de fuerzas y líneas en tensión, en los modos de transformar,
-transgredir e imaginar potencialidades. Y esa capacidad de condensación
-y de captura que la cultura y la estética producen, aquí se mide en
-torno a los sentidos de lo que significa esta fórmula, *bíos*-precario,
-ese terreno en el que la vida precaria se vuelve un umbral de disputa,
-de politización y de ensayo crítico sobre los modos de agenciamiento.
+The *bíos*-precarious matter and its place in culture implies a rethinking of the ways in which culture,
+philosophy, and cultural critique -but also the knowledge that is produced immanently with aesthetic materials-,
+“thinks about and responds to an historical horizon defined greatly by biopolitics” (Giorgi, 2014:17)
+and precarity (Butler, 2004; Standing, 2011; Lorey, 2012).
+And to tackle such figure, tautological by definition
+-life is from the start: precarious, finite, contingent and vulnerable-,
+we will consider the inquiry about the matter of *bíos* and precariousness that acquired increasing relevance in philosophical and cultural critique.
+But there is also trouble in the lexicon itself,
+the conceptual syntagma *bíos*-precarious in the horizons of biopolitics and precarity:
+what are the possibility conditions for the precarized livings?
+What is this transversal condition that illuminates the living's general dimensions and that we call
+*bíos*-precarious?
+In which way are these two ideas related, these two critical diagnosis,
+and what is there relevance to think about the present, the time of what is present?
+Is there a mutual implication relationship?
+And to be more exact:
+what is the specificity about precariousness as a concept, compared to
+biopolitics' logic in a present time marked by the openly consolidating neoliberal program?
 
-En torno al *bíos*-precario se abre un campo expansivo de
-experimentaciones formales acerca de qué es “hacer vivir” y su
-contracara, los modos de gestionar el “hacer morir”, cómo aprender una
-vida y cómo hacerla reconocible, cuáles son las condiciones de
-sostenibilidad (*liveability*) de una vida, cómo hacer vivible una vida
-o la vida,[^4] cuáles son las redes (humanas y no-humanas) a las que
-están entregadas las vidas y en las cuales se sostienen, qué fuerzas
-preindividuales e impersonales de lo viviente tienen lugar y cuál es la
-potencia de variación y de exceso que habita en la vida o cuáles son los
-umbrales de lo impensado, de lo irrepresentable y de lo posible desde la
-vulnerabilidad corporal.
+This is why it is convenient to ask if it is a sole concept
+working with two coordinated terms where both expressions may appear as synonyms, or if rather
+it has a different semantic value. And if this is the case,
+what does this difference consist of, and which is the strategic sense of its conjunction.
+Rather than a redundancy, *bíos*-precarious situates itself in a triangulation that unites and relates both analytical apparatus, Butler and Esposito, but also into a knowledge that is produced from different critical analysis,
+aesthetic and cultural materials.
+We are referring to a toolbox that is built over the immanent complementarity of their conceptual practices,
+but *bíos*-precarious is also the path to think about a shared blind spot, at certain aspects and levels,
+such as temporality and the epochal matter, the animical and affective regime (De Mauro Rucovsky, 2019a; 2019b),
+the non human and the contamination and devastation eco-systemic contexts (De Mauro Rucovsky, 2018a; 2018b),
+the working with aesthetic materials, and the formal operations that are not considered enough,
+but also regarding work, poverty, and class indicators (De Mauro Rucovsky, 2016).
 
-La cuestión del *bíos*-precario y su lugar en la cultura implica
-repensar el modo en que la cultura, la filosofía y la crítica cultural
--pero también el saber que se produce inmanente a los materiales
-estéticos-, “piensa y contesta un horizonte histórico definido en gran
-medida por la biopolítica” (Giorgi, 2014:17) y la precariedad (Butler,
-2004; Standing, 2011; Lorey, 2012). Y para abordar esa figura, en
-principio tautológica -la vida es, desde el inicio, precaria, finita,
-contingente y vulnerable-, vamos a considerar la interrogación sobre la
-cuestión del *bíos* y de la precariedad que ha adquirido relevancia
-creciente en la crítica filosófica y la crítica cultural. Pero también
-el problema reside en el léxico mismo, el sintagma conceptual
-*bíos-precario* en el horizonte de la biopolítica y la precariedad:
-¿cuáles son las condiciones de posibilidad de los vivientes
-precarizados? ¿Qué es esa condición transversal que ilumina dimensiones
-generales del viviente y que denominamos *bíos*-precario? ¿De qué modo
-se vinculan estas dos nociones, estos diagnósticos críticos, y cuál es
-su relevancia para pensar el presente, el tiempo de lo presente? ¿Acaso
-una relación de mutua implicancia? Y para ser más precisos, ¿cuál es la
-especificidad de la categoría de precariedad respecto de la lógica
-biopolítica en un presente marcado por el afianzamiento neoliberal a
-cielo abierto?
+Finally, the conceptual tie in *bíos*-precarious inhabits in a generalized estranging state that seems to function as a privileged area for inquiries in culture.
+Effectively: what do literature and culture know about new ways of subjectivation and ways of life for which work and poverty as places where identities and projects stopped being a measure and substance of the social? (Laera & Rodríguez, 2019:33).
+What culture and literature are declaring refers to the decomposition of the fordist type of work universe
+and the associated cultural grammar related to poverty but whose contents do not attain simbolization.
+In this same sense, *bíos*-precarious has not been the other side of poverty and work, but rather that,
+departing from the neo-liberal inflection, precarity works as a sensor of the incipient displacement:
+work loses track as a social grammar because, precisely, to have a job does not place the person into a given social level anymore, rather having a job can be compatible with living in poverty.
+Here, the figure of the *working poor* is the sign that brings new senses to the surface:
+it is different from the common stability of the industrial proletarian
+(at salaries level, but also as a social clasifier) and it refers to
+the “structural and organizational fragmentation of the formally employed class” (Pacheco, 2019:169),
+but it also points towards the adaptations: of expectation, and vital will in terms of a permanent rotation,
+the lack of foreseeable futures, or social progress narratives, and even more,
+pointing towards an increasing volatility and labor instability (Standing, 2014:8).[^5]
 
-Por eso es conveniente preguntarse si se trata de un único concepto
-mediante dos términos coordinados donde ambas expresiones resultan
-sinónimas o si en cambio su valor semántico es diferente y, en ese caso,
-en qué consiste la diferencia y cuál es el sentido estratégico de su
-conjunción. Antes que una redundancia, *bíos*-precario se sitúa en la
-triangulación que une y vincula ambos aparatos analíticos, Butler y
-Esposito pero también en el conocimiento que se produce desde distintos
-análisis críticos, materiales estéticos y culturales. Se trata de una
-caja de herramienta construida sobre la complementariedad inmanente de
-sus prácticas conceptuales, pero también *bíos*-precario es la vía para
-pensar en el punto ciego compartido, en determinados aspectos y niveles,
-tales como la temporalidad y la cuestión epocal, el régimen anímico y
-afectivo (De Mauro Rucovsky, 2019a; 2019b), lo no-humano y los contextos
-de contaminación y devastación del ecosistema (De Mauro Rucovsky, 2018a;
-2018b), el trabajo con materiales estéticos y las operaciones formales
-que no son lo suficientemente consideradas pero también respecto al
-trabajo, la pobreza y los indicadores de clase (De Mauro Rucovsky,
-2016).
 
-Por último, el nudo conceptual de *bíos*-precario habita en un estado de
-extrañamiento generalizado que parece funcionar como una zona
-privilegiada de las indagaciones de la cultura. En efecto, ¿qué sabe la
-literatura y la cultura acerca de los nuevos modos de subjetivación y
-formas de vida para las cuales el trabajo y la pobreza como lugar donde
-se forjan identidades y proyectos dejó de ser la medida y sustancia de
-lo social? (Laera & Rodríguez, 2019:33). Aquello que enuncian la cultura
-y la literatura se refiere a la descomposición del universo del trabajo
-fordista y su gramática cultural asociada a la pobreza pero cuyo
-contenido no logra ser simbolizado. En este mismo sentido,
-*bíos*-precario no ha sido la otra cara de la pobreza y del trabajo sino
-que, a partir de la inflexión neoliberal, lo precario funciona como
-sensor de un desplazamiento incipiente: el trabajo pierde pregnancia en
-cuanto gramática de lo social porque, precisamente, tener trabajo ya no
-coloca a la persona en un determinado nivel social, sino que tener
-trabajo puede ser compatible con vivir en la pobreza. Aquí la figura de
-*working poor* (trabajador pobre) es el signo que trae a la superficie
-nuevos sentidos que, a diferencia de la estabilidad común del proletario
-industrial (a nivel de salario pero también en cuanto clasificador
-social) se refiere a la “fragmentación estructural y organizacional de
-la clase formalmente ocupada” (Pacheco, 2019:169) pero también apunta a
-la adaptación de las expectativas y ánimos vitales en términos de la
-rotación permanente, la falta de futuros previsibles o narrativas de
-progreso social y más aún, apunta a una creciente volatilidad e
-inestabilidad laboral (Standing, 2014:8).[^5]
 
 *Bíos*-precario tampoco se reduce, en este sentido, a las nuevas
 subjetividades, a una nueva clase o un indicador social sea el
@@ -909,39 +871,26 @@ Watson, Janell (2012) “Butler's Biopolitics: Precarious Community”. En
 *Theory & Event* , Vol. 15 , Iss. 2; 2012 Baltimore: Johns Hopkins
 University Press.
 
-[^1]: The term biopolitics moves away, from the idea of *zoopolitics*,
-which refers to the politics that takes into consideration *zoé*, the undifferentiated totality of the living, animals, humans and non-humans. The prevalence of the term *bíos*  over *zoé* is due to the appearance, at the beginning of the XIXth Century of the term "biology". The prevalence of *bíos*  is specifically due to Jean-Baptiste Lamarck's (1744-1829) project of a science of living bodies, of the living as living, as Edgardo Castro (2011:19) points out. Fabián Ludueña Romandini (2010) currently reappropriates the idea of *zoopolitics*, as a way of connecting life and politics without relying on the exclusion of *zoé*, but rather by its politicization.
+[^1]: The term biopolitics moves away, from the idea of *zoo-politics*,
+which refers to the politics that takes into consideration *zoé*, the undifferentiated totality of the living, animals, humans, and non-humans. The prevalence of the term *bíos*  over *zoé* is due to the appearance, at the beginning of the XIXth Century of the term "biology". The prevalence of *bíos*  is precisely due to Jean-Baptiste Lamarck's (1744-1829) project of a science of living bodies, of the living as living, as Edgardo Castro (2011:19) points out. Fabián Ludueña Romandini (2010) currently reappropriates the idea of *zoo-politics*, as a way of connecting life and politics without relying on the exclusion of *zoé*, but rather by its politicization.
 
-[^2]: Our proposal is unlike Janell Watson (2012), who finds in Butler and Esposito a shared conceptual logic, that is maintained in relationship “linked to the biopolitical limits of a liberal discourse” in the valencies of the pairs: bíos/immunitas and precarity/precariouness.
+[^2]: Our proposal is unlike Janell Watson's (2012), who finds in Butler and Esposito a shared conceptual logic, maintaining a relationship “linked to the biopolitical limits of a liberal discourse” in the valencies of the pairs: bíos/immunitas and precarity/precariousness.
 We propose, and this is our position, to read a complementarity in a shared ontology that overflows the (neo)liberal framing, in which one conceptual toolbox is embedded with the other, but only after achieving a critical diagnosis and resistance to the present time.
 
-[^3]: En la obra de Butler las menciones manifiestas sobre biopolítica
-    son cuanto menos escasas, por tomar un ejemplo, la identificación
-    con las ciencias de la vida, el vitalismo y el racismo de estado en
-    *Marcos de Guerra*. La misma Butler reconoce su deuda respecto de
-    este vasto campo de indagaciones (Soley-Beltran & Preciado, 2007).
-    No obstante, es posible rastrear una clave de lectura o un
-    procedimiento biopolítico en Butler en su interés por pensar la
-    regulación, los límites de la vida y hasta la pregunta por las
-    condiciones sociales y económicas que mantienen la vida. El trabajo
-    de Eduardo Mattio (2017) “Gubernamentalidad y agencia resistente.
-    Consideraciones biopolíticas en la obra reciente de Judith Butler”
-    resulta fundamental en esta línea de indagación.
+[^3]: In Butler's work the explicit mentions to biopolitics are at least scarce.
+To take an example: the identification with the life sciences, vitalism, and State racism in *Frames of War*.
+Butler herself recognizes her debt with this vast field of research (Soley-Beltran & Preciado, 2007).
+But despite this, it is possible to trace a reading code or a biopolitical procedure in her interest in thinking the adjustment, life's limits and even the question about the social and economic conditions that sustain life.
+Eduardo Mattio's work (2017) “Governmentality and resistant agency. Biopolitical considerations in Judith Butler's recent work” turns out to be a key piece in this line of inquiry.
 
-[^4]: La oscilación entre *una* vida y *la* vida («la vida como tal»)
-    marca un punto de clivaje en la interpretación biopolítica de
-    Butler. Más allá de las referencias explícitas de la autora de lo
-    que se trata no es tanto de la especificidad ontológica de la vida
-    que Butler (en *Marcos de guerra*, por ejemplo) identifica con la
-    pregunta por el *bíos* del animal respecto del humano (derechos
-    animales), o el ser vivo respecto de lo que no lo es (feto, embrión
-    o derecho a la interrupción) sino de la inestabilidad y movilidad de
-    la categoría misma. En este sentido, la pregunta por *una vida*, por
-    las condiciones para que una vida sea vivible y digna de ser
-    llorada, su capacidad de reconocimiento en cuanto precaria va de la
-    mano de un entendimiento relacional y modal de la vida, esto es, la
-    apuesta por una biopolítica afirmativa, una norma de la vida
-    impersonal y neutra, una vida en su singularidad y diferencia.
+[^4]: The oscilation between *a* life and *life* («life as such»)
+marks a cleavage point in Butler's biopolitical interpretation.
+Beyond the explicit references that the author uses,
+the matter is not so much about the life's ontological specificity that Butler (in *Frames of War*, por instance)
+identifies with the question about animal's *bíos* compared with humans (animal rights),
+or the living being compared to what is not (a fetus, an embryo, or interruption rights);
+but rather about the category's own instability and mobility.
+In this sense, the question about *a life*, about the conditions under which a life can be livable and worthy of being cried for, its capability for being recognized as precarious goes hand in hand with a relational and modal understanding of life. That is, a wager towards an affirmative biopolitics, an impersonal and neutral life norm, a life in its singularity and difference.
 
 [^5]: En el imaginario industrial-fordista el trabajo es una figura de
     estabilidad y permanencia que permite el ascenso social y que
