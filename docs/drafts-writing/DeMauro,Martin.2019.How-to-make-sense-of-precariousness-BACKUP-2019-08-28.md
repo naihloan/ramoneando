@@ -30,7 +30,7 @@ Judith Butler's toolbox in relation to the bodily ontology of precariousness; an
 the crossing in Roberto Esposito's biopolitical path between impersonal life and affirmative biopolitics.
 
 **Keywords:**
-Bíos-precarious, Biopolitics, Precarity, Judith Butler, Roberto Esposito
+Bíos-precarious, Biopolitics, Precarity, Judith Butler, Roberto Espósito
 
 
 **Resumen**
@@ -56,7 +56,7 @@ cruce en el recorrido biopolítico de Roberto Esposito entre vida
 impersonal y biopolítica afirmativa.
 
 **Palabras Clave:** Bíos-precario, Biopolítica, Precariedad, Judith Butler, Roberto
-Esposito
+Espósito
 
 ## **How to make sense of precariousness? *Bíos*-precarious and sensitive life**
 
@@ -211,7 +211,7 @@ defined mainly by its physical vulnerability and its potential of being damaged,
 finite and contingent condition.
 But specific paths undertaken by the cultural critique in the past decades bring to surface an epochal dimension,
 not only a political logic, or a governmental rationality
-(what Foucault described as the neo-liberal governmentality),
+(what Foucault described as the neoliberal governmentality),
 a corporeal life signaled by the mutual exposition and vulnerability,
 or the processes of dispossession and expropriation that damages such condition
 (Athanasiou & Butler, 2013); but rather a precarious life, a *bíos*-precarious which opens
@@ -904,7 +904,7 @@ but at the same time places focus onto conducts,
 gestures, physiognomies and bodily features of the racialized otherness,
 the sub-human, the in-human, the beast-like and the zoological.
 Nonetheless, what happens in literature and contemporary art when work and poverty become unrecognizable
-because the ways in which reality and meaning are produced have been transformed under the neo-liberal landscape?
+because the ways in which reality and meaning are produced have been transformed under the neoliberal landscape?
 Unlike the violence that inscribes poverty to radical distance,
 precarity illuminates physical proximity of the contagious and adjacent that begins to filter and permeate with new ways into the social landscape.
 In other words, if “the poor is always the other; the precarious is, in change, the messenger of new insecurity from which I am not, nor will I ever be, well enough protected” (Giorgi, 2019: 70).

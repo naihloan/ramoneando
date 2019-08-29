@@ -1,12 +1,21 @@
 ---
 title: How to make sense of precariousness? *Bíos*-precarious and sensitive life
 subtitle: ¿Cómo hacer sentido en la precariedad? *Bíos*-precario y vida sensible
+author: Martín De Mauro Rucovsky
+translator: Benjamín Juárez
+date: \today
+papersize: a4
+documentclass: article
+header-includes:
+    - \usepackage{multicol}
+    - \newcommand{\hideFromPandoc}[1]{#1}
+    - \hideFromPandoc{
+        \let\Begin\begin
+        \let\End\end
+      }
 url: http://revistas.pucsp.br/index.php/bakhtiniana/about/submissions#authorGuidelines
 documentclass: scrartcl
 ---
-
-# **¿Cómo hacer sentido en la precariedad? *Bíos*-precario y vida sensible**
-
 
 **Abstract**
 
@@ -57,6 +66,9 @@ impersonal y biopolítica afirmativa.
 
 **Palabras Clave:** Bíos-precario, Biopolítica, Precariedad, Judith Butler, Roberto
 Esposito
+
+
+\Begin{multicols}{2}
 
 ## **How to make sense of precariousness? *Bíos*-precarious and sensitive life**
 
@@ -136,18 +148,17 @@ Which are the possible conditions of the precarized living, of the *bíos*-preca
 How can we account these vectors and modulations, as well as the epochal dimension
 or of the historical present time which codifies a life?
 
-
 **Biopolitics is the insurmountable horizon of our time**
 
-Muita coisa não posse te contar.
-
-Não vou ser autobiográfica.
-
-Quero ser ‘bio’.
-
-Escrevo ao correr das palavras
-
-Clarice Lispector - *Água viva* (1973)
+> Muita coisa não posse te contar.
+> 
+> Não vou ser autobiográfica.
+> 
+> Quero ser ‘bio’.
+> 
+> Escrevo ao correr das palavras
+> 
+> Clarice Lispector - *Água viva* (1973)
 
 Biopolitics is a heterogeneous research field, it has diffuse limits
 and is in constant expansion. Biopolitics involves a broad set of studies
@@ -560,8 +571,9 @@ who are those that fit, or who do the precariat, cognitariat, povertariat name?
 What novelty signs do they carry through, and what other things to they mobilize?
 What is their epistemological reach and ontological malleability?
 
+\End{multicols}
 
-**Bibliografía**
+**Bibliography**
 
 AAVV (2012) “Precarity Talk. A virtual Roundtable with Laurent Berlant,
 Judith Butler, Bojana Cvejić, Isabell Lorey, Jasbir Puar, and Ana
@@ -612,7 +624,7 @@ lloradas*. Buenos Aires: Paidós, 2010.
 
 Butler, Judith (2011) “For and Against Precarity”. En *TIDAL: Occupy
 Theory* Vol 1. Versión on line disponible:
-https://occupyduniya.files.wordpress.com/2011/12/tidal\_occupytheory.pdf
+<https://occupyduniya.files.wordpress.com/2011/12/tidal\_occupytheory.pdf>
 (consultado 1/6/18)
 
 Butler, Judith; Athanasiou, Athena (2013). *Dispossession: the
