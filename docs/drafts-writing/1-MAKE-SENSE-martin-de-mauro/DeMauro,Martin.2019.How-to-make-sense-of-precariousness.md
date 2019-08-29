@@ -4,9 +4,10 @@ subtitle: ¿Cómo hacer sentido en la precariedad? *Bíos*-precario y vida sensi
 author: Martín De Mauro Rucovsky
 translator: Benjamín Juárez
 date: \today
-papersize: a4
 documentclass: article
+papersize: a4
 header-includes:
+    - \usepackage[margin=0.97in]{geometry}
     - \usepackage{multicol}
     - \newcommand{\hideFromPandoc}[1]{#1}
     - \hideFromPandoc{
@@ -123,15 +124,15 @@ And even further, such is at the same time both the blind spot and space of conc
 the paths in biopolitics that have not yet considered the processes of precarization of life;
 and in the same vein, the theorizations about the precarious condition that have not been
 thought about in strictly biopolitical terms.
+
 We call this conceptual knot: *bíos*-precarious.
 The *bíos*-precarious concept arises from the conjunction between
 Judith Butler's toolbox in relation to the bodily ontology of precariousness; and
 the crossing in Roberto Esposito's biopolitical path between impersonal life and affirmative biopolitics.
-
 There are many points of divergence between Butler's and Esposito's ponderations indeed,
 but perhaps there are even more points of convergence.
 We want to highlight two operations with this remark:
-both of Butler's and Esposito's corporeal ontologies well as their affirmative biopolitics;
+both of Butler's and Esposito's corporeal ontologies as well as their affirmative biopolitics;
 because they allow a delimitation for this way precarious way of life and the relationships between
 *bíos*, culture and politics surrounding the question about the present time:
 Up to which degree is the current time crossed through by precariousness and biopolitics?
@@ -251,7 +252,7 @@ in the way of a vicious cycle, produces it (Moyano, 2019: 294).
 But biopolitics is also characterized in the conceptual development of his thought,
 in a wager in favor of minor biopolitics (Agamben, 2003)
 which directs attention to a life that is inseparable from its forms,
-or a life that is cannot be isolated as a stripped life.
+or a life that cannot be isolated as a stripped life.
 In other terms, every life is already a way-of-life that is about, primarily,
 individual ways, living acts, and processes that are life and imagination possibilities,
 of common potencies (*General Intellect*).
@@ -421,7 +422,7 @@ it is crucial to notice which legacies and traditions does each prioritize.
 In general terms, Butler attends to Derrida and Foucault; and Esposito builds up through Deleuze.
 Just in the way that Esposito points out, *bíos* is a line of flight from the person's dispositive, as is of the theological-biomedical semantic on immunity.
 In Butler, it is a ontological condition with regards to interdependence with norms and other lives:
-in such a way, no life exceeds this normative frame but rather internal displacements.
+in such a way, no life exceeds this normative frame but there are rather internal displacements.
 And this is just one side that does not acquire enough relevance in Esposito's affirmative biopolitics:
 every life is saturated, in a greater or lesser extent, by power.
 The excess of life, the capability for variation and empowerment does not presuppose as much of
@@ -444,6 +445,7 @@ Esposito's affirmative biopolitics,
 Butler's corporeal ontology,
 and a glimpse at an epochal dimension,
 all of which together, settle the conditions to think precariousness as ontology.
+
 The syntagma *bíos*-precarious operates like a coagulator for imaginaries,
 figurations, languages, and images, as a cultural mechanism to condense meanings,
 but also as a conceptual and systematic tool with which it is possible to trace a seismograph of the present time.
