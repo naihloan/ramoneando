@@ -1,0 +1,1010 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.007  000.007: --- VIM STARTING ---
+000.142  000.135: Allocated generic buffers
+000.179  000.037: locale set
+000.200  000.021: GUI prepared
+000.201  000.001: clipboard setup
+000.204  000.003: window checked
+000.657  000.453: inits 1
+000.713  000.056: parsing arguments
+000.715  000.002: expanding arguments
+000.734  000.019: shell init
+001.005  000.271: Termcap init
+001.051  000.046: inits 2
+001.211  000.160: init highlight
+001.608  000.287  000.287: sourcing /usr/share/vim/vim80/debian.vim
+001.658  000.404  000.117: sourcing $VIM/vimrc
+002.049  000.083  000.083: sourcing /home/nilon/.vimrc.before
+002.434  000.030  000.030: sourcing /usr/share/vim/vim80/ftoff.vim
+002.810  000.278  000.278: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle.vim
+003.149  000.222  000.222: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle/config.vim
+142.740  140.643  140.113: sourcing /home/nilon/.vimrc.bundles
+172.495  000.045  000.045: sourcing /home/nilon/.vim/bundle/vim-fugitive/ftdetect/fugitive.vim
+172.750  000.102  000.102: sourcing /home/nilon/.vim/bundle/neosnippet/ftdetect/neosnippet.vim
+173.017  000.171  000.171: sourcing /home/nilon/.vim/bundle/vim-twig/ftdetect/twig.vim
+173.423  000.285  000.285: sourcing /home/nilon/.vim/bundle/vim-json/ftdetect/json.vim
+173.543  000.061  000.061: sourcing /home/nilon/.vim/bundle/vim-less/ftdetect/less.vim
+173.799  000.203  000.203: sourcing /home/nilon/.vim/bundle/vim-javascript/ftdetect/javascript.vim
+174.127  000.269  000.269: sourcing /home/nilon/.vim/bundle/vim-jst/ftdetect/jst.vim
+174.507  000.301  000.301: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim
+174.648  000.114  000.114: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/vim-literate-coffeescript.vim
+174.980  000.235  000.235: sourcing /home/nilon/.vim/bundle/vim-haml/ftdetect/haml.vim
+175.189  000.121  000.121: sourcing /home/nilon/.vim/bundle/rust.vim/ftdetect/rust.vim
+175.451  000.205  000.205: sourcing /home/nilon/.vim/bundle/vim-markdown/ftdetect/markdown.vim
+175.613  000.093  000.093: sourcing /home/nilon/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim
+175.907  000.230  000.230: sourcing /home/nilon/.vim/bundle/vim-toml/ftdetect/toml.vim
+176.088  000.105  000.105: sourcing /home/nilon/.vim/bundle/salt-vim/ftdetect/sls.vim
+177.103  033.625  031.085: sourcing /usr/share/vim/vim80/filetype.vim
+178.044  000.056  000.056: sourcing /usr/share/vim/vim80/ftplugin.vim
+179.001  000.050  000.050: sourcing /usr/share/vim/vim80/indent.vim
+181.756  001.191  001.191: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+182.419  002.390  001.199: sourcing /usr/share/vim/vim80/syntax/synload.vim
+182.463  002.981  000.591: sourcing /usr/share/vim/vim80/syntax/syntax.vim
+211.101  000.273  000.273: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+212.565  000.251  000.251: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+213.874  000.244  000.244: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+214.612  004.512  003.744: sourcing /home/nilon/.vim/bundle/vim-colorschemes/colors/koehler.vim
+214.843  000.121  000.121: sourcing /home/nilon/.vim/bundle/colorstepper/colorstepper.vim
+230.593  003.583  003.583: sourcing /home/nilon/.vimrc.local
+230.699  229.002  043.348: sourcing $HOME/.vimrc
+230.705  000.088: sourcing vimrc file(s)
+231.163  000.297  000.297: sourcing /home/nilon/.vim/bundle/tlib_vim/plugin/02tlib.vim
+232.142  000.312  000.312: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree.vim
+233.946  000.730  000.730: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+234.223  000.187  000.187: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+234.460  000.154  000.154: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+234.709  000.184  000.184: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+235.203  000.429  000.429: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+235.549  000.273  000.273: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+236.287  000.630  000.630: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+236.649  000.293  000.293: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+237.086  000.364  000.364: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+237.227  000.066  000.066: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+237.487  000.194  000.194: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+238.025  000.463  000.463: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+238.118  000.024  000.024: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+238.238  000.053  000.053: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+238.950  000.641  000.641: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+242.848  000.138  000.138: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+243.870  000.989  000.989: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+244.005  000.070  000.070: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+245.501  001.110  001.110: sourcing /home/nilon/.vim/bundle/vim-nerdtree-tabs/nerdtree_plugin/vim-nerdtree-tabs.vim
+247.654  016.389  009.085: sourcing /home/nilon/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+248.584  000.799  000.799: sourcing /home/nilon/.vim/bundle/vim-surround/plugin/surround.vim
+249.288  000.553  000.553: sourcing /home/nilon/.vim/bundle/conflict-marker.vim/plugin/conflict_marker.vim
+250.194  000.807  000.807: sourcing /home/nilon/.vim/bundle/auto-pairs/plugin/auto-pairs.vim
+251.115  000.402  000.402: sourcing /home/nilon/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+251.382  001.066  000.664: sourcing /home/nilon/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+251.553  000.056  000.056: sourcing /home/nilon/.vim/bundle/ctrlp-funky/plugin/funky.vim
+252.351  000.715  000.715: sourcing /home/nilon/.vim/bundle/vim-multiple-cursors/plugin/multiple_cursors.vim
+252.932  000.479  000.479: sourcing /home/nilon/.vim/bundle/sessionman.vim/plugin/sessionman.vim
+253.848  000.796  000.796: sourcing /home/nilon/.vim/bundle/matchit.zip/plugin/matchit.vim
+254.539  000.270  000.270: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline.vim
+255.096  000.168  000.168: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/init.vim
+255.805  000.154  000.154: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/parts.vim
+257.572  000.203  000.203: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/util.vim
+257.623  003.602  002.807: sourcing /home/nilon/.vim/bundle/vim-airline/plugin/airline.vim
+257.779  000.042  000.042: sourcing /home/nilon/.vim/bundle/vim-airline-themes/plugin/airline-themes.vim
+258.483  000.128  000.128: sourcing /home/nilon/.vim/bundle/vim-bufferline/autoload/bufferline.vim
+258.630  000.665  000.537: sourcing /home/nilon/.vim/bundle/vim-bufferline/plugin/bufferline.vim
+267.926  009.196  009.196: sourcing /home/nilon/.vim/bundle/vim-easymotion/plugin/EasyMotion.vim
+268.361  000.248  000.248: sourcing /home/nilon/.vim/bundle/undotree/plugin/undotree.vim
+268.999  000.280  000.280: sourcing /home/nilon/.vim/bundle/vim-indent-guides/autoload/indent_guides.vim
+269.558  001.100  000.820: sourcing /home/nilon/.vim/bundle/vim-indent-guides/plugin/indent_guides.vim
+269.824  000.132  000.132: sourcing /home/nilon/.vim/bundle/restore_view.vim/plugin/restore_view.vim
+270.574  000.633  000.633: sourcing /home/nilon/.vim/bundle/vim-signify/plugin/signify.vim
+272.539  001.841  001.841: sourcing /home/nilon/.vim/bundle/vim-abolish/plugin/abolish.vim
+272.994  000.349  000.349: sourcing /home/nilon/.vim/bundle/vim-over/plugin/over.vim
+273.712  000.098  000.098: sourcing /home/nilon/.vim/bundle/wildfire.vim/autoload/wildfire/triggers.vim
+274.231  001.098  001.000: sourcing /home/nilon/.vim/bundle/wildfire.vim/plugin/wildfire.vim
+274.387  000.054  000.054: sourcing /home/nilon/.vim/bundle/vim-litecorrect/plugin/litecorrect.vim
+274.637  000.096  000.096: sourcing /home/nilon/.vim/bundle/vim-textobj-sentence/plugin/textobj/sentence.vim
+275.092  000.344  000.344: sourcing /home/nilon/.vim/bundle/vim-textobj-quote/plugin/textobj/quote.vim
+275.594  000.407  000.407: sourcing /home/nilon/.vim/bundle/vim-wordy/plugin/wordy.vim
+275.991  000.020  000.020: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+276.038  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+276.081  000.013  000.013: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+276.124  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+276.168  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+276.210  000.013  000.013: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+276.252  000.013  000.013: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+276.294  000.013  000.013: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+276.337  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+276.380  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+278.393  001.527  001.527: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/util.vim
+284.500  000.190  000.190: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+284.706  000.163  000.163: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+285.376  000.632  000.632: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+285.751  000.334  000.334: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+286.060  000.272  000.272: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+286.649  000.550  000.550: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+286.794  000.110  000.110: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+286.971  000.145  000.145: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+287.431  000.425  000.425: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+287.611  000.126  000.126: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+290.338  013.929  009.455: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic.vim
+291.138  000.657  000.657: sourcing /home/nilon/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+291.365  000.070  000.070: sourcing /home/nilon/.vim/bundle/gist-vim/plugin/gist.vim
+299.190  007.735  007.735: sourcing /home/nilon/.vim/bundle/nerdcommenter/plugin/NERD_commenter.vim
+299.698  000.379  000.379: sourcing /home/nilon/.vim/bundle/vim-commentary/plugin/commentary.vim
+300.225  000.408  000.408: sourcing /home/nilon/.vim/bundle/tabular/plugin/Tabular.vim
+300.419  000.083  000.083: sourcing /home/nilon/.vim/bundle/rainbow/plugin/rainbow_main.vim
+301.821  001.310  001.310: sourcing /home/nilon/.vim/bundle/tagbar/plugin/tagbar.vim
+302.259  000.083  000.083: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/buffer.vim
+302.370  000.073  000.073: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/dictionary.vim
+302.468  000.064  000.064: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/member.vim
+302.559  000.058  000.058: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/tag.vim
+302.773  000.181  000.181: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete.vim
+303.297  000.427  000.427: sourcing /home/nilon/.vim/bundle/neosnippet/plugin/neosnippet.vim
+303.464  000.053  000.053: sourcing /home/nilon/.vim/bundle/vim-snippets/plugin/vimsnippets.vim
+304.233  000.660  000.660: sourcing /home/nilon/.vim/bundle/PIV/plugin/phpfolding.vim
+304.374  000.092  000.092: sourcing /home/nilon/.vim/bundle/PIV/plugin/piv.vim
+304.654  000.179  000.179: sourcing /home/nilon/.vim/bundle/vim-php-namespace/plugin/phpns.vim
+305.392  000.148  000.148: sourcing /home/nilon/.vim/bundle/python-mode/autoload/pymode.vim
+306.023  000.018  000.018: sourcing /usr/share/vim/vim80/filetype.vim
+306.995  000.015  000.015: sourcing /usr/share/vim/vim80/ftplugin.vim
+308.865  000.016  000.016: sourcing /usr/share/vim/vim80/filetype.vim
+309.816  000.015  000.015: sourcing /usr/share/vim/vim80/ftplugin.vim
+310.428  005.631  005.419: sourcing /home/nilon/.vim/bundle/python-mode/plugin/pymode.vim
+314.906  004.182  004.182: sourcing /home/nilon/.vim/bundle/emmet-vim/plugin/emmet.vim
+316.848  001.809  001.809: sourcing /home/nilon/.vim/bundle/vim-rails/plugin/rails.vim
+317.167  000.160  000.160: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/cargo.vim
+317.264  000.058  000.058: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/rust.vim
+321.775  004.407  004.407: sourcing /home/nilon/.vim/bundle/vim-preview/plugin/preview.vim
+322.274  000.204  000.204: sourcing /home/nilon/.vim/bundle/vim-cucumber-align-pipes/plugin/cucumber-align-pipes.vim
+322.725  000.317  000.317: sourcing /home/nilon/.vim/bundle/translate-shell.vim/plugin/trans.vim
+323.321  000.126  000.126: sourcing /usr/share/vim/vim80/plugin/getscriptPlugin.vim
+323.973  000.616  000.616: sourcing /usr/share/vim/vim80/plugin/gzip.vim
+324.391  000.369  000.369: sourcing /usr/share/vim/vim80/plugin/logiPat.vim
+324.454  000.019  000.019: sourcing /usr/share/vim/vim80/plugin/manpager.vim
+324.755  000.271  000.271: sourcing /usr/share/vim/vim80/plugin/matchparen.vim
+325.820  001.017  001.017: sourcing /usr/share/vim/vim80/plugin/netrwPlugin.vim
+326.003  000.081  000.081: sourcing /usr/share/vim/vim80/plugin/rrhelper.vim
+326.098  000.043  000.043: sourcing /usr/share/vim/vim80/plugin/spellfile.vim
+326.391  000.257  000.257: sourcing /usr/share/vim/vim80/plugin/tarPlugin.vim
+326.585  000.141  000.141: sourcing /usr/share/vim/vim80/plugin/tohtml.vim
+326.987  000.348  000.348: sourcing /usr/share/vim/vim80/plugin/vimballPlugin.vim
+327.338  000.287  000.287: sourcing /usr/share/vim/vim80/plugin/zipPlugin.vim
+327.384  007.989: loading plugins
+327.518  000.134: loading packages
+329.298  000.426  000.426: sourcing /home/nilon/.vim/bundle/tabular/autoload/tabular.vim
+332.658  004.292  003.866: sourcing /home/nilon/.vim/bundle/tabular/after/plugin/TabularMaps.vim
+333.356  000.029  000.029: sourcing /home/nilon/.vim/bundle/translate-shell.vim/after/plugin/fzf.vim
+333.362  001.523: loading after plugins
+334.182  000.820: inits 3
+335.435  001.253: reading viminfo
+338.671  003.236: setup clipboard
+338.696  000.025: setting raw mode
+338.712  000.016: start termcap
+339.785  001.073: clearing screen
+346.584  001.093  001.093: sourcing /usr/share/vim/vim80/scripts.vim
+350.271  000.064  000.064: sourcing /usr/share/vim/vim80/ftplugin/text.vim
+358.735  000.239  000.239: sourcing /home/nilon/.vim/bundle/rainbow/autoload/rainbow_main.vim
+359.542  000.173  000.173: sourcing /home/nilon/.vim/bundle/rainbow/autoload/rainbow.vim
+364.853  000.219  000.219: sourcing /home/nilon/.vim/bundle/vim-textobj-sentence/autoload/textobj/sentence.vim
+366.507  000.993  000.993: sourcing /home/nilon/.vim/bundle/vim-textobj-user/autoload/textobj/user.vim
+374.445  000.260  000.260: sourcing /home/nilon/.vim/bundle/vim-textobj-quote/autoload/textobj/quote.vim
+380.730  000.516  000.516: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions.vim
+381.159  000.113  000.113: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/quickfix.vim
+381.587  000.086  000.086: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/netrw.vim
+382.075  000.149  000.149: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/ctrlp.vim
+382.496  000.065  000.065: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/undotree.vim
+382.950  000.170  000.170: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/hunks.vim
+383.409  000.121  000.121: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/tagbar.vim
+384.221  000.432  000.432: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/branch.vim
+384.674  000.061  000.061: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/bufferline.vim
+385.221  000.097  000.097: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/syntastic.vim
+385.822  000.243  000.243: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/whitespace.vim
+386.520  000.132  000.132: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/po.vim
+386.992  000.207  000.207: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount.vim
+387.418  000.050  000.050: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/keymap.vim
+393.898  000.150  000.150: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/section.vim
+394.589  000.335  000.335: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+400.037  000.092  000.092: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/themes.vim
+400.533  001.313  001.221: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+405.996  000.964  000.964: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+438.213  000.275  000.275: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/builder.vim
+438.948  000.201  000.201: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount/formatters/default.vim
+439.566  000.141  000.141: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/default.vim
+475.490  000.317  000.317: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/log.vim
+475.556  126.592: opening buffers
+479.602  004.046: BufEnter autocommands
+479.606  000.004: editing files in windows
+483.924  004.318: VimEnter autocommands
+483.927  000.003: before starting main loop
+485.570  000.201  000.201: sourcing /home/nilon/.vim/bundle/vim-signify/autoload/sy.vim
+486.680  000.372  000.372: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/async.vim
+496.301  004.779  004.779: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar.vim
+497.024  000.162  000.162: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/debug.vim
+517.351  001.089  001.089: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/types/ctags.vim
+518.401  000.140  000.140: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/prototypes/typeinfo.vim
+552.167  061.497: first screen update
+552.171  000.004: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.011  000.011: --- VIM STARTING ---
+000.215  000.204: Allocated generic buffers
+000.280  000.065: locale set
+000.307  000.027: GUI prepared
+000.318  000.011: clipboard setup
+000.324  000.006: window checked
+000.937  000.613: inits 1
+000.943  000.006: parsing arguments
+000.944  000.001: expanding arguments
+000.969  000.025: shell init
+001.327  000.358: Termcap init
+001.403  000.076: inits 2
+001.709  000.306: init highlight
+002.550  000.619  000.619: sourcing /usr/share/vim/vim80/debian.vim
+002.636  000.828  000.209: sourcing $VIM/vimrc
+003.327  000.175  000.175: sourcing /home/nilon/.vimrc.before
+003.870  000.038  000.038: sourcing /usr/share/vim/vim80/ftoff.vim
+004.391  000.398  000.398: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle.vim
+004.795  000.274  000.274: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle/config.vim
+129.013  125.604  124.894: sourcing /home/nilon/.vimrc.bundles
+158.663  000.046  000.046: sourcing /home/nilon/.vim/bundle/vim-fugitive/ftdetect/fugitive.vim
+158.917  000.103  000.103: sourcing /home/nilon/.vim/bundle/neosnippet/ftdetect/neosnippet.vim
+159.136  000.123  000.123: sourcing /home/nilon/.vim/bundle/vim-twig/ftdetect/twig.vim
+159.562  000.291  000.291: sourcing /home/nilon/.vim/bundle/vim-json/ftdetect/json.vim
+159.685  000.062  000.062: sourcing /home/nilon/.vim/bundle/vim-less/ftdetect/less.vim
+159.942  000.205  000.205: sourcing /home/nilon/.vim/bundle/vim-javascript/ftdetect/javascript.vim
+160.267  000.266  000.266: sourcing /home/nilon/.vim/bundle/vim-jst/ftdetect/jst.vim
+160.648  000.302  000.302: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim
+160.789  000.114  000.114: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/vim-literate-coffeescript.vim
+161.105  000.216  000.216: sourcing /home/nilon/.vim/bundle/vim-haml/ftdetect/haml.vim
+161.324  000.139  000.139: sourcing /home/nilon/.vim/bundle/rust.vim/ftdetect/rust.vim
+161.590  000.207  000.207: sourcing /home/nilon/.vim/bundle/vim-markdown/ftdetect/markdown.vim
+161.759  000.093  000.093: sourcing /home/nilon/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim
+162.035  000.217  000.217: sourcing /home/nilon/.vim/bundle/vim-toml/ftdetect/toml.vim
+162.212  000.105  000.105: sourcing /home/nilon/.vim/bundle/salt-vim/ftdetect/sls.vim
+163.216  033.487  030.998: sourcing /usr/share/vim/vim80/filetype.vim
+164.166  000.057  000.057: sourcing /usr/share/vim/vim80/ftplugin.vim
+165.098  000.050  000.050: sourcing /usr/share/vim/vim80/indent.vim
+167.846  001.164  001.164: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+168.495  002.371  001.207: sourcing /usr/share/vim/vim80/syntax/synload.vim
+168.538  002.948  000.577: sourcing /usr/share/vim/vim80/syntax/syntax.vim
+197.225  000.263  000.263: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+198.698  000.238  000.238: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+199.971  000.244  000.244: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+200.704  004.435  003.690: sourcing /home/nilon/.vim/bundle/vim-colorschemes/colors/koehler.vim
+200.932  000.118  000.118: sourcing /home/nilon/.vim/bundle/colorstepper/colorstepper.vim
+214.952  003.033  003.033: sourcing /home/nilon/.vimrc.local
+215.052  212.340  042.433: sourcing $HOME/.vimrc
+215.059  000.182: sourcing vimrc file(s)
+215.529  000.296  000.296: sourcing /home/nilon/.vim/bundle/tlib_vim/plugin/02tlib.vim
+216.501  000.309  000.309: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree.vim
+218.322  000.754  000.754: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+218.598  000.195  000.195: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+218.846  000.162  000.162: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+219.119  000.205  000.205: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+219.606  000.421  000.421: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+219.950  000.272  000.272: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+220.722  000.663  000.663: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+221.081  000.287  000.287: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+221.515  000.363  000.363: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+221.655  000.066  000.066: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+221.911  000.191  000.191: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+222.460  000.482  000.482: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+222.561  000.025  000.025: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+222.684  000.054  000.054: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+223.436  000.678  000.678: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+227.371  000.194  000.194: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+228.384  000.979  000.979: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+228.469  000.053  000.053: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+229.953  001.117  001.117: sourcing /home/nilon/.vim/bundle/vim-nerdtree-tabs/nerdtree_plugin/vim-nerdtree-tabs.vim
+232.185  016.554  009.084: sourcing /home/nilon/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+233.144  000.777  000.777: sourcing /home/nilon/.vim/bundle/vim-surround/plugin/surround.vim
+233.878  000.530  000.530: sourcing /home/nilon/.vim/bundle/conflict-marker.vim/plugin/conflict_marker.vim
+234.763  000.783  000.783: sourcing /home/nilon/.vim/bundle/auto-pairs/plugin/auto-pairs.vim
+235.638  000.317  000.317: sourcing /home/nilon/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+235.901  001.025  000.708: sourcing /home/nilon/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+236.068  000.056  000.056: sourcing /home/nilon/.vim/bundle/ctrlp-funky/plugin/funky.vim
+236.863  000.711  000.711: sourcing /home/nilon/.vim/bundle/vim-multiple-cursors/plugin/multiple_cursors.vim
+237.433  000.461  000.461: sourcing /home/nilon/.vim/bundle/sessionman.vim/plugin/sessionman.vim
+238.377  000.845  000.845: sourcing /home/nilon/.vim/bundle/matchit.zip/plugin/matchit.vim
+239.045  000.287  000.287: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline.vim
+239.618  000.155  000.155: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/init.vim
+240.359  000.201  000.201: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/parts.vim
+242.088  000.198  000.198: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/util.vim
+242.138  003.640  002.799: sourcing /home/nilon/.vim/bundle/vim-airline/plugin/airline.vim
+242.359  000.042  000.042: sourcing /home/nilon/.vim/bundle/vim-airline-themes/plugin/airline-themes.vim
+242.995  000.129  000.129: sourcing /home/nilon/.vim/bundle/vim-bufferline/autoload/bufferline.vim
+243.137  000.655  000.526: sourcing /home/nilon/.vim/bundle/vim-bufferline/plugin/bufferline.vim
+252.347  008.973  008.973: sourcing /home/nilon/.vim/bundle/vim-easymotion/plugin/EasyMotion.vim
+252.752  000.232  000.232: sourcing /home/nilon/.vim/bundle/undotree/plugin/undotree.vim
+253.390  000.304  000.304: sourcing /home/nilon/.vim/bundle/vim-indent-guides/autoload/indent_guides.vim
+253.920  001.076  000.772: sourcing /home/nilon/.vim/bundle/vim-indent-guides/plugin/indent_guides.vim
+254.175  000.131  000.131: sourcing /home/nilon/.vim/bundle/restore_view.vim/plugin/restore_view.vim
+254.944  000.624  000.624: sourcing /home/nilon/.vim/bundle/vim-signify/plugin/signify.vim
+257.052  001.985  001.985: sourcing /home/nilon/.vim/bundle/vim-abolish/plugin/abolish.vim
+257.547  000.386  000.386: sourcing /home/nilon/.vim/bundle/vim-over/plugin/over.vim
+258.203  000.092  000.092: sourcing /home/nilon/.vim/bundle/wildfire.vim/autoload/wildfire/triggers.vim
+258.731  001.051  000.959: sourcing /home/nilon/.vim/bundle/wildfire.vim/plugin/wildfire.vim
+258.888  000.054  000.054: sourcing /home/nilon/.vim/bundle/vim-litecorrect/plugin/litecorrect.vim
+259.171  000.126  000.126: sourcing /home/nilon/.vim/bundle/vim-textobj-sentence/plugin/textobj/sentence.vim
+259.674  000.329  000.329: sourcing /home/nilon/.vim/bundle/vim-textobj-quote/plugin/textobj/quote.vim
+260.171  000.404  000.404: sourcing /home/nilon/.vim/bundle/vim-wordy/plugin/wordy.vim
+260.568  000.020  000.020: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+260.615  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+260.657  000.012  000.012: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+260.700  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+260.744  000.015  000.015: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+260.785  000.012  000.012: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+260.826  000.012  000.012: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+260.871  000.015  000.015: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+260.913  000.013  000.013: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+260.996  000.034  000.034: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+263.209  001.584  001.584: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/util.vim
+269.176  000.184  000.184: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+269.434  000.215  000.215: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+270.038  000.563  000.563: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+270.430  000.355  000.355: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+270.680  000.211  000.211: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+271.297  000.582  000.582: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+271.458  000.110  000.110: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+271.579  000.089  000.089: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+272.032  000.422  000.422: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+272.207  000.125  000.125: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+274.924  013.884  009.444: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic.vim
+275.748  000.678  000.678: sourcing /home/nilon/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+275.989  000.075  000.075: sourcing /home/nilon/.vim/bundle/gist-vim/plugin/gist.vim
+283.798  007.713  007.713: sourcing /home/nilon/.vim/bundle/nerdcommenter/plugin/NERD_commenter.vim
+284.347  000.422  000.422: sourcing /home/nilon/.vim/bundle/vim-commentary/plugin/commentary.vim
+284.842  000.368  000.368: sourcing /home/nilon/.vim/bundle/tabular/plugin/Tabular.vim
+285.039  000.086  000.086: sourcing /home/nilon/.vim/bundle/rainbow/plugin/rainbow_main.vim
+286.495  001.358  001.358: sourcing /home/nilon/.vim/bundle/tagbar/plugin/tagbar.vim
+286.856  000.079  000.079: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/buffer.vim
+286.957  000.065  000.065: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/dictionary.vim
+287.052  000.062  000.062: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/member.vim
+287.140  000.056  000.056: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/tag.vim
+287.384  000.212  000.212: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete.vim
+287.864  000.378  000.378: sourcing /home/nilon/.vim/bundle/neosnippet/plugin/neosnippet.vim
+288.028  000.053  000.053: sourcing /home/nilon/.vim/bundle/vim-snippets/plugin/vimsnippets.vim
+288.779  000.644  000.644: sourcing /home/nilon/.vim/bundle/PIV/plugin/phpfolding.vim
+288.919  000.092  000.092: sourcing /home/nilon/.vim/bundle/PIV/plugin/piv.vim
+289.199  000.178  000.178: sourcing /home/nilon/.vim/bundle/vim-php-namespace/plugin/phpns.vim
+289.930  000.146  000.146: sourcing /home/nilon/.vim/bundle/python-mode/autoload/pymode.vim
+290.588  000.017  000.017: sourcing /usr/share/vim/vim80/filetype.vim
+291.588  000.014  000.014: sourcing /usr/share/vim/vim80/ftplugin.vim
+293.498  000.017  000.017: sourcing /usr/share/vim/vim80/filetype.vim
+294.475  000.015  000.015: sourcing /usr/share/vim/vim80/ftplugin.vim
+295.046  005.653  005.444: sourcing /home/nilon/.vim/bundle/python-mode/plugin/pymode.vim
+299.703  004.331  004.331: sourcing /home/nilon/.vim/bundle/emmet-vim/plugin/emmet.vim
+301.752  001.910  001.910: sourcing /home/nilon/.vim/bundle/vim-rails/plugin/rails.vim
+302.083  000.179  000.179: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/cargo.vim
+302.186  000.062  000.062: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/rust.vim
+309.916  007.586  007.586: sourcing /home/nilon/.vim/bundle/vim-preview/plugin/preview.vim
+310.384  000.236  000.236: sourcing /home/nilon/.vim/bundle/vim-cucumber-align-pipes/plugin/cucumber-align-pipes.vim
+310.838  000.314  000.314: sourcing /home/nilon/.vim/bundle/translate-shell.vim/plugin/trans.vim
+311.401  000.175  000.175: sourcing /usr/share/vim/vim80/plugin/getscriptPlugin.vim
+312.005  000.565  000.565: sourcing /usr/share/vim/vim80/plugin/gzip.vim
+312.476  000.427  000.427: sourcing /usr/share/vim/vim80/plugin/logiPat.vim
+312.543  000.019  000.019: sourcing /usr/share/vim/vim80/plugin/manpager.vim
+312.841  000.268  000.268: sourcing /usr/share/vim/vim80/plugin/matchparen.vim
+313.915  001.026  001.026: sourcing /usr/share/vim/vim80/plugin/netrwPlugin.vim
+314.042  000.061  000.061: sourcing /usr/share/vim/vim80/plugin/rrhelper.vim
+314.131  000.042  000.042: sourcing /usr/share/vim/vim80/plugin/spellfile.vim
+314.472  000.304  000.304: sourcing /usr/share/vim/vim80/plugin/tarPlugin.vim
+314.672  000.141  000.141: sourcing /usr/share/vim/vim80/plugin/tohtml.vim
+315.018  000.293  000.293: sourcing /usr/share/vim/vim80/plugin/vimballPlugin.vim
+315.416  000.334  000.334: sourcing /usr/share/vim/vim80/plugin/zipPlugin.vim
+315.463  008.168: loading plugins
+315.597  000.134: loading packages
+317.370  000.415  000.415: sourcing /home/nilon/.vim/bundle/tabular/autoload/tabular.vim
+320.728  004.278  003.863: sourcing /home/nilon/.vim/bundle/tabular/after/plugin/TabularMaps.vim
+321.420  000.027  000.027: sourcing /home/nilon/.vim/bundle/translate-shell.vim/after/plugin/fzf.vim
+321.426  001.524: loading after plugins
+322.317  000.891: inits 3
+323.534  001.217: reading viminfo
+326.167  002.633: setup clipboard
+326.192  000.025: setting raw mode
+326.207  000.015: start termcap
+327.316  001.109: clearing screen
+329.093  000.485  000.485: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions.vim
+329.518  000.093  000.093: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/quickfix.vim
+329.874  000.079  000.079: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/netrw.vim
+330.278  000.144  000.144: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/ctrlp.vim
+330.640  000.061  000.061: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/undotree.vim
+330.994  000.122  000.122: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/hunks.vim
+331.421  000.114  000.114: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/tagbar.vim
+332.068  000.329  000.329: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/branch.vim
+332.491  000.055  000.055: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/bufferline.vim
+332.938  000.089  000.089: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/syntastic.vim
+333.521  000.243  000.243: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/whitespace.vim
+334.105  000.106  000.106: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/po.vim
+334.588  000.150  000.150: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount.vim
+335.020  000.047  000.047: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/keymap.vim
+344.897  000.154  000.154: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/section.vim
+345.678  000.375  000.375: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+351.137  000.090  000.090: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/themes.vim
+351.674  001.335  001.245: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+358.349  001.202  001.202: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+392.504  000.282  000.282: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/builder.vim
+393.504  000.158  000.158: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/default.vim
+428.063  000.311  000.311: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/log.vim
+428.118  094.868: opening buffers
+431.192  003.074: BufEnter autocommands
+431.197  000.005: editing files in windows
+437.647  006.450: VimEnter autocommands
+437.651  000.004: before starting main loop
+439.455  000.254  000.254: sourcing /home/nilon/.vim/bundle/vim-signify/autoload/sy.vim
+444.105  003.087  003.087: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar.vim
+444.708  000.107  000.107: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/debug.vim
+460.766  000.698  000.698: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/types/ctags.vim
+461.413  000.078  000.078: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/prototypes/typeinfo.vim
+494.717  052.842: first screen update
+494.720  000.003: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.007  000.007: --- VIM STARTING ---
+000.173  000.166: Allocated generic buffers
+000.259  000.086: locale set
+000.285  000.026: GUI prepared
+000.297  000.012: clipboard setup
+000.301  000.004: window checked
+000.918  000.617: inits 1
+000.924  000.006: parsing arguments
+000.925  000.001: expanding arguments
+000.950  000.025: shell init
+001.258  000.308: Termcap init
+001.311  000.053: inits 2
+001.507  000.196: init highlight
+002.019  000.365  000.365: sourcing /usr/share/vim/vim80/debian.vim
+002.083  000.510  000.145: sourcing $VIM/vimrc
+002.597  000.112  000.112: sourcing /home/nilon/.vimrc.before
+003.078  000.038  000.038: sourcing /usr/share/vim/vim80/ftoff.vim
+003.606  000.373  000.373: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle.vim
+004.026  000.288  000.288: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle/config.vim
+125.548  122.890  122.191: sourcing /home/nilon/.vimrc.bundles
+155.362  000.046  000.046: sourcing /home/nilon/.vim/bundle/vim-fugitive/ftdetect/fugitive.vim
+155.620  000.103  000.103: sourcing /home/nilon/.vim/bundle/neosnippet/ftdetect/neosnippet.vim
+155.842  000.123  000.123: sourcing /home/nilon/.vim/bundle/vim-twig/ftdetect/twig.vim
+156.271  000.309  000.309: sourcing /home/nilon/.vim/bundle/vim-json/ftdetect/json.vim
+156.398  000.063  000.063: sourcing /home/nilon/.vim/bundle/vim-less/ftdetect/less.vim
+156.660  000.207  000.207: sourcing /home/nilon/.vim/bundle/vim-javascript/ftdetect/javascript.vim
+156.972  000.250  000.250: sourcing /home/nilon/.vim/bundle/vim-jst/ftdetect/jst.vim
+157.377  000.327  000.327: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim
+157.521  000.114  000.114: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/vim-literate-coffeescript.vim
+157.843  000.220  000.220: sourcing /home/nilon/.vim/bundle/vim-haml/ftdetect/haml.vim
+158.049  000.123  000.123: sourcing /home/nilon/.vim/bundle/rust.vim/ftdetect/rust.vim
+158.337  000.228  000.228: sourcing /home/nilon/.vim/bundle/vim-markdown/ftdetect/markdown.vim
+158.513  000.095  000.095: sourcing /home/nilon/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim
+158.795  000.220  000.220: sourcing /home/nilon/.vim/bundle/vim-toml/ftdetect/toml.vim
+158.976  000.107  000.107: sourcing /home/nilon/.vim/bundle/salt-vim/ftdetect/sls.vim
+159.996  033.709  031.174: sourcing /usr/share/vim/vim80/filetype.vim
+160.938  000.056  000.056: sourcing /usr/share/vim/vim80/ftplugin.vim
+161.849  000.048  000.048: sourcing /usr/share/vim/vim80/indent.vim
+164.599  001.164  001.164: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+165.252  002.396  001.232: sourcing /usr/share/vim/vim80/syntax/synload.vim
+165.300  002.981  000.585: sourcing /usr/share/vim/vim80/syntax/syntax.vim
+194.645  000.261  000.261: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+196.253  000.294  000.294: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+197.556  000.240  000.240: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+198.316  004.651  003.856: sourcing /home/nilon/.vim/bundle/vim-colorschemes/colors/koehler.vim
+198.552  000.121  000.121: sourcing /home/nilon/.vim/bundle/colorstepper/colorstepper.vim
+212.698  003.082  003.082: sourcing /home/nilon/.vimrc.local
+212.802  210.671  043.021: sourcing $HOME/.vimrc
+212.811  000.123: sourcing vimrc file(s)
+213.285  000.307  000.307: sourcing /home/nilon/.vim/bundle/tlib_vim/plugin/02tlib.vim
+214.277  000.321  000.321: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree.vim
+216.058  000.693  000.693: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+216.377  000.242  000.242: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+216.636  000.166  000.166: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+216.903  000.197  000.197: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+217.410  000.438  000.438: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+217.777  000.289  000.289: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+218.554  000.663  000.663: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+218.917  000.288  000.288: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+219.345  000.358  000.358: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+219.482  000.064  000.064: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+219.730  000.185  000.185: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+220.258  000.463  000.463: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+220.355  000.025  000.025: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+220.474  000.053  000.053: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+221.154  000.609  000.609: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+225.117  000.138  000.138: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+226.140  000.991  000.991: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+226.288  000.112  000.112: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+227.785  001.099  001.099: sourcing /home/nilon/.vim/bundle/vim-nerdtree-tabs/nerdtree_plugin/vim-nerdtree-tabs.vim
+229.989  016.599  009.205: sourcing /home/nilon/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+230.928  000.803  000.803: sourcing /home/nilon/.vim/bundle/vim-surround/plugin/surround.vim
+231.649  000.568  000.568: sourcing /home/nilon/.vim/bundle/conflict-marker.vim/plugin/conflict_marker.vim
+232.490  000.738  000.738: sourcing /home/nilon/.vim/bundle/auto-pairs/plugin/auto-pairs.vim
+233.378  000.362  000.362: sourcing /home/nilon/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+233.659  001.054  000.692: sourcing /home/nilon/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+233.839  000.059  000.059: sourcing /home/nilon/.vim/bundle/ctrlp-funky/plugin/funky.vim
+234.706  000.777  000.777: sourcing /home/nilon/.vim/bundle/vim-multiple-cursors/plugin/multiple_cursors.vim
+235.258  000.443  000.443: sourcing /home/nilon/.vim/bundle/sessionman.vim/plugin/sessionman.vim
+236.136  000.775  000.775: sourcing /home/nilon/.vim/bundle/matchit.zip/plugin/matchit.vim
+236.814  000.275  000.275: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline.vim
+237.350  000.178  000.178: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/init.vim
+238.066  000.156  000.156: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/parts.vim
+239.860  000.201  000.201: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/util.vim
+239.911  003.628  002.818: sourcing /home/nilon/.vim/bundle/vim-airline/plugin/airline.vim
+240.071  000.042  000.042: sourcing /home/nilon/.vim/bundle/vim-airline-themes/plugin/airline-themes.vim
+240.758  000.138  000.138: sourcing /home/nilon/.vim/bundle/vim-bufferline/autoload/bufferline.vim
+240.894  000.671  000.533: sourcing /home/nilon/.vim/bundle/vim-bufferline/plugin/bufferline.vim
+249.959  008.963  008.963: sourcing /home/nilon/.vim/bundle/vim-easymotion/plugin/EasyMotion.vim
+250.451  000.305  000.305: sourcing /home/nilon/.vim/bundle/undotree/plugin/undotree.vim
+251.083  000.259  000.259: sourcing /home/nilon/.vim/bundle/vim-indent-guides/autoload/indent_guides.vim
+251.645  001.089  000.830: sourcing /home/nilon/.vim/bundle/vim-indent-guides/plugin/indent_guides.vim
+251.928  000.141  000.141: sourcing /home/nilon/.vim/bundle/restore_view.vim/plugin/restore_view.vim
+252.711  000.687  000.687: sourcing /home/nilon/.vim/bundle/vim-signify/plugin/signify.vim
+254.704  001.852  001.852: sourcing /home/nilon/.vim/bundle/vim-abolish/plugin/abolish.vim
+255.147  000.334  000.334: sourcing /home/nilon/.vim/bundle/vim-over/plugin/over.vim
+255.858  000.095  000.095: sourcing /home/nilon/.vim/bundle/wildfire.vim/autoload/wildfire/triggers.vim
+256.347  001.021  000.926: sourcing /home/nilon/.vim/bundle/wildfire.vim/plugin/wildfire.vim
+256.506  000.056  000.056: sourcing /home/nilon/.vim/bundle/vim-litecorrect/plugin/litecorrect.vim
+256.765  000.099  000.099: sourcing /home/nilon/.vim/bundle/vim-textobj-sentence/plugin/textobj/sentence.vim
+257.227  000.350  000.350: sourcing /home/nilon/.vim/bundle/vim-textobj-quote/plugin/textobj/quote.vim
+257.744  000.419  000.419: sourcing /home/nilon/.vim/bundle/vim-wordy/plugin/wordy.vim
+258.154  000.019  000.019: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+258.247  000.021  000.021: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+258.309  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+258.353  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+258.398  000.014  000.014: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+258.440  000.012  000.012: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+258.482  000.012  000.012: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+258.527  000.015  000.015: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+258.570  000.013  000.013: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+258.613  000.012  000.012: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+260.653  001.545  001.545: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/util.vim
+266.811  000.198  000.198: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+267.022  000.168  000.168: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+267.704  000.643  000.643: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+268.085  000.339  000.339: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+268.399  000.276  000.276: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+269.071  000.631  000.631: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+269.307  000.199  000.199: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+269.465  000.111  000.111: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+269.925  000.426  000.426: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+270.104  000.127  000.127: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+272.836  014.193  009.530: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic.vim
+273.628  000.652  000.652: sourcing /home/nilon/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+273.860  000.071  000.071: sourcing /home/nilon/.vim/bundle/gist-vim/plugin/gist.vim
+281.555  007.600  007.600: sourcing /home/nilon/.vim/bundle/nerdcommenter/plugin/NERD_commenter.vim
+282.060  000.374  000.374: sourcing /home/nilon/.vim/bundle/vim-commentary/plugin/commentary.vim
+282.584  000.379  000.379: sourcing /home/nilon/.vim/bundle/tabular/plugin/Tabular.vim
+282.790  000.088  000.088: sourcing /home/nilon/.vim/bundle/rainbow/plugin/rainbow_main.vim
+284.156  001.259  001.259: sourcing /home/nilon/.vim/bundle/tagbar/plugin/tagbar.vim
+284.549  000.081  000.081: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/buffer.vim
+284.654  000.066  000.066: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/dictionary.vim
+284.751  000.062  000.062: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/member.vim
+284.840  000.056  000.056: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/tag.vim
+285.040  000.168  000.168: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete.vim
+285.575  000.435  000.435: sourcing /home/nilon/.vim/bundle/neosnippet/plugin/neosnippet.vim
+285.744  000.054  000.054: sourcing /home/nilon/.vim/bundle/vim-snippets/plugin/vimsnippets.vim
+286.486  000.633  000.633: sourcing /home/nilon/.vim/bundle/PIV/plugin/phpfolding.vim
+286.630  000.093  000.093: sourcing /home/nilon/.vim/bundle/PIV/plugin/piv.vim
+286.912  000.180  000.180: sourcing /home/nilon/.vim/bundle/vim-php-namespace/plugin/phpns.vim
+287.621  000.149  000.149: sourcing /home/nilon/.vim/bundle/python-mode/autoload/pymode.vim
+288.166  000.016  000.016: sourcing /usr/share/vim/vim80/filetype.vim
+289.121  000.016  000.016: sourcing /usr/share/vim/vim80/ftplugin.vim
+290.975  000.017  000.017: sourcing /usr/share/vim/vim80/filetype.vim
+291.979  000.017  000.017: sourcing /usr/share/vim/vim80/ftplugin.vim
+292.537  005.477  005.262: sourcing /home/nilon/.vim/bundle/python-mode/plugin/pymode.vim
+297.061  004.245  004.245: sourcing /home/nilon/.vim/bundle/emmet-vim/plugin/emmet.vim
+299.051  001.820  001.820: sourcing /home/nilon/.vim/bundle/vim-rails/plugin/rails.vim
+299.400  000.182  000.182: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/cargo.vim
+299.506  000.063  000.063: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/rust.vim
+304.204  004.576  004.576: sourcing /home/nilon/.vim/bundle/vim-preview/plugin/preview.vim
+304.649  000.206  000.206: sourcing /home/nilon/.vim/bundle/vim-cucumber-align-pipes/plugin/cucumber-align-pipes.vim
+305.063  000.279  000.279: sourcing /home/nilon/.vim/bundle/translate-shell.vim/plugin/trans.vim
+305.645  000.127  000.127: sourcing /usr/share/vim/vim80/plugin/getscriptPlugin.vim
+306.311  000.626  000.626: sourcing /usr/share/vim/vim80/plugin/gzip.vim
+306.724  000.363  000.363: sourcing /usr/share/vim/vim80/plugin/logiPat.vim
+306.788  000.019  000.019: sourcing /usr/share/vim/vim80/plugin/manpager.vim
+307.090  000.271  000.271: sourcing /usr/share/vim/vim80/plugin/matchparen.vim
+308.151  001.013  001.013: sourcing /usr/share/vim/vim80/plugin/netrwPlugin.vim
+308.326  000.063  000.063: sourcing /usr/share/vim/vim80/plugin/rrhelper.vim
+308.421  000.044  000.044: sourcing /usr/share/vim/vim80/plugin/spellfile.vim
+308.712  000.254  000.254: sourcing /usr/share/vim/vim80/plugin/tarPlugin.vim
+308.912  000.142  000.142: sourcing /usr/share/vim/vim80/plugin/tohtml.vim
+309.308  000.342  000.342: sourcing /usr/share/vim/vim80/plugin/vimballPlugin.vim
+309.655  000.279  000.279: sourcing /usr/share/vim/vim80/plugin/zipPlugin.vim
+309.703  008.131: loading plugins
+309.836  000.133: loading packages
+311.633  000.384  000.384: sourcing /home/nilon/.vim/bundle/tabular/autoload/tabular.vim
+314.952  004.247  003.863: sourcing /home/nilon/.vim/bundle/tabular/after/plugin/TabularMaps.vim
+315.686  000.028  000.028: sourcing /home/nilon/.vim/bundle/translate-shell.vim/after/plugin/fzf.vim
+315.693  001.582: loading after plugins
+316.757  001.064: inits 3
+318.032  001.275: reading viminfo
+320.806  002.774: setup clipboard
+320.831  000.025: setting raw mode
+320.849  000.018: start termcap
+321.927  001.078: clearing screen
+323.634  000.460  000.460: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions.vim
+323.997  000.090  000.090: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/quickfix.vim
+324.397  000.077  000.077: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/netrw.vim
+324.765  000.106  000.106: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/ctrlp.vim
+325.105  000.058  000.058: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/undotree.vim
+325.508  000.123  000.123: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/hunks.vim
+325.873  000.097  000.097: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/tagbar.vim
+326.569  000.351  000.351: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/branch.vim
+326.932  000.052  000.052: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/bufferline.vim
+327.453  000.095  000.095: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/syntastic.vim
+327.980  000.222  000.222: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/whitespace.vim
+328.641  000.104  000.104: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/po.vim
+329.039  000.147  000.147: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount.vim
+329.522  000.048  000.048: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/keymap.vim
+337.090  000.161  000.161: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/section.vim
+337.881  000.379  000.379: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+343.472  000.089  000.089: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/themes.vim
+343.964  001.329  001.240: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+349.877  001.167  001.167: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+385.780  000.303  000.303: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/builder.vim
+386.674  000.158  000.158: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/default.vim
+421.971  000.328  000.328: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/log.vim
+422.031  094.249: opening buffers
+425.494  003.463: BufEnter autocommands
+425.500  000.006: editing files in windows
+431.381  005.881: VimEnter autocommands
+431.385  000.004: before starting main loop
+433.149  000.226  000.226: sourcing /home/nilon/.vim/bundle/vim-signify/autoload/sy.vim
+437.989  003.212  003.212: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar.vim
+438.619  000.110  000.110: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/debug.vim
+454.591  000.696  000.696: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/types/ctags.vim
+455.240  000.109  000.109: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/prototypes/typeinfo.vim
+488.584  052.846: first screen update
+488.587  000.003: --- VIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.006  000.006: --- VIM STARTING ---
+000.180  000.174: Allocated generic buffers
+000.210  000.030: locale set
+000.234  000.024: GUI prepared
+000.244  000.010: clipboard setup
+000.248  000.004: window checked
+000.800  000.552: inits 1
+000.854  000.054: parsing arguments
+000.856  000.002: expanding arguments
+000.875  000.019: shell init
+001.143  000.268: Termcap init
+001.191  000.048: inits 2
+001.341  000.150: init highlight
+001.754  000.296  000.296: sourcing /usr/share/vim/vim80/debian.vim
+001.804  000.411  000.115: sourcing $VIM/vimrc
+002.690  000.149  000.149: sourcing /home/nilon/.vimrc.before
+003.364  000.058  000.058: sourcing /usr/share/vim/vim80/ftoff.vim
+004.051  000.492  000.492: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle.vim
+004.643  000.353  000.353: sourcing /home/nilon/.vim/bundle/vundle/autoload/vundle/config.vim
+132.549  129.754  128.851: sourcing /home/nilon/.vimrc.bundles
+163.841  000.046  000.046: sourcing /home/nilon/.vim/bundle/vim-fugitive/ftdetect/fugitive.vim
+164.129  000.132  000.132: sourcing /home/nilon/.vim/bundle/neosnippet/ftdetect/neosnippet.vim
+164.357  000.125  000.125: sourcing /home/nilon/.vim/bundle/vim-twig/ftdetect/twig.vim
+164.766  000.286  000.286: sourcing /home/nilon/.vim/bundle/vim-json/ftdetect/json.vim
+164.885  000.061  000.061: sourcing /home/nilon/.vim/bundle/vim-less/ftdetect/less.vim
+165.168  000.230  000.230: sourcing /home/nilon/.vim/bundle/vim-javascript/ftdetect/javascript.vim
+165.482  000.250  000.250: sourcing /home/nilon/.vim/bundle/vim-jst/ftdetect/jst.vim
+165.858  000.300  000.300: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim
+165.998  000.114  000.114: sourcing /home/nilon/.vim/bundle/vim-coffee-script/ftdetect/vim-literate-coffeescript.vim
+166.330  000.220  000.220: sourcing /home/nilon/.vim/bundle/vim-haml/ftdetect/haml.vim
+166.539  000.122  000.122: sourcing /home/nilon/.vim/bundle/rust.vim/ftdetect/rust.vim
+166.806  000.210  000.210: sourcing /home/nilon/.vim/bundle/vim-markdown/ftdetect/markdown.vim
+166.969  000.094  000.094: sourcing /home/nilon/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim
+167.271  000.238  000.238: sourcing /home/nilon/.vim/bundle/vim-toml/ftdetect/toml.vim
+167.454  000.107  000.107: sourcing /home/nilon/.vim/bundle/salt-vim/ftdetect/sls.vim
+168.476  035.199  032.664: sourcing /usr/share/vim/vim80/filetype.vim
+169.434  000.057  000.057: sourcing /usr/share/vim/vim80/ftplugin.vim
+170.410  000.064  000.064: sourcing /usr/share/vim/vim80/indent.vim
+173.934  001.342  001.342: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+174.676  002.813  001.471: sourcing /usr/share/vim/vim80/syntax/synload.vim
+174.723  003.699  000.886: sourcing /usr/share/vim/vim80/syntax/syntax.vim
+205.619  000.437  000.437: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+207.240  000.282  000.282: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+208.645  000.245  000.245: sourcing /usr/share/vim/vim80/syntax/syncolor.vim
+209.390  005.211  004.247: sourcing /home/nilon/.vim/bundle/vim-colorschemes/colors/koehler.vim
+209.624  000.122  000.122: sourcing /home/nilon/.vim/bundle/colorstepper/colorstepper.vim
+224.683  003.645  003.645: sourcing /home/nilon/.vimrc.local
+224.792  222.947  045.047: sourcing $HOME/.vimrc
+224.797  000.098: sourcing vimrc file(s)
+225.284  000.308  000.308: sourcing /home/nilon/.vim/bundle/tlib_vim/plugin/02tlib.vim
+226.300  000.340  000.340: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree.vim
+228.194  000.747  000.747: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+228.468  000.192  000.192: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+228.721  000.162  000.162: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+228.982  000.192  000.192: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+229.485  000.434  000.434: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+229.850  000.286  000.286: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+230.640  000.667  000.667: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+231.007  000.292  000.292: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+231.459  000.339  000.339: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+231.599  000.065  000.065: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+231.859  000.193  000.193: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+232.415  000.487  000.487: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+232.517  000.026  000.026: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+232.643  000.056  000.056: sourcing /home/nilon/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+233.405  000.687  000.687: sourcing /home/nilon/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+237.578  000.163  000.163: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+239.005  001.391  001.391: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+239.165  000.112  000.112: sourcing /home/nilon/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+240.765  001.179  001.179: sourcing /home/nilon/.vim/bundle/vim-nerdtree-tabs/nerdtree_plugin/vim-nerdtree-tabs.vim
+243.022  017.632  009.622: sourcing /home/nilon/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+243.993  000.789  000.789: sourcing /home/nilon/.vim/bundle/vim-surround/plugin/surround.vim
+244.738  000.531  000.531: sourcing /home/nilon/.vim/bundle/conflict-marker.vim/plugin/conflict_marker.vim
+245.638  000.796  000.796: sourcing /home/nilon/.vim/bundle/auto-pairs/plugin/auto-pairs.vim
+246.536  000.336  000.336: sourcing /home/nilon/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+246.810  001.051  000.715: sourcing /home/nilon/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+246.985  000.058  000.058: sourcing /home/nilon/.vim/bundle/ctrlp-funky/plugin/funky.vim
+247.797  000.691  000.691: sourcing /home/nilon/.vim/bundle/vim-multiple-cursors/plugin/multiple_cursors.vim
+248.391  000.487  000.487: sourcing /home/nilon/.vim/bundle/sessionman.vim/plugin/sessionman.vim
+249.354  000.851  000.851: sourcing /home/nilon/.vim/bundle/matchit.zip/plugin/matchit.vim
+249.984  000.270  000.270: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline.vim
+250.539  000.152  000.152: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/init.vim
+251.286  000.180  000.180: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/parts.vim
+253.039  000.199  000.199: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/util.vim
+253.151  003.682  002.881: sourcing /home/nilon/.vim/bundle/vim-airline/plugin/airline.vim
+253.309  000.043  000.043: sourcing /home/nilon/.vim/bundle/vim-airline-themes/plugin/airline-themes.vim
+254.059  000.172  000.172: sourcing /home/nilon/.vim/bundle/vim-bufferline/autoload/bufferline.vim
+254.278  000.849  000.677: sourcing /home/nilon/.vim/bundle/vim-bufferline/plugin/bufferline.vim
+264.111  009.703  009.703: sourcing /home/nilon/.vim/bundle/vim-easymotion/plugin/EasyMotion.vim
+264.586  000.249  000.249: sourcing /home/nilon/.vim/bundle/undotree/plugin/undotree.vim
+265.237  000.284  000.284: sourcing /home/nilon/.vim/bundle/vim-indent-guides/autoload/indent_guides.vim
+265.897  001.215  000.931: sourcing /home/nilon/.vim/bundle/vim-indent-guides/plugin/indent_guides.vim
+266.190  000.161  000.161: sourcing /home/nilon/.vim/bundle/restore_view.vim/plugin/restore_view.vim
+266.955  000.668  000.668: sourcing /home/nilon/.vim/bundle/vim-signify/plugin/signify.vim
+269.030  001.929  001.929: sourcing /home/nilon/.vim/bundle/vim-abolish/plugin/abolish.vim
+269.512  000.336  000.336: sourcing /home/nilon/.vim/bundle/vim-over/plugin/over.vim
+270.234  000.097  000.097: sourcing /home/nilon/.vim/bundle/wildfire.vim/autoload/wildfire/triggers.vim
+270.967  001.327  001.230: sourcing /home/nilon/.vim/bundle/wildfire.vim/plugin/wildfire.vim
+271.204  000.069  000.069: sourcing /home/nilon/.vim/bundle/vim-litecorrect/plugin/litecorrect.vim
+271.564  000.162  000.162: sourcing /home/nilon/.vim/bundle/vim-textobj-sentence/plugin/textobj/sentence.vim
+272.358  000.559  000.559: sourcing /home/nilon/.vim/bundle/vim-textobj-quote/plugin/textobj/quote.vim
+272.935  000.461  000.461: sourcing /home/nilon/.vim/bundle/vim-wordy/plugin/wordy.vim
+273.383  000.021  000.021: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+273.436  000.016  000.016: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+273.485  000.015  000.015: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+273.535  000.016  000.016: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+273.584  000.016  000.016: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+273.632  000.015  000.015: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+273.679  000.015  000.015: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+273.728  000.016  000.016: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+273.777  000.016  000.016: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+273.827  000.018  000.018: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+276.002  001.584  001.584: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/util.vim
+282.028  000.190  000.190: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+282.288  000.177  000.177: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+282.928  000.597  000.597: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+283.348  000.383  000.383: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+283.589  000.201  000.201: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+284.221  000.597  000.597: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+284.370  000.111  000.111: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+284.492  000.090  000.090: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+284.944  000.420  000.420: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+285.181  000.184  000.184: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+288.151  014.292  009.758: sourcing /home/nilon/.vim/bundle/syntastic/plugin/syntastic.vim
+289.237  000.906  000.906: sourcing /home/nilon/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+289.528  000.089  000.089: sourcing /home/nilon/.vim/bundle/gist-vim/plugin/gist.vim
+298.385  008.750  008.750: sourcing /home/nilon/.vim/bundle/nerdcommenter/plugin/NERD_commenter.vim
+298.949  000.423  000.423: sourcing /home/nilon/.vim/bundle/vim-commentary/plugin/commentary.vim
+299.535  000.420  000.420: sourcing /home/nilon/.vim/bundle/tabular/plugin/Tabular.vim
+299.758  000.098  000.098: sourcing /home/nilon/.vim/bundle/rainbow/plugin/rainbow_main.vim
+301.251  001.385  001.385: sourcing /home/nilon/.vim/bundle/tagbar/plugin/tagbar.vim
+301.614  000.077  000.077: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/buffer.vim
+301.719  000.068  000.068: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/dictionary.vim
+301.812  000.060  000.060: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/member.vim
+301.898  000.054  000.054: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete/tag.vim
+302.189  000.260  000.260: sourcing /home/nilon/.vim/bundle/neocomplete.vim/plugin/neocomplete.vim
+302.669  000.374  000.374: sourcing /home/nilon/.vim/bundle/neosnippet/plugin/neosnippet.vim
+302.831  000.052  000.052: sourcing /home/nilon/.vim/bundle/vim-snippets/plugin/vimsnippets.vim
+303.617  000.678  000.678: sourcing /home/nilon/.vim/bundle/PIV/plugin/phpfolding.vim
+303.849  000.167  000.167: sourcing /home/nilon/.vim/bundle/PIV/plugin/piv.vim
+304.284  000.255  000.255: sourcing /home/nilon/.vim/bundle/vim-php-namespace/plugin/phpns.vim
+305.359  000.310  000.310: sourcing /home/nilon/.vim/bundle/python-mode/autoload/pymode.vim
+305.999  000.018  000.018: sourcing /usr/share/vim/vim80/filetype.vim
+307.094  000.046  000.046: sourcing /usr/share/vim/vim80/ftplugin.vim
+309.032  000.017  000.017: sourcing /usr/share/vim/vim80/filetype.vim
+310.122  000.022  000.022: sourcing /usr/share/vim/vim80/ftplugin.vim
+310.748  006.280  005.867: sourcing /home/nilon/.vim/bundle/python-mode/plugin/pymode.vim
+315.526  004.468  004.468: sourcing /home/nilon/.vim/bundle/emmet-vim/plugin/emmet.vim
+317.824  002.151  002.151: sourcing /home/nilon/.vim/bundle/vim-rails/plugin/rails.vim
+318.143  000.175  000.175: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/cargo.vim
+318.245  000.060  000.060: sourcing /home/nilon/.vim/bundle/rust.vim/plugin/rust.vim
+326.055  007.704  007.704: sourcing /home/nilon/.vim/bundle/vim-preview/plugin/preview.vim
+326.538  000.210  000.210: sourcing /home/nilon/.vim/bundle/vim-cucumber-align-pipes/plugin/cucumber-align-pipes.vim
+326.978  000.308  000.308: sourcing /home/nilon/.vim/bundle/translate-shell.vim/plugin/trans.vim
+327.551  000.124  000.124: sourcing /usr/share/vim/vim80/plugin/getscriptPlugin.vim
+328.217  000.630  000.630: sourcing /usr/share/vim/vim80/plugin/gzip.vim
+328.631  000.367  000.367: sourcing /usr/share/vim/vim80/plugin/logiPat.vim
+328.693  000.019  000.019: sourcing /usr/share/vim/vim80/plugin/manpager.vim
+328.993  000.271  000.271: sourcing /usr/share/vim/vim80/plugin/matchparen.vim
+330.055  001.015  001.015: sourcing /usr/share/vim/vim80/plugin/netrwPlugin.vim
+330.240  000.062  000.062: sourcing /usr/share/vim/vim80/plugin/rrhelper.vim
+330.332  000.042  000.042: sourcing /usr/share/vim/vim80/plugin/spellfile.vim
+330.624  000.256  000.256: sourcing /usr/share/vim/vim80/plugin/tarPlugin.vim
+330.820  000.140  000.140: sourcing /usr/share/vim/vim80/plugin/tohtml.vim
+331.229  000.354  000.354: sourcing /usr/share/vim/vim80/plugin/vimballPlugin.vim
+331.582  000.287  000.287: sourcing /usr/share/vim/vim80/plugin/zipPlugin.vim
+331.628  008.729: loading plugins
+331.763  000.135: loading packages
+333.539  000.373  000.373: sourcing /home/nilon/.vim/bundle/tabular/autoload/tabular.vim
+336.816  004.204  003.831: sourcing /home/nilon/.vim/bundle/tabular/after/plugin/TabularMaps.vim
+337.628  000.038  000.038: sourcing /home/nilon/.vim/bundle/translate-shell.vim/after/plugin/fzf.vim
+337.637  001.632: loading after plugins
+338.482  000.845: inits 3
+339.687  001.205: reading viminfo
+342.480  002.793: setup clipboard
+342.505  000.025: setting raw mode
+342.523  000.018: start termcap
+343.599  001.076: clearing screen
+352.395  000.717  000.717: sourcing /usr/share/vim/vim80/autoload/htmlcomplete.vim
+352.661  001.726  001.009: sourcing /usr/share/vim/vim80/ftplugin/html.vim
+357.748  009.274  007.548: sourcing /home/nilon/.vim/bundle/vim-markdown/ftplugin/markdown.vim
+358.552  000.047  000.047: sourcing /usr/share/vim/vim80/ftplugin/markdown.vim
+372.499  005.080  005.080: sourcing /home/nilon/.vim/bundle/vim-javascript/syntax/javascript.vim
+372.982  000.085  000.085: sourcing /usr/share/vim/vim80/syntax/javascript.vim
+382.097  006.423  006.423: sourcing /usr/share/vim/vim80/syntax/vb.vim
+395.839  012.276  012.276: sourcing /usr/share/vim/vim80/syntax/css.vim
+398.752  033.273  009.409: sourcing /usr/share/vim/vim80/syntax/html.vim
+413.641  013.273  013.273: sourcing /usr/share/vim/vim80/syntax/css.vim
+417.378  000.063  000.063: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/align-3.vim
+417.445  000.012  000.012: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/animation-worklet-1.vim
+417.526  000.031  000.031: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/animations-1.vim
+417.581  000.010  000.010: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/backgrounds-3.vim
+417.829  000.205  000.205: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/backgrounds-4.vim
+417.946  000.068  000.068: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/box-3.vim
+418.091  000.050  000.050: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/break-3.vim
+418.188  000.041  000.041: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/break-4.vim
+418.256  000.022  000.022: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/cascade-3.vim
+418.331  000.031  000.031: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/cascade-4.vim
+418.396  000.012  000.012: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/color-3.vim
+418.482  000.043  000.043: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/color-4.vim
+418.563  000.034  000.034: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/color-adjust.vim
+418.644  000.037  000.037: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/compositing-1.vim
+418.707  000.013  000.013: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/conditional-3.vim
+418.774  000.024  000.024: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/contain-1.vim
+418.866  000.049  000.049: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/content-3.vim
+419.044  000.130  000.130: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/counter-styles-3.vim
+419.123  000.018  000.018: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/cssom-1.vim
+419.192  000.025  000.025: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/cssom-view-1.vim
+419.269  000.033  000.033: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/device-adapt-1.vim
+419.363  000.041  000.041: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/display-3.vim
+419.420  000.012  000.012: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/easing-1.vim
+419.489  000.027  000.027: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/exclusions-3.vim
+419.589  000.056  000.056: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/fill-stroke-3.vim
+419.704  000.063  000.063: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/filter-effects-1.vim
+419.766  000.015  000.015: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/flexbox-1.vim
+419.820  000.010  000.010: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/font-loading-3.vim
+419.953  000.090  000.090: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/fonts-3.vim
+420.136  000.130  000.130: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/fonts-4.vim
+420.237  000.051  000.051: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/gcpm-3.vim
+420.294  000.011  000.011: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/geometry-1.vim
+420.476  000.116  000.116: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/grid-1.vim
+420.568  000.027  000.027: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/grid-2.vim
+420.692  000.043  000.043: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/html5.vim
+420.875  000.099  000.099: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/images-3.vim
+421.041  000.061  000.061: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/images-4.vim
+421.258  000.083  000.083: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/inline-3.vim
+421.432  000.089  000.089: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/layout-api-1.vim
+421.868  000.357  000.357: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/line-grid-1.vim
+422.063  000.079  000.079: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/lists-3.vim
+422.275  000.116  000.116: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/logical-1.vim
+422.448  000.098  000.098: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/masking-1.vim
+422.550  000.041  000.041: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/motion-1.vim
+422.679  000.028  000.028: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/multicol-1.vim
+422.741  000.014  000.014: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/namespace-3.vim
+422.816  000.031  000.031: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/nav-1.vim
+422.923  000.049  000.049: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/overflow-3.vim
+423.051  000.081  000.081: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/overflow-4.vim
+423.162  000.030  000.030: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/overscroll-1.vim
+423.230  000.020  000.020: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/page-3.vim
+423.344  000.056  000.056: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/page-floats-3.vim
+423.423  000.028  000.028: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/paint-api-1.vim
+423.506  000.033  000.033: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/pointerevents.vim
+423.589  000.036  000.036: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/position-3.vim
+423.660  000.013  000.013: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/properties-values-api-1.vim
+423.736  000.030  000.030: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/pseudo-4.vim
+423.833  000.051  000.051: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/regions-1.vim
+423.921  000.042  000.042: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/rhythm-1.vim
+424.060  000.083  000.083: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/round-display-1.vim
+424.175  000.044  000.044: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/ruby-1.vim
+424.289  000.066  000.066: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/scoping-1.vim
+424.399  000.048  000.048: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/scroll-snap-1.vim
+424.486  000.038  000.038: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/selectors-3.vim
+424.663  000.127  000.127: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/selectors-4.vim
+424.743  000.029  000.029: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/shadow-parts-1.vim
+424.846  000.048  000.048: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/shapes-1.vim
+424.930  000.038  000.038: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/sizing-3.vim
+424.988  000.014  000.014: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/style-attr.vim
+425.214  000.182  000.182: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/svg2.vim
+425.277  000.014  000.014: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/syntax-3.vim
+425.336  000.017  000.017: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/tables-3.vim
+425.477  000.099  000.099: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/text-3.vim
+425.671  000.136  000.136: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/text-4.vim
+425.771  000.050  000.050: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/text-decor-3.vim
+425.870  000.046  000.046: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/text-decor-4.vim
+425.945  000.028  000.028: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/timing-1.vim
+426.026  000.025  000.025: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/transforms-1.vim
+426.128  000.022  000.022: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/transitions-1.vim
+426.190  000.015  000.015: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/typed-om-1.vim
+426.261  000.029  000.029: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/ui-3.vim
+426.356  000.042  000.042: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/ui-4.vim
+426.486  000.054  000.054: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/values-3.vim
+426.593  000.061  000.061: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/values-4.vim
+426.684  000.040  000.040: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/variables-1.vim
+426.755  000.014  000.014: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/web-animations-1.vim
+426.836  000.037  000.037: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/webvtt1.vim
+426.914  000.032  000.032: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/will-change-1.vim
+426.978  000.014  000.014: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/worklets-1.vim
+427.129  000.101  000.101: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/writing-modes-3.vim
+427.211  000.024  000.024: sourcing /home/nilon/.vim/bundle/vim-css3-syntax/after/syntax/css/writing-modes-4.vim
+432.143  004.815  004.815: sourcing /home/nilon/.vim/bundle/vim-coloresque/after/syntax/css/vim-coloresque.vim
+432.356  000.059  000.059: sourcing /home/nilon/.vim/bundle/vim-rails/after/syntax/css/rails.vim
+438.503  038.723  015.751: sourcing /home/nilon/.vim/bundle/vim-less/syntax/less.vim
+438.854  000.044  000.044: sourcing /usr/share/vim/vim80/syntax/less.vim
+445.860  005.195  005.195: sourcing /home/nilon/.vim/bundle/vim-coloresque/after/syntax/css/vim-coloresque.vim
+445.962  006.543  001.348: sourcing /home/nilon/.vim/bundle/vim-coloresque/after/syntax/less.vim
+446.269  046.991  001.681: sourcing /home/nilon/.vim/bundle/vim-less/after/syntax/html.vim
+452.602  005.308  005.308: sourcing /home/nilon/.vim/bundle/vim-javascript/syntax/javascript.vim
+452.845  000.037  000.037: sourcing /usr/share/vim/vim80/syntax/javascript.vim
+454.886  008.069  002.724: sourcing /home/nilon/.vim/bundle/vim-coffee-script/syntax/coffee.vim
+455.960  009.607  001.538: sourcing /home/nilon/.vim/bundle/vim-coffee-script/after/syntax/html.vim
+462.650  005.312  005.312: sourcing /home/nilon/.vim/bundle/vim-coloresque/after/syntax/css/vim-coloresque.vim
+462.751  006.659  001.347: sourcing /home/nilon/.vim/bundle/vim-coloresque/after/syntax/html.vim
+464.151  099.290  002.760: sourcing /home/nilon/.vim/bundle/vim-markdown/syntax/markdown.vim
+464.411  000.032  000.032: sourcing /usr/share/vim/vim80/syntax/markdown.vim
+466.478  000.209  000.209: sourcing /home/nilon/.vim/bundle/rainbow/autoload/rainbow_main.vim
+467.209  000.188  000.188: sourcing /home/nilon/.vim/bundle/rainbow/autoload/rainbow.vim
+473.183  000.197  000.197: sourcing /home/nilon/.vim/bundle/vim-textobj-sentence/autoload/textobj/sentence.vim
+474.633  000.961  000.961: sourcing /home/nilon/.vim/bundle/vim-textobj-user/autoload/textobj/user.vim
+481.928  000.201  000.201: sourcing /home/nilon/.vim/bundle/vim-textobj-quote/autoload/textobj/quote.vim
+487.606  000.105  000.105: sourcing /home/nilon/.vim/bundle/vim-textobj-quote/autoload/textobj/quote/educate.vim
+488.716  000.531  000.531: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions.vim
+489.149  000.148  000.148: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/quickfix.vim
+489.513  000.072  000.072: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/netrw.vim
+489.915  000.119  000.119: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/ctrlp.vim
+490.310  000.063  000.063: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/undotree.vim
+490.704  000.137  000.137: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/hunks.vim
+491.112  000.138  000.138: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/tagbar.vim
+491.785  000.349  000.349: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/branch.vim
+492.196  000.062  000.062: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/bufferline.vim
+492.840  000.102  000.102: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/syntastic.vim
+493.467  000.228  000.228: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/whitespace.vim
+494.101  000.136  000.136: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/po.vim
+494.522  000.165  000.165: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount.vim
+494.917  000.052  000.052: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/keymap.vim
+501.377  000.129  000.129: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/section.vim
+502.062  000.343  000.343: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+508.457  000.152  000.152: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/themes.vim
+508.952  001.393  001.241: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+514.504  001.009  001.009: sourcing /home/nilon/.vim/bundle/vim-airline-themes/autoload/airline/themes/solarized.vim
+554.153  000.319  000.319: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/builder.vim
+555.034  000.197  000.197: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount/formatters/default.vim
+555.795  000.171  000.171: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/extensions/default.vim
+596.934  000.085  000.085: sourcing /home/nilon/.vim/bundle/conflict-marker.vim/autoload/conflict_marker/detect.vim
+597.483  000.196  000.196: sourcing /home/nilon/.vim/bundle/vim-signify/autoload/sy.vim
+598.007  000.135  000.135: sourcing /home/nilon/.vim/bundle/vim-signify/autoload/sy/util.vim
+599.201  000.863  000.863: sourcing /home/nilon/.vim/bundle/vim-signify/autoload/sy/repo.vim
+608.804  000.646  000.646: sourcing /home/nilon/.vim/bundle/ctrlp.vim/autoload/ctrlp/utils.vim
+621.240  006.376  006.376: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar.vim
+622.390  000.254  000.254: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/debug.vim
+622.644  012.011  005.381: sourcing /home/nilon/.vimviews/~=+slog-slow-blog.md=
+624.292  000.672  000.672: sourcing /home/nilon/.vim/bundle/syntastic/autoload/syntastic/log.vim
+624.382  149.808: opening buffers
+812.206  187.824: BufEnter autocommands
+812.211  000.005: editing files in windows
+826.773  000.471  000.471: sourcing /home/nilon/.vim/bundle/vim-airline/autoload/airline/async.vim
+850.589  000.854  000.854: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/types/ctags.vim
+851.675  000.126  000.126: sourcing /home/nilon/.vim/bundle/tagbar/autoload/tagbar/prototypes/typeinfo.vim
+878.975  065.313: VimEnter autocommands
+878.980  000.005: before starting main loop
+904.498  025.518: first screen update
+904.502  000.004: --- VIM STARTED ---

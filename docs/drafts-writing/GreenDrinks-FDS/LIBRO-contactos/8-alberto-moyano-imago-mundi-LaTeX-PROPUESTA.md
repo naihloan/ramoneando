@@ -1,3 +1,23 @@
+2019-09-05
+
+Hola Alejandro,
+ya tenemos la tapa del libro. Paso adjunto.
+
+¿Te parece que haría falta modificar la tipografía de tapa?
+
+Otra consulta. Vamos a hacer la edición en los dos idiomas. Una vez que nos comprometamos con ustedes, ¿varía mucho el precio por hacer en los dos idiomas? Pensé que tal vez si armo los contenidos en carpetas LaTeX se simplifica el trabajo, y les puedo mandar eso así pre-armado.
+
+El último tema es que en este momento es probable que imprimamos en Chile.
+Ahora, si ustedes no hacen la impresión te quería pedir:
+
+¿Podrían armar un nuevo presupuesto con estas especificaciones?
+
+Muchísimas gracias,
+estamos en contacto.
+Benjamín
+
+======
+
 Hola Alberto,
 ¿cómo estás? Te había escrito antes por Linkedin.
 Estoy trabajando en una fundación sobre temas sustentables y tenemos un libro digital en español ya publicado. Ahora queremos traducirlo al inglés y publicar en papel. No es un texto académico, sino de experiencias de especialistas, innovadores, para dialogar con el público general.
@@ -11,7 +31,7 @@ Estamos en contacto,
 Saludos desde Córdoba,
 Benjamín Juárez.
 
-******
+======
 
 Hola Alejandro, me alegro de la evaluación que hicieron.
 Nuestro plan inicial es hacer una tirada de 1000 ejemplares.
@@ -33,6 +53,8 @@ Te lo paso de nuevo por las dudas para revisar detalles:
 Estamos en contacto,
 Benjamín
 
+======
+
 On Fri, Aug 2, 2019 at 4:44 PM alejandro daniel Falco <alejandro.daniel.falco@gmail.com> wrote:
 Bejamín, estuvimos viendo el texo. Nosotros lo que podemos hacer en este momento, es enviarte un presupuesto para la edición. No sé si este es el escenario que estabas manejando, de ser así, tendríamos que saber la tirada, y otros detalle.
 
@@ -43,6 +65,8 @@ Ediciones Imago Mundi
 www.edicionesimagomundi.com
 
 	Libre de virus. www.avast.com
+
+======
 
 El mié., 31 jul. 2019 a las 9:44, Benjamín Juárez Arlt (<benjaminjuarezarlt@greendrinkscba.org>) escribió:
 Hola Alejandro,
