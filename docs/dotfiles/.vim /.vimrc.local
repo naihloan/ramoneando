@@ -1,18 +1,56 @@
-" Plug 'echuraev/translate-shell.vim'
-" Plug 'echuraev/translate-shell.vim', { 'do': 'wget -O ~/.vim/trans git.io/trans && chmod +x ~/.vim/trans'  }
-    Bundle 'echuraev/translate-shell.vim'
-
-" Agregar acentos con facilidad
+" Adds/removes accents easily, by pressing "-"
 nnoremap <silent> - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
 :iabbrev </ </<C-X><C-O>
 
+" https://stackoverflow.com/a/58604/6253165
+nmap <F3> i<C-R>=strftime("%Y-%m-%d")<CR><Esc>
+imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
+
+" convert files from markdown to pdf and html with F5 and F9 " by Luke Smith
+autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.pdf<Enter><Enter>
+autocmd Filetype markdown map <F9> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.html<space>-s<Enter><Enter> " my script for html template!! 
+" leader + t gives possible translations
+" Plug 'echuraev/translate-shell.vim'
+    Bundle 'echuraev/translate-shell.vim'
+
+" plugins
+" gcc to comment on lines " by tpope >> commentary.vim
+
+" how to autocomplete code >> review
+" https://github.com/google/vim-codefmt
+
+" https://github.com/dbmrq/vim-ditto
+
+" Use autocmds to check your text automatically and keep the highlighting up to date (easier):
+ au FileType markdown,text,tex DittoOn  " Turn on Ditto's autocmds
+ nmap <leader>di <Plug>ToggleDitto      " Turn Ditto on and off
+
+" If you don't want the autocmds, you can also use an operator to check specific parts of your text:
+" vmap <leader>d <Plug>Ditto       " Call Ditto on visual selection
+" nmap <leader>d <Plug>Ditto       " Call Ditto on operator movement
+
+nmap =d <Plug>DittoNext                " Jump to the next word
+nmap -d <Plug>DittoPrev                " Jump to the previous word
+nmap +d <Plug>DittoGood                " Ignore the word under the cursor
+nmap _d <Plug>DittoBad                 " Stop ignoring the word under the cursor
+nmap ]d <Plug>DittoMore                " Show the next matches
+nmap [d <Plug>DittoLess                " Show the previous matches
+
+" https://github.com/rhysd/vim-grammarous
+" https://github.com/reedes/vim-wordy
+
+" Wrap Existing Text at 80 Characters in Vim
+" https://thoughtbot.com/blog/wrap-existing-text-at-80-characters-in-vim
+:set textwidth=80
+au BufRead,BufNewFile *.md setlocal textwidth=80
+
+" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+
+" indent guides + spelling highlights
 hi IndentGuidesOdd  ctermbg=black
 hi IndentGuidesEven ctermbg=lightgrey
 hi clear SpellBad
 hi SpellBad cterm=bold cterm=underline  ctermfg=yellow " guifg=yellow 
-
-autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.pdf<Enter><Enter>
-autocmd Filetype markdown map <F9> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.html<space>-s<Enter><Enter> " my script for html template!! 
 
 noremap <silent> <leader>t <ESC>:Trans<CR>
 nnoremap <silent> <leader>t :Trans<CR>
@@ -22,6 +60,3 @@ vnoremap <silent> <leader>td :TransSelectDirection<CR>
 
 nnoremap <silent> <CR> :nohlsearch<CR><CR>
 
-https://stackoverflow.com/a/58604/6253165
-nmap <F3> i<C-R>=strftime("%Y-%m-%d")<CR><Esc>
-imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
