@@ -22,8 +22,10 @@ autocmd Filetype markdown map <F9> :!pandoc<space><C-r>%<space>-o<space><C-r>%<b
 " https://github.com/dbmrq/vim-ditto
 
 " Use autocmds to check your text automatically and keep the highlighting up to date (easier):
- au FileType markdown,text,tex DittoOn  " Turn on Ditto's autocmds
- nmap <leader>di <Plug>ToggleDitto      " Turn Ditto on and off
+" Turn on Ditto's autocmds
+au FileType md,tex,txt DittoOn
+" Turn Ditto on and off
+nmap <leader>di <Plug>ToggleDitto
 
 " If you don't want the autocmds, you can also use an operator to check specific parts of your text:
 " vmap <leader>d <Plug>Ditto       " Call Ditto on visual selection
@@ -44,7 +46,10 @@ nmap [d <Plug>DittoLess                " Show the previous matches
 :set textwidth=80
 au BufRead,BufNewFile *.md setlocal textwidth=80
 
-" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+" cycling colors seems a good thing
+" also in tim ferriss's 4-hour body I can read violet blue in colors thanks to spf13
+
+" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
 
 " indent guides + spelling highlights
 hi IndentGuidesOdd  ctermbg=black
