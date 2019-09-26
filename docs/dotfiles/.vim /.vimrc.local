@@ -1,55 +1,21 @@
-" Adds/removes accents easily, by pressing "-"
-nnoremap <silent> - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
-:iabbrev </ </<C-X><C-O>
-
-" https://stackoverflow.com/a/58604/6253165
 nmap <F3> i<C-R>=strftime("%Y-%m-%d")<CR><Esc>
 imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
-
-" convert files from markdown to pdf and html with F5 and F9 " by Luke Smith
+nnoremap <silent> - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
+:iabbrev </ </<C-X><C-O>
 autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.pdf<Enter><Enter>
 autocmd Filetype markdown map <F9> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.html<space>-s<Enter><Enter> " my script for html template!! 
-" leader + t gives possible translations
-" Plug 'echuraev/translate-shell.vim'
-    Bundle 'echuraev/translate-shell.vim'
+Bundle 'echuraev/translate-shell.vim' " leader + t gives possible translations
+Plug 'lervag/vimtex' " check
 
-" plugins
-" gcc to comment on lines " by tpope >> commentary.vim
-
-" how to autocomplete code >> review
-" https://github.com/google/vim-codefmt
-
-" https://github.com/dbmrq/vim-ditto
-
-" Use autocmds to check your text automatically and keep the highlighting up to date (easier):
-" Turn on Ditto's autocmds
-au FileType md,tex,txt DittoOn
-" Turn Ditto on and off
+" https://github.com/dbmrq/vim-ditto " Use autocmds to check your text automatically and keep the highlighting up to date (easier):
+au FileType md,latex,txt DittoOn " Turn Ditto on and off
 nmap <leader>di <Plug>ToggleDitto
-
-" If you don't want the autocmds, you can also use an operator to check specific parts of your text:
-" vmap <leader>d <Plug>Ditto       " Call Ditto on visual selection
-" nmap <leader>d <Plug>Ditto       " Call Ditto on operator movement
-
 nmap =d <Plug>DittoNext                " Jump to the next word
 nmap -d <Plug>DittoPrev                " Jump to the previous word
 nmap +d <Plug>DittoGood                " Ignore the word under the cursor
 nmap _d <Plug>DittoBad                 " Stop ignoring the word under the cursor
 nmap ]d <Plug>DittoMore                " Show the next matches
 nmap [d <Plug>DittoLess                " Show the previous matches
-
-" https://github.com/rhysd/vim-grammarous
-" https://github.com/reedes/vim-wordy
-
-" Wrap Existing Text at 80 Characters in Vim
-" https://thoughtbot.com/blog/wrap-existing-text-at-80-characters-in-vim
-:set textwidth=80
-au BufRead,BufNewFile *.md setlocal textwidth=80
-
-" cycling colors seems a good thing
-" also in tim ferriss's 4-hour body I can read violet blue in colors thanks to spf13
-
-" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
 
 " indent guides + spelling highlights
 hi IndentGuidesOdd  ctermbg=black
@@ -60,8 +26,31 @@ hi SpellBad cterm=bold cterm=underline  ctermfg=yellow " guifg=yellow
 noremap <silent> <leader>t <ESC>:Trans<CR>
 nnoremap <silent> <leader>t :Trans<CR>
 vnoremap <silent> <leader>t :Trans<CR>
-nnoremap <silent> <leader>td :TransSelectDirection<CR>
-vnoremap <silent> <leader>td :TransSelectDirection<CR>
-
 nnoremap <silent> <CR> :nohlsearch<CR><CR>
 
+
+autocmd BufWritePost *.tex Dispatch! latexmk -pdf main.tex " an idea to automatize vim creating latex pdfs
+
+" PLUGINS >> check Snippets for autocomplete
+" gcc to comment on lines " by tpope >> commentary.vim
+" https://github.com/google/vim-codefmt autoformat
+" https://github.com/rhysd/vim-grammarous
+" https://github.com/reedes/vim-wordy
+" https://github.com/SidOfc/mkdx
+
+" consider latex and html with tab completion here:
+" https://github.com/honza/vim-snippets
+" suggested in reddit: https://www.reddit.com/r/vim/comments/4fm7vo/vim_not_very_well_suited_for_latex/
+" consider many undoes after file is closed
+
+" " " " " " " " " " " " "
+
+" Wrap Existing Text at 80 Characters in Vim
+" https://thoughtbot.com/blog/wrap-existing-text-at-80-characters-in-vim
+:set textwidth=80
+au BufRead,BufNewFile *.md setlocal textwidth=80
+
+" cycling colors seems a good thing
+" also in tim ferriss's 4-hour body I can read violet blue in colors thanks to spf13
+
+" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "

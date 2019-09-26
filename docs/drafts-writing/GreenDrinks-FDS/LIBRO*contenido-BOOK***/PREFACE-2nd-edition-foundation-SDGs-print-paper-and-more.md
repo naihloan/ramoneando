@@ -3,6 +3,7 @@ Sustainable Development Goals | SDG
 > *Basura hay para todos. Que no se aflijan las lombrices.*
 
 
+
 # We'll be back
 
 It's the second time that we're publishing this book. We like it and the innovation that it means locally pushes us forward. But we're not all the same, nor can we nor do we want totally to be coherent, simple and final. So let's discuss where we find ourselves and where we'd like to go towards. From idea to action, trying to avoid paralysis midway. So lets move on.
