@@ -1,0 +1,1030 @@
+set nocompatible            " Must be first line
+set background=dark         " Assume a dark background
+set mouse=a                 " Automatically enable mouse usage
+set mousehide               " Hide the mouse cursor while typing
+set clipboard=unnamed,unnamedplus
+set backup                  " Backups are nice ...
+set number relativenumber nobackup nowritebackup noswapfile ignorecase
+set linebreak
+set omnifunc=htmlcomplete#CompleteTags
+set incsearch hlsearch
+set cursorline
+set undofile undolevels=1000 undoreload=10000  
+set list
+set listchars=tab:>\ ,extends:#,trail:• " set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:☉,precedes:«,extends:»
+set foldmethod=indent
+set foldlevel=20 " set foldcolumn=2 " set foldlevel=1
+set nofoldenable
+set wildmenu
+setlocal foldmethod=manual
+let g:markdown_folding = 1
+au BufRead * normal zR
+scriptencoding utf-8
+syntax on                   " Syntax highlighting
+filetype plugin indent on   " Automatically detect file types.
+let mapleader = ','
+
+" color zmrok
+" color kalahari
+" color molokai
+" color solarized8_low
+" color solarized8_flat
+" color koehler
+" color zazen
+" color zellner
+" color purify
+" color thor
+" color tibet
+" color vj
+" color winter
+" color wintersday
+" color wood
+" color xemacs
+color afterglow
+color c
+color colorsbox-greenish
+color cyberpunk
+color donttouchme
+color dracula
+color enzyme
+color messy " light
+color northpole
+color preto
+color smarties
+color warriors-away
+
+" color 0x7A69_dark
+" color 1989
+" color 256-grayvim
+" color 256-jungle
+" color 256_noir
+" color 3dglasses
+" color abbott
+" color abra
+" color abyss
+" color adam
+" color adaryn
+" color adrian
+" color advantage
+" color af
+" color aiseered
+" color alduin
+" color ancient
+" color anderson
+" color angr
+" color anotherdark
+" color ansi_blows
+" color antares
+" color apprentice
+" color aquamarine " nice
+" color aqua
+" color arcadia
+" color archery
+" color ashen
+" color asmanian2
+" color asmanian_blood
+" color asmdev2
+" color asmdev
+" color astronaut
+" color asu1dark
+" color Atelier_CaveLight
+" color Atelier_DuneLight
+" color Atelier_EstuaryDark
+" color Atelier_EstuaryLight
+" color Atelier_ForestLight
+" color Atelier_HeathDark
+" color Atelier_HeathLight
+" color Atelier_LakesideLight
+" color Atelier_PlateauDark
+" color Atelier_PlateauLight
+" color Atelier_SavannaDark
+" color Atelier_SavannaLight
+" color Atelier_SeasideLight
+" color Atelier_SulphurpoolDark
+" color Atelier_SulphurpoolLight
+" color atom " nice
+" color aurora
+" color automation
+" color autumnleaf
+" color autumn
+" color ayu
+" color babymate256
+" color bandit
+" color base16-ateliercave
+" color base16-atelierdune
+" color base16-atelierestuary
+" color base16-atelierforest
+" color base16-atelierheath
+" color base16-atelierlakeside
+" color base16-atelierplateau
+" color base16-ateliersavanna
+" color base16-atelierseaside
+" color base16-ateliersulphurpool
+" color base16-railscasts
+" color base
+" color basic-light
+" color basic
+" color baycomb
+" color bayQua
+" color bclear
+" color beachcomber
+" color beauty256
+" color beekai
+" color behelit
+" color benlight
+" color bensday
+" color billw
+" color biogoo
+" color birds-of-paradise
+" color bitterjug
+" color black_angus
+" color blackbeauty
+" color blackboard
+" color blackdust
+" color blacklight
+" color BlackSea
+" color Black
+" color blaquemagick
+" color blazer
+" color blink
+" color Blue2
+" color bluechia
+" color bluedrake
+" color bluegreen
+" color bluenes
+" color blueprint
+" color blueshift
+" color blues
+" color blue
+" color bluez
+" color blugrine
+" color bluish
+" color bmichaelsen
+" color boa
+" color bocau
+" color bog
+" color boltzmann
+" color borland
+" color breeze
+" color breezy
+" color brighton
+" color briofita
+" color broduo
+" color brogrammer
+" color brookstream
+" color brown
+" color bubblegum-256-light
+" color buddy
+" color burnttoast256
+" color busierbee
+" color busybee
+" color buttercream
+" color bvemu
+" color bw
+" color c16gui
+" color C64
+" color cabin
+" color cake16
+" color cake
+" color calmar256-dark
+" color calmar256-light
+" color camo
+" color campfire
+" color CandyPaper
+" color candy
+" color caramel
+" color carrot " nice
+" color carvedwoodcool
+" color carvedwood
+" color cascadia
+" color celtics_away
+" color cgpro
+" color chance-of-storm
+" color charged-256
+" color charon
+" color Chasing_Logic
+" color chela_light
+" color cherryblossom
+" color chlordane
+" color ChocolateLiquor
+" color ChocolatePapaya
+" color chocolate
+" color chroma
+" color chrysoprase
+" color clarity
+" color cloudy
+" color clue
+" color cobalt2
+" color cobaltish
+" color cobalt
+" color codedark " nice
+" color CodeFactoryv3
+" color codeschool " nice
+" color coffee " nice
+" color coldgreen " nice
+" color colorer
+" color colorful256
+" color colorful
+" color colorsbox-faff
+" color colorsbox-material
+" color colorsbox-stblue
+" color colorsbox-stbright
+" color colorsbox-steighties
+" color colorsbox-stnight
+" color colorzone
+" color contrastneed
+" color contrasty
+" color cool
+" color corn
+" color crayon
+" color crt
+" color crunchbang
+" color cthulhian
+" color custom
+" color d8g_01
+" color d8g_02
+" color d8g_03
+" color d8g_04
+" color dante
+" color Dark2
+" color darkblack
+" color darkblue2
+" color darkBlue
+" color darkblue
+" color darkbone
+" color darkburn
+" color DarkDefault
+" color darkdevel
+" color darkdot
+" color darkeclipse
+" color darkglass " nice
+" color darkocean
+" color darkrobot
+" color dark-ruby
+" color darkslategray
+" color darkspectrum
+" color darktango
+" color Dark
+" color darkzen
+" color darkZ
+" color darth
+" color dawn
+" color deepsea
+" color deep-space
+" color default
+" color delek
+" color delphi
+" color denim
+" color derefined
+" color desert256v2
+" color desert256
+" color desertedoceanburnt
+" color desertedocean
+" color desertEx
+" color desertink
+" color desert
+" color detailed
+" color deus
+" color devbox-dark-256
+" color DevC++
+" color Dev_Delight
+" color deveiate
+" color developer
+" color Dim2
+" color DimBlue
+" color DimGreens
+" color DimGreen
+" color DimGrey
+" color DimRed
+" color DimSlate
+" color Dim
+" color diokai
+" color disciple
+" color distill
+" color distinguished
+" color django
+" color donbass
+" color doorhinge
+" color doriath
+" color dull
+" color duotone-darkdesert
+" color duotone-darkearth
+" color duotone-darkforest
+" color duotone-darkheath
+" color duotone-darklake
+" color duotone-darkmeadow
+" color duotone-darkpark
+" color duotone-darkpool
+" color duotone-darksea
+" color duotone-darkspace
+" color duotone-dark
+" color dw_blue
+" color dw_cyan
+" color dw_green
+" color dw_orange
+" color dw_purple
+" color dw_red
+" color dw_yellow
+" color dzo
+" color earendel
+" color earthburn
+" color earth
+" color eclipse
+" color eclm_wombat
+" color ecostation
+" color editplus
+" color edo_sea
+" color ego
+" color eink
+" color ekinivim
+" color ekvoli
+" color eldar
+" color elda
+" color elflord
+" color elise
+" color elisex
+" color elrodeo
+" color elrond
+" color emacs
+" color erez
+" color eva01-LCL
+" color eva01
+" color eva
+" color evening1
+" color evening
+" color evokai
+" color evolution
+" color fahrenheit
+" color fairyfloss
+" color falcon
+" color far
+" color felipec
+" color feral
+" color fight-in-the-shade
+" color fine_blue
+" color firewatch
+" color flatcolor
+" color flatlandia
+" color flatland
+" color flattened_dark
+" color flattened_light
+" color flattown
+" color flattr
+" color flatui
+" color fnaqevan
+" color fog
+" color forneus
+" color freya
+" color frood
+" color frozen
+" color fruidle
+" color fruit
+" color fruity
+" color fu
+" color fx
+" color garden
+" color gemcolors
+" color genericdc-light
+" color genericdc
+" color gentooish
+" color getafe
+" color getfresh
+" color ghostbuster
+" color github
+" color gobo
+" color golded
+" color goldenrod
+" color golden
+" color goodwolf
+" color google
+" color gor
+" color gotham256
+" color gotham
+" color gothic
+" color grape
+" color gravity
+" color grayorange
+" color graywh
+" color grb256
+" color greens
+" color Green
+" color greenvision
+" color greenwint
+" color grey2
+" color greygull
+" color grishin
+" color gruvbox " popular
+" color gryffin
+" color guardian
+" color guepardo
+" color h80
+" color habiLight
+" color happy_hacking
+" color harlequin
+" color heliotrope
+" color hemisu
+" color herald
+" color herokudoc-gvim
+" color herokudoc
+" color heroku-terminal
+" color heroku
+" color hhazure
+" color hhdblue
+" color hhdcyan
+" color hhdgray
+" color hhdgreen
+" color hhdmagenta
+" color hhdred
+" color hhdyellow
+" color hhorange
+" color hhpink
+" color hhteal
+" color hhviolet
+" color highlighter_term_bright
+" color highlighter_term
+" color highwayman
+" color hilal
+" color holokai
+" color hornet
+" color horseradish256
+" color hotpot
+" color hybrid-light
+" color hybrid_material
+" color hybrid_reverse
+" color hybrid
+" color hydrangea
+" color iangenzo
+" color ibmedit
+" color icansee
+" color iceberg
+" color immortals
+" color impactG
+" color impactjs
+" color impact
+" color industrial
+" color industry
+" color ingretu
+" color inkpot " nice
+" color inori
+" color ir_black
+" color ironman " nice
+" color itg_flat_transparent
+" color itg_flat
+" color itsasoa
+" color jaime
+" color janah
+" color jelleybeans " nice
+" color jhdark " nice
+" color jhlight
+" color jiks
+" color jitterbug
+" color kalisi
+" color kaltex
+" color kalt
+" color kate
+" color kellys
+" color khaki
+" color kib_darktango
+" color kib_plastic
+" color kings-away
+" color kiss
+" color kkruby
+" color koehler
+" color kolor
+" color kruby
+" color kyle
+" color laederon
+" color lakers_away
+" color landscape
+" color lanox
+" color lanzarotta
+" color lapis256
+" color last256
+" color late_evening
+" color legiblelight
+" color leglight2
+" color leo
+" color less
+" color lettuce
+" color leya
+" color lightcolors
+" color LightDefaultGrey
+" color LightDefault
+" color lightning
+" color LightTan
+" color Light
+" color LightYellow
+" color lilac
+" color lilydjwg_dark
+" color lilydjwg_green
+" color lilypink
+" color lingodirector
+" color liquidcarbon
+" color literal_tango
+" color lizard256
+" color lizard
+" color lodestone
+" color loogica
+" color louver
+" color lucid
+" color lucius
+" color luinnar
+" color lumberjack
+" color luna-term
+" color luna
+" color lxvc
+" color lyla
+" color mac_classic
+" color macvim-light
+" color made_of_code
+" color madeofcode
+" color magellan
+" color magicwb
+" color mango
+" color manuscript
+" color manxome
+" color marklar
+" color maroloccio2
+" color maroloccio3
+" color maroloccio
+" color mars
+" color martin_krischik
+" color materialbox
+" color material-theme
+" color materialtheme
+" color material
+" color matrix
+" color maui
+" color mayansmoke
+" color mdark
+" color meta5
+" color metacosm
+" color midnight
+" color miko
+" color minimalist
+" color minimal
+" color mint
+" color mizore
+" color mod8
+" color mod_tcsoft
+" color mohammad
+" color mojave
+" color molokai_dark
+" color molokai
+" color monoacc
+" color monochrome
+" color monokai-chris
+" color monokain
+" color monokai-phoenix
+" color Monokai
+" color montz
+" color moody
+" color moonshine_lowcontrast
+" color moonshine_minimal
+" color moonshine
+" color mophiaDark
+" color mophiaSmoke
+" color mopkai
+" color more
+" color moriarty
+" color moria
+" color morning
+" color moss
+" color motus
+" color MountainDew
+" color mourning
+" color mrkn256
+" color mrpink
+" color mud
+" color muon
+" color murphy
+" color mythos
+" color native
+" color nature
+" color navajo-night
+" color navajo
+" color nazca
+" color nedit2
+" color nedit
+" color nefertiti
+" color neon
+" color neonwave
+" color nerv-ous
+" color nes
+" color nets-away
+" color neuromancer
+" color neutron
+" color neverland2-darker
+" color neverland2
+" color neverland-darker
+" color neverland
+" color neverness
+" color nevfn
+" color new-railscasts
+" color newspaper
+" color newsprint
+" color nicotine
+" color nightflight2
+" color nightflight
+" color nightshade_print
+" color nightshade
+" color nightshimmer
+" color nightsky
+" color night
+" color nightVision
+" color night_vision
+" color nightwish
+" color noclown
+" color nocturne
+" color nofrils-acme
+" color nofrils-dark
+" color nofrils-light
+" color nofrils-sepia
+" color no_quarter
+" color nordisk
+" color nord
+" color northland
+" color northsky
+" color norwaytoday " nice
+" color nour
+" color nuvola
+" color obsidian2
+" color obsidian
+" color oceanblack256
+" color oceanblack
+" color oceandeep
+" color OceanicNextLight
+" color OceanicNext
+" color oceanlight
+" color off
+" color olive
+" color onedark
+" color orange
+" color osx_like
+" color otaku
+" color oxeded
+" color pacific
+" color PapayaWhip
+" color PaperColor
+" color paramount
+" color parsec
+" color peachpuff
+" color peaksea
+" color pencil
+" color penultimate
+" color peppers
+" color PerfectDark
+" color perfect
+" color petrel
+" color pf_earth
+" color phd
+" color phoenix
+" color phphaxor
+" color phpx
+" color pink
+" color pixelmuerto
+" color plasticine
+" color playroom
+" color pleasant
+" color potts
+" color predawn
+" color pride
+" color primaries
+" color primary
+" color print_bw
+" color prmths
+" color professional
+" color proton
+" color ps_color
+" color pspad
+" color pt_black
+" color putty
+" color pw
+" color py-darcula
+" color pyte
+" color raggi
+" color railscasts
+" color rainbow_autumn
+" color rainbow_fine_blue
+" color rainbow_fruit
+" color rainbow_sea
+" color rakr-light
+" color random " !!!!!!!
+" color rcg_gui
+" color rcg_term
+" color rdark-terminal
+" color rdark
+" color redblack
+" color redstring
+" color Red
+" color refactor
+" color reliable
+" color revolutions
+" color rockets-away
+" color ron
+" color rootwater
+" color sadek1
+" color sand
+" color sandydune
+" color satori
+" color saturn
+" color scheakur
+" color scite
+" color scooby
+" color seagull
+" color sean
+" color seashell
+" color seattle
+" color seoul256-light
+" color seoul256
+" color seoul
+" color SerialExperimentsLain
+" color seti
+" color settlemyer
+" color sexy-railscasts
+" color sf
+" color shadesofamber
+" color shades-of-teal
+" color shine
+" color shiny-white
+" color shobogenzo
+" color sialoquent
+" color sienna
+" color sierra
+" color sift
+" color silent
+" color simple256
+" color simpleandfriendly
+" color simple_b
+" color simple_dark
+" color simplewhite
+" color simplon
+" color skittles_autumn
+" color skittles_berry
+" color skittles_dark
+" color sky
+" color slate2
+" color SlateDark
+" color Slate
+" color smpl
+" color smp
+" color smyck
+" color soda
+" color softbluev2
+" color softblue
+" color softlight
+" color solarized8_dark_flat
+" color solarized8_dark_high
+" color solarized8_dark_low
+" color solarized8_dark
+" color solarized8_flat
+" color solarized8_high
+" color solarized8_light_flat
+" color solarized8_light_high
+" color solarized8_light_low
+" color solarized8_light
+" color solarized8_low
+" color solarized8
+" color solarized
+" color sole
+" color sol-term
+" color sol
+" color sonofobsidian
+" color sonoma
+" color sorcerer
+" color soruby
+" color soso
+" color sourcerer
+" color southernlights
+" color southwest-fog
+" color spacegray
+" color spacemacs-theme
+" color space-vim-dark
+" color spartan
+" color spectro
+" color spiderhawk
+" color Spink
+" color spring-night
+" color spring
+" color sprinkles
+" color spurs_away
+" color srcery-drk
+" color srcery
+" color stackoverflow
+" color stefan
+" color stereokai
+" color stingray
+" color stonewashed-256
+" color stonewashed-dark-256
+" color stonewashed-dark-gui
+" color stonewashed-gui
+" color stormpetrel
+" color strange
+" color strawimodo
+" color summerfruit256
+" color summerfruit
+" color sunburst
+" color surveyor
+" color swamplight
+" color sweater
+" color SweetCandy
+" color symfony
+" color synic
+" color synthwave
+" color tabula
+" color tango2
+" color tango-desert
+" color tango-morning
+" color tangoshady
+" color tango
+" color tangoX
+" color taqua
+" color tatami
+" color tayra
+" color tchaba2
+" color tchaba
+" color tcsoft
+" color telstar
+" color tender " nice
+" color termschool
+" color tesla " nice
+" color tetragrammaton
+" color textmate16
+" color thegoodluck
+" color thermopylae
+" color thestars
+" color thornbird
+" color tigrana-256-dark
+" color tigrana-256-light
+" color tir_black
+" color tomatosoup " nice
+" color Tomorrow-Night-Blue
+" color Tomorrow-Night-Bright
+" color Tomorrow-Night-Eighties
+" color Tomorrow-Night
+" color Tomorrow
+" color tony_light
+" color toothpik
+" color torte
+" color transparent
+" color trivial256
+" color trogdor
+" color true-monochrome " impressive
+" color turbo
+" color twilight256
+" color twilight
+" color twitchy
+" color two2tango " OK
+" color two-firewatch
+" color ubaryd
+" color ubloh
+" color umber-green
+" color understated
+" color underwater-mod
+" color underwater
+" color unicon " mild
+" color valloric
+" color vanzan_color
+" color vc " nice
+" color vertLaiton
+" color vexorian " OK
+" color vibrantink " nice
+" color vice
+" color vilight
+" color vimbrains
+" color vimbrant
+" color vimicks
+" color vim-material " OK
+" color visualstudio " OK
+" color vividchalk
+" color VIvid
+" color void
+" color vorange
+" color vylight
+" color wasabi256
+" color watermark
+" color welpe
+" color whitedust
+" color white
+" color win9xblueback
+" color woju
+" color wolfpack
+" color wombat256dave
+" color wombat256i
+" color wombat256mod
+" color wombat256
+" color wombat
+" color wuye
+" color wwdc16
+" color wwdc17
+" color xcode-default
+" color xcode " nice
+" color xian
+" color xmaslights " 404
+" color xoria256
+" color xterm16
+" color yeller
+" color zazen
+" color zellner
+" color zenburn
+
+" ColorStepper Keys
+nmap <F6> <Plug>ColorstepPrev
+nmap <F7> <Plug>ColorstepNext
+nmap <S-F7> <Plug>ColorstepReload
+
+if has("multi_byte")
+  if &termencoding == ""
+      let &termencoding = &encoding
+  endif
+  set encoding=utf-8
+  setglobal fileencoding=utf-8
+  " Uncomment to have 'bomb' on by default for new files.
+  " Note, this will not apply to the first, empty buffer created at Vim startup.
+  " setglobal bomb
+  set fileencodings=ucs-bom,utf-8,latin1
+endif
+
+" Wrap Existing Text at 80 Characters in Vim " https://thoughtbot.com/blog/wrap-existing-text-at-80-characters-in-vim
+" https://stackoverflow.com/questions/9558560/vimrc-textwidth-not-applying
+" Options wrap and textwidth regard two completely different kinds of wrapping.
+set tw=95
+au BufRead,BufNewFile *.md setlocal tw=95
+
+nnoremap <silent> - s<c-r>=tr(@",'aeioucnAEIOUCNáéíóúçñÁÉÍÓÚÇÑ', 'áéíóúçñÁÉÍÓUÇÑaeioucnAEIOUCN')<cr><esc>
+:iabbrev </ </<C-X><C-O>
+map <F2> :!wc <C-R>%<CR> " Word count " Get line, word and character counts with F2. " https://www.dralexnorman.net/post/a-literate-vimrc-file/
+nmap <F3> i<C-R>=strftime("%Y-%m-%d")<CR><Esc>
+imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
+map <F5> :setlocal spell! spelllang=en,es<CR>
+autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.pdf<Enter><Enter>
+autocmd Filetype markdown map <F8> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.odt<space>-s<Enter><Enter> " my script for html template!! 
+autocmd Filetype markdown map <F9> :!pandoc<space><C-r>%<space>-o<space><C-r>%<backspace><backspace><backspace>.html<space>-s<Enter><Enter> " my script for html template!! 
+au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+
+" https://github.com/dbmrq/vim-ditto " Use autocmds to check your text automatically and keep the highlighting up to date (easier):
+au FileType md,latex,txt,sil DittoOn " Turn Ditto on and off
+nmap <leader>di <Plug>ToggleDitto
+nmap =d <Plug>DittoNext                " Jump to the next word
+nmap -d <Plug>DittoPrev                " Jump to the previous word
+nmap +d <Plug>DittoGood                " Ignore the word under the cursor
+nmap _d <Plug>DittoBad                 " Stop ignoring the word under the cursor
+nmap ]d <Plug>DittoMore                " Show the next matches
+nmap [d <Plug>DittoLess                " Show the previous matches
+
+" indent guides + spelling highlights
+hi IndentGuidesOdd  ctermbg=black
+hi IndentGuidesEven ctermbg=lightgrey
+hi clear SpellBad
+hi SpellBad cterm=bold cterm=underline  ctermfg=yellow " guifg=yellow 
+
+" Edit vimr configuration file
+nnoremap <Leader>ve :e $MYVIMRC<CR>
+" Reload vimr configuration file
+nnoremap <Leader>vr :source $MYVIMRC<CR>
+
+call plug#begin('~/.vim/plugged')
+
+autocmd BufWritePost *.tex Dispatch! latexmk -pdf main.tex " an idea to automatize vim creating latex pdfs
+
+
+" Plug 'echuraev/translate-shell.vim', { 'do': 'wget -O ~/.vim/trans git.io/trans && chmod +x ~/.vim/trans' }
+" let g:trans_bin = "~/.vim"
+" Bundle 'echuraev/translate-shell.vim' " leader + t gives possible translations
+
+" noremap <silent> <leader>t <ESC>:Trans<CR>
+" nnoremap <silent> <leader>t :Trans<CR>
+" vnoremap <silent> <leader>t :Trans<CR>
+" nnoremap <silent> <CR> :nohlsearch<CR><CR>
+
+" PLUGINS >> check Snippets for autocomplete
+" gcc to comment on lines " by tpope >> commentary.vim // installed manually
+" https://github.com/google/vim-codefmt autoformat
+" https://github.com/rhysd/vim-grammarous
+" https://github.com/reedes/vim-wordy
+" https://github.com/SidOfc/mkdx
+
+" Plug 'lervag/vimtex' " check
+
+" consider latex and html with tab completion here:
+" https://github.com/honza/vim-snippets
+" suggested in reddit: https://www.reddit.com/r/vim/comments/4fm7vo/vim_not_very_well_suited_for_latex/
+" consider many undoes after file is closed
+
+" " " " " " " " " " " " "
+
+" cycling colors seems a good thing
+" also in tim ferriss's 4-hour body I can read violet blue in colors thanks to spf13
+
+" Plug 'mhinz/vim-startify'
+"
+" " call plug#begin('~/.vim/bundle')
+" " if empty(glob('~/.vim/autoload/plug.vim'))
+" " 	  silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
+" " 	      \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+" " 	    autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
+" "     endif
+"
+"
+
+" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
