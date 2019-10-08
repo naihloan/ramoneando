@@ -97,18 +97,37 @@ Empresas, ¿cómo gestionan estos temas de reciclado de envases?
 + Articulación Público-Privada con la Participación efectiva del Sector Privado
 + Que se financie mediante un aporte (autodefinido) de los Envasadores, no financiado por el Estado
 
-
-
 ******
 
-11,30-12,00 Receso Coffe break y Networking libre
-
-******
-
-12,00-13,00 Panel El rol de la Empresas en la Producción circular
+### Paneles | El rol de la Empresas en la Producción circular
 
 #### Oportunidades para la gestión de envases desde una mirada de economía circular
 ##### Ingeniero Horacio Martino. Experto en Economía Circular. Gerente de Medioambiente Conosur de Tetra Pak
 
-#### La industria de alumnio . Modelo de produccion Circular
-##### Ingeniero  Silvio De Cicco - Responsable de Calidad en Metal Veneta
+Tetrapak es una empresa familiar de Suiza.
+
+La huella ecológica:
+    + La huella de carbono
+    + La huella energética
+    + La huella hídrica
+
+No alcanza con la separación en origen, la diferenciación. Hay que llegar al momento del reciclar.
+
+Polialuminio RSE
+
+*Economía Circular OpenLoop*
+
+EDUCLAR | Educación Ambiental + Reciclaje > Ecoviviendas
+
+¿Qué presión puede poner una empresa al Estado?
+El desafío es trabajar juntos.
+Ciudadanos, instituciones y ciudadanos tienen que activarse de manera permanente y sostenible.
+
+#### La industria de alumnio. Modelo de produccion Circular
+##### Ingeniero Silvio De Cicco. Responsable de Calidad en Metal Veneta
+
+
+
+#### Generación de energía y biofertilizantes a partir de residuos agro-industriales
+##### Alberto Soliva Fos. Gestor de proyectos y Dirección de Desarrollo de Negocios | Empresa ACZIA Biogás
+
