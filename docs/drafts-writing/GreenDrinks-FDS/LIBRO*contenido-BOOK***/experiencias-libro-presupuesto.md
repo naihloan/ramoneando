@@ -6,6 +6,18 @@ Costo de Traducción al Inglés (precio del Colegio de Traductores) | $
 A un valor de $240 cada fracción queda el costo total del libro en:  
 $79.080
 
+******
+
+actualización 2019-10-17 [contar bien las palabras con los capítulos nuevos]
+
+32,950 palabras [contar bien las palabras con los capítulos nuevos]
+
+Costo de Traducción al Inglés (precio del Colegio de Traductores) | $
+846.665 palabras dividido por fracciones de 100 palabras da:  
+330 fracciones.  
+A un valor de $342 cada fracción queda el costo total del libro en:  
+$112.860
+
 
 % \input{autores.tex}
 
