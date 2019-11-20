@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.18)  10 NOV 2019 18:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.18)  9 NOV 2019 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**juarez-cv-english-2019-10.tex
-(./juarez-cv-english-2019-10.tex
+**juarez-cv-spanish-web-developer-2019-11.tex
+(./juarez-cv-spanish-web-developer-2019-11.tex
 LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 6 language(s) loaded.
 (./twentysecondcv.cls
@@ -653,23 +653,49 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip61
 )
 
-! Package babel Error: Unknown language `spanish'. Either you have
-(babel)                misspelled its name, it has not been installed,
-(babel)                or you requested it in a previous run. Fix its name,
-(babel)                install it or just rerun the file, respectively.
+! LaTeX Error: Option clash for package geometry.
 
-See the babel package documentation for explanation.
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \selectlanguage{spanish}
-                            
-You may proceed, but expect unexpected results
+l.8 \usepackage
+               [spanish]{babel}
+The package geometry has already been loaded with options:
+  [left=7.6cm,top=0.1cm,right=1cm,bottom=0.2cm,nohead,nofoot]
+There has now been an attempt to load it with options
+  [pass,paperwidth=8.5in,paperheight=2in]
+Adding the global options:
+  left=7.6cm,top=0.1cm,right=1cm,bottom=0.2cm,nohead,nofoot,pass,paperwidth=8.5
+in,paperheight=2in
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count123
+\U@D=\dimen171
+)
+\es@quottoks=\toks30
+\es@quotdepth=\count124
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks30
-\inpenc@posthook=\toks31
+\inpenc@prehook=\toks31
+\inpenc@posthook=\toks32
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
@@ -1068,103 +1094,86 @@ LaTeX Info: Redefining \slshape on input line 45.
 LaTeX Info: Redefining \itshape on input line 55.
 LaTeX Info: Redefining \scshape on input line 65.
 LaTeX Info: Redefining \noscshape on input line 82.
-) (./skype-info.tex (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontaw
-esome.sty
-Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2016/06/14 v3.21 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
-.tex)
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.
-tex)))
-Runaway argument?
-{ \begin {tikzpicture}[remember picture,overlay] \node [rectangle, fi\ETC.
-! File ended while scanning use of \@argdef.
-<inserted text> 
-                \par 
-l.6 \input{skype-info}
-                      
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
 
-(./personal-info.tex
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
 
-! LaTeX Error: There's no line here to end.
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2016/06/14 v3.21 KOMA-Script package (loading files)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 {
-      \href{https://join.skype.com/invite/yLYmhbT0jS2L}{[Skype/benja.juarez]} }
+Package scrlfile, 2016/06/14 v3.21 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+)))
 
+LaTeX Warning: Command \@footnotemark  has changed.
+               Check if current package is valid.
 
-! LaTeX Error: Missing \begin{document}.
+LaTeX Info: Redefining \textsubscript on input line 1293.
+) (./juarez-cv-spanish-web-developer-2019-11.aux
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+)
+\openout1 = `juarez-cv-spanish-web-developer-2019-11.aux'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...invite/yLYmhbT0jS2L}{[Skype/benja.juarez]}
-                                                   }
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (./english-info.tex (./juarez-cv-english-2019-10.aux)
-\openout1 = `juarez-cv-english-2019-10.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 1.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 1.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 1.
-LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Try loading font information for T1+ClearSans-LF on input l
-ine 1.
+ine 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/clearsans/T1ClearSans-LF.fd
 File: T1ClearSans-LF.fd 2014/03/14 (autoinst) Font definitions for T1/ClearSans
 -LF.
 )
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 1.
-\c@mv@tabular=\count123
-\c@mv@boldtabular=\count124
+(Font)              scaled to size 10.0pt on input line 41.
+\c@mv@tabular=\count125
+\c@mv@boldtabular=\count126
 
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
-\scratchdimen=\dimen171
+\scratchcounter=\count127
+\scratchdimen=\dimen172
 \scratchbox=\box39
-\nofMPsegments=\count126
-\nofMParguments=\count127
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count128
-\MPscratchDim=\dimen172
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
-\everyMPtoPDFconversion=\toks33
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen173
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1183,7 +1192,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 1.
+LaTeX Info: Redefining \selectfont on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1220,86 +1229,92 @@ LaTeX Info: Redefining \selectfont on input line 1.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring OFF on input line 1.
+Package hyperref Info: Link coloring OFF on input line 41.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count131
+\c@section@level=\count133
 )
-LaTeX Info: Redefining \ref on input line 1.
-LaTeX Info: Redefining \pageref on input line 1.
-LaTeX Info: Redefining \nameref on input line 1.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
-(./juarez-cv-english-2019-10.out) (./juarez-cv-english-2019-10.out)
+(./juarez-cv-spanish-web-developer-2019-11.out)
+(./juarez-cv-spanish-web-developer-2019-11.out)
 \@outlinefile=\write4
-\openout4 = `juarez-cv-english-2019-10.out'.
+\openout4 = `juarez-cv-spanish-web-developer-2019-11.out'.
 
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
 
-<avatar.png, id=8, 487.8225pt x 539.01375pt>
+<avatar.png, id=7, 487.8225pt x 539.01375pt>
 File: avatar.png Graphic file (type png)
  <use avatar.png>
-Package pdftex.def Info: avatar.png used on input line 74.
+Package pdftex.def Info: avatar.png used on input line 122.
 (pdftex.def)             Requested size: 142.26378pt x 157.19002pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 74.
+(Font)              scaled to size 24.88pt on input line 122.
 
-Overfull \hbox (9.34251pt too wide) in paragraph at lines 74--74
-[]\T1/ClearSans-LF/m/n/24.88 Benjamin Juarez[] 
+Overfull \hbox (9.34251pt too wide) in paragraph at lines 122--122
+[]\T1/ClearSans-LF/m/n/24.88 Benjamín Juá-rez[] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 74.
+(Font)              scaled to size 14.4pt on input line 122.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 74.
+(Font)              <14.4> on input line 122.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 74.
+(Font)              <7> on input line 122.
+
+Overfull \hbox (1.56055pt too wide) in paragraph at lines 122--122
+[]\T1/ClearSans-LF/m/n/14.4 desarrollador web tri-lin-güe
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 74.
+(Font)              <5> on input line 122.
 
 LaTeX Font Warning: Font shape `T1/ClearSans-LF/m/sc' undefined
-(Font)              using `T1/ClearSans-LF/m/n' instead on input line 74.
+(Font)              using `T1/ClearSans-LF/m/n' instead on input line 122.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 74.
-LaTeX Font Info:    Try loading font information for U+mvs on input line 74.
+(Font)              scaled to size 14.4pt on input line 122.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 122.
 (/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
-Overfull \hbox (4.3538pt too wide) in paragraph at lines 74--74
+Overfull \hbox (4.3538pt too wide) in paragraph at lines 122--122
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 74.
+(Font)              scaled to size 10.0pt on input line 122.
 
-Overfull \hbox (3.5164pt too wide) in paragraph at lines 74--74
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 122--122
 [][]| 
  []
 
 
-Overfull \hbox (3.29912pt too wide) in paragraph at lines 74--74
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 122--122
 [][]| 
  []
 
 
-Overfull \hbox (4.85674pt too wide) in paragraph at lines 74--74
+Overfull \hbox (4.85674pt too wide) in paragraph at lines 122--122
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 74.
+(Font)              scaled to size 12.0pt on input line 122.
 
-Overfull \hbox (4.0501pt too wide) in paragraph at lines 74--74
+Overfull \hbox (4.0501pt too wide) in paragraph at lines 122--122
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 74.
-LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 74.
+(Font)              scaled to size 20.74pt on input line 122.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 74.
+(Font)              scaled to size 7.0pt on input line 122.
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1307,49 +1322,56 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 \makeprofile
-                  % Print the sidebar
+l.122 \makeprofile
+                   % Print the sidebar
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 74--74
+Overfull \hbox (0.4pt too wide) in paragraph at lines 122--122
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 116.
+(Font)              scaled to size 8.0pt on input line 174.
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--174
+Underfull \hbox (badness 10000) in paragraph at lines 170--191
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 185.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--227
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 238.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 239.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 183--210
+Underfull \hbox (badness 10000) in paragraph at lines 237--245
 
  []
 
-) [1
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./avatar.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 11.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
 
-(./juarez-cv-english-2019-10.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 11.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 11.
-Package rerunfilecheck Info: File `juarez-cv-english-2019-10.out' has not chang
-ed.
+(./juarez-cv-spanish-web-developer-2019-11.aux
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
+Package rerunfilecheck Info: File `juarez-cv-spanish-web-developer-2019-11.out'
+ has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
@@ -1357,24 +1379,23 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19263 strings out of 494883
- 346837 string characters out of 6179094
- 410852 words of memory out of 5000000
- 22206 multiletter control sequences out of 15000+600000
+ 19190 strings out of 494883
+ 348539 string characters out of 6179094
+ 438561 words of memory out of 5000000
+ 22126 multiletter control sequences out of 15000+600000
  52976 words of font info for 36 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 62i,16n,56p,839b,816s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,56p,889b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/nilon/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600
-pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc} </h
-ome/nilon/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk></u
-sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on juarez-cv-english-2019-10.pdf (1 page, 508317 bytes).
+pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on juarez-cv-spanish-web-developer-2019-11.pdf (1 page, 489489 b
+ytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
