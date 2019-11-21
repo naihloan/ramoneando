@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.18)  10 NOV 2019 18:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.18)  20 NOV 2019 18:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,7 +1096,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 {
+l.19 {
       \href{https://join.skype.com/invite/yLYmhbT0jS2L}{[Skype/benja.juarez]} }
 
 Your command was ignored.
@@ -1110,7 +1110,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 ...invite/yLYmhbT0jS2L}{[Skype/benja.juarez]}
+l.19 ...invite/yLYmhbT0jS2L}{[Skype/benja.juarez]}
                                                    }
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.

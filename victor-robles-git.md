@@ -1,3 +1,5 @@
+> git log -S "some_string_you_know"
+
 ## Section 3 | Terminal UNIX
 
 ##### 13. Búsqueda de texto y ficheros (archivos)
@@ -56,10 +58,39 @@
     git commit -am "cambios en texto de la página"
     git diff númerotal númerotalotro
 
+##### 25. Reset y checkout
+
+    volver atrás cambios:
+    git reset .
+    o bien:
+    git reset HEAD index.html
+    o bien:
+    git checkout index.html
+
+##### 26. Deshacer commit
+
+    eliminar último commit:
+    git reset (--hard) HEAD(~0--999)
+    para verificar:
+    git status / git log
+
+##### 27. Volver a un commit anterior
+
+    git log --oneline
+    revisar a qué numero de commit para volver y:
+    git checkout 2472347
+    ... si quiero mezclar con commit actual, entonces generar otra rama de desarrollo
+
+##### 28. Buscar commits
+
+    
 
 ##### 2X
 
 ##### 2X
+
+##### 2X
+
 
 
 
