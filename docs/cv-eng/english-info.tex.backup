@@ -79,13 +79,12 @@ I feel at ease in environments relating to publishing, film production, programm
 \section{Recent work}
 
 \begin{twentyshort} 
-	\twentyitem{2019--today}{Web Developer}{[Ross | Outside the Box. Córdoba, Argentina]}
+	\twentyitem{2019--}{Web Developer}{[Ross | Outside the Box. Córdoba, Argentina]}
         {Back End | Full Stack [nodejs express mariaDB | (react angular)]} % docker
-	\twentyitemshort{2018--2019}{Research Assistant -- Project \textit{In the Name of Wild} [Phillip Vannini]}
-\twentyitemshort{2018--2019}{Translations and Reviews [Spanish to English]}
-	% 	\twentyitemshort{2019}{Translation: How to make sense of precariousness? \\
-% 	\textit{Bíos}-precarious and sensitive life [Martín De Mauro]}
-% 	\twentyitemshort{2020}{Translation: 23 ideas sobre la juventud [Howard Becker]}
+	\twentyitemshort{2019}{Research Assistant -- Project \textit{In the Name of Wild} [Phillip Vannini]}
+	\twentyitemshort{2019}{Translation: How to make sense of precariousness? \\
+	\textit{Bíos}-precarious and sensitive life [Martín De Mauro]}
+	\twentyitemshort{2020}{Translation: 23 ideas sobre la juventud [Howard Becker]}
 	\twentyitemshort{2015--2018}{English Conversation Classes [Córdoba, Argentina]}
 	\twentyitemshort{2017-2018}{Pearson [Córdoba, Argentina]} 
 \end{twentyshort}
@@ -118,12 +117,20 @@ I feel at ease in environments relating to publishing, film production, programm
 \section{Other Projects}
 
 \begin{twenty} % Environment for a list with descriptions
-	\twentyitemshort{2014--today}{Personal web site: \texttt{ramoneando.com}}
-	\twentyitemshort{2016--2019}{\textit{inextricable publisher} [independent book publishing]}
-	\twentyitemshort{2012--2014}{Master in Sociology [UNICAMP, S\~{a}o Paulo. Brazil]}
-	\twentyitemshort{2002--2009}{Graduate in Sociology [Universidad de Buenos Aires, Argentina]}{}%
-	\twentyitemshort{2009--today}{text and design editing tool: \LaTeX}
-
+	\twentyitemshort{2016-today}{\textit{inextricable publisher} [independent book publishing]}
+	\twentyitemshort{2014-today}{Personal web site: \texttt{ramoneando.com}}
+% 	\twentyitemshort{2013-today}{programming tools: html [+ css javascript md vim]}
+% 	\twentyitemshort{2005-hoy}{Operative Systems: microsoft, apple, gnu/linux}
+	\twentyitemshort{2014}{Master in Sociology [UNICAMP, S\~{a}o Paulo. Brazil]}
+	\twentyitemshort{2009}{Graduate in Sociology [Universidad de Buenos Aires, Argentina]}{}%
+	\twentyitemshort{2009-today}{text and design editing tool: \LaTeX}
+	
+% 	\twentyitem%
+%         {2019-2021}
+%         {Systems Analist}
+%         {[ESCMB, Córdoba, Argentina]}
+%         {First year Complete}
+%         
 % 	\twentyitem%
 % 	{since 2017}
 % 	{PhD [distance] Sociology}
