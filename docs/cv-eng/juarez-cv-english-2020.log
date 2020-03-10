@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.18)  9 MAR 2020 21:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.18)  10 MAR 2020 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1292,24 +1292,64 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 61--61
 [][] 
  []
 
+
+Overfull \hbox (11.48232pt too wide) in paragraph at lines 82--84
+[]\T1/ClearSans-LF/m/sc/10 I've worked in aca-demic en-vi-ron-ments: re-search-
+ing, su-per-vis-ing re-search projects,
+ []
+
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 95.
+(Font)              scaled to size 8.0pt on input line 98.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--129
+Underfull \hbox (badness 10000) in paragraph at lines 91--107
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 139.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--132
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 142.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 138--157
+Underfull \hbox (badness 10000) in paragraph at lines 141--161
+
+ []
+
+! Misplaced alignment tab character &.
+\twentyitemshort #1#2->#1&
+                          \parbox [t]{0.83\textwidth }{\textbf {#2}}\\ 
+l.184 –  Pedro Bonifacio Palacios}
+                                    
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+! Misplaced alignment tab character &.
+\twentyitemshort #1#2->#1&
+                          \parbox [t]{0.83\textwidth }{\textbf {#2}}\\ 
+l.188 – ALMAFUERTE}
+                     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
@@ -1333,7 +1373,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  17763 strings out of 494883
  326537 string characters out of 6179094
- 392165 words of memory out of 5000000
+ 393627 words of memory out of 5000000
  20721 multiletter control sequences out of 15000+600000
  52063 words of font info for 33 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1344,9 +1384,9 @@ r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on juarez-cv-english-2020.pdf (1 page, 502755 bytes).
+Output written on juarez-cv-english-2020.pdf (1 page, 505381 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
