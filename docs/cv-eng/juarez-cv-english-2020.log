@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.4.12)  18 APR 2020 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.4.12)  21 APR 2020 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1206,21 +1206,21 @@ LaTeX Info: Redefining \nameref on input line 1.
 <avatar.png, id=7, 487.8225pt x 539.01375pt>
 File: avatar.png Graphic file (type png)
  <use avatar.png>
-Package pdftex.def Info: avatar.png used on input line 65.
+Package pdftex.def Info: avatar.png used on input line 73.
 (pdftex.def)             Requested size: 142.26378pt x 157.19002pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 65.
+(Font)              scaled to size 24.88pt on input line 73.
 
-Overfull \hbox (9.34251pt too wide) in paragraph at lines 65--65
+Overfull \hbox (9.34251pt too wide) in paragraph at lines 73--73
 []\T1/ClearSans-LF/m/n/24.88 Benjamin Juarez[] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 65.
+(Font)              scaled to size 14.4pt on input line 73.
 ! Missing number, treated as zero.
 <to be read again> 
                    U
-l.65 \makeprofile
+l.73 \makeprofile
                   % Print the sidebar
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1229,7 +1229,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    U
-l.65 \makeprofile
+l.73 \makeprofile
                   % Print the sidebar
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1239,87 +1239,92 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 65.
+(Font)              <7> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 65.
+(Font)              <5> on input line 73.
 
 LaTeX Font Warning: Font shape `T1/ClearSans-LF/m/sc' undefined
-(Font)              using `T1/ClearSans-LF/m/n' instead on input line 65.
+(Font)              using `T1/ClearSans-LF/m/n' instead on input line 73.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 65.
-LaTeX Font Info:    Try loading font information for U+mvs on input line 65.
+(Font)              scaled to size 14.4pt on input line 73.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 73.
 (/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
-Overfull \hbox (4.3538pt too wide) in paragraph at lines 65--65
+Overfull \hbox (4.3538pt too wide) in paragraph at lines 73--73
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 65.
+(Font)              scaled to size 10.0pt on input line 73.
 
-Overfull \hbox (3.5164pt too wide) in paragraph at lines 65--65
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 73--73
 [][]| 
  []
 
 
-Overfull \hbox (3.29912pt too wide) in paragraph at lines 65--65
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 73--73
 [][]| 
  []
 
 
-Overfull \hbox (4.85674pt too wide) in paragraph at lines 65--65
+Overfull \hbox (4.85674pt too wide) in paragraph at lines 73--73
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 65.
+(Font)              scaled to size 12.0pt on input line 73.
 
-Overfull \hbox (4.0501pt too wide) in paragraph at lines 65--65
+Overfull \hbox (4.0501pt too wide) in paragraph at lines 73--73
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 65.
+(Font)              scaled to size 20.74pt on input line 73.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 65.
-LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 65.
+(Font)              scaled to size 10.0pt on input line 73.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 65--65
+Overfull \hbox (2.22227pt too wide) in paragraph at lines 73--73
+\T1/ClearSans-LF/m/sc/10 English.C1|Spanish.C2|Portuguese.B2  
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 73.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 73--73
 [][] 
  []
 
 
-Overfull \hbox (11.48232pt too wide) in paragraph at lines 86--88
+Overfull \hbox (11.48232pt too wide) in paragraph at lines 95--96
 []\T1/ClearSans-LF/m/sc/10 I've worked in aca-demic en-vi-ron-ments: re-search-
 ing, su-per-vis-ing re-search projects,
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 97.
+(Font)              scaled to size 8.0pt on input line 105.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--140
+Underfull \hbox (badness 10000) in paragraph at lines 103--123
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 150.
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--148
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 158.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 149--169
+Underfull \hbox (badness 10000) in paragraph at lines 157--177
 
  []
 
 ! Misplaced alignment tab character &.
 \twentyitemshort #1#2->#1&
                           \parbox [t]{0.83\textwidth }{\textbf {#2}}\\ 
-l.192 –  Pedro Bonifacio Palacios}
+l.200 –  Pedro Bonifacio Palacios}
                                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1329,14 +1334,14 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
 ! Misplaced alignment tab character &.
 \twentyitemshort #1#2->#1&
                           \parbox [t]{0.83\textwidth }{\textbf {#2}}\\ 
-l.196 – ALMAFUERTE}
+l.204 – ALMAFUERTE}
                      
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1346,7 +1351,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
@@ -1370,7 +1375,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  17765 strings out of 494945
  326555 string characters out of 6181032
- 393499 words of memory out of 5000000
+ 393571 words of memory out of 5000000
  20715 multiletter control sequences out of 15000+600000
  52063 words of font info for 33 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1381,7 +1386,7 @@ r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on juarez-cv-english-2020.pdf (1 page, 505287 bytes).
+Output written on juarez-cv-english-2020.pdf (1 page, 504944 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
