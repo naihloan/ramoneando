@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.1.30)  6 FEB 2019 18:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.4.30)  4 MAY 2020 12:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**juarez-cv-english-2019-project-manager.tex
-(./juarez-cv-english-2019-project-manager.tex
+**juarez-cv-spanish-2020.tex
+(./juarez-cv-spanish-2020.tex
 LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
 (./twentysecondcv.cls
@@ -653,13 +653,64 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip61
 )
 
+! LaTeX Error: Option clash for package geometry.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \usepackage
+               [spanish]{babel}
+The package geometry has already been loaded with options:
+  [left=7.6cm,top=0.1cm,right=1cm,bottom=0.2cm,nohead,nofoot]
+There has now been an attempt to load it with options
+  [pass,paperwidth=8.5in,paperheight=2in]
+Adding the global options:
+  left=7.6cm,top=0.1cm,right=1cm,bottom=0.2cm,nohead,nofoot,pass,paperwidth=8.5
+in,paperheight=2in
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+
+! Package babel Error: Unknown option `spanish'. Either you misspelled it
+(babel)                or the language definition file spanish.ldf was not foun
+d.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.310 \ProcessOptions*
+                      
+Valid options are: shorthands=, KeepShorthandsActive,
+activeacute, activegrave, noconfigs, safe=, main=, math=
+headfoot=, strings=, config=, hyphenmap=, or a language name.
+
+
+! Package babel Error: You haven't specified a language option.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.343 ...ry to proceed from here, type x to quit.}
+                                                  
+You need to specify a language, either as a global option
+or as an optional argument to the \usepackage command;
+You shouldn't try to proceed from here, type x to quit.
+
+)
+
 ! Package babel Error: You haven't defined the language spanish yet.
 
 See the babel package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 \selectlanguage{spanish}
+l.9 \selectlanguage{spanish}
                             
 Your command will be ignored, type <return> to proceed
 
@@ -1066,39 +1117,63 @@ LaTeX Info: Redefining \itshape on input line 55.
 LaTeX Info: Redefining \scshape on input line 65.
 LaTeX Info: Redefining \noscshape on input line 82.
 )
-(./juarez-cv-english-2019-project-manager.aux)
-\openout1 = `juarez-cv-english-2019-project-manager.aux'.
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2016/06/14 v3.21 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 53.
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2016/06/14 v3.21 KOMA-Script package (loading files)
+
+Package scrlfile, 2016/06/14 v3.21 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+)))
+
+LaTeX Warning: Command \@footnotemark  has changed.
+               Check if current package is valid.
+
+LaTeX Info: Redefining \textsubscript on input line 1293.
+) (./juarez-cv-spanish-2020.aux)
+\openout1 = `juarez-cv-spanish-2020.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Try loading font information for T1+ClearSans-LF on input l
-ine 53.
+ine 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/clearsans/T1ClearSans-LF.fd
 File: T1ClearSans-LF.fd 2014/03/14 (autoinst) Font definitions for T1/ClearSans
 -LF.
 )
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 53.
+(Font)              scaled to size 10.0pt on input line 40.
 \c@mv@tabular=\count123
 \c@mv@boldtabular=\count124
 
@@ -1134,7 +1209,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 53.
+LaTeX Info: Redefining \selectfont on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1171,7 +1246,7 @@ LaTeX Info: Redefining \selectfont on input line 53.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 40.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1180,137 +1255,119 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count131
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
-(./juarez-cv-english-2019-project-manager.out)
-(./juarez-cv-english-2019-project-manager.out)
+(./juarez-cv-spanish-2020.out) (./juarez-cv-spanish-2020.out)
 \@outlinefile=\write4
-\openout4 = `juarez-cv-english-2019-project-manager.out'.
+\openout4 = `juarez-cv-spanish-2020.out'.
 
-
-! Undefined control sequence.
-l.94 \tech
-          {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 <avatar.png, id=7, 487.8225pt x 539.01375pt>
 File: avatar.png Graphic file (type png)
  <use avatar.png>
-Package pdftex.def Info: avatar.png used on input line 105.
+Package pdftex.def Info: avatar.png used on input line 101.
 (pdftex.def)             Requested size: 142.26378pt x 157.19002pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 105.
+(Font)              scaled to size 24.88pt on input line 101.
 
-Overfull \hbox (9.34251pt too wide) in paragraph at lines 105--105
-[]\T1/ClearSans-LF/m/n/24.88 Benjamin Juarez[] 
+Overfull \hbox (9.34251pt too wide) in paragraph at lines 101--101
+[]\T1/ClearSans-LF/m/n/24.88 Benjamín Juárez[] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 105.
+(Font)              scaled to size 14.4pt on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 105.
+(Font)              <14.4> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 105.
+(Font)              <7> on input line 101.
+
+Overfull \hbox (1.56055pt too wide) in paragraph at lines 101--101
+[]\T1/ClearSans-LF/m/n/14.4 desarrollador web tril-ingüe
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 105.
+(Font)              <5> on input line 101.
 
 LaTeX Font Warning: Font shape `T1/ClearSans-LF/m/sc' undefined
-(Font)              using `T1/ClearSans-LF/m/n' instead on input line 105.
+(Font)              using `T1/ClearSans-LF/m/n' instead on input line 101.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 105.
-LaTeX Font Info:    Try loading font information for U+mvs on input line 105.
+(Font)              scaled to size 14.4pt on input line 101.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 101.
 (/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
-Overfull \hbox (4.3538pt too wide) in paragraph at lines 105--105
+Overfull \hbox (4.3538pt too wide) in paragraph at lines 101--101
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 105.
+(Font)              scaled to size 10.0pt on input line 101.
 
-Overfull \hbox (3.5164pt too wide) in paragraph at lines 105--105
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 101--101
 [][]| 
  []
 
 
-Overfull \hbox (3.29912pt too wide) in paragraph at lines 105--105
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 101--101
 [][]| 
  []
 
 
-Overfull \hbox (4.85674pt too wide) in paragraph at lines 105--105
+Overfull \hbox (4.85674pt too wide) in paragraph at lines 101--101
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 105.
+(Font)              scaled to size 12.0pt on input line 101.
 
-Overfull \hbox (4.0501pt too wide) in paragraph at lines 105--105
+Overfull \hbox (4.0501pt too wide) in paragraph at lines 101--101
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 105.
-LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 105.
+(Font)              scaled to size 20.74pt on input line 101.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 105.
+(Font)              scaled to size 7.0pt on input line 101.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 105--105
+Overfull \hbox (0.4pt too wide) in paragraph at lines 101--101
 [][] 
  []
 
+LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 153.
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.129 I
-       've worked with %supervising research projects, giving sociology clas...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--165
+Underfull \hbox (badness 10000) in paragraph at lines 149--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--194
+Underfull \hbox (badness 10000) in paragraph at lines 202--210
 
  []
 
+LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 221.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 222.
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--223
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 220--228
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./avatar.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
 
-(./juarez-cv-english-2019-project-manager.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 269.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 269.
-Package rerunfilecheck Info: File `juarez-cv-english-2019-project-manager.out' 
-has not changed.
+(./juarez-cv-spanish-2020.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 231.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 231.
+Package rerunfilecheck Info: File `juarez-cv-spanish-2020.out' has not changed.
+
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
@@ -1318,22 +1375,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17743 strings out of 494945
- 326093 string characters out of 6181032
- 394519 words of memory out of 5000000
- 20703 multiletter control sequences out of 15000+600000
- 46417 words of font info for 32 fonts, out of 8000000 for 9000
+ 18508 strings out of 494945
+ 339574 string characters out of 6181032
+ 422715 words of memory out of 5000000
+ 21441 multiletter control sequences out of 15000+600000
+ 52976 words of font info for 36 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 62i,16n,56p,852b,816s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr
-/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on juarez-cv-english-2019-project-manager.pdf (1 page, 493361 by
-tes).
+ 62i,16n,56p,872b,816s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/nilon/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600
+pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on juarez-cv-spanish-2020.pdf (1 page, 489758 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
