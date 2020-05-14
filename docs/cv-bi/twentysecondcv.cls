@@ -150,7 +150,7 @@
 		%------------------------------------------------
 		
 		\ifthenelse{\equal{\aboutme}{}}{}{
- 			\profilesection{About me}
+ 			\profilesection{Bio}
 			\begin{flushleft}
 				\aboutme
 			\end{flushleft}
@@ -159,7 +159,7 @@
 		%------------------------------------------------
 
 		\ifthenelse{\equal{\tech}{}}{}{
- 			\profilesection{Technology}
+ 			\profilesection{Tech}
 			\begin{flushleft}
 				\tech
 			\end{flushleft}

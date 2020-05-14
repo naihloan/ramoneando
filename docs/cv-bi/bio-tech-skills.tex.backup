@@ -1,0 +1,71 @@
+%------------------------------------------------------------
+%	 ABOUT ME
+%------------------------------------------------------------
+
+\aboutme{% 
+\textit{Native English Speaker} \newline 
+Born/raised USA [age 7]. Has VISA.\newline
+Language Level [CEFR]: \newline
+English.C1|Spanish.C2|Portuguese.B2
+}
+
+%------------------------------------------------------------
+%	 SKILLS
+%------------------------------------------------------------
+
+\skills{% Skill bar section, each skill must have a value between 0 an 6 (float)
+% {\en{effort}/5.9},
+% {\en{good practices}/5.3},
+% {\en{atention to detail}/5.7},
+% {\en{learning thrust}/5.8}%
+% }
+% \de{ 
+{esfuerzo/5.9}, {buenas prácticas/5.3}, {atención al detalle/5.7}, {hambre de aprender/5.8}%
+% }%
+}
+% {esfuerzo/5.9},
+% {buenas prácticas/5.3},
+% {atención al detalle/5.7},
+% {hambre de aprender/5.8}%
+
+
+% ------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+\skillstext{%
+{linux user/since 2005 [now i3wm]},
+{dvorak keyboard user/since 2004}%,
+}
+% \skillstext{ {linux desde 2005 [ahora i3wm]}, {uso teclado dvorak desde 2004} }
+% }
+
+\tech{
+html css vim \LaTeX $ $ \\ 
+bootstrap javascript\\ 
+git github gitlab ssh \\
+agile kanban jira trello \\
+os: microsoft apple gnu/linux \\ \bigskip
+
+mongodb mariaDB mysql \\
+express.js \\
+angular \\
+node.js \\ \bigskip
+
+\en{interests:}
+\de{intereses:}
+python 
+C\# 
+vue react 
+php laravel symfony
+docker 
+IoT
+big data
+% - dvcs: % - en curso: % ApiRest % Microsoft SQL Server
+% - web: javascript php \newline
+% - editing: vcs \newline %
+% - programming: lua java \newline 
+}
+
+%----------------------------------------------------------------------------------------
+% Print the sidebar
+\makeprofile 

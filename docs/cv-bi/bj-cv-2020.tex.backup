@@ -13,8 +13,8 @@
 \newcommand{\en}[1]{\ifen#1\fi}
 \newcommand{\de}[1]{\ifde#1\fi}
 
-\entrue
-% \detrue
+% \entrue
+\detrue
 
 % Web Developer
 \input{personal-info}
@@ -34,12 +34,8 @@
 \input{short-bio}
 \input{recent-work}
 \input{education}
-\input{other-projects} 
-\bigskip \bigskip \bigskip 
-% \vfill
-% \hrule
+\input{other-projects} \hrule
 \input{quote} % OK
-
 \vfill
 
 \end{document} 
