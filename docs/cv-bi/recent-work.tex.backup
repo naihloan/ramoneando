@@ -1,0 +1,38 @@
+%------------------------------------------------------------
+%	 WORK
+%------------------------------------------------------------
+
+\section{%
+  \en{Recent work}%
+  \de{Trabajo reciente}%
+}
+
+\begin{twentyshort} 
+	\twentyitem{2020--2020}%
+	{\en{Customer Dev}\de{Desarrollador} Backoffice}%
+	{[ C{\scriptsize INTELINK} ]}%
+	{IoT sql python postman} %php, nodejs, vue, docker. 
+	\twentyitem{2019--2020}{\de{Desarrollador Web}Back End \en{Web Developer} --nodejs/express}{[ R{\scriptsize OSS} O{\scriptsize UTSIDE THE} B{\scriptsize OX} ]}
+        {nodejs/authentication. On my 1st solo project I used Knime with big data sets with SQL-type queries. testing: e2e + performance.} 
+	\twentyitemshort{2018--2019}{Research Assistant [ Project \textit{In the Name of Wild} | Phillip Vannini ]}
+	\twentyitemshort{2018--2019}{Translations and Reviews: Spanish to English}
+	\twentyitemshort{2015--2018}{English Conversation Classes} 
+	\twentyitemshort{2017-2018}{Pearson}
+\end{twentyshort}
+
+
+\de{
+  \section{Trabajo reciente}
+}
+
+\de{
+\begin{twentyshort} 
+	\twentyitem{2020--2020}{Desarrollador Backoffice}{[C{\scriptsize INTELINK}]}{webApp ssh IoT sql python postman} %php, nodejs, vue, docker. 
+	\twentyitem{2019--2020}{Back End Web Developer --nodejs}{[Ross Outside the Box]}
+        {nodejs/ authenticación. En el 1er proyecto a mi cargo usé Knime con big data y consultas tipo SQL. testing: e2e + performance.} 
+	\twentyitemshort{2018--2019}{Productor -- Proyecto \textit{En Nombre de Lo Salvaaje} | Phillip Vannini}
+	\twentyitemshort{2018--2019}{Traducciones y revisiones: de español a inglés}
+	\twentyitemshort{2015--2018}{Clases de conversación de inglés} 
+	\twentyitemshort{2017-2018}{Editorial Pearson}
+\end{twentyshort}
+}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.13)  14 MAY 2020 14:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.13)  14 MAY 2020 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1399,9 +1399,9 @@ ing, su-per-vis-ing re-search projects,
 
 ) (./recent-work.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 10--42
 
  []
 
@@ -1410,15 +1410,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--4
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 13.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 14.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )) (./quote.tex
 ! Misplaced alignment tab character &.
 \twentyitemshort #1#2->#1&
                           \parbox [t]{0.83\textwidth }{\textbf {#2}}\\ 
-l.6 –  Pedro Bonifacio Palacios}
-                                  
+l.6 ...criptsize ONIFACIO} P{\scriptsize ALACIOS}}
+                                                  
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1434,8 +1434,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 ! Misplaced alignment tab character &.
 \twentyitemshort #1#2->#1&
                           \parbox [t]{0.83\textwidth }{\textbf {#2}}\\ 
-l.11 – ALMAFUERTE}
-                    
+l.11 – A\scriptsize{LMAFUERTE}}
+                                 
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1451,15 +1451,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./avatar.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
 
 (./bj-cv-2020.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
 Package rerunfilecheck Info: File `bj-cv-2020.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1474,14 +1474,14 @@ Here is how much of TeX's memory you used:
  22298 multiletter control sequences out of 15000+600000
  52063 words of font info for 33 fonts, out of 8000000 for 9000
  794 hyphenation exceptions out of 8191
- 62i,16n,57p,1024b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,56p,1024b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/nilon/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600
 pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on bj-cv-2020.pdf (1 page, 504993 bytes).
+Output written on bj-cv-2020.pdf (1 page, 504873 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
