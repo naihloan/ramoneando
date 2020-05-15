@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.13)  15 MAY 2020 12:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.13)  15 MAY 2020 12:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1309,14 +1309,14 @@ LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 30.
 
 Overfull \hbox (9.34251pt too wide) in paragraph at lines 30--30
-[]\T1/ClearSans-LF/m/n/24.88 Benjamin Juarez[] 
+[]\T1/ClearSans-LF/m/n/24.88 Benjamín Juárez[] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 30.
 ! Missing number, treated as zero.
 <to be read again> 
-                   U
+                   C
 l.30 \makeprofile
                   % Print the sidebar
 A number should have been here; I inserted `0'.
@@ -1325,7 +1325,7 @@ look up `weird error' in the index to The TeXbook.)
 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
-                   U
+                   C
 l.30 \makeprofile
                   % Print the sidebar
 Dimensions can be in units of em, ex, in, pt, pc,
@@ -1334,6 +1334,11 @@ I'll assume that you meant to say pt, for printer's points.
 To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (4.90282pt too wide) in paragraph at lines 30--30
+[]\T1/ClearSans-LF/m/n/14.4 Sociólogo + De-sar-rollo Web 
+ []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 30.
@@ -1379,11 +1384,6 @@ LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 30.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 30.
-
-Overfull \hbox (2.22227pt too wide) in paragraph at lines 30--30
-\T1/ClearSans-LF/m/sc/10 English.C1|Spanish.C2|Portuguese.B2  
- []
-
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 30.
 
@@ -1391,17 +1391,11 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 30--30
 [][] 
  []
 
-(./short-bio.tex
-Overfull \hbox (11.48232pt too wide) in paragraph at lines 12--13
-[]\T1/ClearSans-LF/m/sc/10 I've worked in aca-demic en-vi-ron-ments: re-search-
-ing, su-per-vis-ing re-search projects,
- []
-
-) (./recent-work.tex
+(./short-bio.tex) (./recent-work.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--42
+Underfull \hbox (badness 10000) in paragraph at lines 10--54
 
  []
 
@@ -1470,7 +1464,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  19369 strings out of 493777
  349693 string characters out of 6154513
- 443387 words of memory out of 5000000
+ 444414 words of memory out of 5000000
  22298 multiletter control sequences out of 15000+600000
  52063 words of font info for 33 fonts, out of 8000000 for 9000
  794 hyphenation exceptions out of 8191
@@ -1481,7 +1475,7 @@ r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on bj-cv-2020.pdf (1 page, 504872 bytes).
+Output written on bj-cv-2020.pdf (1 page, 507125 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
