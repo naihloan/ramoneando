@@ -1,0 +1,10 @@
+% https://tex.stackexchange.com/a/89878/93818
+\newif\ifen
+\newif\ifsp
+
+\newcommand{\en}[1]{\ifen#1\fi}
+\newcommand{\sp}[1]{\ifsp#1\fi}
+
+% Compiles each language separately, that is, you choose between English or Spanish
+% \entrue
+\sptrue
