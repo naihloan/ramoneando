@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.17)  17 MAY 2020 23:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.17)  18 MAY 2020 19:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,25 +926,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `bj-cometas.out' has not changed.
-(rerunfilecheck)             Checksum: 567E630BF6380F5B8331268415DBEAEA;886.
+(rerunfilecheck)             Checksum: 467C348639859D7470F3E149599D2373;1079.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
  11351 strings out of 494300
- 162435 string characters out of 6169917
+ 162437 string characters out of 6169917
  262287 words of memory out of 5000000
- 14495 multiletter control sequences out of 15000+600000
- 24620 words of font info for 56 fonts, out of 8000000 for 9000
+ 14497 multiletter control sequences out of 15000+600000
+ 24537 words of font info for 55 fonts, out of 8000000 for 9000
  499 hyphenation exceptions out of 8191
  34i,4n,38p,392b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb>
-Output written on bj-cometas.pdf (3 pages, 123291 bytes).
+Output written on bj-cometas.pdf (3 pages, 123453 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
- 6177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
