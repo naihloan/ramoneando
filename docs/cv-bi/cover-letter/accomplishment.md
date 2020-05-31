@@ -1,0 +1,2 @@
+My most concrete reach was, for four months, with a small and very active community in Chaltén, Argentina.  This location is a world hot spot for mountaineers and hikers.
+I engaged with the locals to produce a documentary regarding wildlife and wilderness.  I managed to reach a diverse range of interviewees and set commitments, and the people I called showed up.  From a distance, only by email and direct messaging, I produced the documentary and was on-site for two weeks.
