@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.17)  3 JUN 2020 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.5.17)  3 JUN 2020 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1442,7 +1442,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  18939 strings out of 494300
  343739 string characters out of 6169917
- 433784 words of memory out of 5000000
+ 433788 words of memory out of 5000000
  21846 multiletter control sequences out of 15000+600000
  52063 words of font info for 33 fonts, out of 8000000 for 9000
  499 hyphenation exceptions out of 8191
@@ -1452,7 +1452,7 @@ pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on juarez-cv.pdf (1 page, 496067 bytes).
+Output written on juarez-cv.pdf (1 page, 496001 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
