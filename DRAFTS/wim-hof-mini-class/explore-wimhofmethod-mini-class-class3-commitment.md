@@ -1,4 +1,4 @@
-Class 3: Power of Commitment | Mini Class | Wim Hof Method
+[Class 3: Power of Commitment | Mini Class | Wim Hof Method](#commitment)
 
 [](https://www.wimhofmethod.com?utm_source=miniclass&utm_medium=referral&utm_campaign=miniclass-to-fundamentals&utm_content=email3-v2)
 
@@ -24,17 +24,14 @@ before practicing.**
 
 This is the last video in the Mini Class. If you're looking to take the
 next step and learn how to improve your mind-body connection, [sign up
-for the Fundamentals video
-course](https://www.wimhofmethod.com/fundamentals-video-course-introduction?utm_source=miniclass&utm_medium=button&utm_campaign=miniclass-to-fundamentals)
+for the Fundamentals video course](https://www.wimhofmethod.com/fundamentals-video-course-introduction?utm_source=miniclass&utm_medium=button&utm_campaign=miniclass-to-fundamentals)
 and learn to apply the Wim Hof Method to real-world scenarios,
 including; decreasing stress, handling pressure situations and managing
 your energy levels.
 
-[Start the Fundamentals Video
-Course](https://www.wimhofmethod.com/fundamentals-video-course-introduction?utm_source=miniclass&utm_medium=referral&utm_campaign=miniclass-to-fundamentals&utm_content=email3-v2)
+[Start the Fundamentals Video Course](https://www.wimhofmethod.com/fundamentals-video-course-introduction?utm_source=miniclass&utm_medium=referral&utm_campaign=miniclass-to-fundamentals&utm_content=email3-v2)
 
-[Hear why others love the Wim Hof
-Method](https://www.wimhofmethod.com/testimonials?utm_source=miniclass&utm_medium=referral&utm_campaign=miniclass-to-fundamentals&utm_content=email3-v2)
+[Hear why others love the Wim Hof Method](https://www.wimhofmethod.com/testimonials?utm_source=miniclass&utm_medium=referral&utm_campaign=miniclass-to-fundamentals&utm_content=email3-v2)
 
 If you’re curious, here’s [an animation of the “Brain over body”
 study](https://youtu.be/YficBlvPwWQ) that Wim mentioned in the video.
@@ -57,10 +54,7 @@ Mini Class Video Player
     Current Video: Commitment
     -------------------------
 
-<!-- -->
-
--   [Terms and
-    Conditions](https://explore.wimhofmethod.com/termsconditions/)
+-   [Terms and Conditions](https://explore.wimhofmethod.com/termsconditions/)
 -   [Privacy Policy](https://explore.wimhofmethod.com/privacy/)
 
 Privacy Policy Copyright 2014 - Innerfire BV | KVK: 62594044 | BTW:
