@@ -11,19 +11,9 @@
 \de{
    \cvname{Benjamín Juárez}
 }
-% MAIN SKILLS
-% UX Research
-% Big Data
-% Nodejs
-% Python
-% Agile
 \en{
   \cvjobtitle{%
-% \textbf{\LARGE{UX R}\Large{ESEARCHER} } \\
-\textbf{B\normalsize{ACK} }%
-\textbf{E\normalsize{ND} }%
-\textbf{W\normalsize{EB} }%
-\textbf{D\normalsize{EVELOPER} } \\
+\textbf{\LARGE{UX R}\Large{ESEARCHER} } \\
 %    Web Developer [Back End]\\
 \textbf{{S}\normalsize{OCIOLOGIST} } \\
 \textbf{{US C}\normalsize{ITIZEN} }
@@ -34,11 +24,11 @@
   \cvjobtitle{% Sociólogo \\ 
   % Senior User Researcher %\\
 % \textbf{\LARGE{UX R}\Large{ESEARCH} } \\
-\textbf{D\normalsize{ESARROLLADOR} }%
-\textbf{W\normalsize{EB} }%
-\textbf{B\normalsize{ACK} }%
-\textbf{E\normalsize{ND} } \\
-\textbf{S\normalsize{OCIÓLOGO} } \\
+\textbf{\Large{D}ESARROLLADOR }
+\textbf{\Large{W}EB} 
+\textbf{\Large{B}ACK} 
+\textbf{\Large{E}ND} \\
+\textbf{{S}\normalsize{OCIÓLOGO} } \\
 %   Sociólogo\\%
 \textbf{C\normalsize{IUDADANO DE }EEUU }
   } 
