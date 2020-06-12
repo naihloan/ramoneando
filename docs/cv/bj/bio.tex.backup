@@ -1,0 +1,35 @@
+%------------------------------------------------------------
+%	 ABOUT ME
+%------------------------------------------------------------
+
+\profilesection{\textsc{Bio}}
+
+% \mkboldcaps{Aver}{ag}{e}
+{\scshape ALooha}
+\textsc{ALooha}
+\huge \textbf{\textsc{Hello}}
+
+
+
+\de{
+%   \aboutme{% 
+  Vengo de las ciencias sociales. 
+  Desde 2009 investigué graffiti. % + pichação: 
+  Trabajé con fotos y texto
+  usando \LaTeX: un editor profesional que compila.
+  Ahí profundicé más en tecnología. 
+  Antes usé linux, después página web estática con dominio propio y configuración. Y ahora programación. %para automatizar.
+%   }
+}
+
+\en{
+%   \aboutme{% 
+  I come from the social sciences.
+  From 2009 onwards, I researched graffiti. % + pichação: 
+  I worked with pictures and text using 
+  \LaTeX: a professional editor that compiles.
+  There I got more into technology.
+  Before that I used linux, and later a static web site with proper domain and configuration.
+  Now I am into programming.
+}
+  

@@ -1,32 +1,69 @@
-%------------------------------------------------------------
-%	 OTHER INFORMATION
-%------------------------------------------------------------
 
-\section{%
-  \en{Other Projects}%
-  \de{Otros Proyectos}%
-}
 
-\begin{twenty} % Environment for a list with descriptions
-	\twentyitemshort{2018\en{--today}\de{ -- hoy}}{%
-	  \en{Writer}\de{Escritor} %
-	  + Editor \hfill
-	  [ \texttt{greendrinkscba.org} ]}
-	\twentyitemshort{2013\en{--today}\de{ -- hoy}}{%
-	  \en{Personal web site }%
-	  \de{Sitio web personal }%
-	  \hfill [ \texttt{ramoneando.com} ]}
-	\twentyitemshort{2016--2019}{\textit{%
-	    \en{independent book publishing}%
-	    \de{publicación de libro independiente}%
-	  } \hfill [ %
-	  \en{inextricable publisher }%
-	  \de{ediciones inextricables }% 
-	  ]}
-	
-% 	\twentyitemshort{2009\en{--today}\de{ -- hoy}}{%
-% 	\en{text and design editing tool }%
-% 	\de{herramientas de edición y diseño de texto }%
-% 	\hfill [ \LaTeX $ $ ]}
-	
-\end{twenty}
+
+% \cvsection{Extra-Curricular Activities}
+% \begin{cvtable}
+% 	\cvitemshort{Relaxing}{Master the fine art of relaxing everywhere}
+% 	\cvitemshort{Music}{Playing the bamboo flute in the 1st Panda Orchestra}
+% 	\cvitemshort{Education}{Teaching young pandas to be more panda-like}
+% \end{cvtable}
+
+
+\newpage
+\makebacksidebar
+% \newgeometry{
+% 	top=\topbottommargin,
+% 	bottom=\topbottommargin,
+% 	right=\leftrightmargin,
+% 	left=\leftrightmargin
+% }
+
+\cvsection{section}
+\cvsubsection{Subsection}
+\begin{cvtable}
+	\cvitem{<dates>}{<cv-item title>}{<location>}{<optional: description>}
+\end{cvtable}
+
+\cvsection{cvitem}
+\cvsubsection{Multi-line with longer description}
+\begin{cvtable}
+	\cvitem{date}{Description}{location}{Some longer and more detailed
+		description, that takes two lines of space instead of only one.}
+	\cvitem{date}{Description}{location}{Some longer and more detailed
+		description, that takes two lines of space instead of only one.}
+	\cvitem{date}{Description}{location}{Some longer and more detailed
+		description, that takes two lines of space instead of only one.}
+\end{cvtable}
+
+\cvsubsection{One-line without description}
+\begin{cvtable}
+	\cvitem{Award}{One-line description}{Sponsor}{}
+	\cvitem{Award}{One-line description}{Sponsor}{}
+	\cvitem{Award}{One-line description}{Sponsor}{}
+\end{cvtable}
+
+\cvsection{cvitemshort}
+\cvsubsection{One-line}
+\begin{cvtable}
+	\cvitemshort{Key}{Some further description}
+	\cvitemshort{Key}{Some further description}
+	\cvitemshort{Key}{Some further description}
+\end{cvtable}
+
+\cvsubsection{Multi-line with longer description}
+\begin{cvtable}
+	\cvitemshort{Key}{Some further description. Can fill even more than
+		only one single line while still keeping the correct indendation level.}
+	\cvitemshort{Key}{Some further description. Can fill even more than
+		only one single line while still keeping the correct indendation level.}
+	\cvitemshort{Key}{Some further description. Can fill even more than
+		only one single line while still keeping the correct indendation level.}
+\end{cvtable}
+
+% \cvsection{cvpubitem}
+% \begin{cvtable}
+% 	\cvpubitem{Publication title}{Authors}{Journal}{Year}
+% 	\cvpubitem{Publication title}{Authors}{Journal}{Year}
+% 	\cvpubitem{Publication title that is spanning over multiple lines and still
+% 		does not look too bad}{Authors}{Journal}{Year}
+% \end{cvtable}

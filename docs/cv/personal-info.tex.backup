@@ -1,53 +1,32 @@
-%----------------------------------------------------------------------------------------
-%	 PERSONAL INFORMATION
-%----------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+%                            PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+%% mandatory information
+% your name
+\cvname{Panda Bear}
+% job title/career
+\cvjobtitle{Panda Scientist,\\[0.2em] Panda of the Year}
 
-% If you don't need a field, remove the content: \cvnumberphone{}
-% use \newline if more than 1 line is required
-\profilepic{avatar.png} % Profile picture
-\en{
-  \cvname{Benjamin Juarez}
-}
-\de{
-   \cvname{Benjamín Juárez}
-}
-\en{
-  \cvjobtitle{%
-\textbf{\LARGE{UX R}\Large{ESEARCHER} } \\
-%    Web Developer [Back End]\\
-\textbf{{S}\normalsize{OCIOLOGIST} } \\
-\textbf{{US C}\normalsize{ITIZEN} }
-  \\
-  } 
-}
-\de{
-  \cvjobtitle{% Sociólogo \\ 
-  % Senior User Researcher %\\
-% \textbf{\LARGE{UX R}\Large{ESEARCH} } \\
-\textbf{\Large{D}ESARROLLADOR }
-\textbf{\Large{W}EB} 
-\textbf{\Large{B}ACK} 
-\textbf{\Large{E}ND} \\
-\textbf{{S}\normalsize{OCIÓLOGO} } \\
-%   Sociólogo\\%
-\textbf{C\normalsize{IUDADANO DE }EEUU }
-  } 
-}
-\en{
-  \cvdate{updated \today}
-}
-\de{
-  \cvdate{actualizado \today}
-}
-\cvaddress{Córdoba, Argentina} % Short address/location, 
-\cvnumberphone{(+54 9 351) 153 104043} % Phone number
-\cvmail{benjaminjuarezarlt@gmail.com} % Email address
-\cvsite{\href{https://github.com/naihloan}{[github/naihloan]} }
-% \cvsite
-% https://gitlab.com/venhamon
-% {\href{https://join.skype.com/invite/yLYmhbT0jS2L}{[Skype/benja.juarez]} }
-% \cvsite{\href{https://www.linkedin.com/in/benjamín-juárez-960649152}{[LinkedIn.com/myProfile]} %http://ramoneando.com/} % Personal website
-% }
-% \cvfacebook{foo} % \cvlinkedin{bar}
+%% optional information
+% profile picture
+\cvprofilepic{pics/profile.png}
+% logo picture
+\cvlogopic{pics/logo_txt.png}
 
-%---------------------------------------------------------------------
+% NOTE: ordering in sidebar will mimic the following order
+% date of birth
+% \cvbirthday{}%\today
+
+% \cvaddress{}%Park Ave.~1, 555 555 B-Woods
+\cvphone{+549-3513--104043}
+\cvcustomdata{\faEnvelope}{benjaminjuarezarlt@gmail.com} % any other custom entry
+\cvsite{\url{ramoneando.com}%{ramoneando.com}
+% ramoneando.com
+}
+% \cvmail{}
+% \cvkey{4096R/FF00FF00}{0xAABBCCDDFF00FF00} % pgp key
+\cvcustomdata{\faGithub}{Github} % any other custom entry
+\cvcustomdata{\faLinkedin}{Linkedin} % any other custom entry
+\cvcustomdata{\faStackOverflow}{Stack Overflow} % any other custom entry
+% \cvcustomdata{\faTwitter}{Twitter} % any other custom entry
+

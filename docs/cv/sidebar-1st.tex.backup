@@ -1,0 +1,50 @@
+%-------------------------------------------------------------------------------
+%                              SIDEBAR 1st PAGE
+%-------------------------------------------------------------------------------
+% add more profile sections to sidebar on first page
+\addtofrontsidebar{
+	% include gosquare national flags from https://github.com/gosquared/flags;
+	% naming according to ISO 3166-1 alpha-2 country codes
+	\graphicspath{{pics/flags/shiny/}}
+
+	% social network accounts incl. proper hyperlinks
+	\profilesection{Online} % Social Network
+		\begin{icontable}{1.3em}{0.7em}
+			\social{\faGithub}
+				{https://github.com/naihloan}
+				{%\faGithub $ $ 
+				Github Project Page Link: naihloan}
+			\social{\faLinkedin}
+				{https://www.linkedin.com/in/benjam\%C3\%ADn-ju\%C3\%A1rez-960649152/
+				}
+				{LinkedIn Page Link: Benjamín Juárez}
+			\social{\faStackOverflow}
+				{https://github.com/PandaScience/FortySecondsCV}
+				{Stack Overflow Profile Link: nilon}
+			\social{\faTwitter}
+				{https://de.overleaf.com/latex/templates/forty-seconds-cv/pztcktmyngsk}
+				{Twitter Profile Link: venhamon}
+			\social{\faEnvelope}
+				{benjaminjuarezarlt@gmail.com}
+				{E-mail}
+			
+		\end{icontable}
+
+	\profilesection{Languages}
+		\pointskill{\flag{CN.png}}{Chinese}{5}
+		\pointskill{\flag{DE.png}}{German}{3}
+	\pointskill{\flag{GB.png}}{English}{3}
+	\pointskill{\flag{FR.png}}{French}{3}
+
+	\profilesection{Hard Skills}
+		\skill{\faBalanceScale}{Sleeping almost all day}
+		\skill{\faSitemap}{Eating a lot of bamboo sprouts}
+		\skill{\faGraduationCap}{Relaxing rest of the day}
+
+	\profilesection{Soft Skills}
+		\pointskill{\faHome}{Looking Cute}{4}[4]
+			\skill[1.8em]{\faCompress}{No need to specify further}
+		\pointskill{\faChild}{Chillin' hard}{3}[4]
+			\skill[1.8em]{\faCompress}{On a tree}
+			\skill[1.8em]{\faCompress}{In the grass}
+}
