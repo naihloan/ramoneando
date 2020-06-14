@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.6.6)  11 JUN 2020 23:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.6.6)  12 JUN 2020 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1434,40 +1434,40 @@ ommands.code.tex
 . 
 . Defining command \smartdiagramanimated with sig. 'r[] m' on line 487.
 .................................................
-))) (./bj/bilingual.tex) (./personal-info.tex)
+)) (./bj/bilingual.tex)) (./personal-info.tex)
 (./sidebar-1st.tex) (./juarez-cv.aux)
 \openout1 = `juarez-cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Try loading font information for T1+ClearSans-LF on input l
-ine 16.
+ine 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/clearsans/T1ClearSans-LF.fd
 File: T1ClearSans-LF.fd 2014/03/14 (autoinst) Font definitions for T1/ClearSans
 -LF.
 )
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 16.
+(Font)              scaled to size 10.0pt on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1535,7 +1535,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box62
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 9.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1544,15 +1544,15 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count188
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
 
 (./juarez-cv.out) (./juarez-cv.out)
 \@outlinefile=\write5
 \openout5 = `juarez-cv.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 16.
+LaTeX Info: Redefining \microtypecontext on input line 9.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1567,28 +1567,28 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 16.
+LaTeX Info: Redefining \selectfont on input line 9.
 
 
 Package fmtcount Warning: Setting `\languagename' to `spanish'.
 (fmtcount)                Reason is that `\languagename' was `english',
 (fmtcount)                but `english' was not loaded by fmtcount,
 (fmtcount)                whereas `spanish' was the last language loaded by fmt
-count ;  on input line 16.
+count ;  on input line 9.
 
 \c@mv@tabular=\count189
 \c@mv@boldtabular=\count190
 <pics/profile.png, id=38, 1500.60625pt x 1500.60625pt>
 File: pics/profile.png Graphic file (type png)
  <use pics/profile.png>
-Package pdftex.def Info: pics/profile.png used on input line 17.
+Package pdftex.def Info: pics/profile.png used on input line 9.
 (pdftex.def)             Requested size: 142.20471pt x 142.19272pt.
 
 ! Undefined control sequence.
 \profileroundedcorners ... \profilepicborderwidth 
                                                   > 0pt \begin {scope} \draw...
-l.17 \makefrontsidebar
-                      
+l.9 \begin{document} \makefrontsidebar
+                                       \newpage \null \vfill
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1598,8 +1598,8 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    >
-l.17 \makefrontsidebar
-                      
+l.9 \begin{document} \makefrontsidebar
+                                       \newpage \null \vfill
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -1607,8 +1607,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    >
-l.17 \makefrontsidebar
-                      
+l.9 \begin{document} \makefrontsidebar
+                                       \newpage \null \vfill
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -1617,20 +1617,18 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 17.
+(Font)              scaled to size 24.88pt on input line 9.
 
-Overfull \hbox (0.81389pt too wide) in paragraph at lines 17--17
+Overfull \hbox (0.81389pt too wide) in paragraph at lines 9--9
 []\T1/ClearSans-LF/m/n/24.88 Benjamin Juarez
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 17.
+(Font)              scaled to size 14.4pt on input line 9.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 17.
+(Font)              scaled to size 14.4pt on input line 9.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 17.
-LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 17.
+(Font)              scaled to size 10.0pt on input line 9.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
@@ -1676,7 +1674,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-) (./bj/short-bio.tex) (./bj/recent-work.tex
+) (./bj/short-bio.tex
+LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 5.
+) (./bj/recent-work.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 16.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
@@ -1828,21 +1829,14 @@ or  <return>  to continue without it.
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pics/profile.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 30.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
 
 (./juarez-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 30.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 30.
-
-
-Package rerunfilecheck Warning: File `juarez-cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `juarez-cv.out':
-(rerunfilecheck)             Before: CC3FBE505A1D468803669B3EC7E2F71A;59
-(rerunfilecheck)             After:  34A873CF30F24336D4ADEDA9BF6B1D8F;55.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
+Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
+(rerunfilecheck)             Checksum: 34A873CF30F24336D4ADEDA9BF6B1D8F;55.
  ) 
 Here is how much of TeX's memory you used:
  31624 strings out of 494244
@@ -1859,7 +1853,7 @@ exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on juarez-cv.pdf (1 page, 2311430 bytes).
+Output written on juarez-cv.pdf (1 page, 2311471 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
