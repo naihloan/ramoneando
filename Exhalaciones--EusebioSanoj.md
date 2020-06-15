@@ -268,37 +268,19 @@ sushi.
 
 abrazos
 
-abrazos
-
 a andy
-
-a andy
-
-hay abrazos formales
 
 hay abrazos formales
 
 y abrazos con cariño
 
-y abrazos con cariño
-
-los hay con nostalgia
-
 los hay con nostalgia
 
 con sorpresa
 
-con sorpresa
-
-o apenas la indeÆnición
-
-o apenas la indeÆnición
+o apenas la indefinición
 
 de no saber si es
-
-de no saber si es
-
-un saludo informal con beso
 
 un saludo informal con beso
 
@@ -306,215 +288,58 @@ o una emoción intensa
 
 ⌅
 
-o una emoción intensa
-
-⌅
-
-algunos abrazos solamente tocan algunos abrazos solamente tocan un hombro contra otro
-
+algunos abrazos solamente tocan  
 un hombro contra otro
 
-o pegan los pechos entre sí como o pegan los pechos entre sí como imanes inØados
+o pegan los pechos entre sí como  
+imanes inflados
 
-imanes inØados
-
-los bastante seductores y amoro-los bastante seductores y amoro-sos giran los brazos alrededor sos giran los brazos alrededor del cuello o llegan hasta los del cuello o llegan hasta los homóplatos o riñones
-
-homóplatos o riñones
-
-abrazos
-
-abrazos
-
-a andy
-
-a andy
-
-hay abrazos formales
-
-hay abrazos formales
-
-y abrazos con cariño
-
-y abrazos con cariño
-
-los hay con nostalgia
-
-los hay con nostalgia
-
-con sorpresa
-
-con sorpresa
-
-o apenas la indeÆnición
-
-o apenas la indeÆnición
-
-de no saber si es
-
-de no saber si es
-
-un saludo informal con beso
-
-un saludo informal con beso
-
-o una emoción intensa
-
-⌅
-
-o una emoción intensa
-
-⌅
-
-algunos abrazos solamente tocan algunos abrazos solamente tocan un hombro contra otro
-
-un hombro contra otro
-
-o pegan los pechos entre sí como o pegan los pechos entre sí como imanes inØados
-
-imanes inØados
-
-los bastante seductores y amoro-los bastante seductores y amoro-sos giran los brazos alrededor sos giran los brazos alrededor del cuello o llegan hasta los del cuello o llegan hasta los homóplatos o riñones
-
-homóplatos o riñones
+los bastante seductores y amorosos giran los brazos alrededor sos giran los brazos alrededor del cuello o llegan hasta los omóplatos o riñones
 
 31
 
-los más locos y generosos abrazos los más locos y generosos abrazos pueden empezar y/o terminar
-
-pueden empezar y/o terminar
-
-agarrando muy detenidamente
-
-agarrando muy detenidamente
-
-la nuca o el hombro sucesivamente la nuca o el hombro sucesivamente otros abrazos
+los más locos y generosos abrazos  
+pueden empezar y/o terminar agarrando muy detenidamente la nuca o el hombro sucesivamente
 
 otros abrazos
 
 al salirse
 
-al salirse
-
-te rozan la espalda
-
 te rozan la espalda
 
 sin querer
-
-sin querer
-
-⌅
 
 o a propósito
 
 ⌅
 
-o a propósito
-
 los hay en boxeo también
-
-los hay en boxeo también
-
-los hay de pie
 
 los hay de pie
 
 los hay de atrás
 
-los hay de atrás
+y los hay contra la propia voluntad
 
-y los hay contra la propia voluntad y los hay contra la propia voluntad los hay acostados
 
 los hay acostados
 
-mi favorito es el abrazo horizontal mi favorito es el abrazo horizontal es el que más hace falta
-
+mi favorito es el abrazo horizontal
 es el que más hace falta
+*el aplastamiento*
 
-el aplastamiento
-
-el aplastamiento
-
-los más locos y generosos abrazos los más locos y generosos abrazos pueden empezar y/o terminar
-
-pueden empezar y/o terminar
-
-agarrando muy detenidamente
-
-agarrando muy detenidamente
-
-la nuca o el hombro sucesivamente la nuca o el hombro sucesivamente otros abrazos
-
-otros abrazos
-
-al salirse
-
-al salirse
-
-te rozan la espalda
-
-te rozan la espalda
-
-sin querer
-
-sin querer
-
-⌅
-
-o a propósito
-
-⌅
-
-o a propósito
-
-los hay en boxeo también
-
-los hay en boxeo también
-
-los hay de pie
-
-los hay de pie
-
-los hay de atrás
-
-los hay de atrás
-
-y los hay contra la propia voluntad y los hay contra la propia voluntad los hay acostados
-
-los hay acostados
-
-mi favorito es el abrazo horizontal mi favorito es el abrazo horizontal es el que más hace falta
-
-es el que más hace falta
-
-el aplastamiento
-
-el aplastamiento
 
 32
 
-estrellas amarillas estrellas amarillas
-
-F
-
-F
+estrellas amarillas 
 
 estrellas amarillas
 
 estrellas amarillas
-
-F
-
-F
 
 33
 
 congestionar
-
-congestionar
-
-Perspectiva desde la Plaza España en Córdoba.
 
 Perspectiva desde la Plaza España en Córdoba.
 
@@ -554,11 +379,7 @@ F
 
 Gracias
 
-Gracias
-
 Un recuerdo feliz del ya fallecido Conde Un recuerdo feliz del ya fallecido Conde Pascual Admito que me gusta un poco lo Pascual Admito que me gusta un poco lo metafísico, incluso lo esotérico. ¿A quién no le metafísico, incluso lo esotérico. ¿A quién no le da un poco de sonrisa con picardía al pensar da un poco de sonrisa con picardía al pensar
-
-“será que capaz tengan razón los que sermo-
 
 “será que capaz tengan razón los que sermo-nean tanto”? Claro que una parte de mí piensa nean tanto”? Claro que una parte de mí piensa que son todas burradas los que gritan por la que son todas burradas los que gritan por la salvación del mundo, que son para que alguna salvación del mundo, que son para que alguna gente coma vidrio. Y también para que alguien gente coma vidrio. Y también para que alguien curre a lo lindo. Pero una pequeña parte mía F
 
@@ -658,13 +479,12 @@ vive el hombre.
 
 Sonrisa
 
-Sonrisa
+Mi impresión sobre un graffiti cordobés
 
-Mi impresión sobre un graffiti cordobés Mi impresión sobre un graffiti cordobés Ladran Sancho, señal de que cabalgamos Ladran Sancho, señal de que cabalgamos
-
+> _Ladran Sancho, señal de que cabalgamos._ 
 — Johann Wolfgang von Goethe
 
-— Johann Wolfgang von Goethe Rara vez alguien me dijo que no le importaran Rara vez alguien me dijo que no le importaran los gra tis. Me acuerdo de una vez en un cum-los gra tis. Me acuerdo de una vez en un cum-pleaños en un country hubo una excepción: le pleaños en un country hubo una excepción: le cuento a un pez que yo miraba las marcas de cuento a un pez que yo miraba las marcas de spray por toda la ciudad y no me dijo nada. F
+Rara vez alguien me dijo que no le importaran Rara vez alguien me dijo que no le importaran los gra tis. Me acuerdo de una vez en un cum-los gra tis. Me acuerdo de una vez en un cum-pleaños en un country hubo una excepción: le pleaños en un country hubo una excepción: le cuento a un pez que yo miraba las marcas de cuento a un pez que yo miraba las marcas de spray por toda la ciudad y no me dijo nada. F
 
 spray por toda la ciudad y no me dijo nada. F
 
@@ -828,37 +648,17 @@ F
 
 revelación musical revelación musical
 
-La canción Business Time, de Flight of The Con-La canción Business Time, de Flight of The Con-chords tiene la misma base rítmica que la an-chords tiene la misma base rítmica que la an-terior All Eyez on Me, de 2Pac (feat. Big Syke).
-
-terior All Eyez on Me, de 2Pac (feat. Big Syke).
+La canción Business Time, de Flight of The Conchords tiene la misma base rítmica que la anterior: All Eyez on Me, de 2Pac (feat. Big Syke).
 
 ¡Recórcholis!
-
-¡Recórcholis!
-
-F
-
-F
-
-revelación musical
-
-revelación musical
-
-La canción Business Time, de Flight of The Con-La canción Business Time, de Flight of The Con-chords tiene la misma base rítmica que la an-chords tiene la misma base rítmica que la an-terior All Eyez on Me, de 2Pac (feat. Big Syke).
-
-terior All Eyez on Me, de 2Pac (feat. Big Syke).
-
-¡Recórcholis!
-
-¡Recórcholis!
-
-F
 
 F
 
 47
 
-máquina centrífuga / centrípeta máquina centrífuga / centrípeta Corro por motivos espirituales podría ser un le-Corro por motivos espirituales podría ser un le-ma. Malísimo correr y cansarse. Hoy salí para ma. Malísimo correr y cansarse. Hoy salí para ganar energía. Es cierto que el cuerpo pier-ganar energía. Es cierto que el cuerpo pier-de energía cuando gasta lo que se comió y de energía cuando gasta lo que se comió y tomó. También que necesitamos comer (bien) tomó. También que necesitamos comer (bien) para poder movernos. Pero puede haber otros para poder movernos. Pero puede haber otros motores. Me acordé de la época en que corría motores. Me acordé de la época en que corría para despejar la cabeza durante la adolescencia.
+máquina centrífuga / centrípeta
+
+ Corro por motivos espirituales podría ser un le-Corro por motivos espirituales podría ser un le-ma. Malísimo correr y cansarse. Hoy salí para ma. Malísimo correr y cansarse. Hoy salí para ganar energía. Es cierto que el cuerpo pier-ganar energía. Es cierto que el cuerpo pier-de energía cuando gasta lo que se comió y de energía cuando gasta lo que se comió y tomó. También que necesitamos comer (bien) tomó. También que necesitamos comer (bien) para poder movernos. Pero puede haber otros para poder movernos. Pero puede haber otros motores. Me acordé de la época en que corría motores. Me acordé de la época en que corría para despejar la cabeza durante la adolescencia.
 
 para despejar la cabeza durante la adolescencia.
 
@@ -886,65 +686,18 @@ más) hacia afuera, hacia los demás?
 
 changas
 
-changas
+Mi flia es suficientemente copada como para para tirarme una mano de vez en cuando. Como estoy sin laburo me ~piden~ ofrecen que venda el auto de la casa y después una vez que lo ejecutemos me dejan unos mangos a cambio.
 
-Mi Øia es suÆcientemente copada como para Mi Øia es suÆcientemente copada como para tirarme una mano de vez en cuando. Como tirarme una mano de vez en cuando. Como estoy sin laburo me piden ofrecen que venda estoy sin laburo me piden ofrecen que venda el auto de la casa y después una vez que lo el auto de la casa y después una vez que lo ejecutemos me dejan unos mangos a cambio.
+Voy a la oficina del diario cerca de casa para hacer el anuncio de venta. Le pregunto al tipo que me atiende si está bien el contenido de mi oferta: si la información está clara y completa, y si el precio es razonable. Me quedo tranquilo porque el guaso amablemente me dice que todo OK.
 
-ejecutemos me dejan unos mangos a cambio.
-
-Voy a la oÆcina del diario cerca de casa para Voy a la oÆcina del diario cerca de casa para hacer el anuncio de venta. Le pregunto al tipo hacer el anuncio de venta. Le pregunto al tipo que me atiende si está bien el contenido de mi F
-
-que me atiende si está bien el contenido de mi F
-
-oferta: si la información está clara y completa, oferta: si la información está clara y completa, y si el precio es razonable. Me quedo tranquilo y si el precio es razonable. Me quedo tranquilo porque el guaso amablemente me dice que todo porque el guaso amablemente me dice que todo ok.
-
-ok.
-
-Cada uno se gana el pan como puede. El chan-Cada uno se gana el pan como puede. El chan-guito tiene un laburo sin mayor complejidad guito tiene un laburo sin mayor complejidad pero lo hace de forma simple y hasta donde pero lo hace de forma simple y hasta donde veo no le pone obstáculos a nadie. Me quedo veo no le pone obstáculos a nadie. Me quedo con una sensación agradable, de qué bien por él.
-
-con una sensación agradable, de qué bien por él.
-
-changas
-
-changas
-
-Mi Øia es suÆcientemente copada como para Mi Øia es suÆcientemente copada como para tirarme una mano de vez en cuando. Como tirarme una mano de vez en cuando. Como estoy sin laburo me piden ofrecen que venda estoy sin laburo me piden ofrecen que venda el auto de la casa y después una vez que lo el auto de la casa y después una vez que lo ejecutemos me dejan unos mangos a cambio.
-
-ejecutemos me dejan unos mangos a cambio.
-
-Voy a la oÆcina del diario cerca de casa para Voy a la oÆcina del diario cerca de casa para hacer el anuncio de venta. Le pregunto al tipo hacer el anuncio de venta. Le pregunto al tipo que me atiende si está bien el contenido de mi F
-
-que me atiende si está bien el contenido de mi F
-
-oferta: si la información está clara y completa, oferta: si la información está clara y completa, y si el precio es razonable. Me quedo tranquilo y si el precio es razonable. Me quedo tranquilo porque el guaso amablemente me dice que todo porque el guaso amablemente me dice que todo ok.
-
-ok.
-
-Cada uno se gana el pan como puede. El chan-Cada uno se gana el pan como puede. El chan-guito tiene un laburo sin mayor complejidad guito tiene un laburo sin mayor complejidad pero lo hace de forma simple y hasta donde pero lo hace de forma simple y hasta donde veo no le pone obstáculos a nadie. Me quedo veo no le pone obstáculos a nadie. Me quedo con una sensación agradable, de qué bien por él.
-
-con una sensación agradable, de qué bien por él.
+Cada uno se gana el pan como puede. El changuito tiene un laburo sin mayor complejidad pero lo hace de forma simple y hasta donde veo no le pone obstáculos a nadie. Me quedo con una sensación agradable, de *qué bien por él*.
 
 51
 
-Al Ænal alguno tendrá su mambo de si alimen-Al Ænal alguno tendrá su mambo de si alimentar el ego de la autoría y todo esa porquería, tar el ego de la autoría y todo esa porquería, pero en deÆnitiva a este tipo le pagan por espero en deÆnitiva a este tipo le pagan por escribir todos los días en el diario. Qué bien.
+Al final alguno tendrá su mambo de si alimentar el ego de la autoría y todo esa porquería, pero en definitiva a este tipo le pagan por escribir todos los días en el diario. Qué bien.
 
-cribir todos los días en el diario. Qué bien.
-
-F
-
-F
-
-Al Ænal alguno tendrá su mambo de si alimen-Al Ænal alguno tendrá su mambo de si alimentar el ego de la autoría y todo esa porquería, tar el ego de la autoría y todo esa porquería, pero en deÆnitiva a este tipo le pagan por espero en deÆnitiva a este tipo le pagan por escribir todos los días en el diario. Qué bien.
-
-cribir todos los días en el diario. Qué bien.
-
-F
-
-F
 
 52
-
-amnesia
 
 amnesia
 
@@ -956,19 +709,11 @@ También hasta pueden llegar a tacharte de loco, También hasta pueden llegar a 
 
 F
 
-loco?
-
-F
-
 Una cosa buena de no acordarse de sensacio-Una cosa buena de no acordarse de sensaciones y algunos recuerdos es que podés volver a nes y algunos recuerdos es que podés volver a vivir muchas emociones y experiencias como si vivir muchas emociones y experiencias como si fuera la primera vez, como un príncipe idiota fuera la primera vez, como un príncipe idiota (guiño/referencia). Otra buena de ser desme-
 
 (guiño/referencia). Otra buena de ser desme-moriado es que no llevas las cuentas, entonces moriado es que no llevas las cuentas, entonces podés ser, o sentirte, más generoso sin mirar podés ser, o sentirte, más generoso sin mirar por qué. Es simplemente dar (como dice Rodol-por qué. Es simplemente dar (como dice Rodol-
 
 Æto).
-
-Æto).
-
-amnesia
 
 amnesia
 
@@ -1110,167 +855,45 @@ de convivir en este grato espacio.
 
 mundos
 
-mundos
+Por ahora hay solamente un planeta en el que (sobre)vivimos, pero hay infinitos mundos: mundos sociales de los que luchan por la paz mundial (y los que no); los que piensan por la libertad; los que ríen una vez al mes; los alienados; los que toman antibióticos; mundos futuros y mundos imposibles; mundos alienígenas; mundos terminados; el de los Krell; los mundos de Carl Sagan; y más acá los mundos sociales de los autómatas sociales; los que leen listas; mundos hermanados con animales, insectos, minerales y bacterias; los hombres de nieve; los dadaístas; los aymará; los tarahumara; el mundo de los que viajan en transporte público y a pie; los que quedan afuera de las enumeraciones; otros; los que no terminan las frases con punto
 
-Por ahora hay solamente un planeta en el que Por ahora hay solamente un planeta en el que (sobre)vivimos, pero hay inÆnitos mundos: mun-
-
-(sobre)vivimos, pero hay inÆnitos mundos: mundos sociales de los que luchan por la paz mundos sociales de los que luchan por la paz mun-dial (y los que no); los que piensan por la liber-dial (y los que no); los que piensan por la liber-tad; los que ríen una vez al mes; los alienados; tad; los que ríen una vez al mes; los alienados; los que toman antibióticos; mundos futuros y los que toman antibióticos; mundos futuros y mundos imposibles; mundos alienígenas; mun-mundos imposibles; mundos alienígenas; mundos terminados; el de los Krell; los mundos dos terminados; el de los Krell; los mundos de Carl Sagan; y más acá los mundos sociales de Carl Sagan; y más acá los mundos sociales de los autómatas sociales; los que leen listas; F
-
-de los autómatas sociales; los que leen listas; F
-
-mundos hermanados con animales, insectos, mundos hermanados con animales, insectos, minerales y bacterias; los hombres de nieve; minerales y bacterias; los hombres de nieve; los dadaístas; los aymará; los tarahumara; el los dadaístas; los aymará; los tarahumara; el mundo de los que viajan en transporte público mundo de los que viajan en transporte público y a pie; los que quedan afuera de las enume-y a pie; los que quedan afuera de las enume-raciones; otros; los que no terminan las frases raciones; otros; los que no terminan las frases con punto
-
-con punto
-
-mundos
-
-mundos
-
-Por ahora hay solamente un planeta en el que Por ahora hay solamente un planeta en el que (sobre)vivimos, pero hay inÆnitos mundos: mun-
-
-(sobre)vivimos, pero hay inÆnitos mundos: mundos sociales de los que luchan por la paz mundos sociales de los que luchan por la paz mun-dial (y los que no); los que piensan por la liber-dial (y los que no); los que piensan por la liber-tad; los que ríen una vez al mes; los alienados; tad; los que ríen una vez al mes; los alienados; los que toman antibióticos; mundos futuros y los que toman antibióticos; mundos futuros y mundos imposibles; mundos alienígenas; mun-mundos imposibles; mundos alienígenas; mundos terminados; el de los Krell; los mundos dos terminados; el de los Krell; los mundos de Carl Sagan; y más acá los mundos sociales de Carl Sagan; y más acá los mundos sociales de los autómatas sociales; los que leen listas; F
-
-de los autómatas sociales; los que leen listas; F
-
-mundos hermanados con animales, insectos, mundos hermanados con animales, insectos, minerales y bacterias; los hombres de nieve; minerales y bacterias; los hombres de nieve; los dadaístas; los aymará; los tarahumara; el los dadaístas; los aymará; los tarahumara; el mundo de los que viajan en transporte público mundo de los que viajan en transporte público y a pie; los que quedan afuera de las enume-y a pie; los que quedan afuera de las enume-raciones; otros; los que no terminan las frases raciones; otros; los que no terminan las frases con punto
-
-con punto
 
 59
 
 decálogo
 
-decálogo
-
-X
-
-X
-
-decálogo
-
-decálogo
-
-X
-
-X
 
 61
 
 decálogo¶
 
-decálogo¶
+¶ Decálogo: 2. m. Conjunto de normas o consejos que, aunque no sean diez, son básicos para el desarrollo de cualquier actividad.
 
-nada
 
 nada
 
 2. no sos peor que nada
 
-
-
-
-
-2. no sos peor que nada
-
-
-osadía búsqueda expansión
-
 osadía búsqueda expansión
 
 3. tampoco mejor que nada
 
+empatía diversidad introspección 
 
-
-
-
-3. tampoco mejor que nada
-
-
-empatía diversidad introspección empatía diversidad introspección 4. un yo interior sabe lo que tiene que hacer 4. un yo interior sabe lo que tiene que hacer tiene conciencia de todo
-
+4. un yo interior sabe lo que tiene que hacer
 tiene conciencia de todo
 
 el tiempo y el universo
 
-X
-
-el tiempo y el universo
-
-X
-
-sabe lo que puede y va a pasar sabe lo que puede y va a pasar preguntale
-
+sabe lo que puede y va a pasar 
 preguntale
 
-a nivel planetario pasa lo mismo a nivel planetario pasa lo mismo fe
-
+a nivel planetario pasa lo mismo 
 fe
-
-¶ Decálogo: 2. m. Conjunto de normas o consejos que,
-
-¶ Decálogo: 2. m. Conjunto de normas o consejos que, aunque no sean diez, son básicos para el desarrollo aunque no sean diez, son básicos para el desarrollo de cualquier actividad.
-
-de cualquier actividad.
-
-decálogo¶
-
-decálogo¶
-
-nada
-
-nada
-
-2. no sos peor que nada
-
-
-
-
-
-2. no sos peor que nada
-
-
-osadía búsqueda expansión
-
-osadía búsqueda expansión
-
-3. tampoco mejor que nada
-
-
-
-
-
-3. tampoco mejor que nada
-
-
-empatía diversidad introspección empatía diversidad introspección 4. un yo interior sabe lo que tiene que hacer 4. un yo interior sabe lo que tiene que hacer tiene conciencia de todo
-
-tiene conciencia de todo
-
-el tiempo y el universo
-
-X
-
-el tiempo y el universo
-
-X
-
-sabe lo que puede y va a pasar sabe lo que puede y va a pasar preguntale
-
-preguntale
-
-a nivel planetario pasa lo mismo a nivel planetario pasa lo mismo fe
-
-fe
-
-¶ Decálogo: 2. m. Conjunto de normas o consejos que,
-
-¶ Decálogo: 2. m. Conjunto de normas o consejos que, aunque no sean diez, son básicos para el desarrollo aunque no sean diez, son básicos para el desarrollo de cualquier actividad.
-
-de cualquier actividad.
 
 63
 
-5. Elige tu propia aventura. Algunos empie-5. Elige tu propia aventura. Algunos empiezan creando un mundo entero: para unos zan creando un mundo entero: para unos será un mundo interior, para otros algo será un mundo interior, para otros algo menos vasto. Otros, muchos, arrancan ya menos vasto. Otros, muchos, arrancan ya en la caca misma antes incluso de em-en la caca misma antes incluso de empezar. Para ellos tal vez sea más sobre pezar. Para ellos tal vez sea más sobre conseguir un auxilio, una comprensión, conseguir un auxilio, una comprensión, una caridad, o para los más hábiles no una caridad, o para los más hábiles no ver la caca ni la cuchara y volar. Todos ver la caca ni la cuchara y volar. Todos vamos más lejos con una base, o cuando vamos más lejos con una base, o cuando X
+5. Elige tu propia aventura. Algunos empiezan creando un mundo entero: para unos zan creando un mundo entero: para unos será un mundo interior, para otros algo será un mundo interior, para otros algo menos vasto. Otros, muchos, arrancan ya menos vasto. Otros, muchos, arrancan ya en la caca misma antes incluso de em-en la caca misma antes incluso de empezar. Para ellos tal vez sea más sobre pezar. Para ellos tal vez sea más sobre conseguir un auxilio, una comprensión, conseguir un auxilio, una comprensión, una caridad, o para los más hábiles no una caridad, o para los más hábiles no ver la caca ni la cuchara y volar. Todos ver la caca ni la cuchara y volar. Todos vamos más lejos con una base, o cuando vamos más lejos con una base, o cuando X
 
 la eliminamos. dependemos de conocer la eliminamos. dependemos de conocer el terreno.
 
@@ -1282,331 +905,78 @@ Crear mundos interiores, exteriores, o Crear mundos interiores, exteriores, o pa
 
 etérea, o una monada palpable.
 
-5. Elige tu propia aventura. Algunos empie-5. Elige tu propia aventura. Algunos empiezan creando un mundo entero: para unos zan creando un mundo entero: para unos será un mundo interior, para otros algo será un mundo interior, para otros algo menos vasto. Otros, muchos, arrancan ya menos vasto. Otros, muchos, arrancan ya en la caca misma antes incluso de em-en la caca misma antes incluso de empezar. Para ellos tal vez sea más sobre pezar. Para ellos tal vez sea más sobre conseguir un auxilio, una comprensión, conseguir un auxilio, una comprensión, una caridad, o para los más hábiles no una caridad, o para los más hábiles no ver la caca ni la cuchara y volar. Todos ver la caca ni la cuchara y volar. Todos vamos más lejos con una base, o cuando vamos más lejos con una base, o cuando X
-
-la eliminamos. dependemos de conocer la eliminamos. dependemos de conocer el terreno.
-
-X
-
-el terreno.
-
-Crear mundos interiores, exteriores, o Crear mundos interiores, exteriores, o para conectar el que ya está: se necesi-para conectar el que ya está: se necesita tender redes. Dependemos de ciclos: ta tender redes. Dependemos de ciclos: buscar comida para sobrevivir vivir; sem-buscar comida para sobrevivir vivir; sem-brar para cosechar (“el éxito no me ha brar para cosechar (“el éxito no me ha cambiado en absoluto” decía Charly); ali-cambiado en absoluto” decía Charly); alimentar la relación con algo, una mónada mentar la relación con algo, una mónada etérea, o una monada palpable.
-
-etérea, o una monada palpable.
+5. Elige tu propia aventura. Algunos empiezan creando un mundo entero: para unos será un mundo interior, para otros algo menos vasto. Otros, muchos, arrancan ya en la caca misma antes incluso de empezar. Para ellos tal vez sea más sobre conseguir un auxilio, una comprensión, una caridad, o para los más hábiles no ver la caca ni la cuchara y volar. Todos vamos más lejos con una base, o cuando la eliminamos. dependemos de conocer el terreno.
 
 64
 
-6. ¿Cuáles son tus raíces? Podés saberlo por 6. ¿Cuáles son tus raíces? Podés saberlo por simple investigación interior o por ser simple investigación interior o por ser parte de una tradición. Los que miden parte de una tradición. Los que miden tamaño y forma de todo serían más ma-tamaño y forma de todo serían más ma-terialistas, incluso del alma, como Aristó-
+6. ¿Cuáles son tus raíces? Podés saberlo por simple investigación interior o por ser parte de una tradición. Los que miden parte de una tradición. Los que miden tamaño y forma de todo serían más materialistas, incluso del alma, como Aristóteles. Los que ven algo más allá, sea una una idea, una electricidad o una creencia tal vez sean más platónicos. (Curiosamente vez sean más platónicos. (Curiosamente no leí tanto de las fuentes directas, pero cualquiera que se vea con uno de sus aprendices saben que sus fuentes, después de tantos milenios, no son despreciables).
 
-terialistas, incluso del alma, como Aristó-
-
-teles. Los que ven algo más allá, sea una teles. Los que ven algo más allá, sea una idea, una electricidad o una creencia tal idea, una electricidad o una creencia tal vez sean más platónicos. (Curiosamente vez sean más platónicos. (Curiosamente no leí tanto de las fuentes directas, pe-no leí tanto de las fuentes directas, pe-ro cualquiera que se vea con uno de sus ro cualquiera que se vea con uno de sus aprendices saben que sus fuentes, des-aprendices saben que sus fuentes, después de tantos milenios, no son despre- X
-
-pués de tantos milenios, no son despre- X
-
-ciables).
-
-ciables).
-
-También podés saber de tus raíces viendo También podés saber de tus raíces viendo lo que hacés o hacia dónde vas. DaVinci lo que hacés o hacia dónde vas. DaVinci explicaba que al dibujar el tronco de un explicaba que al dibujar el tronco de un árbol éste sería de parecido tamaño que árbol éste sería de parecido tamaño que las ramas si uno las pudiera apiñar todas las ramas si uno las pudiera apiñar todas juntas como en la mano, y así ocuparían juntas como en la mano, y así ocuparían una cantidad de espacio similar. ¿Hacia una cantidad de espacio similar. ¿Hacia dónde creces? Capaz creás algo nuevo.
-
-dónde creces? Capaz creás algo nuevo.
-
-6. ¿Cuáles son tus raíces? Podés saberlo por 6. ¿Cuáles son tus raíces? Podés saberlo por simple investigación interior o por ser simple investigación interior o por ser parte de una tradición. Los que miden parte de una tradición. Los que miden tamaño y forma de todo serían más ma-tamaño y forma de todo serían más ma-terialistas, incluso del alma, como Aristó-
-
-terialistas, incluso del alma, como Aristó-
-
-teles. Los que ven algo más allá, sea una teles. Los que ven algo más allá, sea una idea, una electricidad o una creencia tal idea, una electricidad o una creencia tal vez sean más platónicos. (Curiosamente vez sean más platónicos. (Curiosamente no leí tanto de las fuentes directas, pe-no leí tanto de las fuentes directas, pe-ro cualquiera que se vea con uno de sus ro cualquiera que se vea con uno de sus aprendices saben que sus fuentes, des-aprendices saben que sus fuentes, después de tantos milenios, no son despre- X
-
-pués de tantos milenios, no son despre- X
-
-ciables).
-
-ciables).
-
-También podés saber de tus raíces viendo También podés saber de tus raíces viendo lo que hacés o hacia dónde vas. DaVinci lo que hacés o hacia dónde vas. DaVinci explicaba que al dibujar el tronco de un explicaba que al dibujar el tronco de un árbol éste sería de parecido tamaño que árbol éste sería de parecido tamaño que las ramas si uno las pudiera apiñar todas las ramas si uno las pudiera apiñar todas juntas como en la mano, y así ocuparían juntas como en la mano, y así ocuparían una cantidad de espacio similar. ¿Hacia una cantidad de espacio similar. ¿Hacia dónde creces? Capaz creás algo nuevo.
-
-dónde creces? Capaz creás algo nuevo.
+También podés saber de tus raíces viendo lo que hacés o hacia dónde vas. DaVinci explicaba que al dibujar el tronco de un árbol éste sería de parecido tamaño que las ramas si uno las pudiera apiñar todas juntas como en la mano, y así ocuparían una cantidad de espacio similar. ¿Hacia dónde creces? Capaz creás algo nuevo.
 
 65
 
 7. — ¿por qué habría de ayudarte?
 
-7. — ¿por qué habría de ayudarte?
-
-— porque te lo pido por favor
-
 — porque te lo pido por favor y porque podés
 
-y porque podés
+no se necesitan muchas palabras para comunicarse . . . hola chau gracias por favor qué tal bien sí/no no sé 
 
-no se necesitan muchas palabras para no se necesitan muchas palabras para comunicarse . . . hola chau gracias por comunicarse . . . hola chau gracias por favor qué tal bien sí/no no sé favor qué tal bien sí/no no sé animales hacen todo con gestos animales hacen todo con gestos corporales y faciales
-
+animales hacen todo con gestos 
 corporales y faciales
 
-X
-
 silencio atención inmediatez
 
-X
-
-silencio atención inmediatez
-
-8. Øuidez
-
-8. Øuidez
-
-¿por qué quedarse en un sólo punto?
+8. fluidez
 
 ¿por qué quedarse en un sólo punto?
 
 9. quietud
 
+¿por qué no dejarse estar en un estado de pasión o acción extrema? ¿no era eso lo que hacía van gogh en la casa amarilla?
 
-
-
-
-9. quietud
-
-
-¿por qué no dejarse estar en un estado de
-
-¿por qué no dejarse estar en un estado de pasión o acción extrema? ¿no era eso lo pasión o acción extrema? ¿no era eso lo que hacía van gogh en la casa amarilla?
-
-que hacía van gogh en la casa amarilla?
-
-7. — ¿por qué habría de ayudarte?
-
-7. — ¿por qué habría de ayudarte?
-
-— porque te lo pido por favor
-
-— porque te lo pido por favor y porque podés
-
-y porque podés
-
-no se necesitan muchas palabras para no se necesitan muchas palabras para comunicarse . . . hola chau gracias por comunicarse . . . hola chau gracias por favor qué tal bien sí/no no sé favor qué tal bien sí/no no sé animales hacen todo con gestos animales hacen todo con gestos corporales y faciales
-
-corporales y faciales
-
-X
-
-silencio atención inmediatez
-
-X
-
-silencio atención inmediatez
-
-8. Øuidez
-
-8. Øuidez
-
-¿por qué quedarse en un sólo punto?
-
-¿por qué quedarse en un sólo punto?
-
-9. quietud
-
-
-
-
-
-9. quietud
-
-
-¿por qué no dejarse estar en un estado de
-
-¿por qué no dejarse estar en un estado de pasión o acción extrema? ¿no era eso lo pasión o acción extrema? ¿no era eso lo que hacía van gogh en la casa amarilla?
-
-que hacía van gogh en la casa amarilla?
 
 66
 
 10.
 
-10.
-
 11. permeabilidad
-
-
-
-
-
-11. permeabilidad
-
 
 expandir decálogo
 
-expandir decálogo
-
-ver Kieślowski Moisés Cortázar ver Kieślowski Moisés Cortázar Monterroso Yang Cheng Fu
-
-Monterroso Yang Cheng Fu
+ver Kieślowski Moisés Cortázar Monterroso Yang Cheng Fu
 
 12. exceso generosidad
-
-
-
-
-
-12. exceso generosidad
-
-
-¿quién lleva la cuenta?
 
 ¿quién lleva la cuenta?
 
 13. azar inexplicabilidad
 
 
-
-
-
-13. azar inexplicabilidad
-
-
 y a veces te comés una patada X
-
-y a veces te comés una patada X
-
-adonde más duele.
 
 adonde más duele.
 
 como dice el tango:
 
-como dice el tango:
-
 quévachaché
 
-quévachaché
-
-10.
-
-10.
-
-11. permeabilidad
-
-
-
-
-
-11. permeabilidad
-
-
-expandir decálogo
-
-expandir decálogo
-
-ver Kieślowski Moisés Cortázar ver Kieślowski Moisés Cortázar Monterroso Yang Cheng Fu
-
-Monterroso Yang Cheng Fu
-
-12. exceso generosidad
-
-
-
-
-
-12. exceso generosidad
-
-
-¿quién lleva la cuenta?
-
-¿quién lleva la cuenta?
-
-13. azar inexplicabilidad
-
-
-
-
-
-13. azar inexplicabilidad
-
-
-y a veces te comés una patada X
-
-y a veces te comés una patada X
-
-adonde más duele.
-
-adonde más duele.
-
-como dice el tango:
-
-como dice el tango:
-
-quévachaché
-
-quévachaché
 
 67
 
-sutilezas de la inercia sutilezas de la inercia
-
-
-
-
-
-sutilezas de la inercia
-
-sutilezas de la inercia
-
-
-
+sutilezas de la inercia 
 
 
 69
 
 hola,
 
-hola,
-
 soy una persona
-
-soy una persona
-
-sin sentido común
 
 sin sentido común
 
 ni tacto
 
-ni tacto
-
 un hipocondríaco social
-
-un hipocondríaco social
-
-¿querés charlar?
-
-¿querés charlar?
-
-
-
-
-
-hola,
-
-hola,
-
-soy una persona
-
-soy una persona
-
-sin sentido común
-
-sin sentido común
-
-ni tacto
-
-ni tacto
-
-un hipocondríaco social
-
-un hipocondríaco social
-
-¿querés charlar?
 
 ¿querés charlar?
 
@@ -1618,184 +988,44 @@ un hipocondríaco social
 
 no me gusta
 
-no me gusta
-
-comer
-
 comer
 
 cuando prenden
 
-cuando prenden
-
 saumerios de tabaco
-
-saumerios de tabaco
-
-
-
-
-
-no me gusta
-
-no me gusta
-
-comer
-
-comer
-
-cuando prenden
-
-cuando prenden
-
-saumerios de tabaco
-
-saumerios de tabaco
-
-
 
 
 
 72
 
-tarea:
-
-tarea:
-
+tarea:  
 para con los demás
 
-para con los demás
-
-el agradecimiento,
-
-el agradecimiento,
-
-la admiración,
-
-la admiración,
-
+el agradecimiento,  
+la admiración,  
 la grata sorpresa
 
-la grata sorpresa
-
-sentir:
-
-sentir:
-
-qué gran trabajo
-
-qué gran trabajo
-
-que hacemos juntos
-
-que hacemos juntos
-
+sentir:  
+qué gran trabajo  
+que hacemos juntos  
 y qué fácil sale
 
-y qué fácil sale
-
-como si fuéramos
-
-
-
-como si fuéramos
-
-
-
+como si fuéramos  
 ágiles titanes espirituales
 
-ágiles titanes espirituales
-
-tarea:
-
-tarea:
-
-para con los demás
-
-para con los demás
-
-el agradecimiento,
-
-el agradecimiento,
-
-la admiración,
-
-la admiración,
-
-la grata sorpresa
-
-la grata sorpresa
-
-sentir:
-
-sentir:
-
-qué gran trabajo
-
-qué gran trabajo
-
-que hacemos juntos
-
-que hacemos juntos
-
-y qué fácil sale
-
-y qué fácil sale
-
-como si fuéramos
-
-
-
-como si fuéramos
-
-
-
-ágiles titanes espirituales
-
-ágiles titanes espirituales
 
 73
 
-mi respeto por la humanidad mi respeto por la humanidad
+mi respeto por la humanidad 
 
-viene de que pienso mucho en eso viene de que pienso mucho en eso el sentido de pertenencia está el sentido de pertenencia está ahora ¿por qué en los demás pasa ahora ¿por qué en los demás pasa estootro?
+viene de que pienso mucho en
 
-estootro?
+el sentido de pertenencia está
 
-¿se me hinchó el ego?
+ahora ¿por qué en los demás pasa estootro?
 
-¿se me hinchó el ego?
-
-perdón,
-
-perdón,
-
-fue sin querer
-
-fue sin querer
-
-
-
-
-
-mi respeto por la humanidad
-
-mi respeto por la humanidad
-
-viene de que pienso mucho en eso viene de que pienso mucho en eso el sentido de pertenencia está el sentido de pertenencia está ahora ¿por qué en los demás pasa ahora ¿por qué en los demás pasa estootro?
-
-estootro?
-
-¿se me hinchó el ego?
-
-¿se me hinchó el ego?
-
-perdón,
-
-perdón,
-
-fue sin querer
-
+¿se me hinchó el ego?  
+perdón,  
 fue sin querer
 
 
@@ -1804,39 +1034,15 @@ fue sin querer
 
 74
 
-al cabo que
-
-al cabo que
-
-el ego
-
-el ego
-
+al cabo que  
+el ego  
 tampoco es tan gran cosa
 
-tampoco es tan gran cosa
+tarea:  
+construir un puente para abandonarlo 
 
-tarea:
 
-tarea:
-
-construir un puente para abandonarlo construir un puente para abandonarlo al cabo que
-
-al cabo que
-
-el ego
-
-el ego
-
-tampoco es tan gran cosa
-
-tampoco es tan gran cosa
-
-tarea:
-
-tarea:
-
-construir un puente para abandonarlo construir un puente para abandonarlo 75
+75
 
 similitud entre similitud entre
 
