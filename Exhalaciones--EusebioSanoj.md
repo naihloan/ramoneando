@@ -1,24 +1,49 @@
-exhalaciones 
+---
+title:
+- type: short
+  text: exhalaciones
+- type: subtitle
+  text: 
+creator:
+- role: author
+  text: Eusebio Sanój
+- role: editor
+  text: Benjamín Juárez
+identifier:
+- scheme: DOI
+  text: ISBN:978-987-42-1710-3
+publisher: Ediciones Inextricables
+rights: © 2016 Benjamín Juárez, CC BY-NC
+ibooks:
+  version: 1.3.4
+  scroll-axis: default
+...
+---
+
+
+# exhalaciones 
 
 
 exhalaciones
 
 EUSEBIO SANÓJ
 
-
-
-Sanój, Eusebio Ajneb
+\newpage
 
 
 Exhalaciones / Sanój, Eusebio Ajneb ; contribuciones de Patricio Javier Juárez ; Tomás Agustín Assadourián ; Julieta Reyes. - 1a ed. - Córdoba : Benjamín Juárez, 2016.
 
-130 p. ; 15 x 11 cm.
+Edición electrónica para e-book. Formato recomendado: mobi/kindle.
+
+Del original: 130 p. ; 15 x 11 cm.
 
 ISBN 978-987-42-1710-3
 
 1. Ensayo Literario. I. Juárez, Patricio Javier, colab. II. Assadourián, Tomás Agustín, colab. III. Reyes, Julieta, colab.
 
 IV. Título. CDD 899.59
+
+\vfill
 
 CC BY-NC-SA 4.0 Internacional Licencia de Atribución-NoComercial-CompartirIgual
 
@@ -30,31 +55,53 @@ impreso silenciosamente
 
 tirada 100 ejemplares
 
-diseño: LATEX
+diseño: \LaTeX
 
- contacto: benjij_1980@yahoo.com Sanój, Eusebio Ajneb
+contacto del editor: benjij_1980@yahoo.com Sanój, Eusebio Ajneb
 
 
-al Facu Juárez
 
-al Fran Colomé
+<div style="page-break-after: always;"></div>
 
-a Diego Cortés
 
-qepd
+
+
+
+
+
+
+
+_al Facu Juárez_
+
+_al Fran Colomé_
+
+_a Diego Cortés_
+
+_qepd_
+
+
+<div style="page-break-after: always;"></div>
+
+
+
+## Index {epub:type=index}
 
 
 índice
 
 
-agujeros negros. flashes, lavanda, remeras, anti-yoga del teclado,  contra-perfeccionismo, error, pinchazos, putrefacción, abzs
+agujeros negros.
+flashes, lavanda, remeras, anti-yoga del teclado,  contra-perfeccionismo, error, pinchazos, putrefacción, abzs
 
-estrellas amarillas. congestionar,  gracias, sonrisa, revelación, máquinas, changas, amnesia, acro-burocracia, mundos
+estrellas amarillas.
+congestionar,  gracias, sonrisa, revelación, máquinas, changas, amnesia, acro-burocracia, mundos
 
 decálogo
 
 sutilezas de la inercia
 
+
+## agujeros negros {epub:type=agujeros-negros}
 
 flashes
 
@@ -328,18 +375,15 @@ mi favorito es el abrazo horizontal
 es el que más hace falta
 *el aplastamiento*
 
+## estrellas amarillas {epub:type=estrellas-amarillas}
 
 32
-
-estrellas amarillas 
-
-estrellas amarillas
 
 estrellas amarillas
 
 33
 
-congestionar
+### congestionar
 
 Perspectiva desde la Plaza España en Córdoba.
 
@@ -860,6 +904,8 @@ Por ahora hay solamente un planeta en el que (sobre)vivimos, pero hay infinitos 
 
 59
 
+## decalogo {epub:type=decalogo}
+
 decálogo
 
 
@@ -963,6 +1009,7 @@ quévachaché
 
 67
 
+## sutilezas de la inercia {epub:type=sutilezas-de-la-inercia}
 sutilezas de la inercia 
 
 
@@ -1048,65 +1095,15 @@ similitud entre similitud entre
 
 la concentración y la nada:
 
-la concentración y la nada:
-
 despierto o dormido
-
-despierto o dormido
-
-incansable
 
 incansable
 
 repetición
 
-repetición
-
-de lo mismo
-
 de lo mismo
 
 la fuerza
-
-la fuerza
-
-de lo hipnótico
-
-de lo hipnótico
-
-
-
-
-
-similitud entre
-
-similitud entre
-
-la concentración y la nada:
-
-la concentración y la nada:
-
-despierto o dormido
-
-despierto o dormido
-
-incansable
-
-incansable
-
-repetición
-
-repetición
-
-de lo mismo
-
-de lo mismo
-
-la fuerza
-
-la fuerza
-
-de lo hipnótico
 
 de lo hipnótico
 
@@ -1116,127 +1113,39 @@ de lo hipnótico
 
 76
 
-correr a lo largo de una pared oscura correr a lo largo de una pared oscura con latas de aerosol
-
-con latas de aerosol
-
-blanca y
+correr a lo largo de una pared oscura
+ con latas de aerosol
 
 blanca y
-
 otra celeste
-
-otra celeste
-
-
-
-
-
-correr a lo largo de una pared oscura correr a lo largo de una pared oscura con latas de aerosol
-
-con latas de aerosol
-
-blanca y
-
-blanca y
-
-otra celeste
-
-otra celeste
-
-
-
 
 
 77
-
-a – la vida es una a – la vida es una
-
-b – ¿no creés en la reencarnación?
-
-b – ¿no creés en la reencarnación?
-
-a – no, creo en la fructiÆcación a – no, creo en la fructiÆcación a – la vida es una
 
 a – la vida es una
 
 b – ¿no creés en la reencarnación?
 
-b – ¿no creés en la reencarnación?
-
-a – no, creo en la fructiÆcación a – no, creo en la fructiÆcación 78
-
-composición: batalla naval composición: batalla naval
-
--c4
-
--c4
-
--hundido
-
--hundido
-
--c4
-
--c4
-
--hundido
-
--hundido
-
--c4
-
--c4
-
--hundido
-
--hundido
-
-...ad inÆnitum
-
-...ad inÆnitum
-
-queda solo agua
-
-queda solo agua
+a – no, creo en la fructificación
 
 
-
-
-
-composición: batalla naval
+78
 
 composición: batalla naval
 
 -c4
 
--c4
-
--hundido
-
 -hundido
 
 -c4
-
--c4
-
--hundido
 
 -hundido
 
 -c4
 
--c4
-
 -hundido
 
--hundido
-
-...ad inÆnitum
-
-...ad inÆnitum
-
-queda solo agua
+...ad infinitum
 
 queda solo agua
 
@@ -1248,149 +1157,40 @@ queda solo agua
 
 paso del
 
-paso del
-
 ¡vamo a echá moco!
-
-¡vamo a echá moco!
-
-al
 
 al
 
 ¡vamo a comé moco!
 
-¡vamo a comé moco!
-
 día de diversiones pavas
-
-día de diversiones pavas
-
-
-
-
-
-paso del
-
-paso del
-
-¡vamo a echá moco!
-
-¡vamo a echá moco!
-
-al
-
-al
-
-¡vamo a comé moco!
-
-¡vamo a comé moco!
-
-día de diversiones pavas
-
-día de diversiones pavas
-
-
 
 
 
 80
 
-hoy tuve un público hoy tuve un público
-
-de dos personas
-
-de dos personas
-
-se ríeron de mi gracia
-
-se ríeron de mi gracia
-
-avisé que
-
-avisé que
-
-para la hora del té
-
-para la hora del té
-
-había
-
-había
-
-criollos pequeños
-
-criollos pequeños
-
-
-
-
-
-hoy tuve un público
-
 hoy tuve un público
 
 de dos personas
 
-de dos personas
-
 se ríeron de mi gracia
-
-se ríeron de mi gracia
-
-avisé que
 
 avisé que
 
 para la hora del té
 
-para la hora del té
-
-había
-
 había
 
 criollos pequeños
-
-criollos pequeños
-
-
-
 
 
 81
 
-menos entendible menos entendible
-
-que ser echado
-
-que ser echado
-
-de un grupo
-
-de un grupo
-
-anarquista
-
-anarquista
-
-
-
-
-
-menos entendible
-
 menos entendible
 
 que ser echado
 
-que ser echado
-
 de un grupo
-
-de un grupo
-
-anarquista
 
 anarquista
 
@@ -1402,55 +1202,16 @@ anarquista
 
 ¿y qué pasa si
 
-¿y qué pasa si
-
 aunque parezca que
-
-aunque parezca que
-
-los días pasan,
 
 los días pasan,
 
 es todo igual?
 
-es todo igual?
-
-un mismo día
-
 un mismo día
 
 siempre
 
-siempre
-
-
-
-
-
-¿y qué pasa si
-
-¿y qué pasa si
-
-aunque parezca que
-
-aunque parezca que
-
-los días pasan,
-
-los días pasan,
-
-es todo igual?
-
-es todo igual?
-
-un mismo día
-
-un mismo día
-
-siempre
-
-siempre
 
 
 
@@ -1458,63 +1219,19 @@ siempre
 
 83
 
-esta es la imagen mental que repito esta es la imagen mental que repito no a propósito
+esta es la imagen mental que repito 
 
 no a propósito
 
 y no me gusta
 
-y no me gusta
-
-me cepillo los dientos
-
-me cepillo los dientos
-
-pero en vez de eso
+me cepillo los dientes
 
 pero en vez de eso
 
 sin querer
 
-sin querer
-
 me afeito
-
-me afeito
-
-las encías
-
-las encías
-
-
-
-
-
-esta es la imagen mental que repito esta es la imagen mental que repito no a propósito
-
-no a propósito
-
-y no me gusta
-
-y no me gusta
-
-me cepillo los dientos
-
-me cepillo los dientos
-
-pero en vez de eso
-
-pero en vez de eso
-
-sin querer
-
-sin querer
-
-me afeito
-
-me afeito
-
-las encías
 
 las encías
 
@@ -1526,37 +1243,9 @@ las encías
 
 ¿nada
 
-¿nada
-
-más alienante que
-
 más alienante que
 
 vender
-
-vender
-
-sangre?
-
-sangre?
-
-
-
-
-
-¿nada
-
-¿nada
-
-más alienante que
-
-más alienante que
-
-vender
-
-vender
-
-sangre?
 
 sangre?
 
@@ -1568,79 +1257,22 @@ sangre?
 
 pasé por
 
-pasé por
-
 el correo
-
-el correo
-
-y me acordé:
 
 y me acordé:
 
 en un lugar así
 
-en un lugar así
-
 se hartó henry chinaski
-
-se hartó henry chinaski
-
-claro:
 
 claro:
 
 las caras
 
-las caras
-
-como
-
 como
 
 estatuas podridas
 
-estatuas podridas
-
-
-
-
-
-pasé por
-
-pasé por
-
-el correo
-
-el correo
-
-y me acordé:
-
-y me acordé:
-
-en un lugar así
-
-en un lugar así
-
-se hartó henry chinaski
-
-se hartó henry chinaski
-
-claro:
-
-claro:
-
-las caras
-
-las caras
-
-como
-
-como
-
-estatuas podridas
-
-estatuas podridas
 
 
 
@@ -1648,63 +1280,22 @@ estatuas podridas
 
 86
 
-los que efectivamente los que efectivamente
+los que efectivamente 
 
 hacen algo
 
-hacen algo
-
-están subempleados o sobreempleados están subempleados o sobreempleados mientras
+están subempleados o sobreempleados 
 
 mientras
 
 el resto del planeta
 
-el resto del planeta
-
 hambrea o
-
-hambrea o
-
-gana
 
 gana
 
 sin realmente andar
 
-sin realmente andar
-
-
-
-
-
-los que efectivamente
-
-los que efectivamente
-
-hacen algo
-
-hacen algo
-
-están subempleados o sobreempleados están subempleados o sobreempleados mientras
-
-mientras
-
-el resto del planeta
-
-el resto del planeta
-
-hambrea o
-
-hambrea o
-
-gana
-
-gana
-
-sin realmente andar
-
-sin realmente andar
 
 
 
@@ -1714,45 +1305,11 @@ sin realmente andar
 
 diestro
 
-diestro
-
-jugando por izquierda
-
 jugando por izquierda
 
 para hacer la diagonal
 
-para hacer la diagonal
-
 y clavarla arriba
-
-y clavarla arriba
-
-al segundo palo
-
-al segundo palo
-
-
-
-
-
-diestro
-
-diestro
-
-jugando por izquierda
-
-jugando por izquierda
-
-para hacer la diagonal
-
-para hacer la diagonal
-
-y clavarla arriba
-
-y clavarla arriba
-
-al segundo palo
 
 al segundo palo
 
@@ -1764,53 +1321,17 @@ al segundo palo
 
 poner
 
-poner
-
-la televivisión en mudo
-
-la televivisión en mudo
+la televisión en mudo
 
 ¿quién hace la expresión más increíble?
 
-¿quién hace la expresión más increíble?
-
-uno que se quiere mostrar incrédulo uno que se quiere mostrar incrédulo pero escucha seducido
+uno que se quiere mostrar incrédulo 
 
 pero escucha seducido
 
 otro que se muestra serio
 
-otro que se muestra serio
-
-y casi si le ve la lengua bíÆda y casi si le ve la lengua bíÆda (de serpiente)
-
-(de serpiente)
-
-
-
-
-
-poner
-
-poner
-
-la televivisión en mudo
-
-la televivisión en mudo
-
-¿quién hace la expresión más increíble?
-
-¿quién hace la expresión más increíble?
-
-uno que se quiere mostrar incrédulo uno que se quiere mostrar incrédulo pero escucha seducido
-
-pero escucha seducido
-
-otro que se muestra serio
-
-otro que se muestra serio
-
-y casi si le ve la lengua bíÆda y casi si le ve la lengua bíÆda (de serpiente)
+y casi si le ve la lengua bífida 
 
 (de serpiente)
 
@@ -1820,43 +1341,13 @@ y casi si le ve la lengua bíÆda y casi si le ve la lengua bíÆda (de serpient
 
 89
 
-
-
-¿qué es la ciudad?
-
-
-
 ¿qué es la ciudad?
 
 un desierto
 
-un desierto
 
-
-
-¿qué es la ciudad?
-
-
-
-¿qué es la ciudad?
-
-un desierto
-
-un desierto
 
 90
-
-anhelar
-
-
-
-anhelar
-
-
-
-anhelar
-
-
 
 anhelar
 
@@ -1866,37 +1357,9 @@ anhelar
 
 meditar
 
-meditar
-
-es presenciar
-
 es presenciar
 
 la anti-tautología del
-
-la anti-tautología del
-
-cosmos
-
-cosmos
-
-
-
-
-
-meditar
-
-meditar
-
-es presenciar
-
-es presenciar
-
-la anti-tautología del
-
-la anti-tautología del
-
-cosmos
 
 cosmos
 
@@ -1908,37 +1371,9 @@ cosmos
 
 andando
 
-andando
-
-en esta
-
 en esta
 
 nuestra tierra
-
-nuestra tierra
-
-hasta el big crunch
-
-hasta el big crunch
-
-
-
-
-
-andando
-
-andando
-
-en esta
-
-en esta
-
-nuestra tierra
-
-nuestra tierra
-
-hasta el big crunch
 
 hasta el big crunch
 
@@ -1948,63 +1383,20 @@ hasta el big crunch
 
 93
 
-hacé imaginá un edén hacé imaginá un edén
-
-compartilo
-
-compartilo
-
-¿tiene pasto?
-
-¿tiene pasto?
-
-¿tiene colores?
-
-¿tiene colores?
-
-¿hay nubes o está despejado?
-
-¿hay nubes o está despejado?
-
-todos los días
-
-todos los días
-
-sale el sol
-
-sale el sol
-
-
-
-
-
-hacé imaginá un edén
-
-hacé imaginá un edén
-
-compartilo
+hacé imaginá un edén 
 
 compartilo
 
 ¿tiene pasto?
 
-¿tiene pasto?
-
 ¿tiene colores?
-
-¿tiene colores?
-
-¿hay nubes o está despejado?
 
 ¿hay nubes o está despejado?
 
 todos los días
 
-todos los días
-
 sale el sol
 
-sale el sol
 
 
 
@@ -2012,21 +1404,7 @@ sale el sol
 
 94
 
-pan espiritual pan espiritual
-
-dánoslo hoy
-
-dánoslo hoy
-
-
-
-
-
-pan espiritual
-
-pan espiritual
-
-dánoslo hoy
+pan espiritual 
 
 dánoslo hoy
 
@@ -2038,45 +1416,11 @@ dánoslo hoy
 
 aprender
 
-aprender
-
-lenguaje
-
 lenguaje
 
 sordomudo
 
-sordomudo
-
 ¿evita
-
-¿evita
-
-confusiones?
-
-confusiones?
-
-
-
-
-
-aprender
-
-aprender
-
-lenguaje
-
-lenguaje
-
-sordomudo
-
-sordomudo
-
-¿evita
-
-¿evita
-
-confusiones?
 
 confusiones?
 
@@ -2088,45 +1432,11 @@ confusiones?
 
 tareas
 
-tareas
-
-esculpir
-
 esculpir
 
 hielo
 
-hielo
-
 vivir
-
-vivir
-
-ciegamente
-
-ciegamente
-
-
-
-
-
-tareas
-
-tareas
-
-esculpir
-
-esculpir
-
-hielo
-
-hielo
-
-vivir
-
-vivir
-
-ciegamente
 
 ciegamente
 
@@ -2138,69 +1448,26 @@ ciegamente
 
 ¿dónde está
 
-¿dónde está
-
 mi espíritu
-
-mi espíritu
-
-desvaneciendo?
 
 desvaneciendo?
 
 ¿la respuesta?
 
-¿la respuesta?
-
-tono de
-
 tono de
 
 teléfono descolgado
 
-teléfono descolgado
-
-laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
 
 
 
 
-
-¿dónde está
-
-¿dónde está
-
-mi espíritu
-
-mi espíritu
-
-desvaneciendo?
-
-desvaneciendo?
-
-¿la respuesta?
-
-¿la respuesta?
-
-tono de
-
-tono de
-
-teléfono descolgado
-
-teléfono descolgado
-
-laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 98
-
-las máquinas
+98
 
 las máquinas
 
 nos ven con
-
-nos ven con
-
-estos ojos:
 
 estos ojos:
 
@@ -2220,37 +1487,6 @@ estos ojos:
 
 10101010101010101010101010101010101010101010101010101010101
 
-
-
-
-
-las máquinas
-
-las máquinas
-
-nos ven con
-
-nos ven con
-
-estos ojos:
-
-estos ojos:
-
-01010101010101010101010101010101010101010101010101010101010
-
-01010101010101010101010101010101010101010101010101010101010
-
-10101010101010101010101010101010101010101010101010101010101
-
-10101010101010101010101010101010101010101010101010101010101
-
-01010101010101010101010101010101010101010101010101010101010
-
-01010101010101010101010101010101010101010101010101010101010
-
-10101010101010101010101010101010101010101010101010101010101
-
-10101010101010101010101010101010101010101010101010101010101
 
 
 
@@ -2258,71 +1494,22 @@ estos ojos:
 
 99
 
-aumento de la racionalidad aumento de la racionalidad
-
-conlleva
-
-conlleva
-
-cambios en el rostro
-
-cambios en el rostro
-
-no sé cómo reaccionar
-
-no sé cómo reaccionar
-
-cuando llego
-
-cuando llego
-
-con conÆanza y amabilidad
-
-con conÆanza y amabilidad
-
-y solo veo
-
-y solo veo
-
-cara de póker
-
-cara de póker
-
-
-
-
-
-aumento de la racionalidad
-
-aumento de la racionalidad
-
-conlleva
+aumento de la racionalidad 
 
 conlleva
 
 cambios en el rostro
 
-cambios en el rostro
-
-no sé cómo reaccionar
-
 no sé cómo reaccionar
 
 cuando llego
 
-cuando llego
-
-con conÆanza y amabilidad
-
-con conÆanza y amabilidad
-
-y solo veo
+con confianza y amabilidad
 
 y solo veo
 
 cara de póker
 
-cara de póker
 
 
 
@@ -2330,257 +1517,77 @@ cara de póker
 
 100
 
-un francés en eeuu cuenta que boxeó un francés en eeuu cuenta que boxeó entre negros
+un francés en eeuu cuenta que boxeó 
 
 entre negros
 
 dos veces
 
-dos veces
-
-buenas cosas pero relata de manera buenas cosas pero relata de manera similar y no de forma complementaria similar y no de forma complementaria sino muy igual
-
-sino muy igual
+buenas cosas pero relata de manera similar y no de forma complementaria sino muy igual
 
 tarea: NO REPETIR REPETIR
 
-tarea: NO REPETIR REPETIR
 
-q
-
-
-
-q
-
+******
 
 
 un francés en eeuu
+cuenta que boxeó entre negros
 
-un francés en eeuu
-
-cuenta que boxeó entre negros cuenta que boxeó entre negros buenas cosas
 
 buenas cosas
 
 pero relata
 
-pero relata
-
 de manera similar
-
-de manera similar
-
-dos veces
 
 dos veces
 
 y no de forma complementaria
 
-y no de forma complementaria
-
-sino muy igual
-
 sino muy igual
 
 tarea: NO REPETIR
 
-tarea: NO REPETIR
-
-un francés en eeuu cuenta que boxeó un francés en eeuu cuenta que boxeó entre negros
-
-entre negros
-
-dos veces
-
-dos veces
-
-buenas cosas pero relata de manera buenas cosas pero relata de manera similar y no de forma complementaria similar y no de forma complementaria sino muy igual
-
-sino muy igual
-
-tarea: NO REPETIR REPETIR
-
-tarea: NO REPETIR REPETIR
-
-q
 
 
 
-q
-
-
-
-un francés en eeuu
-
-un francés en eeuu
-
-cuenta que boxeó entre negros cuenta que boxeó entre negros buenas cosas
-
-buenas cosas
-
-pero relata
-
-pero relata
-
-de manera similar
-
-de manera similar
-
-dos veces
-
-dos veces
-
-y no de forma complementaria
-
-y no de forma complementaria
-
-sino muy igual
-
-sino muy igual
-
-tarea: NO REPETIR
-
-tarea: NO REPETIR
 
 101
 
 a veces
 
-a veces
-
 siento que
-
-siento que
-
-en mi depto
 
 en mi depto
 
 tengo
 
-tengo
-
-todo lo que necesito
-
 todo lo que necesito
 
 y otras veces
 
-y otras veces
-
 no
-
-no
-
-
-
-
-
-a veces
-
-a veces
-
-siento que
-
-siento que
-
-en mi depto
-
-en mi depto
-
-tengo
-
-tengo
-
-todo lo que necesito
-
-todo lo que necesito
-
-y otras veces
-
-y otras veces
-
-no
-
-no
-
-
-
 
 
 102
 
-escribir es rezar escribir es rezar
-
-escribir es una forma posible de escribir es una forma posible de oración
-
-oración
+escribir es rezar 
+escribir es una forma posible de oración
 
 buscar lo invisible
-
-buscar lo invisible
-
-es ir a encontrar algo que no conocías es ir a encontrar algo que no conocías para compartirlo
+es ir a encontrar algo que no conocías 
 
 para compartirlo
 
 así
-
-así
-
 nunca se termina
-
-nunca se termina
-
 el pan
-
-el pan
-
-
-
-
-
-escribir es rezar
-
-escribir es rezar
-
-escribir es una forma posible de escribir es una forma posible de oración
-
-oración
-
-buscar lo invisible
-
-buscar lo invisible
-
-es ir a encontrar algo que no conocías es ir a encontrar algo que no conocías para compartirlo
-
-para compartirlo
-
-así
-
-así
-
-nunca se termina
-
-nunca se termina
-
-el pan
-
-el pan
-
 
 
 
 
 103
-
-escéptico de la homogeneidad escéptico de la homogeneidad
-
-
-
-
-
-escéptico de la homogeneidad
 
 escéptico de la homogeneidad
 
@@ -2590,73 +1597,30 @@ escéptico de la homogeneidad
 
 104
 
-la necesidad de robar un libro la necesidad de robar un libro la necesidad de robar un libro la necesidad de robar un libro 105
+la necesidad de robar un libro
 
-al que le importa mucho lo que al que le importa mucho lo que quiere decir
 
+
+
+
+105
+
+al que le importa mucho lo que 
 quiere decir
 
-le va el corazón en ello, pero ¿quién le va el corazón en ello, pero ¿quién pintaría una pared pública con pintaría una pared pública con rojo sangre?
-
-rojo sangre?
-
-
-
-
-
-al que le importa mucho lo que al que le importa mucho lo que quiere decir
-
-quiere decir
-
-le va el corazón en ello, pero ¿quién le va el corazón en ello, pero ¿quién pintaría una pared pública con pintaría una pared pública con rojo sangre?
-
-rojo sangre?
-
-
+le va el corazón en ello, pero ¿quién una pared pública con rojo sangre?
 
 
 
 106
 
-abajo la meritocracia abajo la meritocracia
-
-¡¡redención o Æesta!!
-
-¡¡redención o Æesta!!
-
-pero sea el uno o el otro
-
-pero sea el uno o el otro
-
-que no sea meramente
-
-que no sea meramente
-
-personal
-
-personal
-
-
-
-
-
 abajo la meritocracia
 
-abajo la meritocracia
-
-¡¡redención o Æesta!!
-
-¡¡redención o Æesta!!
-
-pero sea el uno o el otro
+¡¡redención o fiesta!!
 
 pero sea el uno o el otro
 
 que no sea meramente
-
-que no sea meramente
-
-personal
 
 personal
 
@@ -2666,55 +1630,14 @@ personal
 
 107
 
-y no sólo de pan y no sólo de pan
-
+*y no sólo de pan*
 vive el hombre
 
-vive el hombre
-
-o sea que
-
-o sea que
-
-el pan
-
-el pan
-
-también
-
-también
-
+o sea que  
+el pan  
+también  
 hace falta
 
-hace falta
-
-
-
-
-
-y no sólo de pan
-
-y no sólo de pan
-
-vive el hombre
-
-vive el hombre
-
-o sea que
-
-o sea que
-
-el pan
-
-el pan
-
-también
-
-también
-
-hace falta
-
-hace falta
 
 
 
@@ -2722,37 +1645,11 @@ hace falta
 
 108
 
-era una persona era una persona
-
-tan pero tan pobre que
-
-tan pero tan pobre que
-
-solo tenía
-
-solo tenía
-
-cosas materiales
-
-cosas materiales
-
-
-
-
-
-era una persona
-
 era una persona
 
 tan pero tan pobre que
 
-tan pero tan pobre que
-
 solo tenía
-
-solo tenía
-
-cosas materiales
 
 cosas materiales
 
@@ -2762,39 +1659,13 @@ cosas materiales
 
 109
 
-sí hay Æestas de disfraces sí hay Æestas de disfraces
-
-pero
-
-pero
-
-en realidad
-
-en realidad
-
-nadie usa disfraz
-
-nadie usa disfraz
-
-
-
-
-
-sí hay Æestas de disfraces
-
-sí hay Æestas de disfraces
-
-pero
+sí hay fiestas de disfraces 
 
 pero
 
 en realidad
 
-en realidad
-
-nadie usa disfraz
-
-nadie usa disfraz
+*nadie* usa disfraz
 
 
 
@@ -2902,45 +1773,11 @@ a mi pesar
 
 ¿alegría dónde estás hoy?
 
-¿alegría dónde estás hoy?
-
-sólo nadas
-
 sólo nadas
 
 solo nada
 
-solo nada
-
 nada
-
-nada
-
-solo
-
-solo
-
-
-
-
-
-¿alegría dónde estás hoy?
-
-¿alegría dónde estás hoy?
-
-sólo nadas
-
-sólo nadas
-
-solo nada
-
-solo nada
-
-nada
-
-nada
-
-solo
 
 solo
 
@@ -2952,69 +1789,17 @@ solo
 
 oy: -...+?-
 
-oy: -...+?-
-
 perturbador insomnio
-
-perturbador insomnio
-
-del imperturbable soñador
 
 del imperturbable soñador
 
 cuando hay frustración
 
-cuando hay frustración
-
-sin sueños
-
 sin sueños
 
 ni sueño
 
-ni sueño
-
 sin tolerancia
-
-sin tolerancia
-
-ni algo más
-
-ni algo más
-
-
-
-
-
-oy: -...+?-
-
-oy: -...+?-
-
-perturbador insomnio
-
-perturbador insomnio
-
-del imperturbable soñador
-
-del imperturbable soñador
-
-cuando hay frustración
-
-cuando hay frustración
-
-sin sueños
-
-sin sueños
-
-ni sueño
-
-ni sueño
-
-sin tolerancia
-
-sin tolerancia
-
-ni algo más
 
 ni algo más
 
@@ -3024,342 +1809,71 @@ ni algo más
 
 114
 
-a jaw
+*a jaw*
 
-a jaw
-
-obsecuente tranquilidad
-
-obsecuente tranquilidad
-
-del observador impasible
-
+obsecuente tranquilidad  
 del observador impasible
 
 cuando hay alegría
 
-cuando hay alegría
-
-sin penas
-
-sin penas
-
+sin penas  
 ni mérito
 
-ni mérito
-
-sin aspiración ya
-
-sin aspiración ya
-
-y con algunos suspiros
-
-y con algunos suspiros
-
+sin aspiración ya  
+y con algunos suspiros  
 llenos de casi nada
 
-
-
-llenos de casi nada
-
-
-
-de frente a
-
-de frente a
-
-el abismo
-
-el abismo
-
-a jaw
-
-a jaw
-
-obsecuente tranquilidad
-
-obsecuente tranquilidad
-
-del observador impasible
-
-del observador impasible
-
-cuando hay alegría
-
-cuando hay alegría
-
-sin penas
-
-sin penas
-
-ni mérito
-
-ni mérito
-
-sin aspiración ya
-
-sin aspiración ya
-
-y con algunos suspiros
-
-y con algunos suspiros
-
-llenos de casi nada
+de frente a  
+*el abismo*
 
 
 
-llenos de casi nada
-
-
-
-de frente a
-
-de frente a
-
-el abismo
-
-el abismo
 
 115
 
-al fd
-
-al fd
-
-¿no es autistear?
+*al fd*
 
 ¿no es autistear?
 
 el trance de estar en
-
-el trance de estar en
-
-el Øujo interior que
-
-el Øujo interior que
-
-prescinde de calendarios
-
+el flujo interior que
 prescinde de calendarios
 
 saborea el tiempo,
-
-saborea el tiempo,
-
 cuanto más lento,
-
-cuanto más lento,
-
 más sabroso
 
-más sabroso
-
-
-
 lenta perseverancia
-
-
-
-lenta perseverancia
-
 del soñador terrenal
-
-del soñador terrenal
-
 cuando hay dónde
-
-cuando hay dónde
-
 sin desvarío
-
-sin desvarío
-
 ni vacío
-
-ni vacío
-
 (fuera del tiempo)
-
-(fuera del tiempo)
-
 la vida
-
-la vida
-
 llena
 
-llena
-
-encerrarse en una casa amarilla encerrarse en una casa amarilla vangoghear
-
-vangoghear
-
-al fd
-
-al fd
-
-¿no es autistear?
-
-¿no es autistear?
-
-el trance de estar en
-
-el trance de estar en
-
-el Øujo interior que
-
-el Øujo interior que
-
-prescinde de calendarios
-
-prescinde de calendarios
-
-saborea el tiempo,
-
-saborea el tiempo,
-
-cuanto más lento,
-
-cuanto más lento,
-
-más sabroso
-
-más sabroso
+*encerrarse en una casa amarilla*
+*vangoghear*
 
 
 
-lenta perseverancia
-
-
-
-lenta perseverancia
-
-del soñador terrenal
-
-del soñador terrenal
-
-cuando hay dónde
-
-cuando hay dónde
-
-sin desvarío
-
-sin desvarío
-
-ni vacío
-
-ni vacío
-
-(fuera del tiempo)
-
-(fuera del tiempo)
-
-la vida
-
-la vida
-
-llena
-
-llena
-
-encerrarse en una casa amarilla encerrarse en una casa amarilla vangoghear
-
-vangoghear
 
 116
 
-pasé por al menos 2 fases de inØuencia pasé por al menos 2 fases de inØuencia zen
+pasé por al menos 2 fases de influencia zen
 
-zen
+1 primero pensé que sólo las cosas físicas tenían significado, lo demás son construcciones, o exageraciones de valor, de modo que un escupitajo no tendría mayor consecuencia que la humedad que llevaba, sin connotaciones
 
-1 primero pensé que sólo las cosas 1 primero pensé que sólo las cosas físicas tenían signiÆcado, lo de-físicas tenían signiÆcado, lo de-más son construcciones, o exa-más son construcciones, o exa-geraciones de valor, de modo
+2 después, que el pensamiento no es de mayor peso así que evitarlo podía ser un ejercicio positivo para escuchar al otro lado (o la parte de más abajo) del cerebro que ayuda a creer en dios y renunciar al apuro por la lógica, el futuro y el pasado. en ese potlach salgo triunfante, o quebrado. pero de buen humor
 
-geraciones de valor, de modo
 
-que un escupitajo no tendría
-
-que un escupitajo no tendría
-
-mayor consecuencia que la hu-
-
-mayor consecuencia que la hu-
-
-medad que llevaba, sin conno-
-
-medad que llevaba, sin conno-
-
-taciones
-
-taciones
-
-2 después, que el pensamiento no 2 después, que el pensamiento no es de mayor peso así que evitar-es de mayor peso así que evitarlo podía ser un ejercicio positivo lo podía ser un ejercicio positivo para escuchar al otro lado (o la para escuchar al otro lado (o la parte de más abajo) del cerebro parte de más abajo) del cerebro que ayuda a creer en dios y re-que ayuda a creer en dios y re-nunciar al apuro por la lógica, nunciar al apuro por la lógica, el futuro y el pasado. en ese el futuro y el pasado. en ese potlach salgo triunfante, o que-potlach salgo triunfante, o que-brado. pero de buen humor
-
-brado. pero de buen humor
-
-pasé por al menos 2 fases de inØuencia pasé por al menos 2 fases de inØuencia zen
-
-zen
-
-1 primero pensé que sólo las cosas 1 primero pensé que sólo las cosas físicas tenían signiÆcado, lo de-físicas tenían signiÆcado, lo de-más son construcciones, o exa-más son construcciones, o exa-geraciones de valor, de modo
-
-geraciones de valor, de modo
-
-que un escupitajo no tendría
-
-que un escupitajo no tendría
-
-mayor consecuencia que la hu-
-
-mayor consecuencia que la hu-
-
-medad que llevaba, sin conno-
-
-medad que llevaba, sin conno-
-
-taciones
-
-taciones
-
-2 después, que el pensamiento no 2 después, que el pensamiento no es de mayor peso así que evitar-es de mayor peso así que evitarlo podía ser un ejercicio positivo lo podía ser un ejercicio positivo para escuchar al otro lado (o la para escuchar al otro lado (o la parte de más abajo) del cerebro parte de más abajo) del cerebro que ayuda a creer en dios y re-que ayuda a creer en dios y re-nunciar al apuro por la lógica, nunciar al apuro por la lógica, el futuro y el pasado. en ese el futuro y el pasado. en ese potlach salgo triunfante, o que-potlach salgo triunfante, o que-brado. pero de buen humor
-
-brado. pero de buen humor
 
 117
 
 lo bueno de
-
-lo bueno de
-
-la policía
-
 la policía
 
 es
-
-es
-
-el baterista
-
-el baterista
-
-
-
-
-
-lo bueno de
-
-lo bueno de
-
-la policía
-
-la policía
-
-es
-
-es
-
-el baterista
-
 el baterista
 
 
@@ -3368,79 +1882,24 @@ el baterista
 
 118
 
-limpiar paredes dibujadas limpiar paredes dibujadas
-
-es como
-
-es como
-
-dejar a un adulto
-
-dejar a un adulto
-
-que una vez fue chico
-
-que una vez fue chico
-
-no tener donde
-
-no tener donde
-
-rayar Æguras
-
-rayar Æguras
-
-de
-
-de
-
-elefantes
-
-elefantes
-
-y ponies
-
-y ponies
-
-
-
-
-
-limpiar paredes dibujadas
-
 limpiar paredes dibujadas
 
 es como
 
-es como
-
 dejar a un adulto
-
-dejar a un adulto
-
-que una vez fue chico
 
 que una vez fue chico
 
 no tener donde
 
-no tener donde
-
-rayar Æguras
-
-rayar Æguras
-
-de
+rayar figuras
 
 de
 
 elefantes
 
-elefantes
-
 y ponies
 
-y ponies
 
 
 
@@ -3448,33 +1907,13 @@ y ponies
 
 119
 
-quemar papel escrito quemar papel escrito
-
-es como
-
-es como
-
-amordazar a un perro que quiere amordazar a un perro que quiere hablar
-
-hablar
-
-
-
-
-
-quemar papel escrito
-
 quemar papel escrito
 
 es como
 
-es como
-
-amordazar a un perro que quiere amordazar a un perro que quiere hablar
+amordazar a un perro que quiere 
 
 hablar
-
-
 
 
 
@@ -3560,29 +1999,11 @@ y lo que no pasa
 
 121
 
-¿qué es vivir sino (intentar) soñar
-
-¿qué es vivir sino (intentar) soñar despierto?
-
+¿qué es vivir sino (intentar) soñar  
 despierto?
 
 ¿qué es soñar sino tejer vida?
 
-¿qué es soñar sino tejer vida?
-
-
-
-
-
-¿qué es vivir sino (intentar) soñar
-
-¿qué es vivir sino (intentar) soñar despierto?
-
-despierto?
-
-¿qué es soñar sino tejer vida?
-
-¿qué es soñar sino tejer vida?
 
 
 
@@ -3590,17 +2011,20 @@ despierto?
 
 122
 
-357 C
+357º C
 
-357 C
+el punto de ebullición del mercurio
 
-el punto de ebullición del mercurio el punto de ebullición del mercurio 357 C
 
-357 C
 
-el punto de ebullición del mercurio el punto de ebullición del mercurio 123
 
-más desabrido que el efecto sin la causa más desabrido que el efecto sin la causa para algunos la forma no importa, y lo único para algunos la forma no importa, y lo único valioso es el contenido... esto convierte al mun-valioso es el contenido... esto convierte al mundo en un espacio de hechos sin vida, de cosas do en un espacio de hechos sin vida, de cosas a lo sumo nutritivas pero sin magia: a lo sumo nutritivas pero sin magia:
+
+
+123
+
+*más desabrido que el efecto sin la causa*
+
+para algunos la forma no importa, y lo único para algunos la forma no importa, y lo único valioso es el contenido... esto convierte al mun-valioso es el contenido... esto convierte al mundo en un espacio de hechos sin vida, de cosas do en un espacio de hechos sin vida, de cosas a lo sumo nutritivas pero sin magia: a lo sumo nutritivas pero sin magia:
 
 ¿o no es preferible comer pizza con la mano
 
@@ -3762,37 +2186,11 @@ fertilizaron
 
 125
 
-el tiempo se ensancha el tiempo se ensancha
-
-más lento
-
-más lento
-
-caudaloso
-
-caudaloso
-
-lejano al origen
-
-lejano al origen
-
-
-
-
-
-el tiempo se ensancha
-
-el tiempo se ensancha
-
-más lento
+el tiempo se ensancha 
 
 más lento
 
 caudaloso
-
-caudaloso
-
-lejano al origen
 
 lejano al origen
 
@@ -3802,69 +2200,19 @@ lejano al origen
 
 126
 
-desde san juan y cañada desde san juan y cañada
-
-llueve
-
-llueve
-
-a dos cuadras de distancia
-
-a dos cuadras de distancia
-
-dos cuadras
-
-dos cuadras
-
-más cerca
-
-más cerca
-
-acá también
-
-acá también
-
-cae
-
-cae
-
-lluvia
-
-lluvia
-
-
-
-
-
-desde san juan y cañada
-
-desde san juan y cañada
-
-llueve
+desde san juan y cañada 
 
 llueve
 
 a dos cuadras de distancia
 
-a dos cuadras de distancia
-
 dos cuadras
-
-dos cuadras
-
-más cerca
 
 más cerca
 
 acá también
 
-acá también
-
 cae
-
-cae
-
-lluvia
 
 lluvia
 
@@ -3876,61 +2224,15 @@ lluvia
 
 a
 
-a
-
 las palabras
-
-las palabras
-
-se las lleva
 
 se las lleva
 
 el viento
 
-el viento
-
-entonces acá
-
 entonces acá
 
 no queda
-
-no queda
-
-nada
-
-nada
-
-
-
-
-
-a
-
-a
-
-las palabras
-
-las palabras
-
-se las lleva
-
-se las lleva
-
-el viento
-
-el viento
-
-entonces acá
-
-entonces acá
-
-no queda
-
-no queda
-
-nada
 
 nada
 
@@ -3942,11 +2244,6 @@ nada
 
 129
 
-impreso con cierta sensación de plenitud impreso con cierta sensación de plenitud con el vértigo de la salida al mundo con el vértigo de la salida al mundo impreso con cierta sensación de plenitud impreso con cierta sensación de plenitud con el vértigo de la salida al mundo con el vértigo de la salida al mundo 130
-
-2
-
-
-
-
+impreso con cierta sensación de plenitud 
+con el vértigo de la salida al mundo
 
