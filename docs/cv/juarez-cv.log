@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.6.6)  16 JUN 2020 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.6.6)  22 JUN 2020 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1629,7 +1629,17 @@ LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 9.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
+(Font)              scaled to size 17.28pt on input line 9.
+LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 9.
+
+Overfull \hbox (10.4493pt too wide) in paragraph at lines 9--9
+[][]\T1/ClearSans-LF/b/n/17.28 W\T1/ClearSans-LF/b/n/14.4 EB\T1/ClearSans-LF/b/
+n/17.28 D\T1/ClearSans-LF/b/n/14.4 EVELOPER \T1/ClearSans-LF/b/n/17.28 | B\T1/C
+learSans-LF/b/n/14.4 ACK\T1/ClearSans-LF/b/n/17.28 E\T1/ClearSans-LF/b/n/14.4 N
+D
+ []
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
@@ -1682,7 +1692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
 ) (./bj/short-bio.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 5.
+(Font)              scaled to size 10.0pt on input line 5.
 ) (./bj/recent-work.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 19.
@@ -1793,15 +1803,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
 (./juarez-cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
-Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 34A873CF30F24336D4ADEDA9BF6B1D8F;55.
+
+
+Package rerunfilecheck Warning: File `juarez-cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `juarez-cv.out':
+(rerunfilecheck)             Before: CC3FBE505A1D468803669B3EC7E2F71A;59
+(rerunfilecheck)             After:  34A873CF30F24336D4ADEDA9BF6B1D8F;55.
  ) 
 Here is how much of TeX's memory you used:
- 31631 strings out of 494244
- 599953 string characters out of 6168201
+ 31634 strings out of 494244
+ 600032 string characters out of 6168201
  715452 words of memory out of 5000000
- 34357 multiletter control sequences out of 15000+600000
- 66734 words of font info for 73 fonts, out of 8000000 for 9000
+ 34359 multiletter control sequences out of 15000+600000
+ 72009 words of font info for 75 fonts, out of 8000000 for 9000
  525 hyphenation exceptions out of 8191
  62i,16n,73p,10373b,830s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{/usr
@@ -1811,10 +1828,10 @@ exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on juarez-cv.pdf (1 page, 2310796 bytes).
+Output written on juarez-cv.pdf (1 page, 2310936 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 19590 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 20102 words of extra memory for PDF output out of 20736 (max. 10000000)
 
