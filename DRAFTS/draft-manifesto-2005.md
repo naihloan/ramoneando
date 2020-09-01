@@ -10,7 +10,7 @@ Home | Archives | Profile | Subscribe
 
 ### March 25, 2005
 
-#### Draft Craft Manifesto
+#### [Draft Craft Manifesto](https://ullamaaria.typepad.com/hobbyprincess/2005/03/draft_craft_man.html)
 
 I’ve been trying to pin down what is driving the increasing popularity of crafting for a while now. This is what I’ve got so far:
 1. People get satisfaction for being able to create/craft things because they can see themselves in the objects they make. This is not possible in purchased products.
