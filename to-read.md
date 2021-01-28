@@ -1,49 +1,33 @@
 
-Ritmo, etc.
-by John Cage, Matías Battistón (Translator & Compiler)
+Cristian Alarcón | Cuando me muera, quiero que me toquen cumbia: Vidas de pibes chorros
 
-Masa y poder
-by Elias Canetti
+John Cage | Ritmo, etc.
 
-La presentación de la persona en la vida cotidiana
-by Erving Goffman
+Elias Canetti | Masa y poder
 
-Outsiders
-by Howard S. Becker
+Erving Goffman | La presentación de la persona en la vida cotidiana
 
-Street Corner Society: The Social Structure of an Italian Slum
-by William Foote Whyte
+Howard S. Becker | Outsiders
 
-Human-Built World: How to Think about Technology and Culture
-by Thomas P. Hughes
+William Foote Whyte | Street Corner Society: The Social Structure of an Italian Slum
 
-Tricks of the Trade: How to Think about Your Research While You're Doing It
-by Howard S. Becker
+Thomas P. Hughes | Human-Built World: How to Think about Technology and Culture
 
-Evidence
-by Howard S. Becker
+Howard S. Becker | Tricks of the Trade: How to Think about Your Research While You're Doing It
 
-The Gift: The Form and Reason for Exchange in Archaic Societies
-by Marcel Mauss
+Howard S. Becker | Evidence
 
-Behavior in Public Places
-by Erving Goffman
+Marcel Mauss | The Gift: The Form and Reason for Exchange in Archaic Societies
 
-The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
-by Diane Vaughan
+Erving Goffman | Behavior in Public Places
 
-Toward An Anthropological Theory of Value: The False Coin of Our Own Dreams
-by David Graeber
+Diane Vaughan | The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
 
-Staying with the Trouble: Making Kin in the Chthulucene
-(Experimental Futures)
-by Donna J. Haraway
+David Graeber | Toward An Anthropological Theory of Value: The False Coin of Our Own Dreams
 
-You Owe Yourself a Drunk: An Ethnography of Urban Nomads
-by James P. Spradley
+Donna J. Haraway | Staying with the Trouble: Making Kin in the Chthulucene
 
-
-
+James P. Spradley | You Owe Yourself a Drunk: An Ethnography of Urban Nomads
 
 GAMING | metro
 ETHNOGRAPHY | Vannini: In the name of wild
@@ -68,6 +52,7 @@ WRITING | Kleon, Austin: Steal Like an Artist: 10 Things Nobody Told You About B
 LITERATURE | Mariana Enriquez: As coisas que perdimos no fogo
 ETHNOGRAPHY | Ho, Karen: Liquidated: An Ethnography of Wall Street
 BIO | Attenborough, David: David Attenborough's Life on Air: Memoirs of a Broadcaster
+RANDOM | Terry Pratchett | The Color of Magic (Discworld #1)
 ANTHROPOLOGY | Bevelin, Peter: Seeking Wisdom: From Darwin To Munger
 FOCUS | Harris, Sam: Waking Up: A Guide to Spirituality Without Religion
 FOCUS | Duhigg, Charles: The Power of Habit: Why We Do What We Do in Life and Business
