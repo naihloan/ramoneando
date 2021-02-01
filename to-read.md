@@ -29,6 +29,10 @@ Donna J. Haraway | Staying with the Trouble: Making Kin in the Chthulucene
 
 James P. Spradley | You Owe Yourself a Drunk: An Ethnography of Urban Nomads
 
+SCI-FI | Philip K. Dick: Do Androids Dream of Electric Sheep
+
+SO-FI | 
+
 GAMING | metro
 ETHNOGRAPHY | Vannini: In the name of wild
 THINK | kasparov
@@ -245,5 +249,11 @@ by Stanley Milgram
 
 Antonio Candido: On Literature and Society
 by Antonio Candido, Howard S. Becker (Editor)
+
+The Wisdom of Psychopaths: What Saints, Spies, and Serial Killers Can Teach Us About Success
+by Kevin Dutton
+
+Floating City: A Rogue Sociologist Lost and Found in New York's Underground Economy
+by Sudhir Venkatesh
 
 
