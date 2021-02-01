@@ -22,6 +22,7 @@ Marcel Mauss | The Gift: The Form and Reason for Exchange in Archaic Societies
 Erving Goffman | Behavior in Public Places
 
 Diane Vaughan | The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
+<<<<<<< HEAD
 
 David Graeber | Toward An Anthropological Theory of Value: The False Coin of Our Own Dreams
 
@@ -32,6 +33,14 @@ James P. Spradley | You Owe Yourself a Drunk: An Ethnography of Urban Nomads
 SCI-FI | Philip K. Dick: Do Androids Dream of Electric Sheep
 
 SO-FI | 
+=======
+
+David Graeber | Toward An Anthropological Theory of Value: The False Coin of Our Own Dreams
+
+Donna J. Haraway | Staying with the Trouble: Making Kin in the Chthulucene
+
+James P. Spradley | You Owe Yourself a Drunk: An Ethnography of Urban Nomads
+>>>>>>> ce683cafec3214544dc4193959711d3aa7d0920a
 
 GAMING | metro
 ETHNOGRAPHY | Vannini: In the name of wild
