@@ -1,1227 +1,2087 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.24)  24 FEB 2021 18:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.5)  25 FEB 2021 08:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **juarez-cv.tex
 (./juarez-cv.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06> (./fortysecondscv.cls
+LaTeX2e <2018-12-01>
+(./fortysecondscv.cls
 Document Class: fortysecondscv 2020/02/09 CV class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+! LaTeX Error: File `xcolor.sty' not found.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/svgnam.def
-File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/x11nam.def
-File: x11nam.def 2016/05/11 v2.12 Predefined colors according to Unix/X11 (UK)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/textpos/textpos.sty
-Package: textpos 2019/04/15 v1.9.1
+Enter file name: 
 
-Package: textpos 2019/04/15 1.9.1, absolute positioning of text on the page
-(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
-)
-\TP@textbox=\box45
-\TP@holdbox=\box46
-\TPHorizModule=\dimen134
-\TPVertModule=\dimen135
-\TP@margin=\dimen136
-\TP@absmargin=\dimen137
+! LaTeX Error: Unknown option `dvipsnames' for package `xcolor'.
 
-Grid set 16 x 16 = 0.0pt x 0.0pt
-\TPboxrulesize=\dimen138
-\TP@ox=\dimen139
-\TP@oy=\dimen140
-\TP@tbargs=\toks16
-\TP@prevdepth=\dimen141
-TextBlockOrigin set to 0pt x 0pt
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \RequirePackage
+                    [absolute,overlay]{textpos}
+? 
 
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks17
-\XKV@tempa@toks=\toks18
-)
-\XKV@depth=\count167
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count168
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+! LaTeX Error: Unknown option `svgnames' for package `xcolor'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \RequirePackage
+                    [absolute,overlay]{textpos}
+? 
+
+! LaTeX Error: Unknown option `x11names' for package `xcolor'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \RequirePackage
+                    [absolute,overlay]{textpos}
+? 
+
+! LaTeX Error: File `textpos.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Unknown option `absolute' for package `textpos'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \RequirePackage
+                    {xkeyval}
+? 
+
+! LaTeX Error: Unknown option `overlay' for package `textpos'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \RequirePackage
+                    {xkeyval}
+? 
+
+! LaTeX Error: File `xkeyval.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `etoolbox.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count169
-\calc@Bcount=\count170
-\calc@Adimen=\dimen142
-\calc@Bdimen=\dimen143
-\calc@Askip=\skip47
-\calc@Bskip=\skip48
+\calc@Acount=\count80
+\calc@Bcount=\count81
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count171
-\calc@Cskip=\skip49
+\calc@Ccount=\count82
+\calc@Cskip=\skip43
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-\Gm@cnth=\count172
-\Gm@cntv=\count173
-\c@Gm@tempcnt=\count174
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
-\Gm@dimlist=\toks19
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count83
+\Gm@cntv=\count84
+\c@Gm@tempcnt=\count85
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
 )
-\sidebarwidth=\skip50
-\topbottommargin=\skip51
-\leftrightmargin=\skip52
-\sidebartextwidth=\skip53
-\profilepicsize=\skip54
-\profilepicxshift=\skip55
-\profilepicyshift=\skip56
-\profilepicrounding=\skip57
-\logowidth=\skip58
-\logospace=\skip59
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-)
-\c@part=\count175
-\c@section=\count176
-\c@subsection=\count177
-\c@subsubsection=\count178
-\c@paragraph=\count179
-\c@subparagraph=\count180
-\c@figure=\count181
-\c@table=\count182
-\abovecaptionskip=\skip60
-\belowcaptionskip=\skip61
-\bibindent=\dimen152
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box47
-\beforetitleunit=\skip62
-\aftertitleunit=\skip63
-\ttl@plus=\dimen153
-\ttl@minus=\dimen154
-\ttl@toksa=\toks20
-\titlewidth=\dimen155
-\titlewidthlast=\dimen156
-\titlewidthfirst=\dimen157
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphbox/graphbox.sty
-Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing b
-ox
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-)
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
-)
-\Gin@box@box=\box48
-\Gin@box@width=\skip64
-\Gin@box@height=\skip65
-\Gin@box@raise=\skip66
-\Gin@box@hspace=\skip67
-\Gin@box@bwidth=\skip68
-\Gin@box@bheight=\skip69
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen160
-\ar@mcellbox=\box49
-\extrarowheight=\dimen161
-\NC@list=\toks21
-\extratabsurround=\skip70
-\backup@length=\skip71
-\ar@cellbox=\box50
-)
-\TX@col@width=\dimen162
-\TX@old@table=\dimen163
-\TX@old@col=\dimen164
-\TX@target=\dimen165
-\TX@delta=\dimen166
-\TX@cols=\count183
-\TX@ftn=\toks22
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesome.sty
-Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
-neric.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pd
-ftex.tex))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
-\pgfutil@everybye=\toks23
-\pgfutil@tempdima=\dimen167
-\pgfutil@tempdimb=\dimen168
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box51
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
-))
-Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks24
-\pgfkeys@temptoks=\toks25
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
-\pgfkeys@tmptoks=\toks26
-))
-\pgf@x=\dimen169
-\pgf@y=\dimen170
-\pgf@xa=\dimen171
-\pgf@ya=\dimen172
-\pgf@xb=\dimen173
-\pgf@yb=\dimen174
-\pgf@xc=\dimen175
-\pgf@yc=\dimen176
-\pgf@xd=\dimen177
-\pgf@yd=\dimen178
-\w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count184
-\c@pgf@countb=\count185
-\c@pgf@countc=\count186
-\c@pgf@countd=\count187
-\t@pgf@toka=\toks27
-\t@pgf@tokb=\toks28
-\t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count188
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
-File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
-File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
-)))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
-File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count189
-\pgfsyssoftpath@bigbuffer@items=\count190
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
-File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen179
-\pgfmath@count=\count191
-\pgfmath@box=\box52
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count192
-)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
-File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen180
-\pgf@picmaxx=\dimen181
-\pgf@picminy=\dimen182
-\pgf@picmaxy=\dimen183
-\pgf@pathminx=\dimen184
-\pgf@pathmaxx=\dimen185
-\pgf@pathminy=\dimen186
-\pgf@pathmaxy=\dimen187
-\pgf@xx=\dimen188
-\pgf@xy=\dimen189
-\pgf@yx=\dimen190
-\pgf@yy=\dimen191
-\pgf@zx=\dimen192
-\pgf@zy=\dimen193
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen194
-\pgf@path@lasty=\dimen195
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
-File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen196
-\pgf@shorten@start@additional=\dimen197
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
-File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfpic=\box53
-\pgf@hbox=\box54
-\pgf@layerbox@main=\box55
-\pgf@picture@serial@count=\count193
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen198
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
-File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen199
-\pgf@pt@y=\dimen256
-\pgf@pt@temp=\dimen257
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
-File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
-File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
-File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen258
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
-File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen259
-\pgf@sys@shading@range@num=\count194
-\pgf@shadingcount=\count195
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
-File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
-File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfexternal@startupbox=\box56
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
-File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
-File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
-File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
-tex
-File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
-File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box57
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
-File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
-Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen260
-\pgf@nodesepend=\dimen261
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
-Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen262
-\pgffor@skip=\dimen263
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
-Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count196
-\pgfplotmarksize=\dimen264
-)
-\tikz@lastx=\dimen265
-\tikz@lasty=\dimen266
-\tikz@lastxsaved=\dimen267
-\tikz@lastysaved=\dimen268
-\tikz@lastmovetox=\dimen269
-\tikz@lastmovetoy=\dimen270
-\tikzleveldistance=\dimen271
-\tikzsiblingdistance=\dimen272
-\tikz@figbox=\box58
-\tikz@figbox@bg=\box59
-\tikz@tempbox=\box60
-\tikz@tempbox@bg=\box61
-\tikztreelevel=\count197
-\tikznumberofchildren=\count198
-\tikznumberofcurrentchild=\count199
-\tikz@fig@count=\count266
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
-File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count267
-\pgfmatrixcurrentcolumn=\count268
-\pgf@matrix@numberofcolumns=\count269
-)
-\tikz@expandcount=\count270
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
-code.tex
-File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen273
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarybackgrounds.code.tex
-File: tikzlibrarybackgrounds.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@layerbox@background=\box62
-\pgf@layerboxsaved@background=\box63
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xhfill/xhfill.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-)
-Package: xhfill 2011/05/14\ v 1.01\ modify width and color of hrulefill
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-03-06 L3 programming layer (loader) 
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count271
-\l__pdf_internal_box=\box64
-))
-Package: xparse 2020-03-06 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count272
-\g__xparse_grabber_int=\count273
-\l__xparse_m_args_int=\count274
-\l__xparse_v_nesting_int=\count275
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
-Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
-Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-)
-\@linkdim=\dimen274
-\Hy@linkcounter=\count276
-\Hy@pagecounter=\count277
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
-Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count278
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count279
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen275
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
-Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
-))
-\Fld@menulength=\count280
-\Field@Width=\dimen276
-\Fld@charsize=\dimen277
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
-\Hy@abspage=\count281
-\c@Item=\count282
-\c@Hfootnote=\count283
-)
-Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-)
-\Fld@listcount=\count284
-\c@bookmark@seq@number=\count285
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
-)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
-)
-\Hy@SectionHShift=\skip72
-)) (./bj/code.tex
-(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks35
-\MT@count=\count286
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen278
-LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count287
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
-
-LaTeX Info: Redefining \lsstyle on input line 914.
-LaTeX Info: Redefining \lslig on input line 914.
-\MT@outer@space=\skip73
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-\CenteringLeftskip=\skip74
-\RaggedLeftLeftskip=\skip75
-\RaggedRightLeftskip=\skip76
-\CenteringRightskip=\skip77
-\RaggedLeftRightskip=\skip78
-\RaggedRightRightskip=\skip79
-\CenteringParfillskip=\skip80
-\RaggedLeftParfillskip=\skip81
-\RaggedRightParfillskip=\skip82
-\JustifyingParfillskip=\skip83
-\CenteringParindent=\skip84
-\RaggedLeftParindent=\skip85
-\RaggedRightParindent=\skip86
-\JustifyingParindent=\skip87
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/datetime/datetime.sty
-Package: datetime 2015/03/20 v2.60 Date Time Package
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fmtcount.sty
-Package: fmtcount 2020/01/30 v3.07
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fcprefix.sty
-Package: fcprefix 2012/09/28
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
-Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count288
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks36
-\ex@=\dimen279
-)
-\c@padzeroesN=\count289
-\fc@tmpcatcode=\count290
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fc-spanish.def
-File: fc-spanish.def 2016/01/12
-)
-\@DT@modctr=\count291
-\@ordinalctr=\count292
-\@orgargctr=\count293
-\@strctr=\count294
-\@tmpstrctr=\count295
-\@DT@loopN=\count296
-\@DT@X=\count297
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/datetime/datetime-defaults.sty
-Package: datetime-defaults 2013/09/10
-)
-\@day=\count298
-\@month=\count299
-\@year=\count300
-\c@HOUR=\count301
-\c@HOURXII=\count302
-\c@MINUTE=\count303
-\c@TOHOUR=\count304
-\c@TOMINUTE=\count305
-\c@SECOND=\count306
-\currenthour=\count307
-\currentminute=\count308
-\currentsecond=\count309
-Package datetime Info: No datetime.cfg file found, using default settings on in
-put line 308.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/datetime/dt-spanish.def
-File: dt-spanish.def 2013/09/10
-)
-\@dtctr=\count310
-\dayofyear=\count311
-\dayofweek=\count312
-LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks37
-\dt@b=\toks38
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks39
-\inpenc@posthook=\toks40
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/clearsans/ClearSans.sty
-Package: ClearSans 2019/10/16 (Bob Tennent) Supports Clear-Sans fonts for all L
-aTeX engines.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
-Package: fontaxes 2014/03/23 v1.0d Font selection axes
-LaTeX Info: Redefining \upshape on input line 29.
-LaTeX Info: Redefining \itshape on input line 31.
-LaTeX Info: Redefining \slshape on input line 33.
-LaTeX Info: Redefining \swshape on input line 35.
-LaTeX Info: Redefining \scshape on input line 37.
-LaTeX Info: Redefining \sscshape on input line 39.
-LaTeX Info: Redefining \ulcshape on input line 41.
-LaTeX Info: Redefining \textsw on input line 47.
-LaTeX Info: Redefining \textssc on input line 48.
-LaTeX Info: Redefining \textulc on input line 49.
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/local/texlive/2020/texmf-dist/tex/latex/smartdiagram/smartdiagram.sty
-Package: smartdiagram 2016/12/23 v0.3b Automatic creation of smart diagrams fro
-m lists of items.
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count313
-\decimalpart=\count314
-)
-Package: xstring 2019/02/06 v1.83 String manipulations (CT)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
-.code.tex
-File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryshadows.code.tex
-File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
-shapes.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryshapes.symbols.code.tex
-File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
-shapes.symbols.code.tex
-File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-\pgf@layerbox@smart diagram arrow back=\box65
-\pgf@layerboxsaved@smart diagram arrow back=\box66
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/smartdiagram/smartdiagramlibraryc
-ore.definitions.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/smartdiagram/smartdiagramlibraryc
-ore.styles.code.tex)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/smartdiagram/smartdiagramlibraryc
-ore.commands.code.tex)) (./bj/bilingual.tex)) (./bj/personal-info.tex)
-(./bj/sidebar-1st.tex) (./juarez-cv.aux)
-\openout1 = `juarez-cv.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Trying to load font information for T1+ClearSans-TLF on inp
-ut line 9.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/clearsans/T1ClearSans-TLF.fd
-File: T1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for T1/ClearSan
-s-TLF.
-)
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <10> not availabl
-e
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
-
-(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count315
-\scratchdimen=\dimen280
-\scratchbox=\box67
-\nofMPsegments=\count316
-\nofMParguments=\count317
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count318
-\MPscratchDim=\dimen281
-\MPnumerator=\count319
-\makeMPintoPDFobject=\count320
-\everyMPtoPDFconversion=\toks42
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-ABD: EveryShipout initializing macros
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(215.10318pt, 370.452pt, 11.9527pt)
-* v-part:(T,H,B)=(16.90454pt, 811.23776pt, 16.90454pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=370.452pt
-* \textheight=811.23776pt
-* \oddsidemargin=142.83319pt
-* \evensidemargin=142.83319pt
-* \topmargin=-55.36545pt
-* \headheight=0.0pt
-* \headsep=0.0pt
-* \topskip=10.0pt
-* \footskip=0.0pt
-* \marginparwidth=0.0pt
-* \marginparsep=0.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-\AtBeginShipoutBox=\box68
-Package hyperref Info: Link coloring OFF on input line 9.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count321
-)
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
- (./juarez-cv.out) (./juarez-cv.out)
-\@outlinefile=\write4
-\openout4 = `juarez-cv.out'.
-
-LaTeX Info: Redefining \microtypecontext on input line 9.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 9.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `ClearSans-TLF' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 9.
-
-
-Package fmtcount Warning: Setting `\languagename' to `spanish'.
-(fmtcount)                Reason is that `\languagename' was `english',
-(fmtcount)                but `english' was not loaded by fmtcount,
-(fmtcount)                whereas `spanish' was the last language loaded by fmt
-count ;  on input line 9.
-
-\c@mv@tabular=\count322
-\c@mv@boldtabular=\count323
-<pics/profile.png, id=38, 1500.60625pt x 1500.60625pt>
-File: pics/profile.png Graphic file (type png)
-<use pics/profile.png>
-Package pdftex.def Info: pics/profile.png  used on input line 9.
-(pdftex.def)             Requested size: 142.20471pt x 142.19272pt.
 ! Undefined control sequence.
-\profileroundedcorners ... \profilepicborderwidth 
-                                                  > 0pt \begin {scope} \draw...
-l.9 \begin{document} \makefrontsidebar
-                                       \newpage \null \vfill
+l.56 \definecolor
+                 {cvblue}{HTML}{0E5484}
 ? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \definecolor{c
+                   vblue}{HTML}{0E5484}
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+! Undefined control sequence.
+l.57 \definecolor
+                 {cvgreen}{HTML}{007170}
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+l.58 \definecolor
+                 {cvred}{HTML}{8B0000}
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+l.59 \definecolor
+                 {cvsidecolor}{HTML}{E7E7E7}
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Undefined control sequence.
+l.60 \definecolor
+                 {cvsectioncolor}{HTML}{0395DE}
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no E in font nullfont!
+! Undefined control sequence.
+l.61 \definecolor
+                 {cvsubsectioncolor}{HTML}{4D4D4D}
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no D in font nullfont!
+! Undefined control sequence.
+l.63 \colorlet
+              {maincolor}{cvblue}
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+! Undefined control sequence.
+l.64 \colorlet
+              {sidecolor}{cvsidecolor}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.65 \colorlet
+              {sectioncolor}{cvsectioncolor}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.66 \colorlet
+              {subsectioncolor}{cvsubsectioncolor}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.67 \colorlet
+              {itemtextcolor}{black!90}
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+l.70 \DeclareOptionX
+                    {maincolor}{\colorlet{maincolor}{#1}}
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.70 \DeclareOptionX{maincolor}{\colorlet
+                                         {maincolor}{#1}}
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.70 ...eOptionX{maincolor}{\colorlet{maincolor}{#
+                                                  1}}
+? 
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+l.71 \DeclareOptionX
+                    {sidecolor}{\colorlet{sidecolor}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.71 \DeclareOptionX{sidecolor}{\colorlet
+                                         {sidecolor}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.71 ...eOptionX{sidecolor}{\colorlet{sidecolor}{#
+                                                  1}}
+? 
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+l.72 \DeclareOptionX
+                    {sectioncolor}{\colorlet{sectioncolor}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.72 \DeclareOptionX{sectioncolor}{\colorlet
+                                            {sectioncolor}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.72 ...nX{sectioncolor}{\colorlet{sectioncolor}{#
+                                                  1}}
+? 
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+l.73 \DeclareOptionX
+                    {subsectioncolor}{\colorlet{subsectioncolor}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.73 \DeclareOptionX{subsectioncolor}{\colorlet
+                                               {subsectioncolor}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.73 ...sectioncolor}{\colorlet{subsectioncolor}{#
+                                                  1}}
+? 
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+l.74 \DeclareOptionX
+                    {itemtextcolor}{\colorlet{itemtextcolor}{#1}}
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.74 \DeclareOptionX{itemtextcolor}{\colorlet
+                                             {itemtextcolor}{#1}}
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.74 ...{itemtextcolor}{\colorlet{itemtextcolor}{#
+                                                  1}}
+? 
+Missing character: There is no 1 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 56--75
+[]
+ []
+
+\sidebarwidth=\skip44
+\topbottommargin=\skip45
+\leftrightmargin=\skip46
+\sidebartextwidth=\skip47
+! Undefined control sequence.
+l.86 \DeclareOptionX
+                    {sidebarwidth}{\setlength{\sidebarwidth}{#1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \DeclareOptionX{s
+                      idebarwidth}{\setlength{\sidebarwidth}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
-                   >
-l.9 \begin{document} \makefrontsidebar
-                                       \newpage \null \vfill
+                   ##
+l.86 ...idebarwidth}{\setlength{\sidebarwidth}{#1}
+                                                  }
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
-                   >
-l.9 \begin{document} \makefrontsidebar
-                                       \newpage \null \vfill
+                   ##
+l.86 ...idebarwidth}{\setlength{\sidebarwidth}{#1}
+                                                  }
 ? 
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <24.88> not avail
-able
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 9.
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.86 ...idebarwidth}{\setlength{\sidebarwidth}{#1}
+                                                  }
+? 
 
-Overfull \hbox (0.81389pt too wide) in paragraph at lines 9--9
-[]\T1/ClearSans-TLF/regular/n/24.88 Benjamin Juarez[] 
- []
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.86 ...idebarwidth}{\setlength{\sidebarwidth}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
 
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not availa
-ble
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <14.4> not availa
-ble
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
- line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <17.28> not avail
-able
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
- line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <10> not availabl
-e
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input
- line 9.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msa.cfg)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd)
-(./bj/bio.tex
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not avail
-able
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 5.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 5.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
-
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 34.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 34.
-
-Overfull \hbox (0.56691pt too wide) in paragraph at lines 34--35
-\T1/ClearSans-TLF/regular/n/10 (-20) a pro-fes-sional ed-i-tor that com-piles. 
-There
- []
-
-) (./bj/tech.tex
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...idebarwidth}{\setlength{\sidebarwidth}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.86 ...debarwidth}{\setlength{\sidebarwidth}{#1}}
+                                                  
+? 
 ! Undefined control sequence.
-l.1 \tech
-         {
+l.87 \DeclareOptionX
+                    {topbottommargin}{\setlength{\topbottommargin}{#1}}
+? 
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.87 ...ommargin}{\setlength{\topbottommargin}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.87 ...ommargin}{\setlength{\topbottommargin}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.87 ...ommargin}{\setlength{\topbottommargin}{#1}
+                                                  }
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.87 ...ommargin}{\setlength{\topbottommargin}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
 
- []
-
-) (./bj/language.tex
-LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on in
-put line 28.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
-File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearS
-ans-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not availab
-le
-(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on i
-nput line 28.
-LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 28.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `ClearSans-TLF' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-
- []
-
-) (./bj/1-short-bio.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-
- []
-
-) (./bj/2-work.tex
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
-
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 19.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 19.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <8> not availabl
-e
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on i
-nput line 50.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 8.0pt on input line 50.
-) (./bj/3-education.tex
-! Misplaced alignment tab character &.
-\cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
-                                                  \parbox [t]{0.81\textwidth...
-l.11         }
-              
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...ommargin}{\setlength{\topbottommargin}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.87 ...mmargin}{\setlength{\topbottommargin}{#1}}
+                                                  
+? 
+! Undefined control sequence.
+l.88 \DeclareOptionX
+                    {leftrightmargin}{\setlength{\leftrightmargin}{#1}}
+? 
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.88 ...htmargin}{\setlength{\leftrightmargin}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.88 ...htmargin}{\setlength{\leftrightmargin}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.88 ...htmargin}{\setlength{\leftrightmargin}{#1}
+                                                  }
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.88 ...htmargin}{\setlength{\leftrightmargin}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
 
- []
-
-! Misplaced alignment tab character &.
-\cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
-                                                  \parbox [t]{0.81\textwidth...
-l.30 	  }
-         
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...htmargin}{\setlength{\leftrightmargin}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.88 ...tmargin}{\setlength{\leftrightmargin}{#1}}
+                                                  
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--89
+[]
  []
 
-) (./bj/4-projects.tex
+\profilepicsize=\skip48
+! Undefined control sequence.
+l.93 \DeclareOptionX
+                    {profilepicsize}{\setlength{\profilepicsize}{#1}}
+? 
 
-! LaTeX Error: Environment twenty undefined.
+! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 \begin{twenty}
-                   
+l.93 \DeclareOptionX{p
+                      rofilepicsize}{\setlength{\profilepicsize}{#1}}
 ? 
-! Misplaced alignment tab character &.
-\cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
-                                                  \parbox [t]{0.81\textwidth...
-l.13 ...r de la Fundación Desarrollo Sostenible}}
-                                                  
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.93 ...lepicsize}{\setlength{\profilepicsize}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.93 ...lepicsize}{\setlength{\profilepicsize}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.93 ...lepicsize}{\setlength{\profilepicsize}{#1}
+                                                  }
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-! Misplaced alignment tab character &.
-\cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
-                                                  \parbox [t]{0.81\textwidth...
-l.20 	  }
-         
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.93 ...lepicsize}{\setlength{\profilepicsize}{#1}
+                                                  }
 ? 
+! Package calc Error: `##' invalid at this point.
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-! LaTeX Error: \begin{document} ended by \end{twenty}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
+See the calc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 \end{twenty}
+l.93 ...lepicsize}{\setlength{\profilepicsize}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.93 ...epicsize}{\setlength{\profilepicsize}{#1}}
+                                                  
+? 
+! Undefined control sequence.
+l.96 \DeclareOptionX
+                    {profilepicborderwidth}{\setlength{\profilepicborderwidt...
+
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.96 ...th}{\setlength{\profilepicborderwidth}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.96 ...th}{\setlength{\profilepicborderwidth}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.96 ...th}{\setlength{\profilepicborderwidth}{#1}
+                                                  }
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.96 ...th}{\setlength{\profilepicborderwidth}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 ...th}{\setlength{\profilepicborderwidth}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Undefined control sequence.
+<argument> \profilepicborderwidth 
+                                  
+l.96 ...th}{\setlength{\profilepicborderwidth}{#1}
+                                                  }
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.96 ...h}{\setlength{\profilepicborderwidth}{#1}}
+                                                  
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.96 ...h}{\setlength{\profilepicborderwidth}{#1}}
+                                                  
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
                  
+l.96 ...h}{\setlength{\profilepicborderwidth}{#1}}
+                                                  
 ? 
-) [1
+! Undefined control sequence.
+l.98 \DeclareOptionX
+                    {profilepicstyle}{\renewcommand{\profilepicstyle}{#1}}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Illegal parameter number in definition of \profilepicstyle.
+<to be read again> 
+                   1
+l.98 ...style}{\renewcommand{\profilepicstyle}{#1}
+                                                  }
+? 
+! Undefined control sequence.
+l.100 \DeclareOptionX
+                     {profilepiczoom}{\renewcommand{\profilepiczoom}{#1}}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+! Illegal parameter number in definition of \profilepiczoom.
+<to be read again> 
+                   1
+l.100 ...czoom}{\renewcommand{\profilepiczoom}{#1}
+                                                  }
+? 
+\profilepicxshift=\skip49
+! Undefined control sequence.
+l.103 \DeclareOptionX
+                     {profilepicxshift}{\setlength{\profilepicxshift}{#1}}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.103 ...xshift}{\setlength{\profilepicxshift}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.103 ...xshift}{\setlength{\profilepicxshift}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.103 ...xshift}{\setlength{\profilepicxshift}{#1}
+                                                  }
+? 
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pics/
-profile.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
- (./juarez-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
-Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 34A873CF30F24336D4ADEDA9BF6B1D8F;55.
- ) 
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.103 ...xshift}{\setlength{\profilepicxshift}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ...xshift}{\setlength{\profilepicxshift}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.103 ...shift}{\setlength{\profilepicxshift}{#1}}
+                                                  
+? 
+\profilepicyshift=\skip50
+! Undefined control sequence.
+l.106 \DeclareOptionX
+                     {profilepicyshift}{\setlength{\profilepicyshift}{#1}}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.106 ...yshift}{\setlength{\profilepicyshift}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.106 ...yshift}{\setlength{\profilepicyshift}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.106 ...yshift}{\setlength{\profilepicyshift}{#1}
+                                                  }
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.106 ...yshift}{\setlength{\profilepicyshift}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...yshift}{\setlength{\profilepicyshift}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.106 ...shift}{\setlength{\profilepicyshift}{#1}}
+                                                  
+? 
+\profilepicrounding=\skip51
+! Undefined control sequence.
+l.109 \DeclareOptionX
+                     {profilepicrounding}{\setlength{\profilepicrounding}{#1}}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.109 ...ding}{\setlength{\profilepicrounding}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.109 ...ding}{\setlength{\profilepicrounding}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.109 ...ding}{\setlength{\profilepicrounding}{#1}
+                                                  }
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.109 ...ding}{\setlength{\profilepicrounding}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 ...ding}{\setlength{\profilepicrounding}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.109 ...ing}{\setlength{\profilepicrounding}{#1}}
+                                                  
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 93--110
+[]
+ []
+
+! Undefined control sequence.
+l.113 \DeclareOptionX
+                     {sidebarplacement}{\renewcommand{\sidebarplacement}{#1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 \DeclareOptionX{s
+                       idebarplacement}{\renewcommand{\sidebarplacement}{#1}}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+! Illegal parameter number in definition of \sidebarplacement.
+<to be read again> 
+                   1
+l.113 ...ent}{\renewcommand{\sidebarplacement}{#1}
+                                                  }
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 113--114
+[] 
+ []
+
+\logowidth=\skip52
+! Undefined control sequence.
+l.118 \DeclareOptionX
+                     {logowidth}{\setlength{\logowidth}{#1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \DeclareOptionX{l
+                       ogowidth}{\setlength{\logowidth}{#1}}
+? 
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.118 ...onX{logowidth}{\setlength{\logowidth}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.118 ...onX{logowidth}{\setlength{\logowidth}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.118 ...onX{logowidth}{\setlength{\logowidth}{#1}
+                                                  }
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.118 ...onX{logowidth}{\setlength{\logowidth}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...onX{logowidth}{\setlength{\logowidth}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.118 ...nX{logowidth}{\setlength{\logowidth}{#1}}
+                                                  
+? 
+\logospace=\skip53
+! Undefined control sequence.
+l.120 \DeclareOptionX
+                     {logospace}{\setlength{\logospace}{#1}}
+? 
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.120 ...onX{logospace}{\setlength{\logospace}{#1}
+                                                  }
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.120 ...onX{logospace}{\setlength{\logospace}{#1}
+                                                  }
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.120 ...onX{logospace}{\setlength{\logospace}{#1}
+                                                  }
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.120 ...onX{logospace}{\setlength{\logospace}{#1}
+                                                  }
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 ...onX{logospace}{\setlength{\logospace}{#1}
+                                                  }
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ! in font nullfont!
+! Extra }, or forgotten \endgroup.
+l.120 ...nX{logospace}{\setlength{\logospace}{#1}}
+                                                  
+? 
+! Undefined control sequence.
+l.122 \DeclareOptionX
+                     {logoposition}{\renewcommand{\logoposition}{#1}}
+? 
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Illegal parameter number in definition of \logoposition.
+<to be read again> 
+                   1
+l.122 ...osition}{\renewcommand{\logoposition}{#1}
+                                                  }
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 118--123
+[]
+ []
+
+! Undefined control sequence.
+l.125 \newtoggle
+                {tshowframes}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 \newtoggle{t
+                  showframes}
+? 
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+! Undefined control sequence.
+l.126 \togglefalse
+                  {tshowframes}
+? 
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+! Undefined control sequence.
+l.127 \DeclareOptionX
+                     {showframes}{
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+! Undefined control sequence.
+l.129 	\TPoptions
+                 {showboxes=true}
+? 
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+! Undefined control sequence.
+l.130 	\toggletrue
+                  {tshowframes}
+? 
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 125--134
+[]
+ []
+
+! Undefined control sequence.
+l.137 \DeclareOptionX
+                     {vline}{%
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 \DeclareOptionX{v
+                       line}{%
+? 
+Missing character: There is no v in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+! Illegal parameter number in definition of \plotvline.
+<to be read again> 
+                   1
+l.143 	}
+        
+? 
+! Illegal parameter number in definition of \plotvline.
+<to be read again> 
+                   1
+l.143 	}
+        
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 137--145
+[]
+ []
+
+! Undefined control sequence.
+l.147 \DeclareOptionX
+                     *{\PassOptionsToClass{\CurrentOption}{article}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147 \DeclareOptionX*
+                      {\PassOptionsToClass{\CurrentOption}{article}}
+? 
+Missing character: There is no * in font nullfont!
+! Undefined control sequence.
+\CurrentOption ->\@nil 
+                       
+l.147 ...ssOptionsToClass{\CurrentOption}{article}
+                                                  }
+? 
+! Undefined control sequence.
+l.148 \ProcessOptionsX
+                      \relax
+? 
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 147--274
+[]
+ []
+
+\c@figure=\count92
+\c@table=\count93
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\bibindent=\dimen112
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+
+! LaTeX Error: File `eso-pic.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Unknown option `texcoord' for package `eso-pic'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 
+      
+? 
+
+! LaTeX Error: File `titlesec.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `graphbox.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen113
+\ar@mcellbox=\box27
+\extrarowheight=\dimen114
+\NC@list=\toks16
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box28
+)
+\TX@col@width=\dimen115
+\TX@old@table=\dimen116
+\TX@old@col=\dimen117
+\TX@target=\dimen118
+\TX@delta=\dimen119
+\TX@cols=\count94
+\TX@ftn=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+
+! LaTeX Error: File `fontawesome.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `tikz.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Undefined control sequence.
+<recently read> \usetikzlibrary 
+                                
+l.211 \usetikzlibrary
+                     {arrows, backgrounds}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 \usetikzlibrary{a
+                       rrows, backgrounds}
+? 
+
+! LaTeX Error: File `xhfill.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `xparse.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen120
+\Hy@linkcounter=\count95
+\Hy@pagecounter=\count96
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count97
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count98
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen121
+\Fld@menulength=\count99
+\Field@Width=\dimen122
+\Fld@charsize=\dimen123
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count100
+\c@Item=\count101
+\c@Hfootnote=\count102
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count103
+\c@bookmark@seq@number=\count104
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip58
+)
+! Undefined control sequence.
+l.227 \colorlet
+               {pseccolor}{maincolor!90}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 \colorlet{p
+                 seccolor}{maincolor!90}
+? 
+! Undefined control sequence.
+l.229 \colorlet
+               {iconcolor}{maincolor!90}
+? 
+! Undefined control sequence.
+l.232 \colorlet
+               {wheelchartlabelcolor}{black}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 \colorlet{w
+                 heelchartlabelcolor}{black}
+? 
+! Undefined control sequence.
+l.233 \colorlet
+               {wheeltextcolor}{black!80!white}
+? 
+! Undefined control sequence.
+l.235 \colorlet
+               {skillbg}{black!25}
+? 
+! Undefined control sequence.
+l.257 \titleformat
+                  {\section}%
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 \titleformat{\section
+                           }%
+? 
+! Argument of \@xdblarg has an extra }.
+<inserted text> 
+                \par 
+l.257 \titleformat{\section}
+                            %
+? 
+Runaway argument?
+! Paragraph ended before \@xdblarg was complete.
+<to be read again> 
+                   \par 
+l.257 \titleformat{\section}
+                            %
+? 
+! Undefined control sequence.
+l.258 	{\color
+              {sectioncolor}\normalfont\bfseries\LARGE}{}{0pt}{}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 	{\color{s
+                ectioncolor}\normalfont\bfseries\LARGE}{}{0pt}{}
+? 
+! Undefined control sequence.
+l.259 \titlespacing
+                   *{\section}{0pt}{1.5ex}{1ex}
+? 
+! Argument of \@xdblarg has an extra }.
+<inserted text> 
+                \par 
+l.259 \titlespacing*{\section}
+                              {0pt}{1.5ex}{1ex}
+? 
+Runaway argument?
+! Paragraph ended before \@xdblarg was complete.
+<to be read again> 
+                   \par 
+l.259 \titlespacing*{\section}
+                              {0pt}{1.5ex}{1ex}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.259 \titlespacing*{\section}{0
+                                pt}{1.5ex}{1ex}
+? 
+! Undefined control sequence.
+l.263 \titleformat
+                  {\subsection}%
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.263 \titleformat{\subsection
+                              }%
+? 
+! Argument of \@xdblarg has an extra }.
+<inserted text> 
+                \par 
+l.263 \titleformat{\subsection}
+                               %
+? 
+Runaway argument?
+! Paragraph ended before \@xdblarg was complete.
+<to be read again> 
+                   \par 
+l.263 \titleformat{\subsection}
+                               %
+? 
+! Undefined control sequence.
+l.264 	{\color
+              {subsectioncolor}\normalfont\large}{}{0pt}{}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.264 	{\color{s
+                ubsectioncolor}\normalfont\large}{}{0pt}{}
+? 
+! Undefined control sequence.
+l.268 \titleformat
+                  {\subsubsection}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 \titleformat{\subsubsection
+                                 }
+? 
+! Argument of \@xdblarg has an extra }.
+<inserted text> 
+                \par 
+l.268 \titleformat{\subsubsection}
+                                  
+? 
+Runaway argument?
+! Paragraph ended before \@xdblarg was complete.
+<to be read again> 
+                   \par 
+l.268 \titleformat{\subsubsection}
+                                  
+? 
+! Undefined control sequence.
+l.269 	{\color
+              {pseccolor}\normalfont\huge}{}{0pt}{\color{pseccolor}\sectionl...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.269 	{\color{p
+                seccolor}\normalfont\huge}{}{0pt}{\color{pseccolor}\sectionl...
+
+? 
+! Undefined control sequence.
+l.269 ...pseccolor}\normalfont\huge}{}{0pt}{\color
+                                                  {pseccolor}\sectionline}
+? 
+! Argument of \sectionline has an extra }.
+<inserted text> 
+                \par 
+l.269 ...ge}{}{0pt}{\color{pseccolor}\sectionline}
+                                                  
+? 
+Runaway argument?
+! Paragraph ended before \sectionline was complete.
+<to be read again> 
+                   \par 
+l.269 ...ge}{}{0pt}{\color{pseccolor}\sectionline}
+                                                  
+? 
+! Undefined control sequence.
+l.272 \titlespacing
+                   *{\subsubsection}{0pt}{1ex}{1ex}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 \titlespacing*
+                    {\subsubsection}{0pt}{1ex}{1ex}
+? 
+! Argument of \@xdblarg has an extra }.
+<inserted text> 
+                \par 
+l.272 \titlespacing*{\subsubsection}
+                                    {0pt}{1ex}{1ex}
+? 
+Runaway argument?
+! Paragraph ended before \@xdblarg was complete.
+<to be read again> 
+                   \par 
+l.272 \titlespacing*{\subsubsection}
+                                    {0pt}{1ex}{1ex}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 \titlespacing*{\subsubsection}{0
+                                      pt}{1ex}{1ex}
+? 
+! Undefined control sequence.
+l.450 \NewDocumentCommand
+                         {\pointskill}{ O{0em} m m m O{5} }{%
+? 
+! Undefined control sequence.
+l.450 \NewDocumentCommand{\pointskill
+                                     }{ O{0em} m m m O{5} }{%
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.450 \NewDocumentCommand{\pointskill}{ O
+                                         {0em} m m m O{5} }{%
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.451 	\hspace{#1}
+                   \cvicon{#2} ~ #3 \hfill%
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.451 	\hspace{#1}
+                   \cvicon{#2} ~ #3 \hfill%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.451 	\hspace{#1}
+                   \cvicon{#2} ~ #3 \hfill%
+? 
+! Undefined control sequence.
+<argument> \color 
+                  {iconcolor} ##2
+l.451 	\hspace{#1} \cvicon{#2}
+                               ~ #3 \hfill%
+? 
+! You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> \color {iconcolor} ##
+                                2
+l.451 	\hspace{#1} \cvicon{#2}
+                               ~ #3 \hfill%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.451 	\hspace{#1} \cvicon{#2} ~ #
+                                  3 \hfill%
+? 
+! Interruption.
+<to be read again> 
+                   3
+l.451 	\hspace{#1} \cvicon{#2} ~ #3
+                                    \hfill%
+? ^^[[B
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+H for help, X to quit.
+? x
+ 
 Here is how much of TeX's memory you used:
- 25149 strings out of 480608
- 479037 string characters out of 5903630
- 811000 words of memory out of 5000000
- 40432 multiletter control sequences out of 15000+600000
- 594367 words of font info for 75 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 68i,15n,78p,1039b,893s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.
-enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.en
-c}</usr/local/texlive/2020/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bol
-d.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/intel/clearsans/ClearSans
--Italic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/intel/clearsans/Cle
-arSans-Regular.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fonta
-wesome/FontAwesome.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb>
-Output written on juarez-cv.pdf (1 page, 2317970 bytes).
+ 4846 strings out of 494561
+ 71915 string characters out of 6177455
+ 164124 words of memory out of 5000000
+ 8513 multiletter control sequences out of 15000+600000
+ 4852 words of font info for 18 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 35i,4n,23p,206b,4246s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on juarez-cv.pdf (1 page, 8175 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 12422 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
