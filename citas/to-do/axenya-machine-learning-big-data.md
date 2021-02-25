@@ -10,8 +10,10 @@ taken chess to a completely different level.   Nowadays, a chess player
 that didn't take advantage of this technology would simply not be able
 to compete.
 
+Copyright 2020 Axenya Holdings Inc.  
+12200 Montevideo, Uruguay  
+Sep 9, 2020 /White papers  
 
-Sep 9, 2020 /White papers
 :::
 
 The long and winding road
@@ -19,6 +21,8 @@ The long and winding road
 
 **Reimagining the chronic disease patient journey ** {#reimagining-the-chronic-disease-patient-journey style="text-align: justify; margin: 0in;"}
 ====================================================
+
+******
 
 ###  {#section style="text-align: justify;"}
 
