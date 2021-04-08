@@ -1,20 +1,28 @@
+---
+title: "old ideas coming back to life"
+author: venhamon
+date: April 7, 2021
+geometry: margin=1.8cm
+output: pdf_document
+---
+
+\thispagestyle{empty}
+
+
 **USAIN BOLT**\
 **MO FARAH**\
 OCR \[obstacle course racing\]
 **ROB KRAR**\
-> Krar has combated his own challenge en route to winning Western States the past two years and the Leadville Leadville Trail 100-miler in Colorado last year: depression. He’s produced a short film where he’s opened up. “He’s gone public with it,” says ultrarunning legend Dean Karnazes, “and in the process has inspired and given hope to legions of others dealing with mental health issues.”
-**SCOTT JUREK**\
-**MEB KEFLEZIGHI**\
-**JOAN BENOIT SAMUELSON**\
+> Krar has combated his own challenge en route to winning Western States the past two years and the Leadville Leadville Trail 100-miler in Colorado last year: depression. He’s produced a short film where he’s opened up. “He’s gone public with it,” says ultrarunning legend Dean Karnazes, “and in the process has inspired and given hope to legions of others dealing with mental health issues.”  
+**SCOTT JUREK**\  
+**MEB KEFLEZIGHI**\  
+**JOAN BENOIT SAMUELSON**\  
 
 **DAVID EPSTEIN**\
 **JEFF GALLOWAY**\ 70, Atlanta\ Olympian, Inventor of the Galloway **Run-Walk-Run Method**; *Runner’s World* columnist\ Influence: Social Media Savvy, Elite Athlete, Expert
 
 > *He’s known as “America’s Coach,” and with good reason. Once one of the nation’s fastest runners—a 1972 Olympian in the 10K who trained alongside the likes of Steve Prefontaine, Frank Shorter, and Bill Rodgers—he brought the sport to the masses by slowing things down for beginners. “He is personally responsible for inspiring thousands of people to participate in road races doing his method of run/walking,” says Boston Marathon Race Director Dave McGillivray. Adds women’s running pioneer Kathrine Switzer: “By making running—and marathons—achievable for everyone, he has transformed cities and charities and people.” Galloway is also a motivational speaker, a race founder, a specialist retailer, an online coach, a technology innovator…the list goes on and on. Concludes running historian Roger Robinson: “His influence on the sport is incalculable.”*
 
-
-[![DMSE Sports](//static1.squarespace.com/static/59022d5215d5dbf07ea47ecd/t/590234f937c5815401d78c08/1528988731453/?format=1500w)](/) 
-=====================================================================================================================================
 
 ### The 50 Most Influential People in Running
 
