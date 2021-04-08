@@ -1,24 +1,34 @@
+---
+title: "old ideas coming back to life"
+author: venhamon
+date: April 7, 2021
+geometry: margin=1.8cm
+output: pdf_document
+---
+
+\thispagestyle{empty}
+
 ### JUST GROK
 # colectivo intempestivo
 1. Eusebio Sanoj. _Exhalacianes_ [ediciones inextricables]
-2. Benjamín Juárez (compilador). _Inspiraciones | Autores Varios_ [ediciones invisibles]
+2. Benjamín Juárez (compilador). _Inspiraciones | AAVV_ [ediciones invisibles]
 3. Fred Rohé. _Zen of Running_ [ediciones inmóviles]
-4. Anataliy Protopopov. _Tratado Sobre el Amor | Como lo Entiende Una Persona Terriblemente Aburrida_ [ediciones intratables] 
-5. Hammersley, Martyn y Atkinson, Paul. _Etnografía | Métodos de Investigación_ [ediciones imperturbables]
-6. Moore, Alan; Williams III, J. H. & Gray, Mick. _Promethea_ [ediciones imposibles]
-7. Chase, Alston. _Playing God in Yellowstone: The Destruction of America's First National Park_ [edición STS]
+4. Anataliy Protopopov. _Tratado Sobre el Amor_ [ediciones intratables] 
+5. Hammersley, Martyn y Atkinson, Paul. _Etnografía_ [ediciones imperturbables]
+6. Moore, A.; Williams III, J. H. & Gray, M.. _Promethea_ [ediciones imposibles]
+7. Chase, Alston. _Playing God in Yellowstone_ [edición STS]
 8. Sociological Fictions | (So-Fi) [ediciones incongruentes]
-9. Strum, Shirley. _Almost Human | A Journey into the World of Baboons_ [ediciones inhumanas]
-10. Heinich, Nathalie. _The glory of Van Gogh | An Anthropology of Admiration_ [ediciones impostergables]
+9. Strum, Shirley. _Almost Human_ [ediciones inhumanas]
+10. Heinich, Nathalie. _The glory of Van Gogh_ [ediciones impostergables]
 11. Design. [ediciones imparciales]
 	- Robert Bringhurst | _The Elements of Typographic Style_
 	- Eric Gill | _An Essay on Typography_
-	- Taschen | _Type: A Visual History of Typefaces and Graphic Styles, Vol. 1_
-12. Carnegie, Dale. _Cómo ganar amigos e influir sobre las personas_ [ediciones imponentes]
-13. Toulmin, Stephen. _Cosmopolis | The Hidden Agenda of Modernity_ [ediciones inseguras]
+	- Taschen | _Type: A Visual History of Typefaces and Graphic Styles_
+12. Carnegie, Dale. _Cómo ganar amigos e influir_ [ediciones imponentes]
+13. Toulmin, Stephen. _Cosmopolis | The Hidden Agenda_ [ediciones inseguras]
 14. Gould, Stephen Jay. _La vie est belle_ [ediciones inconvenientes]
 15. Lévi-Straus, Claude. _La Pensée sauvage_ [ediciones innecesarias]
-16. KondoMarie. _La magia del orden: Herramientas para ordenar tu casa... ¡Y tu vida!_ [ediciones incansables]
+16. KondoMarie. _La magia del orden_ [ediciones incansables]
 
 - Lástima | Matta
 - Sordos | Heredia
