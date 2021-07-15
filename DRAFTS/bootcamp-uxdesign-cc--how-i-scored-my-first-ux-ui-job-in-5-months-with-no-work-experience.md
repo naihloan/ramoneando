@@ -1,19 +1,7 @@
-How I scored my first UX/UI job in 5 months with no work experience \|
-by Ewelina Adamczak \| May, 2021 \| Bootcamp
+# How I scored my first UX/UI job in 5 months with no work experience \|
 
-Ewelina Adamczak
+### by Ewelina Adamczak \| May, 2021 \| Bootcamp
 
-# []{#anchor}
-
-# []{#anchor}[]{#anchor-1}How I scored my first UX/UI job in 5 months with no work experience
-
-[Ewelina
-Adamczak](https://ewelinkafl58.medium.com/?source=post_page-----f0db8b176b70--------------------------------)
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F5f51541bd14a&operation=register&redirect=https%3A%2F%2Fbootcamp.uxdesign.cc%2Fhow-i-scored-my-first-ux-ui-job-in-5-months-with-no-work-experience-f0db8b176b70&user=Ewelina%20Adamczak&userId=5f51541bd14a&source=post_page-5f51541bd14a----f0db8b176b70---------------------follow_byline-----------)
-
-[May
-12](../../../../../../how-i-scored-my-first-ux-ui-job-in-5-months-with-no-work-experience-f0db8b176b70%3Fsource=post_page-----f0db8b176b70--------------------------------)
 · 7 min read
 
 # []{#anchor}[]{#anchor-2}No work experience? No degree? No problem!
@@ -62,8 +50,6 @@ on the web to get you started. Here are a few I highly recommend:
 4.  []{#anchor-6}[Nielsen Norman
     Group](https://www.nngroup.com/articles/) --- for all things UX,
     from research to user testing.
-
-> nooice
 
 Never underestimate the potential of free resources, as they can get you
 far as long as you commit to your learning.
