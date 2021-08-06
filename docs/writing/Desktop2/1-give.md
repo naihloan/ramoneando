@@ -1,12 +1,3 @@
-1. Prestar atención
-    + Siempre demuestro interés a mi esposa. Normalmente dejo lo que hago para escuchar.
-2. Reflexioná
-    + "Te extraño" me escribe por msj a la tarde en el horario en que hago transcripción. Le pregunto si quiere que vaya a verla para tomar la leche. Y dice que no hace falta, que solamente era un saludo. Puedo seguir con lo mío.
-3. Leé lo no dicho. Mi hermano mayor Marcos me manda un dato de una camioneta para food truck. Le pregunto: te gustaría que lo hagamos me decís?
-4. Entendé.
-5. Reconocé lo válido.
-6. Demostrá igualdad.
-
 MAÑANA MARTES talleres Libres y gratuitos:
 
  14 a 18hs 
