@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  2 AUG 2021 20:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  29 SEP 2021 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1490,8 +1490,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
 (./juarez-cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
-Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 34A873CF30F24336D4ADEDA9BF6B1D8F;55.
+
+
+Package rerunfilecheck Warning: File `juarez-cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `juarez-cv.out':
+(rerunfilecheck)             Before: CC3FBE505A1D468803669B3EC7E2F71A;59
+(rerunfilecheck)             After:  34A873CF30F24336D4ADEDA9BF6B1D8F;55.
  ) 
 Here is how much of TeX's memory you used:
  33943 strings out of 492615
@@ -1509,7 +1516,7 @@ xlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on juarez-cv.pdf (1 page, 2318187 bytes).
+Output written on juarez-cv.pdf (1 page, 2318194 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
