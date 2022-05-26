@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  25 MAY 2022 22:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  26 MAY 2022 00:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1322,11 +1322,6 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 10.
-
-Overfull \hbox (0.81389pt too wide) in paragraph at lines 10--10
-[]\T1/ClearSans-LF/m/n/24.88 Benjamin Juarez[] 
- []
-
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 10.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
@@ -1501,7 +1496,7 @@ Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 Here is how much of TeX's memory you used:
  33925 strings out of 492615
  644495 string characters out of 6131390
- 766169 words of memory out of 5000000
+ 766164 words of memory out of 5000000
  37257 multiletter control sequences out of 15000+600000
  594112 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1514,7 +1509,7 @@ xlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
-Output written on juarez-cv.pdf (1 page, 2317423 bytes).
+Output written on juarez-cv.pdf (1 page, 2317421 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
