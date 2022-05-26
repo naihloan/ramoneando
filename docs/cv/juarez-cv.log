@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  23 MAR 2022 18:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  25 MAY 2022 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1143,36 +1143,36 @@ ommands.code.tex)) (./bj/bilingual.tex)) (./bj/personal-info.tex)
 (./bj/sidebar-1st.tex) (./juarez-cv.aux)
 \openout1 = `juarez-cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Try loading font information for T1+ClearSans-LF on input l
-ine 9.
+ine 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/clearsans/T1ClearSans-LF.fd
 File: T1ClearSans-LF.fd 2014/03/14 (autoinst) Font definitions for T1/ClearSans
 -LF.
 )
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
+(Font)              scaled to size 10.0pt on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1240,7 +1240,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box67
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 10.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1249,15 +1249,15 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count318
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
 
 (./juarez-cv.out) (./juarez-cv.out)
 \@outlinefile=\write4
 \openout4 = `juarez-cv.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 9.
+LaTeX Info: Redefining \microtypecontext on input line 10.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1272,27 +1272,27 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 9.
+LaTeX Info: Redefining \selectfont on input line 10.
 
 
 Package fmtcount Warning: Setting `\languagename' to `spanish'.
 (fmtcount)                Reason is that `\languagename' was `english',
 (fmtcount)                but `english' was not loaded by fmtcount,
 (fmtcount)                whereas `spanish' was the last language loaded by fmt
-count ;  on input line 9.
+count ;  on input line 10.
 
 \c@mv@tabular=\count319
 \c@mv@boldtabular=\count320
 <pics/profile.png, id=34, 1500.60625pt x 1500.60625pt>
 File: pics/profile.png Graphic file (type png)
 <use pics/profile.png>
-Package pdftex.def Info: pics/profile.png  used on input line 9.
+Package pdftex.def Info: pics/profile.png  used on input line 10.
 (pdftex.def)             Requested size: 142.20471pt x 142.19272pt.
 ! Undefined control sequence.
 \profileroundedcorners ... \profilepicborderwidth 
                                                   > 0pt \begin {scope} \draw...
-l.9 \begin{document} \makefrontsidebar
-                                       \newpage \null \vfill
+l.10 \begin{document} \makefrontsidebar
+                                        \newpage \null \vfill
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1302,8 +1302,8 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    >
-l.9 \begin{document} \makefrontsidebar
-                                       \newpage \null \vfill
+l.10 \begin{document} \makefrontsidebar
+                                        \newpage \null \vfill
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -1311,8 +1311,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    >
-l.9 \begin{document} \makefrontsidebar
-                                       \newpage \null \vfill
+l.10 \begin{document} \makefrontsidebar
+                                        \newpage \null \vfill
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -1321,20 +1321,20 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 9.
+(Font)              scaled to size 24.88pt on input line 10.
 
-Overfull \hbox (0.81389pt too wide) in paragraph at lines 9--9
+Overfull \hbox (0.81389pt too wide) in paragraph at lines 10--10
 []\T1/ClearSans-LF/m/n/24.88 Benjamin Juarez[] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 9.
+(Font)              scaled to size 14.4pt on input line 10.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 9.
+(Font)              scaled to size 14.4pt on input line 10.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 9.
+(Font)              scaled to size 17.28pt on input line 10.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
+(Font)              scaled to size 10.0pt on input line 10.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
@@ -1345,28 +1345,43 @@ LaTeX Font Info:    Font shape `T1/ClearSans-LF/b/n' will be
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 5.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 39.
+(Font)              scaled to size 7.0pt on input line 41.
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
+ []
+
+) (./bj/tech.tex
+! Undefined control sequence.
+l.1 \tech
+         {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (1.50285pt too wide) in paragraph at lines 6--32
+\T1/ClearSans-LF/m/n/7 FIGMA JIRA HIVE TODOIST TRELLO AG-ILE KAN-BAN SCRUM
  []
 
 ) (./bj/language.tex
 LaTeX Font Info:    Try loading font information for TS1+ClearSans-LF on input 
-line 28.
+line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-LF.fd
 File: TS1ClearSans-LF.fd 2014/03/14 (autoinst) Font definitions for TS1/ClearSa
 ns-LF.
 )
 LaTeX Font Info:    Font shape `TS1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 28.
+(Font)              scaled to size 10.0pt on input line 36.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ClearSans-LF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
@@ -1374,7 +1389,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 28.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 73.
+(Font)              scaled to size 8.0pt on input line 59.
 ) (./bj/3-education.tex
 ! Misplaced alignment tab character &.
 \cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
@@ -1474,21 +1489,21 @@ or  <return>  to continue without it.
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pics/profile.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
 
 (./juarez-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
 Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33937 strings out of 492615
- 644761 string characters out of 6131390
- 766138 words of memory out of 5000000
+ 33925 strings out of 492615
+ 644495 string characters out of 6131390
+ 766169 words of memory out of 5000000
  37257 multiletter control sequences out of 15000+600000
- 595212 words of font info for 81 fonts, out of 8000000 for 9000
+ 594112 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,15n,74p,1039b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{/usr
@@ -1497,11 +1512,12 @@ share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/t
 exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on juarez-cv.pdf (1 page, 2309422 bytes).
+/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+Output written on juarez-cv.pdf (1 page, 2317423 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  19582 words of extra memory for PDF output out of 20736 (max. 10000000)
 
