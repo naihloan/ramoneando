@@ -2,6 +2,20 @@
 
 \usepackage{charter} % Use the Charter font
 \usepackage{hyperref} 
+\hypersetup{%
+  colorlinks=false,% hyperlinks will be coloured
+  linkcolor=black,% hyperlink text will be green
+%   linkbordercolor=red,% hyperlink border will be red
+}
+
+% \makeatletter
+% \Hy@AtBeginDocument{%
+%   \def\@pdfborder{0 0 1}% Overrides border definition set with colorlinks=true
+%   \def\@pdfborderstyle{/S/U/W 1}% Overrides border style set with colorlinks=true
+%                                 % Hyperlink border style will be underline of width 1pt
+% }
+% \makeatother
+
 
 \usepackage[
 	a4paper, % Paper size
@@ -57,11 +71,13 @@
 \hfill
 \begin{tabular}{l @{}}
 	\today \bigskip\\ % Date
-	Benjamin Juarez [Sociologist \& System's Analyst] \\
+	Benjamin Juarez \smallskip \\
+	Profession: Sociologist \& System's Analyst \\
+%     \slink{ramoneando.com}{Here} is an \texttt{slink} to this very section \\
 % 	123 Broadway \\ % Address
 % 	City, State 12345 \\
 	Phone: \href{(+549351) 310-4043}{(+549351) 310-4043} \\
-	LinkedIn: \href{https://www.linkedin.com/in/bjpm/}{https://www.linkedin.com/in/bjpm/} \\
+	LinkedIn: \href{https://www.linkedin.com/in/bj-pm/?locale=en_US}{https://www.linkedin.com/in/bj-pm/} \\
 	Homepage: \href{http://ramoneando.com/docs/earthworms.html}{http://ramoneando.com/} \\
 	Email: \href{benjaminjuarezarlt@gmail.com}{benjaminjuarezarlt@gmail.com} \\
 	City Of Residence: Córdoba, Córdoba, Argentina
