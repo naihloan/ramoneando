@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  13 JUN 2022 09:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  16 JUN 2022 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1326,11 +1326,11 @@ count ;  on input line 12.
 
 \c@mv@tabular=\count319
 \c@mv@boldtabular=\count320
-<pics/profile.png, id=34, 1500.60625pt x 1500.60625pt>
+<pics/profile.png, id=34, 92.5056pt x 89.8557pt>
 File: pics/profile.png Graphic file (type png)
 <use pics/profile.png>
 Package pdftex.def Info: pics/profile.png  used on input line 12.
-(pdftex.def)             Requested size: 142.20471pt x 142.19272pt.
+(pdftex.def)             Requested size: 142.20471pt x 138.13824pt.
 ! Undefined control sequence.
 \profileroundedcorners ... \profilepicborderwidth 
                                                   > 0pt \begin {scope} \draw...
@@ -1399,7 +1399,7 @@ and I'll forget about whatever was undefined.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 14.
 
-Overfull \hbox (2.99503pt too wide) in paragraph at lines 16--59
+Overfull \hbox (2.99503pt too wide) in paragraph at lines 16--60
 \T1/ClearSans-LF/m/n/7 GIT C$\OML/lmm/m/it/7 ]$ \T1/ClearSans-LF/m/n/7 JAVASCRI
 PT NODE EX-PRESS KN-IME AUTH0 STATIC
  []
@@ -1545,7 +1545,7 @@ Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 Here is how much of TeX's memory you used:
  34014 strings out of 492615
  646370 string characters out of 6131390
- 766360 words of memory out of 5000000
+ 765359 words of memory out of 5000000
  37318 multiletter control sequences out of 15000+600000
  598405 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1558,7 +1558,7 @@ ts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/texlive/texmf-dist/fonts/type
 /intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/fontawesome/FontAwesome.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mmi7.pfb>
-Output written on juarez-cv.pdf (1 page, 2307435 bytes).
+Output written on juarez-cv.pdf (1 page, 411642 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
