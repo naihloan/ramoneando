@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  25 JUN 2022 18:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  26 JUN 2022 18:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1537,11 +1537,11 @@ Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34014 strings out of 492615
- 646372 string characters out of 6131390
- 766671 words of memory out of 5000000
+ 34020 strings out of 492615
+ 646489 string characters out of 6131390
+ 766722 words of memory out of 5000000
  37318 multiletter control sequences out of 15000+600000
- 598405 words of font info for 75 fonts, out of 8000000 for 9000
+ 598845 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,15n,74p,1039b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texlive/texmf-
@@ -1552,7 +1552,7 @@ ts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/texlive/texmf-dist/fonts/type
 /intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/fontawesome/FontAwesome.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mmi7.pfb>
-Output written on juarez-cv.pdf (1 page, 414219 bytes).
+Output written on juarez-cv.pdf (1 page, 414090 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
