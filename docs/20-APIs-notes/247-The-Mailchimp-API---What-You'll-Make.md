@@ -1,8 +1,12 @@
 # 247 The Mailchimp API - What You'll Make
 
+## New Project
+
 Hi guys.  Welcome back.  This is Angela from The App Brewery, and it's a new day, which means that it's time for a new project.  So in the coming lessons, we're going to be building something really exciting, at least I'm really excited to build it with you.
 
 So far none of our web apps that we have built have been deployed, and none of them have really been all that exciting to deploy, to be honest. But everything is going to change for the next project.
+
+### Newsletter App
 
 So the web app that we're going to be building is a newsletter app. So I'm probably signed up to far too many newsletters, but some of them are real gems, and I really enjoy reading them.
 
@@ -22,7 +26,7 @@ It gets sent to our list on MailChimp, and all of that data gets added into our 
 
 So that means now you can go ahead and send your newsletters, or your email campaigns, to your subscribers, and this list will build up as more and more people subscribe to your newsletter.
 
-## Deployed Website
+## Deployed Website (not local host)
 
 ### Heroku + MailChimp
 
@@ -32,6 +36,4 @@ And anybody can access this, because it's now on the World Wide Web.  So this is
 
 And we're going to explore how to work with their APIs, and how to post data and communicate with their server in order to send them pieces of data that we want them to hold on to.
 
-So I hope you're excited. Once you're ready,
-let’s head over to the next lesson.
-
+So I hope you're excited. Once you're ready, let’s head over to the next lesson.

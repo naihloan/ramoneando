@@ -8,7 +8,7 @@ Now in this lesson, I want to talk about how to actually put it into practice an
 
 Now, when we're talking about APIs, you will often need to think about things including endpoints, paths, parameters, and authentication. These are the four things I want to cover, and we're going to use a few APIs so I can show you what each of these things do.
 
-## APIs: Endpoints 
+## Endpoints 
 
 The first thing I want to show you is an API endpoint, and every API that interacts with a external system, like a server, will have an endpoint. So who is this in the photo? Well, it's our friend  Kanye Rest. So this is a free REST API for random Kanye West quotes.
 
@@ -50,7 +50,7 @@ So if we see this as the root of the tree, we have to add a branch. And let's sa
 
 So now it's going to give us a random programming joke, and it's a two part joke.  “Why did the functional programming developer get thrown out of school?” “Because he refused to take classes.” Well, that's a really bad joke.
 
-## APIs: Paths 
+##  Paths 
 
 ### [/sv443.net/jokeapi/v2/Programming](/sv443.net/jokeapi/v2/Programming)
 
@@ -60,7 +60,7 @@ Now remember when we were learning about Node and creating our backend, we know 
 
 Now sometimes we might want to get a piece of data from an API that is something that they can't plan for.  So, for example, if I wanted to search for a joke that contains a specific word, let's say I wanted a programming joke that contained the word ‘debugging’, well then they probably wouldn't have thought of this ahead of time.
 
-## APIs: Parameters
+##  Parameters
 
 They probably don't have a path to address this specific query, so in order to allow the API to be flexible enough to deal with custom queries like this, usually APIs allow you to provide parameters. 
 
@@ -97,7 +97,7 @@ Now that you've seen basic APIs in action, and you've seen how we can use paths 
 
 Take a look down at the documentation, see what sorts of things that we can get back from the API, and try formatting your URLs and to make some requests using your browser.
 
-## APIs: Authentication
+##  Authentication
 
 So if you wanted to get a joke that contains the word ‘arrays’, or say if you wanted to see which categories are available from the joke API, have a play around with it, and make sure that you understand what's going on here when we're typing out this long URL. Pause the video now and try to give that a go. On the next lesson, we're going to talk more about authentication and decoding some of this data that we get back. 
 

@@ -1,10 +1,20 @@
 # 241 API Authentication and Postman
 
+## Previous Lessons
+
+### Querying External Web Sites For Data
+
 Now in the last lesson, we saw how we could work with the kanye.rest API and the joke API to start querying these external web sites for pieces of data that they may have.
+
+### Using Paths And Parameters
 
 We saw how we could use paths as well as parameters to narrow down on the exact type of data that we want.  And we saw how we can make these requests using a formatted URL and putting it through our browser.
 
+#### Jokes And Quotes
+
 Now both of those web sites had very simple pieces of data, either a database of jokes or a database of Kanye West quotes.
+
+### APIs Can Limit Use, But How?
 
 Now when we come to data that's more monetizable, or allows developers to build more complex applications that might be used by hundreds or thousands of users, then these web sites have to start thinking very carefully about how to either monetize your use of their data or how to limit your use to a threshold.
 
@@ -14,24 +24,33 @@ And the way that they would do that is through authentication.
 
 So every time you make a request through the API, they have to be able to identify you as the developer, and they have to keep track of how often you're using their server to get data, and then charge you, or limit you, accordingly. 
 
+### Example: OpenWeatherMap API
+
 In order to illustrate this concept of authentication, we’re going to use the openweathermap.  org’s API.  And if you take a look in their pricing, they tell you that it's free to use their API as long as you don't make more than sixty requests per minute. So every single time we typed in this particular request to an API and we hit enter, that’s a single request. And if you make more than 60 a minute, so more than one a second, then they're going to limit any further requests.
 
-So for most developers to get started building your app or your web site, this is more than enough.  But as you start getting more users, you have more traffic, and you're probably likely to have more revenue, then these data providers will also start charging you to use their data.
+So for most developers to get started building your app or your web site, this is more than enough.  But as you start getting more users, you have more traffic, and you're probably likely to have more revenue, then these data providers will also start charging you to use their data.  But the way that we would implement authentication in any of these categories is exactly the same.  So let's see how we can use an authenticated API like this one.  So the first thing to do is to go ahead and sign up to the OpenWeatherMap, if you haven't already.
 
-But the way that we would implement authentication in any of these categories is exactly the same.  So let's see how we can use an authenticated API like this one.
-
-So the first thing to do is to go ahead and sign up to the OpenWeatherMap, if you haven't already.
+#### Create An Account And Sign In
 
 So you're going to create a new account.  And don't worry it doesn't require any credit card details or anything other than a user name and email.  Now once you've signed up then go ahead and sign into your account.
 
 And once you're signed in you should see a page that looks like this.  And up here there are a whole bunch of tabs and you want to tab over to the API key section.
 
+#### Create a New Key
+
 Now here you can create a new key if you don't see a default one here. Once you've created a key, then you're just simply going to copy this entire string, and you're going to be using it when you make any requests to the API.
 
+#### Make A Request
+
 So let's see how we can make a request to this weather API.
+
+#### Look At The Documentation
+
 Let's take a look at the API docs for getting the current weather data.
 
 Now if you read through this documentation, you'll see that there's a whole bunch of ways that you can get weather data, either querying by city name, or by a city ID, or by the geographic latitude and longitude values, and a whole lot more.
+
+#### Query By City
 
 Now let's say that I want to use the simplest, which is to query by a city name.
 
@@ -40,8 +59,12 @@ because we said the parameters start with a question mark.
 
 So the first parameter has a key of q, which probably stands for query, I would guess, and then the name of the city, and then the next parameter is the app ID, which corresponds to the API key that we've got just now when we signed up.
 
+### Overall structure of a sample API call
+
 So this, overall, is the structure of this sample API call.
 Now the reason why it’s a sample is because here they provided you a demo API key.
+
+#### Actual Endpoint
 
 Now in order to make an actual API call, we have to look at that actual endpoint, and it actually looks more like this. Instead of samples.openweathermap,
 it’s actually api.openweathermap.

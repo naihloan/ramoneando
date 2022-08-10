@@ -35,9 +35,11 @@ There’s some pretty funny ones in here if you actually read it, including the 
 
 Now, if you're interested in a bit of light hearted entertainment, there's also the HTTP status dogs, which basically uses dogs from the Internet to represent each of these codes, like 200, or 404, Not Found, 401, Unauthorized, etc., and it's pretty hilarious to look through.
 
-## Checking the status code 
+## Checking The Status Code 
 
-### Tap into the response we get back to search for data
+### Tap Into The Response We Get Back To Search For Data
+
+#### Call A Method
 
 Now, in addition to checking the status code, we can also tap into the response that we get back, and call a method called on, and search through it for some data.  Now this will correspond to the actual message body that we got back, that OpenWeatherMap has actually sent us.  So let's try to implement this method. Because our response is spelt out fully, we’ll have to tap in to response. and then we're calling the on method, and then inside the on method, we can tap into a specific moment, say when we receive some data in the response.
 
@@ -51,15 +53,23 @@ And if we copy it and put it into a hexadecimal converter, we can convert it to 
 
 And this is just simply a different way of representing that data.
 
+### Get a JSON
+
 Now what would be far more useful for us, though, is to actually get a Javascript object, and we can do that by converting the data into a Javascript object. And to do that we would need to write JSON.  parse, and this will turn a JSON in some sort of string format, say the hexadecimal, or binary, or text, and then turn it into an actual Javascript object.
 
 So inside this method I'm going to pass our data, and now let's store this inside a constant called weatherData, and let's go ahead and console.log that. And now you can see that we're able to print an entire Javascript object, so there's no strings in the keys, and everything is organized as you would any other Javascript object.
+
+#### IKEA Flat Pack Unwrapped
 
 We've basically taken our IKEA flat pack, and we've unwrapped it, and followed the instructions to recreate the 3D wardrobe, or, in our case, the 3D Javascript object using JSON.parse.
 
 Now we can also go the other direction if we wanted to.
 
+#### Object And JSON Interaction
+
 Let's say that we had an object called, I don’t know, let's just call it object, and let's give it a name, let’s put my name in it, and then maybe, and then taking this object we can use the other method from JSON, which is stringify. And when we stringify an object, it basically does the opposite.  It will go ahead and turn a Javascript object into a string.
+
+### Printing JSON
 
 So now if I print it, you can see that it's completely flat packed like this, right, taking up the minimum amount of space necessary. All our keys have become strings, but keeping all of the syntax that's required to be able to bring it back to life later on.
 
@@ -73,6 +83,8 @@ Well, because we've got basically one huge nested object, we can tap into the ob
 
 So the code for that would look like this.
 
+#### Create A Const: temp
+
 Let's create a const called temp, and then let's tap into our weatherData.  The first level that we go down is this indentation, and we get to a key called main, so weatherData.main.  And then once we're inside the main object, then our value lives inside a key called temp, so then it's .temp.
 
 So now if I log my temp, we should be getting 5.84.  So it's 5.84 degrees here in London at the moment.
@@ -83,9 +95,13 @@ If we end up with a really long JSON, sometimes it might get confusing digging t
 
 Now I want to show you a neat trick.
 
+### Copy A Path
+
 So earlier on I showed you that you can install the JSON Viewer Awesome as a free Chrome browser extension.  Once you've done that, if you head over to the API that we're calling over here, so putting this particular URL into the browser, then we get back the same data here.  And if we want to access a particular piece of data, all you have to do is click on it, hover over this icon, and then click ‘Copy path’.
 
 Now this path, if I paste it, is basically the way to navigate to the piece of information that you're interested based on the object that you have.
+
+#### Receiving An Object
 
 So the object we've got back is weatherData.  So we write weatherData. and then paste in the path, then we get hold of the temperature.  Now if I get hold of the feels_like temperature, then I can also do exactly the same thing. It becomes main.  feels_like. This is a really neat tool for us to be able to work with JSON, and I highly recommend you install it if you haven't got it already.
 

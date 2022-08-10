@@ -1,3 +1,5 @@
+\twocolumn
+
 # 239 Why Do We Need APIs
 
 Hey guys. In this module we're going to be talking all about APIs, Application Programming Interfaces.  Now it's very likely, if you spend any time on the Internet at all, you would have heard of this term crop up every so often.  So in the coming lessons of this module, we're going to explore what exactly APIs are, and what we can do with it.
@@ -72,3 +74,5 @@ Now if we think back to the Tinder example, where Tinder was getting data from F
 Now in this module we're going to focus on the types of APIs that allow us to interact with an external system, and most importantly an external server.  So we're going to get hold of some piece of data from a web site, and we're going to do that through their API, and we're going to read their documentation to see what are all the things that we can do.  And we're going to use their API as a menu of things that we can do to interact with their data.
 
 So that's a little bit on the theory of API, but in the next lesson we're going to look at how we can put it into practice. For all of that and more, I'll see you there.
+
+\onecolumn
