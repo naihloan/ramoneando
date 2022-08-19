@@ -37,12 +37,12 @@ Work
      \textperiodcentered $ $ Implementing CRM improvements and features \\
      \textperiodcentered $ $ Team leader to build an applicant tracking system (ATS) from scratch \\
      \textperiodcentered $ $ WordPress site: wireframing, picture editing, SEO improvement \\
-     \textperiodcentered $ $ Tracking product opportunities and defining new feature ideas \\
+     \textperiodcentered $ $ Tracking product opportunities and defining new feature ideas%\\
 } 
-%      \textperiodcentered $ $ Webpage overview: wireframing, picture editing, SEO improvement
 %\medskip
+%      \textperiodcentered $ $ Webpage overview: wireframing, picture editing, SEO improvement
 % \bigskip 
-% 
+
 % 
 \cvitem{2020--2021}% date
 {\textcolor{darkgray}{%
@@ -62,22 +62,42 @@ Work
 
 %
 	\cvitem{2019--2020}{\textcolor{darkgray}{%
-% 	Role
 	  \de{Desarrollador Web }%
 	  {Back End}%
+	  %
 	  \en{Web Developer}
 	  \wt{Web Developer} 
 	}}%
-% 	Company
 	{[ R{\scriptsize OSS} O{\scriptsize UTSIDE THE} B{\scriptsize OX} ]}{
+%         Working with 
+%         Agile team, %practices and roles, 
+%         \textperiodcentered $ $ content \\
         \textperiodcentered $ $ Cybersecurity: Securing authentication with proper hash storage \\
         \textperiodcentered $ $ Scrum team ceremonies to comply with agreed requirements \\        
         \textperiodcentered $ $ Building big data workflow (knime) with testing performance (e2e) \\        
         \textperiodcentered $ $ Creating CRUD components with nodejs and expressjs \\
         \textperiodcentered $ $ Deliverables on schedule for client \\
+        %complying 
+	% 	  \en{nodejs+authentication. Solo project: Knime big data SQL testing.}%: e2e + performance.
+% 	  \de{nodejs+authenticación. Proyecto mío: Knime big data SQL testing.}%: e2e + performance.
         }  
-% 
-        \cvitem{2012--2020}%
+%         \smallskip 
+%
+% 	\cvitem{2018--2019}%date
+% 	{\textcolor{darkgray}{\en{Research Assistant}\de{Etnografía Visual | Investigador} }}%description
+% 	{\en{\hfill [Project \textit{In the Name of Wild}}\de{[\textit{En Nombre de Lo Salvaje} }%location
+% 	| \en{Phillip}\de{P.} Vannini]}
+% % 	{\de{Proyecto documental mundial}\en{World Documentary Project}
+% % 	\hfill 
+% % 	{%
+% % 	[\de{Entrevistas en}\en{Interviews in} Chaltén, Santa Cruz -- Argentina ]}
+% 	{\en{Documentary Producer}\de{Productor Documental} \hfill %}
+% % 	{\en{Unesco Natural World Heritage}\de{Patrimonios Natural Unesco} \hfill %}
+% 	[U{\scriptsize NIV. OF} B{\scriptsize RITISH} C{\scriptsize OLUMBIA} -- \en{Canada}\de{Canadá}]}
+% 	 %\smallskip
+% %
+%
+	\cvitem{2012--2020}%
 	{%
 	\textcolor{darkgray}{%
     Ethnography
