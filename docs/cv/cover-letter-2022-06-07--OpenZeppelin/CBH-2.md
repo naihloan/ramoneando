@@ -15,7 +15,7 @@ Dear Veena,
 
 I am aiming for the Senior Product Manager role.
 
-This is my second application at Clipboard Health, after applying for a Product Operations Position. Upon review, I am further impressed on the company's strong remote culture, growth, overall positive energy thriving into the near future, and the company's mission. 
+This is my second application at Clipboard Health, after applying for a Product Operations Position. Upon your suggestion for this role, and over a further review of the company, I am further impressed by the strong remote culture, growth, overall positive energy thriving into the near future, and the company's mission. I'd like to join that spirit.
 
 A little about my background, and how I may fit for the role. For the past 3 years, I've been working in the tech industry with global
 teams remotely and async. First, I trained as a backend developer for a
@@ -27,7 +27,7 @@ matter experts, I valued their knowledge and the relationships they
 opened up to me, so this triggered me to aim and foster further these
 kinds of conversations.
 
-Later, in a 3rd period, I worked as a Project Manager close to the
+Later, in a another stage, I worked as a Project Manager close to the
 Development and QA teams: an interesting, challenging, and satisfactory
 role, since the team builds and sees hand-offs to the end-users thru
 quick iterations. I have grown from technical positions to more hands-on
@@ -46,7 +46,7 @@ I believe that my background as a sociologist gives me:
     Experience \[UX\] all of which I hope help to deliver great
     products, and enjoyment with final results for all parties
 
--   Combining being a detective, a scientist, with creative solutions:
+-   Combining being a detective, and a scientist, with creative solutions:
     dream job description
 
 \vspace{-\topsep}
