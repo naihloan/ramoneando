@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  11 NOV 2022 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  11 NOV 2022 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1431,7 +1431,7 @@ Overfull \hbox (2.35841pt too wide) in paragraph at lines 24--25
 
 ) (./bj/language.tex) (./bj/1-short-bio.tex) (./bj/2-work.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 39.
+(Font)              scaled to size 8.0pt on input line 30.
 )
 (./bj/3-education.tex
 ! Misplaced alignment tab character &.
@@ -1553,11 +1553,11 @@ Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34047 strings out of 492615
- 646699 string characters out of 6131390
- 771683 words of memory out of 5000000
+ 34049 strings out of 492615
+ 646735 string characters out of 6131390
+ 770239 words of memory out of 5000000
  37344 multiletter control sequences out of 15000+600000
- 604708 words of font info for 81 fonts, out of 8000000 for 9000
+ 604840 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,15n,74p,1039b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
@@ -1566,7 +1566,7 @@ share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/t
 exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on juarez-cv.pdf (1 page, 412383 bytes).
+Output written on juarez-cv.pdf (1 page, 411982 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
