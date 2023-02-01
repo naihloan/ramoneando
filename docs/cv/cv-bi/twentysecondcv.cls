@@ -159,7 +159,7 @@
 		%------------------------------------------------
 
 		\ifthenelse{\equal{\tech}{}}{}{
- 			\profilesection{Tech}
+ 			\profilesection{Tech}WillDom 
 			\begin{flushleft}
 				\tech
 			\end{flushleft}
