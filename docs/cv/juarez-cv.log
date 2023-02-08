@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  1 FEB 2023 16:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.25)  7 FEB 2023 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1417,14 +1417,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 )
 (./bj/bio.tex) (./bj/interests.tex) (./bj/1-short-bio.tex) (./bj/2-work.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 29.
 )
 (./bj/3-education.tex
 ! Misplaced alignment tab character &.
 \cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
                                                   \parbox [t]{0.81\textwidth...
-l.36         }
-              
+l.29         \en{ } }
+                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1433,14 +1433,14 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
 ! Misplaced alignment tab character &.
 \cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
                                                   \parbox [t]{0.81\textwidth...
-l.59 	  }
+l.60 	  }
          
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1450,7 +1450,24 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+! Misplaced alignment tab character &.
+\cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
+                                                  \parbox [t]{0.81\textwidth...
+l.68         \en{ } }
+                     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
@@ -1467,23 +1484,25 @@ Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34053 strings out of 492615
- 646817 string characters out of 6131390
- 769475 words of memory out of 5000000
+ 34055 strings out of 492615
+ 646850 string characters out of 6131390
+ 769615 words of memory out of 5000000
  37343 multiletter control sequences out of 15000+600000
- 605368 words of font info for 87 fonts, out of 8000000 for 9000
+ 605500 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,15n,74p,1039b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
-}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{/usr/
-share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/t
-exlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on juarez-cv.pdf (1 page, 410360 bytes).
+}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{/usr/share/texlive/texmf-dist/fon
+ts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/texlive/texmf-dist/fonts/type
+1/intel/clearsans/ClearSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/fontawesome/FontAwesome.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mmi7.pfb>
+Output written on juarez-cv.pdf (1 page, 413094 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  15998 words of extra memory for PDF output out of 17280 (max. 10000000)
 
