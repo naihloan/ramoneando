@@ -10,23 +10,70 @@
   {
   \textbf{%
   \en{%
+% 		\LARGE{S}\Large{TRATEGIC} \\
+%         \LARGE{A}\Large{SSOCIATE}  \\
 		\LARGE{P}%
 		\Large{RODUCT} 
 		\LARGE{M}%
 		\Large{ANAGER} \\%
 		\LARGE{@N}%
 		\Large{EWM}\\
+%         \LARGE{A}\Large{NALYST} %\\
+%         \LARGE{S}\Large{R.} %\\
   }% \en
+%             \LARGE{C}\Large{USTOMER} 
+%             \LARGE{E}\Large{XPERIENCE}
+%      } %\textbf
+%  } % \textcolor
+% }% \cvjobtitle
+% \cvjobtitle{%aloha
+%  \textcolor{darkgray}%
+%   \en{\textbf{%
+% %    aloha
+%     \LARGE{P}%
+%     \Large{RODUCT} 
+%     \LARGE{M}%
+%     \Large{ANAGER}%
+% %           \LARGE{PRODUCT} 
+% %           \LARGE{MANAGER}%
+%   } %\textbf
+% } % \en
+%  } %\textcolor
+% } %cvjobtitle
+%             \LARGE{S}\Large{TRATEGIC}  \\
+%             \LARGE{T}\Large{ECHNICAL}  \\
+%             \LARGE{A}\Large{SSOCIATE}  \\
+%             Digital marketing analyst
+%             \LARGE{D}\Large{IGITAL} \\
+%             \LARGE{M}\Large{ARKETING}
+%             \LARGE{A}\Large{NALYST}
+%             }
 % % % % % % % % % % % % % % % % % % % % % % 
         \projectm{%    
 %             \LARGE{J}\Large{UNIOR} 
             \LARGE{P}\Large{ROJECT} 
             \LARGE{M}\Large{ANAGER} \\
+% % Creative Ops Analyst
+%             \LARGE{C}\Large{REATIVE} 
+%               \LARGE{O}\Large{PS} 
+%               \LARGE{A}\Large{NALYST} or
+%             \LARGE{S}\Large{ENIOR}  \\y
+%             \Large{OF} \\
+%             \LARGE{C}\Large{USTOMER}
+%             \LARGE{S}\Large{UCCESS}
+%               \LARGE{PMO}
         }% \projectm
         \ux{%
+%             \LARGE{UX/UI}
             \LARGE{UX}
             \LARGE{E}%
             \Large{DITOR} \\
+%             \LARGE{R}%
+%             \Large{ESEARCHER}
+%              \LARGE{W}%
+%             \Large{RITER} 
+%             \LARGE{U}%
+%             \Large{SER}
         }% \ux
         \po{%
             \LARGE{P}%
@@ -34,6 +81,34 @@
             \LARGE{O}%
             \Large{WNER}
         } \po
+%         \om{%
+%             \LARGE{O}\Large{PERATIONS} 
+%             \LARGE{M}\Large{ANAGER}
+%         }
+%         \wt{%
+% %               \LARGE{P}\Large{ROJECT}
+% %               \LARGE{(110)} \\
+%               \LARGE{P}\Large{RODUCT}
+%               \LARGE{M}\Large{ANAGER}
+% %             W\normalsize{EB}
+% %             3 
+% %             P\normalsize{RODUCT}
+%         }
+%          \\ 
+%              \LARGE{P}\Large{RODUCT} \LARGE{O}\Large{WNER}
+%              \LARGE{S}\Large{CRUM} \LARGE{M}\Large{ASTER}
+%              \LARGE{P}\Large{ROJECT} \LARGE{M}\Large{ANAGER}
+%            {\Large P}{\normalsize ROJECT}
+%            {\Large M}{\normalsize ANAGER} \\
+%              \LARGE{P}\Large{RODUCT} \LARGE{R}\Large{ESEARCHER}
+%              \LARGE{T}\Large{ECHNICAL} \LARGE{W}\Large{RITER}
+%              }
+%            }%
+%         \de{
+%             \LARGE{T}\Large{ECHNICAL} 
+%             \LARGE{W}\Large{RITER} \\ 
+%             S\normalsize{OCIÓLOGO} \\
+%         } 
         \\ \normalsize{%
             SOCIOLOGIST \\ 
             SYSTEM'S ANALYST
@@ -51,6 +126,16 @@
 % \cvname{Panda Bear}
 % job title/career
 % \cvjobtitle{Panda Scientist, \\[0.2em] Panda of the Year}
+% \textbf{\LARGE{UX R}\Large{ESEARCHER} } \\
+% \textbf{{S}\normalsize{OCIOLOGIST} } \\
+%   } 
+% }
+
+
+%   \cvlogopic[0.8\linewidth]{pics/logo.png}
+%   \cvprofilepic{pics/profile.png}
+  % job title/career
+%   \cvjobtitle{\textcolor{darkgray}{  \textbf{\LARGE{UX R}\Large{ESEARCHER} } \textbf{{S}\normalsize{OCIOLOGIST} }   }}
 
 %% optional information
 % profile picture
@@ -72,10 +157,6 @@
 % } % \url{ramoneando.com}{ramoneando.com}} % \url{ramoneando.com} }
 \cvcustomdata{\faLinkedin}{\href{https://www.linkedin.com/in/bj-pm/?locale=en_US}{Linkedin}} 
 \cvsite{ramoneando.com} % \url{ramoneando.com}{ramoneando.com}} % \url{ramoneando.com} }
-\cvcustomdata{\faTwitter}{\href{https://twitter.com/giverdonations}{giverdonations}} % any other custom entry
-% \cvsite{twitter.com/giverdonations} % \url{ramoneando.com}{ramoneando.com}} % \url{ramoneando.com} }
-% \cvsite%{Projects:}  
-% \href{https://github.com/naihloan}{github/naihloan} }
 \cvcustomdata{\faEnvelope}{\href{benjaminjuarezarlt@gmail.com}{benjaminjuarezarlt@gmail.com}} % any other custom entry
 % \cvmail{}
 % \cvkey{4096R/FF00FF00}{0xAABBCCDDFF00FF00} % pgp key
