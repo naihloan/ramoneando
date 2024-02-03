@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.7.28)  9 SEP 2023 23:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.7.28)  3 FEB 2024 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -724,6 +724,29 @@ Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip86
 \JustifyingParindent=\skip87
 )
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks36
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+   defining Unicode char U+1D54F (decimal 120143)
+
+(/usr/share/texlive/texmf-dist/tex/latex/bbm-macros/bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+   defining Unicode char U+1D569 (decimal 120169)
+
 (/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
@@ -739,7 +762,7 @@ Package: fcnumparser 2017/06/15
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks36
+\@emptytoks=\toks37
 \ex@=\dimen284
 )
 \c@padzeroesN=\count295
@@ -781,16 +804,16 @@ File: dt-spanish.def 2013/09/10
 \dayofyear=\count317
 \dayofweek=\count318
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks37
-\dt@b=\toks38
+\dt@a=\toks38
+\dt@b=\toks39
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks39
-\inpenc@posthook=\toks40
+\inpenc@prehook=\toks40
+\inpenc@posthook=\toks41
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
@@ -819,17 +842,6 @@ LaTeX Info: Redefining \ulcshape on input line 41.
 LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/smartdiagram/smartdiagram.sty
 Package: smartdiagram 2016/12/23 v0.3b Automatic creation of smart diagrams fro
@@ -925,12 +937,12 @@ LaTeX Font Info:    ... okay on input line 19.
 \scratchbox=\box69
 \nofMPsegments=\count322
 \nofMParguments=\count323
-\everyMPshowfont=\toks41
+\everyMPshowfont=\toks42
 \MPscratchCnt=\count324
 \MPscratchDim=\dimen286
 \MPnumerator=\count325
 \makeMPintoPDFobject=\count326
-\everyMPtoPDFconversion=\toks42
+\everyMPtoPDFconversion=\toks43
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1151,9 +1163,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 29.
+put line 26.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 29.
+(Font)              scaled to size 8.0pt on input line 26.
 )
 (./bj/3-education.tex
 ! Misplaced alignment tab character &.
@@ -1211,8 +1223,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 ! Misplaced alignment tab character &.
 \cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
                                                   \parbox [t]{0.81\textwidth...
-l.9         \en{ } }
-                    
+l.10         \en{ } }
+                     
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1235,8 +1247,8 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced alignment tab character &.
 \cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
                                                   \parbox [t]{0.81\textwidth...
-l.29         \en{ } }
-                     
+l.25 ...criptsize EV} -- Córdoba, Argentina ]}{ }
+                                                  
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1244,12 +1256,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--30
+) (./bj/4-projects.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--4
 
  []
 
-) (./bj/4-projects.tex
 
 ! LaTeX Error: Environment twenty undefined.
 
@@ -1257,7 +1268,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \begin{twenty}
+l.19 \begin{twenty}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1266,7 +1277,7 @@ or  <return>  to continue without it.
 ! Misplaced alignment tab character &.
 \cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
                                                   \parbox [t]{0.81\textwidth...
-l.34 	}
+l.52 	}
        
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1275,15 +1286,22 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
-
- []
+! Misplaced alignment tab character &.
+\cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
+                                                  \parbox [t]{0.81\textwidth...
+l.75 	}
+       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
 \cvitem ...[t]{0.17\textwidth }{\raggedright #1} &
                                                   \parbox [t]{0.81\textwidth...
-l.53 	  }
+l.96 	  }
          
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1295,7 +1313,7 @@ might try typing `S' now just to see what is salvageable.
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.54 	  }
+l.97 	  }
          
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1304,7 +1322,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
+Underfull \hbox (badness 10000) in paragraph at lines 52--98
 
  []
 
@@ -1315,8 +1333,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.88 \end{twenty}
-                 
+l.131 \end{twenty}
+                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -1329,11 +1347,11 @@ Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25223 strings out of 481062
- 477130 string characters out of 5910793
- 862816 words of memory out of 5000000
- 41439 multiletter control sequences out of 15000+600000
- 484032 words of font info for 140 fonts, out of 8000000 for 9000
+ 25244 strings out of 481062
+ 477447 string characters out of 5910793
+ 863146 words of memory out of 5000000
+ 41458 multiletter control sequences out of 15000+600000
+ 483854 words of font info for 138 fonts, out of 8000000 for 9000
  109 hyphenation exceptions out of 8191
  102i,15n,102p,1039b,893s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.e
@@ -1345,7 +1363,7 @@ e1/intel/clearsans/ClearSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/fontawesome/FontAwesome.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmmi7.pfb>
-Output written on juarez-cv.pdf (1 page, 415585 bytes).
+Output written on juarez-cv.pdf (1 page, 415604 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
