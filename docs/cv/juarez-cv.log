@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.7.28)  4 FEB 2024 16:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.7.28)  11 FEB 2024 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1163,9 +1163,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
 
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on in
-put line 26.
+put line 30.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 30.
 )
 (./bj/3-education.tex
 ! Misplaced alignment tab character &.
@@ -1343,17 +1343,14 @@ or  <return>  to continue without it.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pics/profile.png>]
 (./juarez-cv.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `juarez-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25246 strings out of 481062
- 477490 string characters out of 5910793
- 863337 words of memory out of 5000000
- 41460 multiletter control sequences out of 15000+600000
+ 25244 strings out of 481062
+ 477447 string characters out of 5910793
+ 863312 words of memory out of 5000000
+ 41458 multiletter control sequences out of 15000+600000
  483854 words of font info for 138 fonts, out of 8000000 for 9000
  109 hyphenation exceptions out of 8191
  102i,15n,102p,1039b,893s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1366,7 +1363,7 @@ e1/intel/clearsans/ClearSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/fontawesome/FontAwesome.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmmi7.pfb>
-Output written on juarez-cv.pdf (1 page, 417225 bytes).
+Output written on juarez-cv.pdf (1 page, 417347 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
