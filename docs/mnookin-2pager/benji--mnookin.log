@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  17 AUG 2024 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  19 AUG 2024 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,47 +728,46 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box58
 )
-(./benji--mnookin.aux (./goals.aux))
+(./benji--mnookin.aux)
 \openout1 = `benji--mnookin.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 111.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 113.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 1
-11.
-
-(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
+13.
+ (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Info: Redefining \microtypecontext on input line 111.
-Package microtype Info: Applying patch `item' on input line 111.
-Package microtype Info: Applying patch `toc' on input line 111.
-Package microtype Info: Applying patch `eqnum' on input line 111.
-Package microtype Info: Applying patch `footnote' on input line 111.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Info: Redefining \microtypecontext on input line 113.
+Package microtype Info: Applying patch `item' on input line 113.
+Package microtype Info: Applying patch `toc' on input line 113.
+Package microtype Info: Applying patch `eqnum' on input line 113.
+Package microtype Info: Applying patch `footnote' on input line 113.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 111.
+LaTeX Info: Redefining \showhyphens on input line 113.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -804,8 +803,8 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 111.
-Package hyperref Info: Link coloring ON on input line 111.
+(lastpage)             ! on input line 113.
+Package hyperref Info: Link coloring ON on input line 113.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -818,9 +817,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count312
 )
-LaTeX Info: Redefining \ref on input line 111.
-LaTeX Info: Redefining \pageref on input line 111.
-LaTeX Info: Redefining \nameref on input line 111.
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
 
 (./benji--mnookin.out) (./benji--mnookin.out)
 \@outlinefile=\write3
@@ -864,7 +863,7 @@ LaTeX Info: Redefining \nameref on input line 111.
 \c@mv@tabular=\count313
 \c@mv@boldtabular=\count314
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-14.
+16.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
@@ -873,15 +872,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 114.
+(Font)              scaled to size 12.0pt on input line 116.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 114.
+(Font)              scaled to size 10.0pt on input line 116.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 114.
+(Font)              scaled to size 10.0pt on input line 116.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 114.
+(Font)              scaled to size 10.0pt on input line 116.
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
@@ -889,7 +888,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 114
+LaTeX Font Info:    Trying to load font information for U+msa on input line 116
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -898,7 +897,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 114
+LaTeX Font Info:    Trying to load font information for U+msb on input line 116
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -907,51 +906,51 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 114--114
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 116--116
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 127.
+(Font)              scaled to size 14.4pt on input line 129.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 127.
+(Font)              scaled to size 14.4pt on input line 129.
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--181
+Underfull \hbox (badness 10000) in paragraph at lines 176--183
 
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 231--234
+Underfull \hbox (badness 1281) in paragraph at lines 233--236
 []\T1/XCharter-TLF/m/n/10 (+20) I don't want
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 261--266
+Underfull \hbox (badness 3364) in paragraph at lines 263--268
 []\T1/XCharter-TLF/m/n/10 (+20) Ownership and drive are
  []
 
@@ -960,14 +959,14 @@ Underfull \hbox (badness 3364) in paragraph at lines 261--266
 
 ]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 329.
+(Font)              scaled to size 12.0pt on input line 331.
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--484
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
 
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 484--484
+Underfull \hbox (badness 2158) in paragraph at lines 486--486
 \T1/XCharter-TLF/m/n/10 (+20) I'm OK with pub-lic pre-sen-ta-tions: I like shar
 -
  []
@@ -979,7 +978,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.484 }
+l.486 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -992,7 +991,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.484 }
+l.486 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1005,19 +1004,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.484 }
+l.486 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--484
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
 
  []
 
 
-Overfull \hbox (2.24812pt too wide) in paragraph at lines 416--485
+Overfull \hbox (2.24812pt too wide) in paragraph at lines 418--487
 [] 
  []
 
@@ -1026,17 +1025,14 @@ Overfull \hbox (2.24812pt too wide) in paragraph at lines 416--485
 ] 
 AED: lastpage setting LastPage
 (./benji--mnookin.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `benji--mnookin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17386 strings out of 480171
- 287409 string characters out of 5894489
- 646700 words of memory out of 5000000
- 34927 multiletter control sequences out of 15000+600000
+ 17376 strings out of 480171
+ 287162 string characters out of 5894489
+ 645778 words of memory out of 5000000
+ 34920 multiletter control sequences out of 15000+600000
  537940 words of font info for 117 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  65i,11n,68p,1011b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1047,7 +1043,7 @@ st/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on benji--mnookin.pdf (2 pages, 230185 bytes).
+Output written on benji--mnookin.pdf (2 pages, 230091 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
