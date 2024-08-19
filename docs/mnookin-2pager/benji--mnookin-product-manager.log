@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  19 AUG 2024 15:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  19 AUG 2024 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**benji--mnookin.tex
-(./benji--mnookin.tex
+**benji--mnookin-product-manager.tex
+(./benji--mnookin-product-manager.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -728,8 +728,8 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box58
 )
-(./benji--mnookin.aux)
-\openout1 = `benji--mnookin.aux'.
+(./benji--mnookin-product-manager.aux)
+\openout1 = `benji--mnookin-product-manager.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
 LaTeX Font Info:    ... okay on input line 113.
@@ -752,7 +752,8 @@ LaTeX Font Info:    ... okay on input line 113.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 113.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 1
 13.
- (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 113.
@@ -821,9 +822,9 @@ LaTeX Info: Redefining \ref on input line 113.
 LaTeX Info: Redefining \pageref on input line 113.
 LaTeX Info: Redefining \nameref on input line 113.
 
-(./benji--mnookin.out) (./benji--mnookin.out)
+(./benji--mnookin-product-manager.out) (./benji--mnookin-product-manager.out)
 \@outlinefile=\write3
-\openout3 = `benji--mnookin.out'.
+\openout3 = `benji--mnookin-product-manager.out'.
 
 
 *geometry* driver: auto-detecting
@@ -945,12 +946,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--183
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 233--236
+Underfull \hbox (badness 1281) in paragraph at lines 233--240
 []\T1/XCharter-TLF/m/n/10 (+20) I don't want
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 263--268
+Underfull \hbox (badness 3364) in paragraph at lines 267--272
 []\T1/XCharter-TLF/m/n/10 (+20) Ownership and drive are
  []
 
@@ -959,14 +960,14 @@ Underfull \hbox (badness 3364) in paragraph at lines 263--268
 
 ]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 331.
+(Font)              scaled to size 12.0pt on input line 335.
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
 
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 486--486
+Underfull \hbox (badness 2158) in paragraph at lines 491--491
 \T1/XCharter-TLF/m/n/10 (+20) I'm OK with pub-lic pre-sen-ta-tions: I like shar
 -
  []
@@ -978,7 +979,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.486 }
+l.491 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -991,7 +992,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.486 }
+l.491 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1004,19 +1005,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.486 }
+l.491 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
-
- []
-
-
-Overfull \hbox (2.24812pt too wide) in paragraph at lines 418--487
+Overfull \hbox (2.24812pt too wide) in paragraph at lines 422--492
 [] 
  []
 
@@ -1024,18 +1020,19 @@ Overfull \hbox (2.24812pt too wide) in paragraph at lines 418--487
 
 ] 
 AED: lastpage setting LastPage
-(./benji--mnookin.aux)
-Package rerunfilecheck Info: File `benji--mnookin.out' has not changed.
+(./benji--mnookin-product-manager.aux)
+Package rerunfilecheck Info: File `benji--mnookin-product-manager.out' has not 
+changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17376 strings out of 480171
- 287162 string characters out of 5894489
- 645778 words of memory out of 5000000
+ 17379 strings out of 480171
+ 287512 string characters out of 5894489
+ 644826 words of memory out of 5000000
  34920 multiletter control sequences out of 15000+600000
- 537940 words of font info for 117 fonts, out of 8000000 for 9000
+ 538269 words of font info for 119 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 65i,11n,68p,1011b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,11n,68p,1027b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-
 dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/share/texlive/texmf-di
@@ -1043,7 +1040,7 @@ st/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on benji--mnookin.pdf (2 pages, 230091 bytes).
+Output written on benji--mnookin-product-manager.pdf (2 pages, 230000 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
