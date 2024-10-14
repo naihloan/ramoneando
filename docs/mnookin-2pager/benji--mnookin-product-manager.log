@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  9 SEP 2024 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  14 OCT 2024 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -937,19 +937,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--24
 
 ) (./extended-summary.tex
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 94.
+(Font)              scaled to size 10.0pt on input line 100.
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 100.
 
 ! LaTeX Error: There's no line here to end.
 
@@ -957,8 +957,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94 }
-      
+l.100 }
+       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -970,8 +970,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94 }
-      
+l.100 }
+       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -983,14 +983,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94 }
-      
+l.100 }
+       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
@@ -1072,7 +1072,7 @@ f-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on benji--mnookin-product-manager.pdf (2 pages, 239491 bytes).
+Output written on benji--mnookin-product-manager.pdf (2 pages, 239238 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
