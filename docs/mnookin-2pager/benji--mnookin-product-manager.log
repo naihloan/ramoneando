@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  27 NOV 2024 16:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.17)  16 DEC 2024 12:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -927,13 +927,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--167
 
 (./extended-summary.tex
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 130.
+(Font)              scaled to size 14.4pt on input line 123.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 130.
+(Font)              scaled to size 14.4pt on input line 123.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 130.
+(Font)              scaled to size 10.0pt on input line 123.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 130.
+(Font)              scaled to size 12.0pt on input line 123.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -942,7 +942,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 }
+l.123 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -955,7 +955,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 }
+l.123 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -968,7 +968,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 }
+l.123 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1039,7 +1039,7 @@ f-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on benji--mnookin-product-manager.pdf (1 page, 233810 bytes).
+Output written on benji--mnookin-product-manager.pdf (1 page, 233872 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
