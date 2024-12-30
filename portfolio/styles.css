@@ -1,3 +1,5 @@
+/* https://chatgpt.com/c/6771e73c-4ecc-8007-9333-40574b367e78 */
+
 /* General Reset */
 * {
     margin: 0;
@@ -88,4 +90,22 @@ footer {
         height: auto; /* Maintain aspect ratio */
     }
 }
+
+/* Description Styling */
+.image-description {
+    margin-top: 5px;
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.4;
+    text-align: justify; /* For better readability */
+}
+
+/* Adjust Project Container */
+.project-container {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 
