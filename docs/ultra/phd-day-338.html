@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc-bizarro">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <link rel="stylesheet" href="../stylesheets/bootstrap.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="../stylesheets/bootstrap.css" media="screen">
+  <link rel="shortcut icon" href="../icons/running-man.png">
+  <meta name=”keywords” content="sociology ultra running city affect art ethnography anthropology"/>
+  <title>ramoneando.com [ULTRA | PhD at Exeter]</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+    <nav class="navbar navbar-light bg-light rounded">
+        <h1><a class="navbar-brand" href="index.html">&#128367; &nbsp; &#127939; &#127939; ramoneando.com &#127939;</a></h1>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample01" aria-controls="navbarsExample01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarsExample01">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"><a class="nav-link" href="../ultra/project.html" style="color: blue" title="Exeter [2017]">PhD Project [Ultra Running Sociology]</a><span class="sr-only">(current)</span></a></li>
+          <li class="nav-item"><a class="nav-link" href="../ultra/phd-day-14.html" title="Interview">Q&amp;A</a></li>
+          <li class="nav-item"><a class="nav-link" href="../sobre/sobre-mi.html" title="Bio + Site">Bio + W³</a></li>
+          <li class="nav-item"><a class="nav-link" href="../PIXO/index.html" title="UrbanArt[Brazil]">Pixação</a></li>
+          <li class="nav-item"><a class="nav-link" href="../sociology/index.html" title="Texts">Sociology</a></li>
+          <li class="nav-item"><a class="nav-link" href="../posts/archivo.html" title="Writing..">Literary</a></li>
+          <li class="nav-item"><a class="nav-link" href="../sobre/links.html" title="Info + Reading">Links</a></li>
+          <li class="nav-item"><a class="nav-link" href="../citas/citas.html" title="comfyXcreate"><i>Said</i></a></li>
+        </ul>
+        <form class="form-inline my-2 my-md-0">
+        </form>
+      </div>
+    </nav>
+    </div>
+<div class="container">
+<h4>® <a href="https://twitter.com/venhamon">Benjamín Juárez</a></h4><hr>
+<h2 id="section">2019-01-09</h2>
+<h2 id="how-to-transcribe-using-vim">How to transcribe using Vim</h2>
+<p>07 Jul 2012</p>
+<p>From time to time I have to do some transcription jobs, and on top of being quite stressful, there are no many programs that help to get the job done. There are some I’ve tried such as <a href="http://www.nch.com.au/scribe/index.html">Express Scribe</a>, which has versions for the major platforms (OS, Linux and Windows, but the Linux one is out-of-date and discontinued as it seems) or <a href="http://www.audiotranskription.de/english/f4.htm">F4</a>, but I really miss having a top-notch Linux version since it’s the operating system I find myself using most of the time.</p>
+<p>Basically, the way this programs work is as follows: they activate some global keybindings for the user to be able to pause and seek the audio or video, so you can work in the transcription in any other word processing software while you control the media file. That sounds like a nice idea, since you can take advantage of any other software you use (such as OpenOffice’s grammar check). Most of these programs include a text editor focused on the transcription process that, when starting a paragraph, insert the current time of the file you’re transcribing. Usually, they also enable the user to slow down the audio so you don’t have to stop so often, since usually you’ll type slower than the people speak… And during interviews people tend to speak really really fast.</p>
+<p>But after a couple hours of trying I really missed the amazing text editing capabilities of Vim, the editor I use 99% of the time. So I started using it along with the global keybindings of the transcription programs.</p>
+<p>No need to say that I didn’t manage to run those programs smoothly and without any headaches under Linux, so I started using VLC to play files. On the other hand, I found it really annoying to configure for doing any transcription with it, since the ideal “seek backwards and forwards” time is 3 seconds, but by default, in VLC this value is 10 seconds. On the other hand, the <em>tempo scaling</em> (slowing the audio while keeping the tune, so the speaker doesn’t end up talking as Darth Vader) capabilities of VLC are not as good as I’d like. After 10 minutes of configuring everything to my needs an idea came to my mind: “I’m sure the good-old Mplayer is capable of all this and more”. For those who still don’t know <a href="http://www.mplayerhq.hu/design7/news.html">Mplayer</a>, it’s a multi platform media player that has a command line and a graphical interface.</p>
+<p>So I got prepared to get my hands dirty and started doing some research. This is what I found out:</p>
+<h4 id="to-change-the-seek-time-of-mplayer-to-3-seconds-add-this-to-your-.mplayerinput.conf">To change the seek time of Mplayer to 3 seconds, add this to your ~/.mplayer/input.conf :<br />
+</h4>
+<p><code>RIGHT seek 3&lt;br /&gt; LEFT seek -3</code></p>
+<p>By default, Mplayer can increase or decrease the speed with the keys [ and ], but it’ll have an impact on the tune of what you’re playing, so even Frank Sinatra will sing as high pitched as the Smurfs. Affortunately, our beloved Mplayer also has a plugin to scale the tempo when changing the speed. To activate it, run it with the following command:</p>
+<p><code>mplayer -af scaletempo file_to_reproduce</code></p>
+<p>And now, the latest piece of the puzzle: how on earth can I control Mplayer from Vim. Well, that one was the easiest, since Vim is the most quirky and customisable piece of software on Earth, but it’s the part that took me the most time. Mplayer can be run in “slave mode” (described in this <a href="http://www.mplayerhq.hu/DOCS/tech/slave.txt">manual page</a>), and it’ll read commands from stdin, instead of “keystrokes”. This means that, to play and pause, instead of pressing the spacebar, you’d have to type “pause” and press enter. Well… that sounds like something I won’t like to be doing, but as you might expect, the idea of this mode is allowing other programs to communicate with Mplayer and stablish some sort of protocol. This can be easily done by using a pipe file, in Unix terms: a FIFO. This is basically a virtual file that you can write to and read from. In my “setup” Mplayer will read from it (it’ll be its stdin) and Vim will write commands in it. To create the FIFO:</p>
+<p><code>mkfifo /tmp/mplayerfifo</code></p>
+<p>And now, to make MPlayer use it as a source from commands:</p>
+<p><code>mplayer -af scaletempo -slave -input file=/tmp/mplayerfifo file_to_play</code></p>
+<p>Now we just have to send commands to that file. Try, for example to send a pause command:</p>
+<p><code>echo &quot;pause&quot; &gt; /tmp/mplayerfifo</code></p>
+<p>Wow, now you can control Mplayer from the command line. That’s awesome, but the best bit is that we can just do the same from Vim. Don’t believe me? To execute any bash command in Vim you just press, while in normal mode !mycommand.  For example</p>
+<p><code>:! echo &quot;pause&quot; &gt; /tmp/mplayerfifo</code></p>
+<p>Yay, we’re almost there. But that ugly command is not something you want to be typing all the time. That’s where the Vim mappings and its configuration file comes in handy. Add this lines to your ~/.vimrc file and you’ll be able to use F3 to pause/play (it’s the same command), F4 to seek forward and F2 to seek backward. Isn’t it brilliant?</p>
+<p><code>map &lt;silent&gt; &lt;F2&gt; :! echo seek -3 &gt; /tmp/mplayerfifo&lt;CR&gt;&lt;CR&gt;&lt;br /&gt; map &lt;silent&gt; &lt;F4&gt; :! echo seek 3 &gt; /tmp/mplayerfifo&lt;CR&gt;&lt;CR&gt;&lt;br /&gt; map &lt;silent&gt; &lt;F3&gt; :! echo pause &gt; /tmp/mplayerfifo&lt;CR&gt;&lt;CR&gt;&lt;br /&gt; imap &lt;silent&gt; &lt;F2&gt; &lt;Esc&gt;:! echo seek -3 &gt; /tmp/mplayerfifo&lt;CR&gt;&lt;CR&gt;a&lt;br /&gt; imap &lt;silent&gt; &lt;F4&gt; &lt;Esc&gt;:! echo seek 3 &gt; /tmp/mplayerfifo&lt;CR&gt;&lt;CR&gt;a&lt;br /&gt; imap &lt;silent&gt; &lt;F3&gt; &lt;Esc&gt;:! echo pause &gt; /tmp/mplayerfifo&lt;CR&gt;&lt;CR&gt;a</code></p>
+<p>The “duplicity” of lines is just to have different commands when in insert and normal modes.</p>
+<p>Well. I hope that helped someone as much as it helped me. Now I won’t need to leave Vim to pause and seek.</p>
+</div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- <script src="css/jquery-3.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
+    <!-- <script src="css/bootstrap.js"></script> -->
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<hr>
+</body>
+</html>

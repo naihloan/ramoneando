@@ -1,3 +1,3 @@
 # ramoneando
 
-notes 
+personal career blog in product and tech

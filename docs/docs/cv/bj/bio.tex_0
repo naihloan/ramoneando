@@ -1,0 +1,43 @@
+%------------------------------------------------------------
+%	 ABOUT ME
+%------------------------------------------------------------
+
+\profilesection{Bio}
+
+\de{
+%   \aboutme{% 
+  Vengo de las ciencias sociales. 
+  Desde 2009 investigué graffiti. % + pichação: 
+  Trabajé con fotos y texto
+  usando \LaTeX: un editor profesional que compila.
+  Ahí profundicé más en tecnología. 
+  Antes usé linux.
+  Después página web estática: html css.
+  Hice dominio propio y configuración: dns. 
+  Ahora me gusta escribir con vim.
+%   Y ahora programación. %para automatizar.
+%   }
+}
+
+\en{
+%   \aboutme{% 
++3 years' working in Tech \\
++8 years' maintaining a static blog \\
++12 years' researching in Social Sciences \\
++14 years' compiling with \LaTeX [{\scriptsize WYSIWYM}] \\
++17 years' using {\scriptsize UNIX} \\
+
+% I come from the social sciences. 
+% % From 2009 onwards, I researched graffiti. 
+% % I worked with pictures and text 
+% I started using \LaTeX: 
+% a professional {\scriptsize WYSIWYM} compiling editor over 10 years ago. 
+% % There I got more into technology. 
+% % Before that, I used Linux. Now, iOS too.
+% % I am OS open: Linux, iOS and Microsoft.
+% Later I built a static website 
+% on vim with HTML CSS %. 
+% and configured the DNS domain. 
+% Now I like writing 
+}
+  

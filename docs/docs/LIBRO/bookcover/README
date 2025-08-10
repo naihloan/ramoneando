@@ -1,0 +1,21 @@
+bookcover class, 2015- by Tibor Tomacs
+
+Class for book covers and dust jackets
+
+This file may be distributed and/or modified under the
+conditions of the LaTeX Project Public License, either
+version 1.2 of this license or (at your option) any later
+version. The latest version of this license is in:
+
+http://www.latex-project.org/lppl.txt
+
+and version 1.2 or later is part of all distributions of
+LaTeX version 1999/12/01 or later.
+
+Install:
+ - Run 'latex bookcover.ins' for the bookcover.cls file.
+ - Run 'pdflatex example1.tex' for the example1.pdf
+ - Run 'pdflatex example2.tex' for the example2.pdf
+ - Run three times 'pdflatex bookcover.dtx' to get the documentation (bookcover.pdf).
+
+

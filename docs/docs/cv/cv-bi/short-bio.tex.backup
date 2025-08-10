@@ -1,0 +1,59 @@
+%------------------------------------------------------------
+%	 SHORT BIO
+%------------------------------------------------------------
+
+\section{\en{Short Bio}\de{Perfil General}} 
+% % % % % % % % % % % % % % % SPANISH
+% 1era línea idea fuerte ligada a lo que querés conseguir y podés aportar a la empresa 
+% % % % % % % % % % % % % % a quién va dirigido? a qué rol apunta?  % % % % % % % % % % % % % %
+% 2da línea info adicional % analista en sistema  % enfocado en desarrollo % buscando ahora trabajo
+% 3ra/4ta línea datos adicionales como sociólogo y otros
+% antes trabajé y soy sociólogo
+% 
+% msj personal ok pero qué y cómo buscando
+% enfocado en lo que querés lograr
+
+% mirá 4-5 cv que te gusten y otros que no!!!
+\de{%
+Me interesa UX Research + Big Data + Desarrollo Web. \\ % Soy sociólogo. \\
+Estoy cursando Analista en Sistemas, ya terminé 1er año completo. \\
+% Hace más de dos años estudiando programación.
+Trabajé en sociología. Me atrajo del mundo IT la dinámica, y resultados. \\
+Trabajé como Desarrollador Web Back End, base de datos. Apunto a Full Stack.
+}
+
+\de{Buscando activamente trabajo.}
+
+\de{
+Software: hace +10 años uso linux, \LaTeX, html. Ahora js, y así avanzando. \\
+Sociología: uso teoría social, metodología, entrevista, etnografía.
+}
+
+% \de{%
+%Trabajé en áreas de editorial, dando clases de inglés y %
+%sociología, y aprendiendo sobre producción editorial. 
+% En el último tiempo con foco %}
+
+% % % % % % % % % % % % % % % ENGLISH
+\en{Sociologist by studies and research + System Analyst Student.\\
+I have worked as a web developer with focus on Back End and DataBases, and aim towards Full Stack.
+Further on I would like to work with UX Research and/or Big Data.
+}
+
+\en{%
+I’ve worked in academic environments: researching, supervising research projects,
+giving sociology classes and English conversation. 
+}
+
+
+
+
+% I am adaptable, curious and tenacious. 
+% I was born in Chicago, USA; and raised from age 7 in Córdoba, Argentina.
+% I always kept studying English, raising my level to a C1 [CEFR] standard.
+% Also, I use English on a daily basis by reading and writing. 
+% I have also learned to read, listen and speak Portuguese in a fluent manner, living in Brazil through nearly 2 years. 
+
+% Me crié en Córdoba desde los 7 años. Antes viví en EEUU. Manejo excelente el
+% inglés y muy bien el portugués. Viví en Brasil 2012–2013.
+% Cursé Desarrollo Web en UTN. Cursando Analista en la Escuela Superior de Comercio Manuel Belgrano [Terminando primer año completo].

@@ -1,0 +1,20 @@
+
+%-------------------------------------------------------------------------------
+%                         TABLE ENTRIES RIGHT COLUMN
+%-------------------------------------------------------------------------------
+
+\makefrontsidebar
+
+% \newpage \null \vfill
+
+\cvsection{Working Experience}
+\begin{cvtable}[3]
+	\cvitem{currently}{CEO The Panda Way}{Start Up}{Chief executive officer, Head
+		developer and yoga ambassador of 'The Panda Way' - A company from pandas
+		for pandas.}
+	\cvitem{2015 -- 2018}{Panda Scientist}{Bamboo University}{
+		Reasearching the impact of adequate bamboo nutrition compared to
+		conventional feeding methods.}
+	\cvitem{2010 -- 2015}{Bamboo Broker}{Stock Exchange}{Continuously achieving
+		better bamboo bangs for the buck.}
+\end{cvtable}

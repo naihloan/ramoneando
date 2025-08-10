@@ -1,0 +1,108 @@
+\documentclass[openany,11pt]{scrbook} %\input{packages}
+\usepackage[a6paper]{geometry}%landscape
+\usepackage[utf8]{inputenc} % \usepackage{kpfonts,baskervald}
+\usepackage{ebgaramond}
+\usepackage[T1]{fontenc}
+\usepackage{sectsty}
+\chapterfont{\normalfont\itshape}
+\usepackage{microtype} 
+\usepackage{incgraph,tikz} 
+\usepackage{wasysym} \usepackage{marvosym}
+\usepackage{textcomp} \usepackage{amssymb}
+\usepackage{makeidx} \usepackage{mdframed}
+\usepackage{epigraph} \renewcommand{\textflush}{flushepinormal}
+\setlength\epigraphwidth{8.5cm} 
+\setlength\epigraphrule{0pt}
+
+\widowpenalty10000 
+\clubpenalty10000
+
+\newcommand\textlcsc[1]{\textsc{\MakeLowercase{#1}}}
+\date{}
+%\input{main-matter} 
+\makeindex
+\begin{document}
+\begin{titlepage}\thispagestyle{empty} \vspace*{7em}{\centering\Huge \textsc{Tratado Sobre \\ el Amor} \par}\clearpage
+\newpage \thispagestyle{empty} \mbox{} \cleardoublepage
+\thispagestyle{empty} \vspace*{7em}{\centering\Huge \textsc{Tratado Sobre \\ el Amor} \par
+%\begin{normalsize}como lo entiende una persona terriblemente aburrida \end{normalsize} \par
+}
+\centering{\Large \textsc{como lo entiende una persona \\ terriblemente aburrida} \par}
+    \vspace*{1cm}
+    {\centering {\LARGE -- Anatoliy Protopopov} \par}\cleardoublepage
+\newpage \thispagestyle{empty} \mbox{} \clearpage
+\vfill
+
+\begin{mdframed} \begin{scriptsize} \noindent 
+Author: X -- \\ 
+Title: throwing up upwards. \\ 
+1\textsuperscript{st} edition. nowhere. \\ 
+1. Stuff 2. Literature 3. Astrology 4. Science 5. Crazy photography
+\end{scriptsize} \end{mdframed}
+
+\thispagestyle{empty} \vspace*{\fill} \parbox{.8\textwidth}{\raggedright \scriptsize
+\textit{imposible} publisher 2016 
+
+printed blindfolded
+
+design: \LaTeX 
+}
+\end{titlepage} 
+\clearpage \thispagestyle{empty}\cleardoublepage
+
+%%%%%%%%%%%%%%%%%% QUOTE %%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\vspace*{\fill}
+\epigraph{one original thought is worth a thousand mindless quotings} 
+{--- \textup{\textit{Banksy ...quoting Diogenes? }} } 
+\vspace*{\fill} \cleardoublepage
+
+\tableofcontents\thispagestyle{empty}
+\clearpage \cleardoublepage 
+\thispagestyle{empty}
+
+\pagestyle{plain}
+
+%\part{1} hey 
+
+\input{tratado}
+
+% \incgraph[documentpaper,overlay={\node[red] at (page.center) {\Huge Picture sized to paper};}][width=\paperwidth,height=\paperheight]{example-image-b}
+
+%\input{final}
+
+\newpage \thispagestyle{empty} \mbox{} \clearpage
+
+\thispagestyle{empty}
+\vspace*{\fill}\hfill   \parbox{\textwidth}
+{\scriptsize  \centering
+printed in december\\ feeling that the year was still ok}
+
+\newpage \thispagestyle{empty} \mbox{} \cleardoublepage 
+
+\def\barcode#1#2#3#4#5#6#7{\begingroup%
+\dimen0=0.1em
+\def\stack##1##2{\oalign{##1\cr\hidewidth##2\hidewidth}}%
+\def\0##1{\kern##1\dimen0}%
+\def\1##1{\vrule height10ex width##1\dimen0}%
+\def\L##1{\ifcase##1\bc3211##1\or\bc2221##1\or\bc2122##1\or\bc1411##1%
+\or\bc1132##1\or\bc1231##1\or\bc1114##1\or\bc1312##1\or\bc1213##1%
+\or\bc3112##1\fi}%
+\def\R##1{\bgroup\let\next\1\let\1\0\let\0\next\L##1\egroup}%
+\def\G##1{\bgroup\let\bc\bcg\L##1\egroup}% reverse
+\def\bc##1##2##3##4##5{\stack{\0##1\1##2\0##3\1##4}##5}%
+\def\bcg##1##2##3##4##5{\stack{\0##4\1##3\0##2\1##1}##5}%
+\def\bcR##1##2##3##4##5##6{\R##1\R##2\R##3\R##4\R##5\R##6\11\01\11\09%
+\endgroup}%
+\stack{\09}#1\11\01\11\L#2%
+\ifcase#1\L#3\L#4\L#5\L#6\L#7\or\L#3\G#4\L#5\G#6\G#7%
+\or\L#3\G#4\G#5\L#6\G#7\or\L#3\G#4\G#5\G#6\L#7%
+\or\G#3\L#4\L#5\G#6\G#7\or\G#3\G#4\L#5\L#6\G#7%
+\or\G#3\G#4\G#5\L#6\L#7\or\G#3\L#4\G#5\L#6\G#7%
+\or\G#3\L#4\G#5\G#6\L#7\or\G#3\G#4\L#5\G#6\L#7%
+\fi\01\11\01\11\01\bcR}
+
+\thispagestyle{empty} \vspace*{\fill}
+\centering{\barcode 9780029021408} 
+
+\end{document}

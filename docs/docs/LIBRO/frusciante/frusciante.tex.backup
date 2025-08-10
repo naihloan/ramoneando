@@ -1,0 +1,269 @@
+\documentclass[17pt,a5paper]{memoir}
+\usepackage{musixtex,graphicx}
+
+% custom clef
+\newcommand\TAB[1]{%
+ \setclefsymbol{#1}{\,\rotatebox{90}{TAB}}%
+ \setclef{#1}9}
+
+% internal string choosing command
+%  #1: string (a number from 1--6)
+%  #2: finger
+\makeatletter
+\newcommand\@str[2]{%
+  \ifcase#1\relax\@strerror
+  \or\def\@strnr{-1}%
+  \or\def\@strnr{1}%
+  \or\def\@strnr{3}%
+  \or\def\@strnr{5}%
+  \or\def\@strnr{7}%
+  \or\def\@strnr{9}%
+  \else\@strerror
+  \fi
+  \zchar\@strnr{\footnotesize#2}}
+% \@strerror could be defined to issue some warning/error
+
+% User level commands
+\newcommand\STr[2]{\@str{#1}{#2}\sk}  % with a full note skip
+\newcommand\Str[2]{\@str{#1}{#2}\hsk} % with a half note skip
+\newcommand\str[2]{\@str{#1}{#2}}     % with no skip
+\makeatother
+\begin{document}
+\thispagestyle{empty}
+
+% \fontsize{24.9}{29.9}\selectfont hello
+
+\subsubsection*{murderers}
+% \noindent (x2)
+
+
+% % % % % % % % % % % % % 1 % % % % % % % % % % % % % 
+
+\setlength\parindent{0pt}
+\begin{music}
+% 	     9 12 
+% 12 9 10 10      12 9 10
+ \instrumentnumber{1}
+ \nobarnumbers
+ \TAB1
+ \setlines1{6}
+ \startpiece
+%    \Notes\hsk\Str{5}{12}\en
+%    \Notes\hsk\str{5}{9}\en
+%    \Notes\hsk\str{5}{10}\en
+%    \Notes\hsk\str{5}{10}\en
+%    \Notes\hsk\str{6}{9}\en
+%    \Notes\hsk\str{6}{12}\en
+%    \Notes\hsk\str{5}{12}\en
+%    \Notes\hsk\str{5}{9}\en
+%    \Notes\hsk\str{5}{10}\en
+   \Notes\hsk\Str{5}{12}\en
+   \Notes\hsk\str{5}{9}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{6}{9}\en
+   \Notes\str{6}{12}\en
+   \Notes\str{5}{12}\en
+   \Notes\str{5}{9}\en
+   \Notes\str{5}{10}\en 
+  \endpiece
+  \end{music}
+  
+
+% (0:35)
+
+% % % % % % % % % % % % % 2 % % % % % % % % % % % % % 
+
+\setlength\parindent{0pt}
+\begin{music}
+% B:--12----9--10--10--12--14--12--------------|
+% G:-------------------------------14--13--14--|
+\instrumentnumber{1}
+ \nobarnumbers
+ \TAB1
+ \setlines1{6}
+ \startpiece
+   \Notes\hsk\Str{6}{12}\en
+   \Notes\hsk\str{6}{9}\en
+   \Notes\str{6}{10}\en
+   \Notes\str{6}{10}\en
+   \Notes\str{6}{12}\en
+   \Notes\str{6}{14}\en
+   \Notes\str{6}{12}\en
+   \Notes\str{5}{14}\en
+   \Notes\str{5}{13}\en
+   \Notes\str{5}{14}\en
+   \Notes\str{}{}\en
+%   \endpiece
+% \bar 
+  % % % % % % % % % % % % % 3 % % % % % % % % % % % % % 
+\startpiece
+     \Notes\hsk\str{2}{7}\Str{5}{9}\en
+   \Notes\str{2}{9}\Str{5}{10}\en
+   \Notes\str{2}{7}\Str{5}{9}\en
+   \Notes\str{2}{6}\Str{5}{9}\en
+  \endpiece
+  \end{music}
+  
+  
+  % % % % % % % % % % % % % 3 % % % % % % % % % % % % % 
+
+% \setlength\parindent{0pt}
+% \begin{music}
+%  \instrumentnumber{1}
+%  \nobarnumbers
+%  \TAB1
+%  \setlines1{6}
+%  \startpiece
+%    \Notes\hsk\str{2}{7}\Str{5}{9}\en
+%    \Notes\str{2}{9}\Str{5}{10}\en
+%    \Notes\str{2}{7}\Str{5}{9}\en
+%    \Notes\str{2}{6}\Str{5}{9}\en
+%   \endpiece
+%   \end{music}
+  
+%   \bigskip 4 \bigskip
+
+  % % % % % % % % % % % % % 4 % % % % % % % % % % % % % 
+
+\setlength\parindent{0pt}
+\begin{music}
+ \instrumentnumber{1}
+ \nobarnumbers
+ \TAB1
+ \setlines1{6}
+ \startpiece
+   \Notes\hsk\Str{2}{5}\en
+   \Notes\hsk\str{5}{7}\en
+   \Notes\str{2}{5}\en
+   \Notes\str{5}{7}\en
+   \Notes\str{5}{7}\en
+   \Notes\str{2}{5}\en
+%
+   \Notes\hsk\str{2}{5}\Str{5}{7}\en
+   \Notes\str{2}{7}\Str{5}{9}\en
+   \Notes\str{2}{9}\Str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en   
+   \Notes\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en
+%    \Notes\str{2}{6}\Str{5}{9}\en
+  \endpiece
+  \end{music}
+  
+    % % % % % % % % % % % % % 5 % % % % % % % % % % % % % 
+
+% e:----------------------------------------------------
+% B:------7-7-----9-9-----9--12--10--10-----10-10----10-
+% G:----------------------------------------------------
+% D:----------------------------------------------------
+% A:----5------7-------7--7--11---9------9---------9--9-
+% E:----------------------------------------------------
+
+% \bigskip 5 \bigskip 
+
+\setlength\parindent{0pt}
+\begin{music}
+ \instrumentnumber{1}
+ \nobarnumbers
+ \TAB1
+ \setlines1{6}
+ \startpiece
+   \Notes\hsk\Str{2}{5}\en
+   \Notes\str{5}{7}\en
+   \Notes\str{5}{7}\en   
+   \Notes\str{2}{7}\en
+   \Notes\str{5}{9}\en
+   \Notes\str{5}{9}\en
+   \Notes\str{2}{7}\en
+%
+   \Notes\hsk\str{2}{7}\Str{5}{9}\en
+   \Notes\str{2}{11}\str{5}{12}\en
+   \Notes\str{2}{9}\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en   
+   \Notes\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en
+   \Notes\str{2}{9}\Str{5}{10}\en   
+%    \Notes\str{2}{6}\Str{5}{9}\en
+  \endpiece
+  \end{music}
+  
+    % % % % % % % % % % % % % 6 % % % % % % % % % % % % % 
+\clearpage
+    \bigskip 6 \bigskip 
+\thispagestyle{empty}
+% e:------------------------------------------------------------
+% B:--------17-17------17-17------17--9--10--10-----10-10----10-
+% G:------------------------------------------------------------
+% D:------------------------------------------------------------
+% A:----15---------15---------15------7---9------9---------9--9-
+% E:------------------------------------------------------------
+
+
+\setlength\parindent{0pt}
+\begin{music}
+ \instrumentnumber{1}
+ \nobarnumbers
+ \TAB1
+ \setlines1{6}
+ \startpiece
+   \Notes\hsk\Str{2}{5}\en
+   \Notes\str{5}{7}\en
+   \Notes\str{5}{7}\en   
+   \Notes\str{2}{7}\en
+   \Notes\str{5}{9}\en
+   \Notes\str{5}{9}\en
+   \Notes\str{2}{7}\en
+%
+   \Notes\hsk\str{2}{7}\Str{5}{9}\en
+   \Notes\str{2}{11}\str{5}{12}\en
+   \Notes\str{2}{9}\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en   
+   \Notes\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en
+   \Notes\str{2}{9}\Str{5}{10}\en   
+%    \Notes\str{2}{6}\Str{5}{9}\en
+  \endpiece
+  \end{music}  
+  
+% e:------------------------------|
+% B:------7-7-----9-9-----9--5----|
+% G:------------------------------|
+% D:------------------------------|
+% A:----5------7-------7--7--3----|
+% E:------------------------------|
+
+\setlength\parindent{0pt}
+\begin{music}
+ \instrumentnumber{1}
+ \nobarnumbers
+ \TAB1
+ \setlines1{6}
+ \startpiece
+   \Notes\hsk\Str{2}{5}\en
+   \Notes\str{5}{7}\en
+   \Notes\str{5}{7}\en   
+   \Notes\str{2}{7}\en
+   \Notes\str{5}{9}\en
+   \Notes\str{5}{9}\en
+   \Notes\str{2}{7}\en
+%
+   \Notes\hsk\str{2}{7}\Str{5}{9}\en
+   \Notes\str{2}{11}\str{5}{12}\en
+   \Notes\str{2}{9}\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en   
+   \Notes\str{5}{10}\en
+   \Notes\str{5}{10}\en
+   \Notes\str{2}{9}\en
+   \Notes\str{2}{9}\Str{5}{10}\en   
+%    \Notes\str{2}{6}\Str{5}{9}\en
+  \endpiece
+  \end{music}
+  
+\end{document}

@@ -1,0 +1,244 @@
+\documentclass[11pt,a4,spanish]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
+\usepackage[left=3cm,right=2cm,top=2cm,bottom=2cm]{geometry} % footnotesep=0.5cm
+\usepackage{hyperref}
+% \usepackage{helvet} % Default font is the helvetica postscript font
+%\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+
+\newsectionwidth{0pt} % Stops section indenting
+
+% \usepackage{lastpage}
+\usepackage{fancyhdr}
+% \chead{Benjamín Juárez}
+\fancyfoot[R]{%
+\hrule
+Página \thepage\ |
+CV Benjamín Juárez 2019.08.26
+% \today
+%of \pageref{LastPage}
+}
+\cfoot{}
+
+
+% Uncomment to remove the header rule
+% \renewcommand{\headrulewidth}{0pt} 
+
+\pagestyle{fancy}
+
+\usepackage{lipsum}
+
+
+\begin{document}
+
+% \thispagestyle{\chead{}}
+
+%----------------------------------------------------------------------------------------
+%	YOUR NAME AND ADDRESS(ES) SECTION
+%----------------------------------------------------------------------------------------
+
+\name{Benjamín Juárez\\ \\} % Your name at the top
+
+\address{{\bf Dirección} \\ Crisol 305\\ Córdoba, Córdoba \\ (351) 310-4043 \\ DNI | 92788032 \\
+\texttt{benjaminjuarezarlt@gmail.com}
+} % Your address 1
+
+% \address{{\bf DNI} \\ 92788032} % More
+
+\address{{\bf Cargo} \\ Colaborador en grupo de investigación | Fabiola Heredia \& Magdalena Arnao \\  
+Museo de Antropología [Córdoba. Argentina] \\
+\textit{Lógicas y desvaríos corporales: reflexiones metodológicas en investigaciones,} \\ \textit{intervenciones y prácticas estéticas de/desde y sobre los cuerpos}
+} % Your address 2
+
+%----------------------------------------------------------------------------------------
+
+\begin{resume}
+
+\pagebreak
+
+
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{\centerline{OBJECTIVE}}
+% 
+% \vspace{8pt} % Gap between title and text
+% 
+% A position in Personnel Administration utilizing skills in recruiting, training and compensation.\\ 
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+
+
+\section{\centerline{TÍTULOS ACADÉMICOS}} 
+
+\vspace{8pt} % Gap between title and text
+
+%   				1. Carátula
+    \input{partes/formacion}% 	2. Títulos
+    \input{partes/profesor}% 	3. Antecedentes Docentes
+    \input{partes/investigador}%4. Antecedentes Investigac.
+    \input{partes/colaboraciones}% 5. Antecedentes Extensión 
+    \input{partes/publicaciones}%  6. Publicaciones
+    \input{partes/divulgacion}
+    \input{partes/presentaciones}% 7. Presentaciones
+    \input{partes/participaciones}%9.Participaciones 
+    \input{partes/traducciones} % 10. Traducciones
+%     \input{partes/idiomas}
+
+
+
+%----------------------------------------------------------------------------------------
+ 
+\vspace{0.2in} % Some whitespace between sections
+
+% %----------------------------------------------------------------------------------------
+% %	PROFESSIONAL EXPERIENCE SECTION
+% %----------------------------------------------------------------------------------------
+% 
+% \section{\centerline{PROFESSIONAL EXPERIENCE}} 
+% 
+% \vspace{8pt} % Gap between title and text
+% 
+% {\sl International Business Machines} \hfill January -- August 1990 \\
+% General Products Division, Tucson, AZ \hfill (Co-op Assignment)
+% \begin{itemize} \itemsep -2pt % Reduce space between items
+% \item Developed new selection criteria for applicant screening and selection at GPD Tucson. Conducted job analysis, wrote criteria, identified skill codes for applicant tracking, established rater reliability. 
+% \item Interviewed applicants for positions in Assembly, Warehousing, and Direct Customer Response. 
+% \item Assistant Co-op Coordinator. Initiated and maintained computer tracking for Co-op program. Organized all co-op seminars and activities, co-op directory. 
+% \item Representative on GPD Compensation Task Force. Prepared job descriptions, assigned corporate position code, and submitted for division approval. 
+% \end{itemize}
+% 
+% {\sl Rensselaer Polytechnic Institute, Troy, NY} \\[2pt]
+% Professional Leadership Program, School of Management \hfill October 1988 -- March 1989 
+% \begin{itemize} \itemsep -2pt % Reduce space between items
+% \item Developed standardized interview to identify early management potential. Generated leadership dimensions and applicant assessment scale. 
+% \item Completed 30 hours of interviewer training. Interviewed 75 candidates. 
+% \end{itemize} 
+% \vspace{-6pt} % Reduce space between positions at the same organization
+% Department of Psychology \hfill May -- December 1989 
+% \begin{itemize} 
+% \item Trained engineering students in the development of interpersonal skills. Facilitated group interaction, provided individual feedback via application analysis papers. 
+% \end{itemize}
+%  
+% {\sl New York State Department of Mental Health} \hfill September -- December 1989 \\
+% Bureau of Management and Program Evaluation, Albany, NY 
+% \begin{itemize}
+% \item Conducted research to identify key evaluation factors in the statewide investigation of Intensive Care Facilities for disabled persons.
+% \end{itemize}
+% 
+% {\sl Colonie Center Shopping Mall} \hfill January -- June 1989 \\ Albany, NY 
+% \begin{itemize} \itemsep -2pt % Reduce space between items
+% \item Served as consultant for new management team in techniques for managing change. 
+% \item Developed and administered organizational climate survey. 
+% \item Facilitated management-employee feedback sessions. 
+% \end{itemize}
+% 
+% %----------------------------------------------------------------------------------------
+% 
+% \vspace{0.2in} % Some whitespace between sections
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+% 
+% \section{\centerline{COMPUTER SKILLS}}
+% 
+% \vspace{8pt} % Gap between title and text
+% 
+% Experienced in SPSS, BMDP statistical packages; LOTUS 1-2-3, Personal Editor 
+% 
+% %----------------------------------------------------------------------------------------
+% 
+% \vspace{0.2in} % Some whitespace between sections
+
+% %----------------------------------------------------------------------------------------
+% %	PUBLICATIONS SECTION
+% %----------------------------------------------------------------------------------------
+% 
+% \section{\centerline{PUBLICATIONS}} 
+% 
+% \vspace{15pt} % Gap between title and text
+% \begin{itemize} \itemsep -2pt % Reduce space between items
+% \item ``Job Analysis - A True Picture," Journal of Headhunters, Vol. 5, Number 3. Fall 1990 
+% \item ``The Fine Tuning of Interpersonal Skills," Journal of Recruiting/Hiring, Vol. 16, Number 7, August 1990
+% \end{itemize}
+% 
+% %----------------------------------------------------------------------------------------
+% 
+% \vspace{0.2in} % Some whitespace between sections
+
+%----------------------------------------------------------------------------------------
+%	MEMBERSHIPS SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{\centerline{MEMBERSHIPS}} 
+% 
+% \vspace{-5pt} % Reduce space between section title and contents
+% 
+% \begin{center}
+% American Psychological Association, Student Affiliate \\
+% Vice President of Activities, RPI Weight-training Club \\ 
+% Chairperson, Entertainment Committee, Utica College \\ 
+% Latin-American Student Union, Utica College \\
+% Member All-American Nautilus 
+% \end{center}
+% 
+% %----------------------------------------------------------------------------------------
+% 
+% \vspace{0.2in} % Some whitespace between sections
+% 
+% %----------------------------------------------------------------------------------------
+% %	HONORS SECTION
+% %----------------------------------------------------------------------------------------
+% 
+% \section{\centerline{HONORS}} 
+% 
+% \vspace{-5pt} % Reduce space between section title and contents
+% 
+% \begin{center}
+% Full tuition assistantship, Rensselaer Polytechnic Institute \\
+% PSI CHI National Honor Society \\
+% PHI THETA KAPPA National Honor Society 
+% \end{center}
+
+%----------------------------------------------------------------------------------------
+
+% \vspace{0.2in} % Some whitespace between sections
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+
+\end{resume} 
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Long Professional Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.latextemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+% Important note:
+% This template requires the res.cls file to be in the same directory as the
+% .tex file. The res.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------

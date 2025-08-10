@@ -1,0 +1,17 @@
+2022-08-13 17:09:17 URL:http://ramoneando.com/ [4119/4119] -> "index.html.2.tmp.tmp" [1]
+http://ramoneando.com/robots.txt:
+2022-08-13 17:09:18 ERROR 404: Not Found.
+2022-08-13 17:09:19 URL: http://ramoneando.com/pics/flashlight-black.png 200 OK
+unlink: No such file or directory
+2022-08-13 17:09:21 URL:http://ramoneando.com/stylesheets/bootstrap.min.css [153182/153182] -> "bootstrap.min.css.tmp.tmp" [1]
+2022-08-13 17:09:24 URL:http://ramoneando.com/stylesheets/bootstrap.css [1258/1258] -> "bootstrap.css.tmp.tmp" [1]
+2022-08-13 17:09:25 URL:http://ramoneando.com/sobre/sobre-mi.html [8418/8418] -> "sobre-mi.html.tmp.tmp" [1]
+2022-08-13 17:09:28 URL:http://ramoneando.com/sociology/index.html [10002/10002] -> "index.html.2.tmp.tmp" [1]
+2022-08-13 17:09:30 URL:http://ramoneando.com/posts/archivo.html [7401/7401] -> "archivo.html.tmp.tmp" [1]
+2022-08-13 17:09:32 URL:http://ramoneando.com/docs/earthworms.html [9714/9714] -> "earthworms.html.tmp.tmp" [1]
+2022-08-13 17:09:34 URL:http://ramoneando.com/movie/index-pi.html [4893/4893] -> "index-pi.html.tmp.tmp" [1]
+Found no broken links.
+
+FINISHED --2022-08-13 17:09:34--
+Total wall clock time: 19s
+Downloaded: 8 files, 194K in 0.1s (1.72 MB/s)

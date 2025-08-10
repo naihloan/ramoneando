@@ -1,0 +1,55 @@
+%------------------------------------------------------------
+%	 OTHER INFORMATION
+%------------------------------------------------------------
+
+\section{%
+  \en{Independent Projects}%
+  \de{Proyectos Independientes}%
+}
+
+\begin{twenty} 
+	\cvitem{2018\en{--today}\de{ -- hoy}}%
+	{%
+	  \en{Writer}\de{Escritor} %
+	  + Editor} % \hfill
+	{[ Green Drinks Córdoba ]}{}
+%
+	\cvitem{2016--2019}{%\textit{%
+	    \en{Writer}%
+	    \de{Escritor} %
+	    + Editor}
+	    % \en{independent book publishing}%
+	    % \de{publicación de libro independiente}%
+	  %} 
+	  %\hfill 
+	  {[ %
+	  \en{Inextricable Publisher }%
+	  \de{Ediciones Inextricables }% 
+	  ]}	  
+
+	\cvitem{2013\en{--today}\de{ -- hoy}}{%
+	  \en{Personal web site }%
+	  \de{Sitio web personal }%
+	  }
+	  \hfill 
+	  %[ \texttt{ramoneando.com} ]}
+	  [ 
+	  \href{http://ramoneando.com/}{ramoneando.com}
+% 	  ramoneando.com 
+	  ]}
+	  
+	\cvitem{2008\en{--today}\de{ -- hoy}}{%
+	Papers
+ 	  % \en{Papers}\de{Papers} %
+	  %+ Editor 
+	  \hfill
+	  [ \en{Several}\de{Varios} ]}	  
+	  
+
+	
+% 	\twentyitemshort{2009\en{--today}\de{ -- hoy}}{%
+% 	\en{text and design editing tool }%
+% 	\de{herramientas de edición y diseño de texto }%
+% 	\hfill [ \LaTeX $ $ ]}
+	
+\end{twenty}
