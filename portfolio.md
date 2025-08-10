@@ -13,15 +13,11 @@ layout: page
 
 # My Web3 Product Portfolio
 
-Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process, and projects as a Product Manager driving Web3 innovation. 
+Here are some of my work, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process, and projects as a Product Manager driving Web3 innovation. (Please don´t mind too much about the UI, I´m not a designer.)
 
+<!-- 
 <a href="/docs/benji-goals.pdf" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Here are my goals</a>
-
-Please feel free to reach out by [email](mailto:venhamon@gmail.com) or [DM](https://linkedin.com/in/bj-pm). After that, we can have a [meet and greet](http://calendly.com/venhamon).
-
-<a href="mailto:venhamon@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
-Let´s meet up!
-</a>
+-->
 
 <!-- # Web3 Products Launched -->
 
@@ -149,6 +145,14 @@ Currently an IC (individual contributor), aiming to lead as Head of Product or P
 <a href="/docs/benji-goals.pdf" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Read More About My Goals</a>
 
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I?</a>
+
+Please feel free to reach out by [email](mailto:venhamon@gmail.com) or [DM](https://linkedin.com/in/bj-pm). After that, we can have a [meet and greet](http://calendly.com/venhamon).
+
+<!--
+<a href="mailto:venhamon@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
+Let´s meet up!
+</a>
+-->
 
 <a href="mailto:venhamon@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
 Got a product role, or idea? Let´s connect!
