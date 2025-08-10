@@ -1,0 +1,11 @@
+Configuration file: /Users/shashis/Public/ramoneando/_config.yml
+            Source: /Users/shashis/Public/ramoneando
+       Destination: /Users/shashis/Public/ramoneando/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.151 seconds.
+ Auto-regeneration: enabled for '/Users/shashis/Public/ramoneando'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000//
+  Server running... press ctrl-c to stop.
