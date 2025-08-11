@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I´m also interested in crypto, ethnography, art, and vermicomposting.  
   What are you into?
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://naihloan.github.io/ramoneando" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ramoneando.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: venhamon
 github_username:  naihloan
 linkedin_username: bj-pm # e.g., yourusername (not full URL)
