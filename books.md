@@ -4,6 +4,8 @@ permalink: /books/
 layout: page
 ---
 
+![my books](/assets/images/books.png)]
+
 > <div style="text-align: right;">
 > "We play not to avoid losing but to find out what we are capable of"  
 >   <br/>

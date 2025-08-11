@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
+
 ☺️ Hey, thanks for coming over. 
 
 🏆 I´m Benji: a Product Manager working in tech over the past 5+ years.
@@ -18,7 +20,9 @@ I also have a background with a masters´ degree as a Sociologist. And I´m now 
 🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
 See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
 
+<!--
 [![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
+-->
 
 📃 Feel free to check out my [CV](/docs/benji-cv.pdf), or reach out to me. Socials are in the footer of this page ;)
 

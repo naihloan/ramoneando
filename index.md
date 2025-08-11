@@ -4,7 +4,7 @@ layout: page
 ---
 
 [![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
-My 3-Minute Pitch @ ETH Event 2023
+*[My 3-Minute Pitch @ ETH Event 2023](https://youtu.be/0ZllEEaVkq0?t=5203)*
 
 <!--
 > <div style="text-align: right;">
