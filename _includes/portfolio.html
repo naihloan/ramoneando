@@ -1,0 +1,83 @@
+{% for category in page.portfolio %}
+  <section class="portfolio-section">
+    <h2>{{ category.name }}</h2>
+    <div class="gallery">
+      {% for item in category.images %}
+        <div class="gallery-item">
+          <a href="{{ item.url | relative_url }}"
+             data-lightbox="{{ category.name }}"
+             data-title="<strong>{{ item.caption_title }}</strong> - {{ item.caption_text }}">
+            <img src="{{ item.thumb | relative_url }}" alt="{{ item.alt }}">
+          </a>
+          {% if item.caption_title or item.caption_text %}
+            <div class="caption">
+              {% if item.caption_title %}<strong>{{ item.caption_title }}</strong>{% endif %}
+              {% if item.caption_text %} – {{ item.caption_text }}{% endif %}
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}
+
+<style>
+.portfolio-section {
+  margin: 60px 0; /* Base vertical space between sections */
+}
+
+.portfolio-section h2 {
+  margin-bottom: 20px; /* Space below category title */
+  border-bottom: 2px solid #eee;
+  padding-bottom: 5px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px; /* Base gap between gallery items */
+}
+
+.gallery-item {
+  text-align: center;
+  margin-bottom: 20px; /* Added for more vertical space in responsive view */
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.gallery img:hover {
+  transform: scale(1.03);
+}
+
+.caption {
+  font-size: 0.9rem;
+  color: #444;
+  margin-top: 6px;
+}
+
+.caption strong {
+  color: #222;
+}
+
+/* Responsive view (mobile, <600px) */
+@media screen and (max-width: 600px) {
+  .portfolio-section {
+    margin: 80px 0; /* More space between sections on mobile */
+  }
+  .gallery {
+    gap: 24px; /* More space between gallery items on mobile */
+  }
+  .gallery-item {
+    margin-bottom: 30px; /* Extra vertical space for stacked items */
+  }
+}
+</style>
+
+<!-- Lightbox CSS/JS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
