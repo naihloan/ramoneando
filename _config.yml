@@ -22,8 +22,8 @@ title: ramoneando.com
 email: venhamon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is all about sharing my interests and connecting with others. 
-  I´m into tech, product, UX (user experience), wellness, social impact and media publishing (music and books). 
-  I´m also interested in crypto, ethnography, art, and vermicomposting.  
+  I´m into tech, product, user experience [UX], wellness, social impact and media publishing: music and books. 
+  I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. 
   What are you into?
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "naihloan.github.io/ramoneando" # the base hostname & protocol for your site, e.g. http://example.com

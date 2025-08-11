@@ -1,29 +1,39 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
 ☺️ Hey, thanks for coming over. 
 
-🏆 I´m Benji: a sociologist, and over the past 5+ years turned to work in tech and product as a Product Manager. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real impact. 
+🏆 I´m Benji: a Product Manager working in tech over the past 5+ years.
+I also have a background with a masters´ degree as a Sociologist. And I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. 
 
-<a href="/portfolio/" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
+<a href="/portfolio/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
 	See my product portfolio
 </a>
 
 👾 Fun fact: I've researched urban art, and always aim to learn more about User Experience [UX]. 
 
 🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
-
-<a href="https://youtu.be/0ZllEEaVkq0?t=5203" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">3-minute pitch at live event</a>
+See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
 
 [![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
 
 📃 Feel free to check out my [CV](/docs/benji-cv.pdf), or reach out to me. Socials are in the footer of this page ;)
 
-<a href="mailto:venhamon@gmail.com" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
- Do you have a product vision, or idea? Let´s connect and make it happen! 
-</a>
+ Do you have a product vision, or idea? 
+ [Let´s connect and make it happen!](mailto:venhamon@gmail.com)
 
+---
 
+# About this Site 
+* This page is built with jekyll, ruby, markdown and HTML
+* I prefer to use code, not a no-code solution
+<!-- , or a dependency like WordPress, not there´s anything wrong with that -->
+* You can do the same in a terminal: 
+	- `git clone https://github.com/naihloan/ramoneando`
+	- `cd $_`
+	- [install ruby, jekyll and dependencies](https://jekyllrb.com/docs/installation/)
+	- `bundle exec jekyll serve --livereload`
+	- Goto: [localhost:4000](http://localhost:4000)

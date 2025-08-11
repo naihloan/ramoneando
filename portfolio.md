@@ -13,7 +13,7 @@ layout: page
 
 # My Web3 Product Portfolio
 
-Here are some of my work, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process, and projects as a Product Manager driving Web3 innovation. (Please don´t mind too much about the UI, I´m not a designer.)
+Here are some of my work, in the spirit of OnePage/OneHour[*](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process, and projects as a Product Manager driving Web3 innovation. (Please don´t mind too much about the UI, I´m not a designer.)
 
 <!-- 
 <a href="/docs/benji-goals.pdf" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Here are my goals</a>
@@ -133,7 +133,7 @@ I’m a social media recluse but connect for work. [Connect with me on LinkedIn]
 
 I´m seeking a Product Manager role at an early stage startup in Series A, with focus on user experience (UX), on industries like wellbeing, social impact, and media.
 
-[Read More](/docs/benji-cv.pdf)
+[Read More: my CV](/docs/benji-cv.pdf)
 
 
 
@@ -142,11 +142,35 @@ I´m seeking a Product Manager role at an early stage startup in Series A, with 
 
 Currently an IC (individual contributor), aiming to lead as Head of Product or Product Lead by 2030. Developing skills in data, strategy, culture.
 
+[Read More: My Goals](/docs/benji-goals.pdf)
+
+<!--
 <a href="/docs/benji-goals.pdf" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Read More About My Goals</a>
 
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I?</a>
+-->
 
-Please feel free to reach out by [email](mailto:venhamon@gmail.com) or [DM](https://linkedin.com/in/bj-pm). After that, we can have a [meet and greet](http://calendly.com/venhamon).
+---
+
+## Got a product role, or idea? Let´s connect!
+
+Please feel free to reach out by [email](mailto:venhamon@gmail.com) or [DM](https://linkedin.com/in/bj-pm). After that, we can have a 
+meet and greet!
+
+<!--
+[meet and greet](http://calendly.com/venhamon).
+-->
+
+<!--
+<a href="mailto:venhamon@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
+  Here´s my availability
+ Do you have a product vision, or idea? Let´s connect and make it happen! 
+</a>
+-->
+
+<a href="http://calendly.com/venhamon" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
+  Schedule a Meet and Greet
+</a>
 
 <!--
 <a href="mailto:venhamon@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
@@ -154,9 +178,10 @@ Let´s meet up!
 </a>
 -->
 
+<!--
 <a href="mailto:venhamon@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
 Got a product role, or idea? Let´s connect!
-<!-- Do you have a product vision, or idea? Let´s connect and make it happen! -->
+Do you have a product vision, or idea? Let´s connect and make it happen! 
 </a>
-
+-->
 

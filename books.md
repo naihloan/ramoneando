@@ -4,6 +4,12 @@ permalink: /books/
 layout: page
 ---
 
+> <div style="text-align: right;">
+> "We play not to avoid losing but to find out what we are capable of"  
+>   <br/>
+> — Jane McGonigal 
+> </div>
+
 ## Favorite books in 2025
 
 * Player Piano. By Kurt Vonnegut Jr.
