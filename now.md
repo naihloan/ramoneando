@@ -17,6 +17,8 @@ last_modified_at: 2024-08-10 10:30:00 +0000
 # Work and Career
 * Here are [my goals](/docs/benji-goals.pdf) for the next 5+ years
 * **Looking for a new role as a Product Manager**  
+* Here´s how I see that the market perceives me, and where I can provide the most value.  
+_This is my **Candidate-Market Fit [CMF]:**_  
 *I´m seeking a Product Manager role at an early stage startup in Series A, with focus on user experience (UX), on industries like wellbeing, social impact, and media.*
 * I´ve drafted a [product portfolio](/portfolio/) to share ideas, collaboration and building mindset! 
 <!--
