@@ -4,6 +4,16 @@ layout: page
 nav_exclude: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
+
 [![David Byrne, in Stop Making Sense: Psycho Killer](/assets/images/DavidByrne.png)](https://youtu.be/wke3tdWrd3k?t=15)
 *[David Byrne, in Stop Making Sense: Psycho Killer](https://youtu.be/wke3tdWrd3k?t=15)*
 

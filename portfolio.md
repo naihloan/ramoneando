@@ -76,6 +76,16 @@ portfolio:
         caption_text: "Planned a strategy to simplify user journeys for LatAm POS users, avoiding external FAQs."
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
+
 # My Web3 Product Portfolio
 
 Here are some of my work, in the spirit of OnePage/OneHour[+](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process, and projects as a Product Manager driving Web3 innovation. (Please don´t mind too much about the UI, I´m not a designer.)

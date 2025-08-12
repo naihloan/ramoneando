@@ -4,6 +4,16 @@ title: About
 permalink: /about/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
+
 <img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
 
 ☺️ Hey, thanks for coming over. 
@@ -24,7 +34,10 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
 [![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
 -->
 
-📃 Feel free to check out my [CV](/docs/benji-cv.pdf), or reach out to me. Socials are in the footer of this page ;)
+📃 Feel free to reach out to me:  
+	- check out my [CV](/docs/benji-cv.pdf)  
+	- reach out to me by [email](mailto:venhamon@gmail.com)  
+	- Socials are in the footer of this page ;)
 
  Do you have a product vision, or idea? 
  [Let´s connect and make it happen!](mailto:venhamon@gmail.com)

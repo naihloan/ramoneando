@@ -3,8 +3,19 @@ title: Now
 permalink: /now/
 layout: page
 categories: update
-last_modified_at: 2024-08-10 10:30:00 +0000
+last_modified_at: 2025-08-12 10:30:00 +0000
+description: Benji’s current projects as a Product Manager, including career goals, music with Sinapsys, and book recommendations.
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
 
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
 
@@ -27,17 +38,18 @@ _This is my **Candidate-Market Fit [CMF]:**_
 </a>
 -->
 
-# Music
+# Playing Music
 * Playing Bass as a power trio with Sinapsys
 * Here some of [my favorite songs and albums](/music/)
 * Playing my first live gigs later this year
 
 <img src="/assets/images/sinapsys.png" alt="Benji´s Pic" style="text-align: center; width:45%; height:auto;">
 
-# Reading books
-* Diving more into UX, data, and culture.
+# Reading Books
+- Diving into **UX**, **data**, and **culture**. It helps to sharpen my Product Management skills.
 * I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios.
-* I´ve built a section in this site: [books](/books/). 
+* Check [my favorite books](/books/) for inspiration, if that helps.
+* Exploring a book exchange app idea to connect readers: I saw this idea [in paper at a local book store.](/books/#project-inception-favorite-book-sharing)
 
 # Reaching Out
 * Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites?

@@ -4,6 +4,16 @@ layout: page
 nav_exclude: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
+
 ## Books
 
 <img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:65%; height:auto;">
@@ -58,7 +68,7 @@ By Kurt Vonnegut Jr.
 * *Born a Crime: Stories From a South African Childhood.* By Trevor Noah
 * *In the Name of Wild: One Family, Five Years, Ten Countries, and a New Vision of Wildness.* By Phillip Vannini, April Vannini, Autumn Vannini
 
-## Project Inception
+## Project Inception: Favorite Book Sharing
 
 Imagine that you drop your 3 favorite books in exchange for my top 3. And so on. 
 * Could that work?
