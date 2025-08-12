@@ -27,6 +27,7 @@ description: Benji’s journey as a worker in tech and Product, including career
 
 ## Favourite Songs and LPs of all time
 
+<!--
 | Year | LP | Band | Hot Track | LP Personal Relevance |
 | :--- | :-: | :-: | :-------: | --------------------: |
 | 1994 | Unplugged | Nirvana | About A Girl | 1. Essential |
@@ -83,6 +84,67 @@ description: Benji’s journey as a worker in tech and Product, including career
 | 2003 | No es sólo rock and roll | Intoxicados | Felicidad,  Depresion | 5. Needs more listening |
 | 2005 | Awake Is The New Sleep | Ben Lee | Catch My Disease | 5. Needs more listening |
 | 2024 | Hipnótica | Hipnótica | Apocalipso | 5. Needs more listening |
+-->
+
+
+
+| Artist | Top Track | Year + LP  | 
+| -----: | :-------- | :--------- | 
+| Nirvana | About A Girl |1994. Unplugged | 
+| Charly García | Pasajera En Trance |1995. Unplugged | 
+| Proceso A Ricutti | Yo No Transé |1991. Demodé Moderno | 
+| Red Hot Chili Peppers | I Could Have Lied |1991. Blood Sugar Sex Magik | 
+| Nirvana | All Apologies |1993. In Utero | 
+| Stone Temple Pilots | Press Play |1996. Tiny Music... Songs from the Vatican Gift Shop | 
+| Radiohead | Paranoid Android |1997. OK Computer  | 
+| Cienfuegos | Ella De Pontevedra |1998. Hacia El Cosmos | 
+| The Chemical Brothers | Dream On |1999. Surrender | 
+| Francisco Bochatón | Ausente |2000. Píntame Los Labios | 
+| Rita Lee | A Hard Day's Night |2000. Aqui,  Ali,  Em Qualquer Lugar | 
+| Willy Crook & Funky Torinos | Eternity |2001. Eco | 
+| Belle & Sebastian | Fiction |2002. Storytelling | 
+| Daft Punk | Lose Yourself To Dance |2013. Random Access Memories | 
+| John Frusciante | Murderers |2001. To Record Only Water for Ten Days  | 
+| Talking Heads | Psycho Killer |1984. Stop Making Sense | 
+| Pixies | Gigantic |1987. Surfer Rosa | 
+| Pixies | Wave Of Mutilation |1989. Doolittle | 
+| Nirvana | Drain You |1991. Nevermind | 
+| U2 | Numb |1993. Zooropa | 
+| The Presidents of the United States of America | Peaches |1994. The Presidents of the United States of America | 
+| Los Rodríguez | Extraño |1996. Palabras Más, Palabras Menos | 
+| Sheryl Crow | Everyday Is a Winding Road |1996. Sheryl Crow | 
+| U2 | Discothèque |1997. Pop | 
+| U2 | God Part II |1998. Rattle and Hum | 
+| Easy Star All-Stars | Brain Damage |2003. Dub Side of the Moon | 
+| Wilco | Theologians |2004. A Ghost Is Born | 
+| LCD Soundsystem | New York,  I Love You but You're Bringing Me Down |2007. Sound Of Silver | 
+| LCD Soundsystem | Dance Yrself Clean |2010. This Is Happening | 
+| Jozef van Wissem and Sqürl | Funnel Of Love |2014. Only Lovers Left Alive (Original Motion Picture Soundtrack) | 
+| Khruangbin | May Ninth |2024. A La Sala | 
+| Pink Floyd | Astronomy Domine |1967. The Piper at the Gates of Dawn | 
+| Jorge Cafrune | No Soy De Aquí Ni Soy De Allá |1970. Esenciales | 
+| Sumo | Heroine |1986. Llegando los Monos | 
+| Nirvana | About A Girl |1989. Bleach | 
+| Pixies | Velouria |1990. Bossanova | 
+| Divididos | Paisano De Hurlingham |1993. La Era De La Boludez | 
+| Radiohead | My Iron Lung |1995. The Bends  | 
+| Soda Stereo | Zoom |1995. Sueño Stereo | 
+| Divididos | Par Mil |2000. Narigón Del Siglo | 
+| Racionais MC's | A Vida é Desafio |2002. Nada Como Um Dia Após O Outro Dia | 
+| Antonio Birabent | Río En Espiral |2002. Cardinal | 
+| Los Piojos | Canción De Cuna |2003. Máquina de sangre  | 
+| Stone Temple Pilots | Days Of The Week |2003. Thank You | 
+| Molotov | Here We Kum |2003. Dance And Dense Denso | 
+| St. Vincent | Los Ageless |2017. MassEducation | 
+| Jethro Tull | Aqualung |1971. Aqualung | 
+| Pescado Rabioso | Bajan |1973. Artaud | 
+| David Bowie & Queen | Under Pressure |1981. Greatest Hits | 
+| Titãs | Comida |1987. Jesus não tem dentes no país dos banguelas | 
+| Sheryl Crow | Soak Up the Sun |2002. C'mon,  C'mon | 
+| Intoxicados | Felicidad,  Depresion |2003. No es sólo rock and roll | 
+| Ben Lee | Catch My Disease |2005. Awake Is The New Sleep | 
+| Hipnótica | Apocalipso |2024. Hipnótica | 
+
 
 # What do you like to listen?
 
