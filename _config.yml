@@ -31,6 +31,7 @@ twitter_username: venhamon
 github_username:  naihloan
 linkedin_username: bj-pm # e.g., yourusername (not full URL)
 stackexchange_username: user:6253165 # e.g., 123456 (Stack Exchange user ID)
+google_analytics: UA-XXXXX-Y
 
 collections:
   posts:
