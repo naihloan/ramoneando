@@ -1,0 +1,78 @@
+---
+permalink: /music/
+layout: page
+nav_exclude: true
+---
+
+[![David Byrne, in Stop Making Sense: Psycho Killer](/assets/images/DavidByrne.png)](https://youtu.be/wke3tdWrd3k?t=15)
+*[David Byrne, in Stop Making Sense: Psycho Killer](https://youtu.be/wke3tdWrd3k?t=15)*
+
+
+> <div style="text-align: right;">
+> "Never lose the groove in order to find a note." 
+>   <br/>
+> — Victor Wooten   
+> </div>
+
+## Favourite Songs and LPs of all time
+
+| Year | LP | Band | Hot Track | LP Personal Relevance |
+| :--- | :-: | :-: | :-------: | --------------------: |
+| 1994 | Unplugged | Nirvana | About A Girl | 1. Essential |
+| 1995 | Unplugged | Charly García | Pasajera En Trance | 1. Essential |
+| 1991 | Demodé Moderno | Proceso A Ricutti | Yo No Transé | 2. Very High |
+| 1991 | Blood Sugar Sex Magik | Red Hot Chili Peppers | I Could Have Lied | 2. Very High |
+| 1993 | In Utero | Nirvana | All Apologies | 2. Very High |
+| 1996 | Tiny Music... Songs from the Vatican Gift Shop | Stone Temple Pilots | Press Play | 2. Very High |
+| 1997 | OK Computer  | Radiohead | Paranoid Android | 2. Very High |
+| 1998 | Hacia El Cosmos | Cienfuegos | Ella De Pontevedra | 2. Very High |
+| 1999 | Surrender | The Chemical Brothers | Dream On | 2. Very High |
+| 2000 | Píntame Los Labios | Francisco Bochatón | Ausente | 2. Very High |
+| 2000 | Aqui,  Ali,  Em Qualquer Lugar | Rita Lee | A Hard Day's Night | 2. Very High |
+| 2001 | Eco | Willy Crook & Funky Torinos | Eternity | 2. Very High |
+| 2002 | Storytelling | Belle & Sebastian | Fiction | 2. Very High |
+| 2013 | Random Access Memories | Daft Punk | Lose Yourself To Dance | 2. Very High |
+| 2001 | To Record Only Water for Ten Days  | John Frusciante | Murderers | 2. Very High |
+| 1984 | Stop Making Sense | Talking Heads | Psycho Killer | 3. High |
+| 1987 | Surfer Rosa | Pixies | Gigantic | 3. High |
+| 1989 | Doolittle | Pixies | Wave Of Mutilation | 3. High |
+| 1991 | Nevermind | Nirvana | Drain You | 3. High |
+| 1993 | Zooropa | U2 | Numb | 3. High |
+| 1994 | The Presidents of the United States of America | The Presidents of the United States of America | Peaches | 3. High |
+| 1996 | Palabras Más, Palabras Menos | Los Rodríguez | Extraño | 3. High |
+| 1996 | Sheryl Crow | Sheryl Crow | Everyday Is a Winding Road | 3. High |
+| 1997 | Pop | U2 | Discothèque | 3. High |
+| 1998 | Rattle and Hum | U2 | God Part II | 3. High |
+| 2003 | Dub Side of the Moon | Easy Star All-Stars | Brain Damage | 3. High |
+| 2004 | A Ghost Is Born | Wilco | Theologians | 3. High |
+| 2007 | Sound Of Silver | LCD Soundsystem | New York,  I Love You but You're Bringing Me Down | 3. High |
+| 2010 | This Is Happening | LCD Soundsystem | Dance Yrself Clean | 3. High |
+| 2014 | Only Lovers Left Alive (Original Motion Picture Soundtrack) | Jozef van Wissem and Sqürl | Funnel Of Love | 3. High |
+| 2024 | A La Sala | Khruangbin | May Ninth | 3. High |
+| 1967 | The Piper at the Gates of Dawn | Pink Floyd | Astronomy Domine | 4. Medium |
+| 1970 | Esenciales | Jorge Cafrune | No Soy De Aquí Ni Soy De Allá | 4. Medium |
+| 1986 | Llegando los Monos | Sumo | Heroine | 4. Medium |
+| 1989 | Bleach | Nirvana | About A Girl | 4. Medium |
+| 1990 | Bossanova | Pixies | Velouria | 4. Medium |
+| 1993 | La Era De La Boludez | Divididos | Paisano De Hurlingham | 4. Medium |
+| 1995 | The Bends  | Radiohead | My Iron Lung | 4. Medium |
+| 1995 | Sueño Stereo | Soda Stereo | Zoom | 4. Medium |
+| 2000 | Narigón Del Siglo | Divididos | Par Mil | 4. Medium |
+| 2002 | Nada Como Um Dia Após O Outro Dia | Racionais MC's | A Vida é Desafio | 4. Medium |
+| 2002 | Cardinal | Antonio Birabent | Río En Espiral | 4. Medium |
+| 2003 | Máquina de sangre  | Los Piojos | Canción De Cuna | 4. Medium |
+| 2003 | Thank You | Stone Temple Pilots | Days Of The Week | 4. Medium |
+| 2003 | Dance And Dense Denso | Molotov | Here We Kum | 4. Medium |
+| 2017 | MassEducation | St. Vincent | Los Ageless | 4. Medium |
+| 1971 | Aqualung | Jethro Tull | Aqualung | 4. Medium |
+| 1973 | Artaud | Pescado Rabioso | Bajan | 5. Needs more listening |
+| 1981 | Greatest Hits | David Bowie & Queen | Under Pressure | 5. Needs more listening |
+| 1987 | Jesus não tem dentes no país dos banguelas | Titãs | Comida | 5. Needs more listening |
+| 2002 | C'mon,  C'mon | Sheryl Crow | Soak Up the Sun | 5. Needs more listening |
+| 2003 | No es sólo rock and roll | Intoxicados | Felicidad,  Depresion | 5. Needs more listening |
+| 2005 | Awake Is The New Sleep | Ben Lee | Catch My Disease | 5. Needs more listening |
+| 2024 | Hipnótica | Hipnótica | Apocalipso | 5. Needs more listening |
+
+# What do you like to listen?
+
+<a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Let me know about your favorite music to listen or play!</a>

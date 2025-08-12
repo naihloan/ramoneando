@@ -29,6 +29,7 @@ _This is my **Candidate-Market Fit [CMF]:**_
 
 # Music
 * Playing Bass as a power trio with Sinapsys
+* Here some of [my favorite songs and albums](/music/)
 * Playing my first live gigs later this year
 
 <img src="/assets/images/sinapsys.png" alt="Benji´s Pic" style="text-align: center; width:45%; height:auto;">
@@ -36,7 +37,7 @@ _This is my **Candidate-Market Fit [CMF]:**_
 # Reading books
 * Diving more into UX, data, and culture.
 * I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios.
-* I´ve built a section in this site: [books](/books/). Still not sure how to follow up on that one.
+* I´ve built a section in this site: [books](/books/). 
 
 # Reaching Out
 * Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites?
