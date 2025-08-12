@@ -1,6 +1,7 @@
 ---
 permalink: /books/
 layout: page
+nav_exclude: true
 ---
 
 ## Books
