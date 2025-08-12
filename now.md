@@ -29,6 +29,8 @@ last_modified_at: 2024-08-10 10:30:00 +0000
 * Playing Bass as a power trio with Sinapsys
 * Playing my first live gigs later this year
 
+<img src="/assets/images/sinapsys.png" alt="Benji´s Pic" style="text-align: center; width:45%; height:auto;">
+
 # Reading books
 * Diving more into UX, data, and culture.
 * I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios.
