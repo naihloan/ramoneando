@@ -16,16 +16,50 @@ description: Benji’s journey as a worker in tech and Product, including career
 </script>
 
 [![David Byrne, in Stop Making Sense: Psycho Killer](/assets/images/DavidByrne.png)](https://youtu.be/wke3tdWrd3k?t=15)
-*[David Byrne, in Stop Making Sense: Psycho Killer](https://youtu.be/wke3tdWrd3k?t=15)*
+*[David Byrne, in Stop Making Sense: Psycho Killer](https://youtu.be/wke3tdWrd3k?t=15) This Talking Heads recording starts with the main performer alone on stage with a guitar, a recorded drum beat, and his voice. It´s so powerful and hypnotic, both in sound and in visuals.*
 
+> “I used to think anyone doing anything weird was weird. Now I know that it is the people that call others weird that are weird.”
+> ― Paul McCartney
 
+<!--
+“I used to think anyone doing anything weird was weird. Now I know that it is the people that call others weird that are weird.”
+― Paul McCartney
+
+“We are the music makers, and we are the dreamers of dreams.”
+― Arthur William Edgar O'Shaughnessy, Poems of Arthur O'Shaughnessy
+-->
+
+> “Without deviation from the norm, progress is not possible.” ― Frank Zappa
+
+<!--
 > <div style="text-align: right;">
-> "Never lose the groove in order to find a note." 
->   <br/>
-> — Victor Wooten   
+> 
+“Without deviation from the norm, progress is not possible.”
+<br/>
+> 
+― Frank Zappa
 > </div>
 
-## Favourite Songs and LPs of all time
+> <div style="text-align: right;">
+> 
+"Never lose the groove in order to find a note." 
+<br/>
+> 
+— Victor Wooten   
+> </div>
+
+> <div style="text-align: right;">
+> 
+"Creativity is Not a Scarce Commodity."
+<br/>
+> 
+— Howard Becker
+> </div>
+https://howardsbecker.com/articles/creativity.html 
+-->
+
+
+## My Favourite LPs and Songs of All Time
 
 <!--
 | Year | LP | Band | Hot Track | LP Personal Relevance |
