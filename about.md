@@ -55,3 +55,4 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
 	- [install ruby, jekyll and dependencies](https://jekyllrb.com/docs/installation/)
 	- `bundle exec jekyll serve --livereload`
 	- Goto: [localhost:4000](http://localhost:4000)
+	- [Deploy!](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)

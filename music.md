@@ -16,7 +16,7 @@ description: Benji’s journey as a worker in tech and Product, including career
 </script>
 
 [![David Byrne, in Stop Making Sense: Psycho Killer](/assets/images/DavidByrne.png)](https://youtu.be/wke3tdWrd3k?t=15)
-*[David Byrne, in Stop Making Sense: Psycho Killer](https://youtu.be/wke3tdWrd3k?t=15) This Talking Heads recording starts with the main performer alone on stage with a guitar, a recorded drum beat, and his voice. It´s so powerful and hypnotic, both in sound and in visuals.*
+*[David Byrne, in Stop Making Sense: Psycho Killer.](https://youtu.be/wke3tdWrd3k?t=15) This Talking Heads recording starts with the main performer alone on stage with a guitar, a recorded drum beat, and his voice. It´s so powerful and hypnotic, both in sound and in visuals.*
 
 > “I used to think anyone doing anything weird was weird. Now I know that it is the people that call others weird that are weird.”
 > ― Paul McCartney
