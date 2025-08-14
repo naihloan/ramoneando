@@ -70,6 +70,8 @@ Hi! This is my website: [Benji, aka venhamon](/about/). I´m mostly updating thi
 Check out what I'm doing now here
 </a>
 
+
+
 <!--
 <a href="/now/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Check out what I'm doing now here</a>
 -->

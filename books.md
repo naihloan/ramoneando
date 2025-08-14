@@ -78,5 +78,42 @@ Of course I´ve already shared them, but still a neat idea for a digital app. I 
 
 ## Checking Out
 
+<!-- Monochrome scale button with elevated effect -->
+<style>
+.mono-scale-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #000000; /* Black text */
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+.mono-scale-btn:hover {
+  color: #6c757d; /* Grey text */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-4px) scale(1.05); /* Slight scale */
+}
+@media screen and (max-width: 600px) {
+  .mono-scale-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+}
+</style>
+
+<a href="/now/" class="mono-scale-btn" aria-label="Contact me via email">
+See what I'm doing now here
+<!-- Check out what I'm doing now here -->
+</a>
+
+<!--
 <a href="/now/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
-	See what I'm doing now here</a>
+	See what I'm doing now here
+</a>
+--> 
+

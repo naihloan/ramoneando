@@ -22,11 +22,46 @@ description: Benji’s journey as a worker in tech and Product, including career
 🏆 I´m Benji: a Product Manager working in tech over the past 5+ years.
 I also have a background with a masters´ degree as a Sociologist. And I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. 
 
+
+<!-- Monochrome scale button with elevated effect -->
+<style>
+.mono-scale-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #000000; /* Black text */
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+.mono-scale-btn:hover {
+  color: #6c757d; /* Grey text */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-4px) scale(1.05); /* Slight scale */
+}
+@media screen and (max-width: 600px) {
+  .mono-scale-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+}
+</style>
+
+<a href="/portfolio/" class="mono-scale-btn" aria-label="Contact me via email">
+See my product portfolio
+</a>
+
+<!--
 <a href="/portfolio/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
 	See my product portfolio
 </a>
+-->
 
-👾 Fun fact: I've researched urban art, and always aim to learn more about User Experience [UX]. 
+👾 Fun facts: I've done a master´s research on urban art from a sociological and ethnographic view. On product and tech, I always aim to learn more about User Experience [UX]. 
 
 🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
 See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
