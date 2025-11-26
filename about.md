@@ -22,6 +22,55 @@ description: Benji’s journey as a worker in tech and Product, including career
 🏆 I´m Benji: a Product Manager working in tech over the past 5+ years.
 I also have a background with a masters´ degree as a Sociologist. And I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. 
 
+<!-- Bootstrap Primary button – clean white-text hover -->
+<style>
+.bootstrap-primary-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background-color: #0d6efd;
+  color: white !important;                  /* force white */
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  box-shadow: 0 4px 6px rgba(13, 110, 253, 0.25);
+  transform: translateY(-2px);
+  transition: all 0.25s ease;
+}
+.bootstrap-primary-btn:hover {
+  background-color: #0b5ed7;                /* slightly darker blue */
+  color: white !important;                  /* stays white */
+  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
+  transform: translateY(-4px);
+}
+.bootstrap-primary-btn:active {
+  transform: translateY(-1px);
+}
+@media (max-width: 600px) {
+  .bootstrap-primary-btn {
+    padding: 10px 20px;
+    font-size: 0.95rem;
+  }
+}
+</style>
+
+<a href="/portfolio/" class="bootstrap-primary-btn" aria-label="Contact me">
+    <!-- Got a product role? -->
+  See my product portfolio, and let’s talk!
+</a>
+
+
+👾 Fun facts: I've done a master´s research on urban art from a sociological and ethnographic view. On product and tech, I always aim to learn more about User Experience [UX]. 
+
+🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
+See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
+
+<!--
+[![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
+-->
+
+📃 Feel free to know more about me, and reach out:  
 
 <!-- Monochrome scale button with elevated effect -->
 <style>
@@ -51,32 +100,20 @@ I also have a background with a masters´ degree as a Sociologist. And I´m now 
 }
 </style>
 
-<a href="/portfolio/" class="mono-scale-btn" aria-label="Contact me via email">
-See my product portfolio
+<p><a href="/docs/benji-cv.pdf/" class="mono-scale-btn" aria-label="See my resume">
+CV
 </a>
 
-<!--
-<a href="/portfolio/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
-	See my product portfolio
+<a href="mailto:venhamon@gmail.com" class="mono-scale-btn" aria-label="Contact me via email">
+e-mail
 </a>
--->
 
-👾 Fun facts: I've done a master´s research on urban art from a sociological and ethnographic view. On product and tech, I always aim to learn more about User Experience [UX]. 
-
-🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
-See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
-
-<!--
-[![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
--->
-
-📃 Feel free to reach out to me:  
-	- check out my [CV](/docs/benji-cv.pdf)  
-	- reach out to me by [email](mailto:venhamon@gmail.com)  
-	- Socials are in the footer of this page ;)
+<a href="https://www.linkedin.com/in/bj-pm/" class="mono-scale-btn" aria-label="Contact me via LinkedIn">
+LinkedIn
+</a></p>
 
  Do you have a product vision, or idea? 
- [Let´s connect and make it happen!](mailto:venhamon@gmail.com)
+ [Let´s connect and make it happen!](calendly.com/venhamon)
 
 ---
 

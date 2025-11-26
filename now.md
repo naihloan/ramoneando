@@ -17,6 +17,70 @@ description: Benji’s current projects as a Product Manager, including career g
   gtag('config', 'G-7Z9R6XC60Z');
 </script>
 
+
+<!-- Bootstrap Primary button – clean white-text hover -->
+<style>
+.bootstrap-primary-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background-color: #0d6efd;
+  color: white !important;                  /* force white */
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  box-shadow: 0 4px 6px rgba(13, 110, 253, 0.25);
+  transform: translateY(-2px);
+  transition: all 0.25s ease;
+}
+.bootstrap-primary-btn:hover {
+  background-color: #0b5ed7;                /* slightly darker blue */
+  color: white !important;                  /* stays white */
+  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
+  transform: translateY(-4px);
+}
+.bootstrap-primary-btn:active {
+  transform: translateY(-1px);
+}
+@media (max-width: 600px) {
+  .bootstrap-primary-btn {
+    padding: 10px 20px;
+    font-size: 0.95rem;
+  }
+}
+</style>
+
+<a href="/portfolio/" class="bootstrap-primary-btn" aria-label="Contact me">
+    <!-- Got a product role? -->
+  Who am I? About section here
+</a>
+
+
+<!--
+<a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
+--> 
+
+# What I’m Doing Now
+
+###### Last update: 2025-08-11
+
+##### This is my "now" page, inspired by the [/now movement](https://nownownow.com/). Here’s what I’m up to.
+
+# Work and Career
+* **Looking for a new role as a Product Manager**  
+* Here´s how I see that the market perceives me, and where I can provide the most value.  
+_This is my **Candidate-Market Fit [CMF]:**_  
+*I´m seeking a Product Manager role at an early stage startup in Series A, with focus on user experience (UX), on industries like wellbeing, social impact, and media.*
+* I´ve drafted a [product portfolio](/portfolio/) to share ideas, collaboration and building mindset! 
+* Here's my professional plan for the next 5+ years, as my CV:
+<!--
+<a href="/portfolio/" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
+	See my portfolio
+</a>
+-->
+
+
 <!-- Monochrome scale button with elevated effect -->
 <style>
 .mono-scale-btn {
@@ -45,32 +109,12 @@ description: Benji’s current projects as a Product Manager, including career g
 }
 </style>
 
-<a href="/about/" class="mono-scale-btn" aria-label="Contact me via email">
-Who am I? About section here
+<a href="/docs/benji-goals.pdf" class="mono-scale-btn" aria-label="Contact me via email">
+My Goals
+</a> 
+<a href="/docs/benji-cv.pdf" class="mono-scale-btn" aria-label="Contact me via email">
+CV
 </a>
-
-<!--
-<a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
---> 
-
-# What I’m Doing Now
-
-###### Last update: 2025-08-11
-
-##### This is my "now" page, inspired by the [/now movement](https://nownownow.com/). Here’s what I’m up to.
-
-# Work and Career
-* Here are [my goals](/docs/benji-goals.pdf) for the next 5+ years
-* **Looking for a new role as a Product Manager**  
-* Here´s how I see that the market perceives me, and where I can provide the most value.  
-_This is my **Candidate-Market Fit [CMF]:**_  
-*I´m seeking a Product Manager role at an early stage startup in Series A, with focus on user experience (UX), on industries like wellbeing, social impact, and media.*
-* I´ve drafted a [product portfolio](/portfolio/) to share ideas, collaboration and building mindset! 
-<!--
-<a href="/portfolio/" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
-	See my portfolio
-</a>
--->
 
 # Playing Music
 * Playing Bass as a power trio with Sinapsys
