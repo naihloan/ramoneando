@@ -86,8 +86,11 @@ I´m seeking a Product Manager role at an early stage startup in Series A, with 
 </style>
 
 I've got a plan for the next 5+ years. 
-I'm lso sharing my CV, AI stance, as my 
-product portfolio to share ideas, and show how I collaborate and my building mindset. Let's build!
+I'm also sharing my 
+CV, AI stance, 
+as my 
+product portfolio to share ideas, and show how I collaborate and my building mindset. 
+Let's build!
 
 <!--
 <a href="/portfolio/" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
@@ -124,18 +127,28 @@ product portfolio to share ideas, and show how I collaborate and my building min
 }
 </style>
 
+<p>
+  
 <a href="/docs/benji-goals.pdf" class="mono-scale-btn" aria-label="Contact me via email">
-My Goals
+<em>My Goals</em>
 </a> 
 <a href="/docs/benji-cv.pdf" class="mono-scale-btn" aria-label="Contact me via email">
 CV
 </a>
-<a href="/ai/" class="mono-scale-btn" aria-label="Contact me via email">
-My take on AI
-</a>
 <a href="/portfolio/" class="mono-scale-btn" aria-label="Contact me via email">
 Product Portfolio
 </a>
+<a href="/ai/" class="mono-scale-btn" aria-label="Contact me via email">
+My take on AI
+</a>
+<a href="https://www.linkedin.com/in/bj-pm/" class="mono-scale-btn" aria-label="Contact me via LinkedIn">
+LinkedIn
+</a>
+<a href="mailto:venhamon@gmail.com" class="mono-scale-btn" aria-label="Contact me via email">
+e-mail
+</a>
+
+</p>
 
 # Playing Music
 * Playing Bass as a power trio with [Sinapsys](https://www.instagram.com/sinapsysok/)

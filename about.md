@@ -5,6 +5,9 @@ permalink: /about/
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
 
+
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
 <script>
@@ -100,17 +103,30 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
 }
 </style>
 
-<p><a href="/docs/benji-cv.pdf/" class="mono-scale-btn" aria-label="See my resume">
+<p>
+
+
+
+<a href="/docs/benji-goals.pdf" class="mono-scale-btn" aria-label="Contact me via email">
+<em>My Goals</em>
+</a> 
+<a href="/docs/benji-cv.pdf" class="mono-scale-btn" aria-label="Contact me via email">
 CV
 </a>
-
+<a href="/portfolio/" class="mono-scale-btn" aria-label="Contact me via email">
+Product Portfolio
+</a>
+<a href="/ai/" class="mono-scale-btn" aria-label="Contact me via email">
+My take on AI
+</a>
+<a href="https://www.linkedin.com/in/bj-pm/" class="mono-scale-btn" aria-label="Contact me via LinkedIn">
+LinkedIn
+</a>
 <a href="mailto:venhamon@gmail.com" class="mono-scale-btn" aria-label="Contact me via email">
 e-mail
 </a>
 
-<a href="https://www.linkedin.com/in/bj-pm/" class="mono-scale-btn" aria-label="Contact me via LinkedIn">
-LinkedIn
-</a></p>
+</p>
 
  Do you have a product vision, or idea? 
  [Let´s connect and make it happen!](calendly.com/venhamon)
