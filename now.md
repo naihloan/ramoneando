@@ -51,7 +51,7 @@ description: Benji’s current projects as a Product Manager, including career g
 }
 </style>
 
-<a href="/portfolio/" class="bootstrap-primary-btn" aria-label="Contact me">
+<a href="/about/" class="bootstrap-primary-btn" aria-label="Contact me">
     <!-- Got a product role? -->
   Who am I? About section here
 </a>
