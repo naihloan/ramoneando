@@ -132,7 +132,7 @@ Then, we can have a meet and greet!
 }
 </style>
 
-<a href="http://calendly.com/venhamon" class="bootstrap-primary-btn" aria-label="Contact me">
+<a href="http://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn" aria-label="Contact me">
 Schedule a Meet and Greet
 </a>
 
