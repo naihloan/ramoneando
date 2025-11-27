@@ -128,10 +128,37 @@ e-mail
 
 </p>
 
- Do you have a product vision, or idea? 
- [Let´s connect and make it happen!](calendly.com/venhamon)
 
----
+<!-- Monochrome scale button with elevated effect -->
+<style>
+.mono-scale-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #000000; /* Black text */
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+.mono-scale-btn:hover {
+  color: #6c757d; /* Grey text */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-4px) scale(1.05); /* Slight scale */
+}
+@media screen and (max-width: 600px) {
+  .mono-scale-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+}
+</style>
+
+
+
 
 # About this Site 
 * This page is built with jekyll, ruby, markdown and HTML
@@ -144,3 +171,12 @@ e-mail
 	- `bundle exec jekyll serve --livereload`
 	- Goto: [localhost:4000](http://localhost:4000)
 	- [Deploy!](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+
+## Do you have a product vision, or idea? 
+
+Open to PM roles. Let´s connect and make it happen! :D
+
+When is
+<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
+  the best time for you?
+</a>

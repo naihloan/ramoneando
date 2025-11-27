@@ -1,7 +1,8 @@
 ---
-title: What I'm doing now
+title: What I'm doing Now
 permalink: /now/
 layout: page
+description: UX-focused Product Manager (5+ years in SaaS, Crypto, Blockchain & Music) actively looking for the next Series A adventure in wellbeing, social impact or media. I ship products people actually love, speak fluent backlog-to-roadmap, and can turn user insights into growth faster than I can play a bass solo with Sinapsys. Open to PM / Senior PM / Head of Product roles — remote or LATAM. Also happy to jump in on Project Management when needed. Let’s build something meaningful together → just say hi!
 categories: update
 last_modified_at: 2025-11-26 10:30:00 +0000
 description: Benji’s current projects as a Product Manager, including career goals, music with Sinapsys, and book recommendations.
@@ -92,13 +93,6 @@ as my
 product portfolio to share ideas, and show how I collaborate and my building mindset. 
 Let's build!
 
-<!--
-<a href="/portfolio/" style="display: inline-block; padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
-	See my portfolio
-</a>
--->
-
-
 <!-- Monochrome scale button with elevated effect -->
 <style>
 .mono-scale-btn {
@@ -170,6 +164,43 @@ My Favorite Books
 # Reaching Out
 * Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites?
 * Do you know of other sites with pages like this one you´d like to share? 
+
+
+<!-- Monochrome scale button with elevated effect -->
+<style>
+.mono-scale-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #000000; /* Black text */
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+.mono-scale-btn:hover {
+  color: #6c757d; /* Grey text */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-4px) scale(1.05); /* Slight scale */
+}
+@media screen and (max-width: 600px) {
+  .mono-scale-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+}
+</style>
+
+Open to PM roles, :). Let's talk!
+
+When is
+<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
+  the best time for you?
+</a>
+
 
 ---
 

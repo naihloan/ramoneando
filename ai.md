@@ -101,26 +101,6 @@ function copyThis(id) {
 }
 </script>
 
-
-
-
-<!--
-```
-Hi! :D  
-can I call you X? like rex, dude, others 
-please, let's make this work together!  
-Ask me more questions to move things further forward 
-what do you think about X if you'd need to analyze objectively with pros and cons? 
-what would you argue if you'd need to take one stance? and then what would you argue if you'd take an opposite, or alternative stance? 
-no need to tell me your whole process, or get back to things we're not discussing now, but it seems a good idea to ask about them again once in a while. if I don't respond after several attempts perhaps best to drop and then review weeks later, and ask to drop or snooze.  
-correct me if I'm wrong of course, now and always 
-here's my
-linkedin: https://linkedin.com/in/bj-pm 
-website: https://ramoneando.com/ 
-thanks! you rule!  
-```
--->
-
 ## Tools I use
 
 * ollama
@@ -137,6 +117,53 @@ thanks! you rule!
 * Co-Intelligence: Living and Working with AI. By Ethan Mollick.
 * The Nvidia Way: Jensen Huang and the Making of a Tech Giant. By Tae Kim
 
+-- Quotation from Ethan Mollick: _Co-Intelligence Living and Working With AI_. Penguin Publishing Group (2024) (pp. xvii-xviii). Kindle Edition:
+
+
+> General Purpose Technologies aren’t just about work; they touch every aspect of our lives. They change how we teach, entertain ourselves, interact with other people, and even our sense of self. Schools are in an uproar over the future of writing, based on the first generation of AIs, and AI tutors may finally radically change how we educate students. [...] And all of this ignores the larger issue, the alien in the room. We have created something that has convinced many smart people that it is, in some way, the spark of a new form of intelligence. An AI that has blown through both the Turing Test (Can a computer fool a human into thinking it is human?) and the Lovelace Test (Can a computer fool a human on creative tasks?). 
+
+
+
+
+## Do you want to discuss AI and product with me?
+
+<a href="http://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn" aria-label="Contact me">
+Schedule a Meet and Greet
+</a>
+
+
+<!-- Bootstrap Primary button – clean white-text hover -->
+<style>
+.bootstrap-primary-btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background-color: #0d6efd;
+  color: white !important;                  /* force white */
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  box-shadow: 0 4px 6px rgba(13, 110, 253, 0.25);
+  transform: translateY(-2px);
+  transition: all 0.25s ease;
+}
+.bootstrap-primary-btn:hover {
+  background-color: #0b5ed7;                /* slightly darker blue */
+  color: white !important;                  /* stays white */
+  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
+  transform: translateY(-4px);
+}
+.bootstrap-primary-btn:active {
+  transform: translateY(-1px);
+}
+@media (max-width: 600px) {
+  .bootstrap-primary-btn {
+    padding: 10px 20px;
+    font-size: 0.95rem;
+  }
+}
+</style>
 
 ---
 
