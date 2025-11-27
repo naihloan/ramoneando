@@ -46,9 +46,11 @@ plugins:
 #- jekyll-sitemap
 
 header_pages:
+  - index.markdown
   - now.md
   - about.md
   - portfolio.md
+  - ai.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

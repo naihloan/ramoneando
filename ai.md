@@ -2,16 +2,10 @@
 title: AI
 permalink: /ai/
 layout: page
-categories: update
-last_modified_at: 2025-08-12 10:30:00 +0000
 description: Benji’s take on AI
 ---
 
-
-
-## My take on AI
-
-### My opinionated take on AI
+## My opinionated take on AI
 
 AI is, in my opinion, great as an idea generator, like ancient greek oracles. 
 
@@ -19,10 +13,98 @@ Answers tend to be more on the cryptic and ambiguous side; rather than accurate,
 
 I try to avoid content that is entirely produced by AI both in writing and in reading. Please don't make me read your AI content without telling me: it feels alienating. Or maybe that's just me. Maybe you can surprise me, that can be a happy moment.
 
-### How I use, and read, on AI
+## How I use, and read, on AI
+
+
 
 I do believe that certain kinds of prompts with AI can be very useful and I'd like to tailor my requests in a way that can be useful to myself and others. So maybe sharing core prompts can help. This is what I usually say when interacting with AI:
 
+<div class="copy-card">
+  <div id="copy2">
+    <!--
+Product Manager | Bassist | AI tinkerer  
+Open to PM roles @ Series A startups (wellbeing · social impact · media)  
+venhamon@gmail.com
+-->
+
+> Ask me more questions to move things further forward  
+<br/>
+> What do you think about X if you'd need to analyze objectively with pros and cons?  
+<br/>
+> What would you argue if you'd need to take one stance? and then what would you argue if you'd take an opposite, or alternative stance?  
+<br/>
+> No need to tell me your whole process, or get back to things we're not discussing now, but it seems a good idea to ask about them again once in a while. if I don't respond after several attempts perhaps best to drop and then review weeks later, and ask to drop or snooze.  
+<br/><br/>
+correct me if I'm wrong of course, now and always 
+<br/><br/>
+here's my <br/>
+linkedin: https://linkedin.com/in/bj-pm <br/>
+website: https://ramoneando.com/ 
+<br/><br/> 
+thanks! you rule! 
+  </div>
+  <button onclick="copyThis('copy2')" class="copy-btn">Copy</button>
+  <span id="copied2" class="copied-msg">Copied!</span>
+</div>
+
+<style>
+.copy-card {
+  background: #e0f2fe;
+  border-left: 5px solid #0d6efd;
+  padding: 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 2em 0;
+  position: relative;
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+.copy-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #0d6efd;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+.copy-btn:hover { background: #0b5ed7; }
+.copied-msg {
+  position: absolute;
+  top: 14px;
+  right: 100px;
+  color: #0b5ed7;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+@media (prefers-color-scheme: dark) {
+  .copy-card { 
+    background: #172554; 
+    border-left-color: #3b82f6; 
+    color: #dbeafe; 
+  }
+  .copied-msg { color: #60a5fa; }
+}
+</style>
+
+<script>
+function copyThis(id) {
+  const text = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    const msg = document.getElementById('copied'+id.slice(4));
+    msg.style.opacity = '1';
+    setTimeout(() => msg.style.opacity = '0', 2000);
+  });
+}
+</script>
+
+
+
+
+<!--
 ```
 Hi! :D  
 can I call you X? like rex, dude, others 
@@ -32,21 +114,22 @@ what do you think about X if you'd need to analyze objectively with pros and con
 what would you argue if you'd need to take one stance? and then what would you argue if you'd take an opposite, or alternative stance? 
 no need to tell me your whole process, or get back to things we're not discussing now, but it seems a good idea to ask about them again once in a while. if I don't respond after several attempts perhaps best to drop and then review weeks later, and ask to drop or snooze.  
 correct me if I'm wrong of course, now and always 
-this is my linkedin: https://linkedin.com/in/bj-pm 
-this is mywebsite: https://ramoneando.com/ 
+here's my
+linkedin: https://linkedin.com/in/bj-pm 
+website: https://ramoneando.com/ 
 thanks! you rule!  
 ```
+-->
 
-## Some of the tools I use
+## Tools I use
 
 * ollama
 * grok 
 * openAI 
 * gemini
-* chatGPT 
 * perplexity 
 * claude 
-* check builders for apps 
+* also regular check on builder apps 
 
 ## Books on AI I've enjoyed so far
 

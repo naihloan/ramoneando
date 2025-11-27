@@ -16,7 +16,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="AI" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","dateModified":"2025-08-12T07:30:00-03:00","description":"Benji’s take on AI","headline":"AI","url":"http://localhost:4000/ai/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Benji’s take on AI","headline":"AI","url":"http://localhost:4000/ai/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="ramoneando.com" /></head>
 <body><header class="site-header" role="banner">
@@ -31,7 +31,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/now/">Now</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/portfolio/">Portfolio</a></div>
+        <div class="trigger"><a class="page-link" href="/now/">What I&#39;m doing now</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/portfolio/">Portfolio</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -43,9 +43,7 @@
   </header>
 
   <div class="post-content">
-    <h2 id="my-take-on-ai">My take on AI</h2>
-
-<h3 id="my-opinionated-take-on-ai">My opinionated take on AI</h3>
+    <h2 id="my-opinionated-take-on-ai">My opinionated take on AI</h2>
 
 <p>AI is, in my opinion, great as an idea generator, like ancient greek oracles.</p>
 
@@ -53,11 +51,95 @@
 
 <p>I try to avoid content that is entirely produced by AI both in writing and in reading. Please don’t make me read your AI content without telling me: it feels alienating. Or maybe that’s just me. Maybe you can surprise me, that can be a happy moment.</p>
 
-<h3 id="how-i-use-and-read-on-ai">How I use, and read, on AI</h3>
+<h2 id="how-i-use-and-read-on-ai">How I use, and read, on AI</h2>
 
 <p>I do believe that certain kinds of prompts with AI can be very useful and I’d like to tailor my requests in a way that can be useful to myself and others. So maybe sharing core prompts can help. This is what I usually say when interacting with AI:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hi! :D  
+<div class="copy-card">
+  <div id="copy2">
+    <!--
+Product Manager | Bassist | AI tinkerer  
+Open to PM roles @ Series A startups (wellbeing · social impact · media)  
+venhamon@gmail.com
+-->
+
+&gt; Ask me more questions to move things further forward  
+<br />
+&gt; What do you think about X if you'd need to analyze objectively with pros and cons?  
+<br />
+&gt; What would you argue if you'd need to take one stance? and then what would you argue if you'd take an opposite, or alternative stance?  
+<br />
+&gt; No need to tell me your whole process, or get back to things we're not discussing now, but it seems a good idea to ask about them again once in a while. if I don't respond after several attempts perhaps best to drop and then review weeks later, and ask to drop or snooze.  
+<br /><br />
+correct me if I'm wrong of course, now and always 
+<br /><br />
+here's my <br />
+linkedin: https://linkedin.com/in/bj-pm <br />
+website: https://ramoneando.com/ 
+<br /><br /> 
+thanks! you rule! 
+  </div>
+  <button onclick="copyThis('copy2')" class="copy-btn">Copy</button>
+  <span id="copied2" class="copied-msg">Copied!</span>
+</div>
+
+<style>
+.copy-card {
+  background: #e0f2fe;
+  border-left: 5px solid #0d6efd;
+  padding: 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 2em 0;
+  position: relative;
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+.copy-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #0d6efd;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+.copy-btn:hover { background: #0b5ed7; }
+.copied-msg {
+  position: absolute;
+  top: 14px;
+  right: 100px;
+  color: #0b5ed7;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+@media (prefers-color-scheme: dark) {
+  .copy-card { 
+    background: #172554; 
+    border-left-color: #3b82f6; 
+    color: #dbeafe; 
+  }
+  .copied-msg { color: #60a5fa; }
+}
+</style>
+
+<script>
+function copyThis(id) {
+  const text = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    const msg = document.getElementById('copied'+id.slice(4));
+    msg.style.opacity = '1';
+    setTimeout(() => msg.style.opacity = '0', 2000);
+  });
+}
+</script>
+
+<!--
+```
+Hi! :D  
 can I call you X? like rex, dude, others 
 please, let's make this work together!  
 Ask me more questions to move things further forward 
@@ -65,22 +147,23 @@ what do you think about X if you'd need to analyze objectively with pros and con
 what would you argue if you'd need to take one stance? and then what would you argue if you'd take an opposite, or alternative stance? 
 no need to tell me your whole process, or get back to things we're not discussing now, but it seems a good idea to ask about them again once in a while. if I don't respond after several attempts perhaps best to drop and then review weeks later, and ask to drop or snooze.  
 correct me if I'm wrong of course, now and always 
-this is my linkedin: https://linkedin.com/in/bj-pm 
-this is mywebsite: https://ramoneando.com/ 
+here's my
+linkedin: https://linkedin.com/in/bj-pm 
+website: https://ramoneando.com/ 
 thanks! you rule!  
-</code></pre></div></div>
+```
+-->
 
-<h2 id="some-of-the-tools-i-use">Some of the tools I use</h2>
+<h2 id="tools-i-use">Tools I use</h2>
 
 <ul>
   <li>ollama</li>
   <li>grok</li>
   <li>openAI</li>
   <li>gemini</li>
-  <li>chatGPT</li>
   <li>perplexity</li>
   <li>claude</li>
-  <li>check builders for apps</li>
+  <li>also regular check on builder apps</li>
 </ul>
 
 <h2 id="books-on-ai-ive-enjoyed-so-far">Books on AI I’ve enjoyed so far</h2>
