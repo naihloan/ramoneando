@@ -62,9 +62,8 @@ description: Benji’s current projects as a Product Manager, including career g
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
 --> 
 
-## Work and Career
+### Work and Career: Looking for a new role as a Product Manager 
 
-### Looking for a new role as a Product Manager 
 
 <!--
 Here´s how I see that the market perceives me, and where I can provide the most value.  
@@ -86,12 +85,15 @@ I´m seeking a Product Manager role at an early stage startup in Series A, with 
 }
 </style>
 
+<!--
 I've got a plan for the next 5+ years. 
 I'm also sharing my 
 CV, AI stance, 
 as my 
 product portfolio to share ideas, and show how I collaborate and my building mindset. 
 Let's build!
+
+-->
 
 <!-- Monochrome scale button with elevated effect -->
 <style>
@@ -145,25 +147,24 @@ e-mail
 </p>
 
 # Playing Music
-* Playing Bass as a power trio with [Sinapsys](https://www.instagram.com/sinapsysok/)
-* Played my first live gigs in 2025
+Playing Bass as a power trio with Sinapsys. 
+<!-- [Sinapsys](https://www.instagram.com/sinapsysok/). -->
+Played my first live gigs in 2025
 
 <a href="/music/" class="mono-scale-btn" aria-label="Contact me via email">
-My Favorite Songs and Albums
+My Favorite Music
+<!-- Songs and Albums -->
 </a>
 
 # Reading Books
-- Diving into **UX**, **data**, and **culture**. It helps to sharpen my Product Management skills.
-* I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios.
-* Exploring a book exchange app idea to connect readers: I saw this idea [in paper at a local book store.](/books/#project-inception-favorite-book-sharing)
+Diving into **UX**, **data**, and **culture**. It helps to sharpen my Product Management skills. I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios. Exploring a book exchange app idea to connect readers: I saw this idea [in paper at a local book store.](/books/#project-inception-favorite-book-sharing)
 
 <a href="/books/" class="mono-scale-btn" aria-label="Contact me via email">
 My Favorite Books
 </a>
 
 # Reaching Out
-* Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites?
-* Do you know of other sites with pages like this one you´d like to share? 
+Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? I'm open to PM roles, :). Let's talk! 
 
 
 <!-- Monochrome scale button with elevated effect -->
@@ -193,8 +194,6 @@ My Favorite Books
   }
 }
 </style>
-
-Open to PM roles, :). Let's talk!
 
 When is
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
