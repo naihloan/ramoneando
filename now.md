@@ -165,7 +165,7 @@ My Favorite Books
 </a>
 
 # Reaching Out
-Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? I'm open to PM roles, :). Let's talk! 
+Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? I'm open to PM roles, :). Let's talk! When is:
 
 
 <!-- Monochrome scale button with elevated effect -->
@@ -196,7 +196,6 @@ Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/
 }
 </style>
 
-When is
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
   the best time for you?
 </a>
