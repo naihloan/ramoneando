@@ -62,8 +62,9 @@ description: Benji’s current projects as a Product Manager, including career g
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
 --> 
 
-### Work and Career: Looking for a new role as a Product Manager 
+### Work and Career, as a Product Manager 
 
+#### Looking for a new role :)
 
 <!--
 Here´s how I see that the market perceives me, and where I can provide the most value.  
@@ -72,7 +73,7 @@ This is my Candidate-Market Fit [CMF]:
 
 <div class="note">
 
-I´m seeking a Product Manager role at an early stage startup in Series A, with focus on user experience (UX), on industries like wellbeing, social impact, and media.</div>
+I´m seeking a Product Manager role at a global company in a US timezone (where I can bring value with trilingual skills in English, Spanish and Portuguese), with focus on customer experience (CX), on industries like wellbeing, social impact, and media.</div>
 
 <style>
 .note {
@@ -157,7 +158,7 @@ My Favorite Music
 </a>
 
 # Reading Books
-Diving into **UX**, **data**, and **culture**. It helps to sharpen my Product Management skills. I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios. Exploring a book exchange app idea to connect readers: I saw this idea [in paper at a local book store.](/books/#project-inception-favorite-book-sharing)
+Diving into **CX**, **UX**, **AI**, **data**, and **culture**. It helps to sharpen my Product Management skills. I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios. Exploring a book exchange app idea to connect readers: I saw this idea [in paper at a local book store.](/books/#project-inception-favorite-book-sharing)
 
 <a href="/books/" class="mono-scale-btn" aria-label="Contact me via email">
 My Favorite Books

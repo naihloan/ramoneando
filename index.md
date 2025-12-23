@@ -40,6 +40,11 @@ Hi! Here I:
 * update on things I´m doing publicly
 * reach out for ideas and connection
 * am [open to work in product](/about/), as freelance, consultant, or otherwise
+* Open to PM roles, :). Let's talk! When is:
+
+<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
+  the best time for you?
+</a>
 
 <!-- Bootstrap Primary button – clean white-text hover -->
 <style>
@@ -74,14 +79,9 @@ Hi! Here I:
 }
 </style>
 
-<p>
-<a href="/now/" class="mono-scale-btn" aria-label="Contact me via email">
-Check out what I’m doing now here
-</a>
-</p>
 
-<!--   -->
 
+<p> <a href="/now/" class="mono-scale-btn" aria-label="Contact me via email">Check out what I’m doing now here </a></p>
 <!-- Monochrome scale button with elevated effect -->
 <style>
 .mono-scale-btn {
@@ -109,13 +109,6 @@ Check out what I’m doing now here
   }
 }
 </style>
-
-Open to PM roles, :). Let's talk!
-
-When is
-<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
-  the best time for you?
-</a>
 
 <!--
 # > "The only way to do great work is to love what you do."  

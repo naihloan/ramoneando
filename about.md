@@ -5,7 +5,7 @@ permalink: /about/
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
 
-
+## I´m Benji, a Product Manager in tech
 
 
 <!-- Google tag (gtag.js) -->
@@ -20,10 +20,10 @@ description: Benji’s journey as a worker in tech and Product, including career
 
 <img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
 
-☺️ Hey, thanks for coming over. 
+☺️ Hi, thanks for coming over. 
 
-🏆 I´m Benji: a Product Manager working in tech over the past 5+ years.
-I also have a background with a masters´ degree as a Sociologist. And I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. 
+🏆 I´ve been working in tech over the past 5+ years.
+I have a background with a masters´ degree as a Sociologist researching urban spaces and public behaviour and patterns. I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. 
 
 <!-- Bootstrap Primary button – clean white-text hover -->
 <style>
@@ -64,7 +64,7 @@ I also have a background with a masters´ degree as a Sociologist. And I´m now 
 </a>
 
 
-👾 Fun facts: I've done a master´s research on urban art from a sociological and ethnographic view. On product and tech, I always aim to learn more about User Experience [UX]. 
+👾 Fun facts: I've completed a study on urban art from a sociological and ethnographic view. On product and tech, I aim to learn more about Customer Experience [CX], User Experience [UX], Information Architecture [IA], and Artificial Intelligence [[AI](../ai/)]. 
 
 🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
 See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
