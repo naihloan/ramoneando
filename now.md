@@ -62,7 +62,7 @@ description: Benji’s current projects as a Product Manager, including career g
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
 --> 
 
-### Work and Career, as a Product Manager 
+### Working as a Product Manager in tech
 
 #### Looking for a new role :)
 
