@@ -64,7 +64,9 @@ description: Benji’s current projects as a Product Manager, including career g
 
 ### Working as a Product Manager in tech
 
-#### Looking for a new role :)
+#### Looking for a new gig :)
+
+Over 2024 and 2025 I've done consulting at small and big tech companies. I feel at a crossroads.
 
 <!--
 Here´s how I see that the market perceives me, and where I can provide the most value.  
@@ -73,7 +75,30 @@ This is my Candidate-Market Fit [CMF]:
 
 <div class="note">
 
-I´m seeking a Product Manager role at a global company in a US timezone (where I can bring value with trilingual skills in English, Spanish and Portuguese), with focus on customer experience (CX), on industries like wellbeing, social impact, and media.</div>
+I´m looking to create real impact with a tech <strong>product</strong>, focusing on customer experience (CX), on industries like <strong>wellbeing, social impact, and media</strong>. I'm exploring these options:
+
+<br/><br/>
+• As a hired, or consulting-contractor, Product Manager at a global company in a US timezone, where I can bring value with trilingual skills in English, Spanish and Portuguese.
+
+<br/>
+
+• Co-founding a new company, solving a real problem, with great people that want to focus on the above industries. 
+
+<br/><br/>
+
+If you're building, or looking into partnering, and/or funding: 
+<a href="https://calendly.com/venhamon">let's meet!</a>
+
+</div>
+
+About building something new, I've already started research on, 
+* problem: people who want to do vermi-composting but find it too hard to do, with worries about smell, space, and overall not knowing how to handle it.
+* solution: build the know-how along with your community.
+* monetization: pending (metadata showing impact on life quality?)
+
+---
+
+<br/> 
 
 <style>
 .note {
