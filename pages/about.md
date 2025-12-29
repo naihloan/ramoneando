@@ -154,6 +154,18 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203).
 	- Goto: [localhost:4000](http://localhost:4000)
 	- [Deploy!](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 
+## Creed
+
+# Tech independence + avoiding free trojan-like gifts
+
+There's a number of personal blogs that I like to read. There's a certain spirit of let's build an opinion, a connection, and overall take personal notes about the world, the seld, and so on.
+
+I share [Josh Sherman´s belief:](https://joshtronic.com/ai/)
+
+> _It's my belief that everybody should have their own slice of the Internet. Share your opinions, document your life. Control the narrative, instead of giving the content away to some soulless corporation._
+
+
+
 ## Connecting: Do you have a product vision, or idea? 
 
 Open to PM roles. Let´s connect and make it happen! :D

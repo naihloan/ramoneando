@@ -41,11 +41,11 @@ status_last_checked: "December 2025"
 # Professional Links for Footer
 footer_action_links:
   - label: "Goals"
-    url: "./docs/benji-goals.pdf"
+    url: "/goals/"
     icon: "fa-solid fa-star"
 #    icon: "fa-solid fa-bullseye"
   - label: "CV"
-    url: "./docs/benji-cv.pdf"
+    url: "/cv/"
     icon: "fa-solid fa-id-card"
   - label: "LinkedIn"
     url: "https://www.linkedin.com/in/bj-pm"
@@ -67,14 +67,15 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-#- jekyll-sitemap
+  - jekyll-sitemap
+  - jekyll-feed # Good to have for RSS
 
 header_pages:
-  - index.markdown
-  - now.md
-  - about.md
-  - portfolio.md
-  - ai.md
+  - pages/index.markdown
+  - pages/now.md
+  - pages/about.md
+  - pages/portfolio.md
+  - pages/ai.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

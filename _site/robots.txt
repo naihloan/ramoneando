@@ -1,3 +1,5 @@
 User-agent: *
+Allow: /
+Sitemap: https://ramoneando.com/sitemap.xml
 Disallow: https://ramoneando.com/PIXO/intro.html  # Replace with the actual old URL
 Disallow: https://ramoneando.com/citas/jauretche.html
