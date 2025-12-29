@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>ramoneando.com | This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience [UX], wellness, social impact and media publishing: music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?</title>
+<title>ramoneando.com | This site is all about sharing my interests and connecting with others. I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?</title>
 <meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="ramoneando.com" />
 <meta property="og:locale" content="en_US" />
@@ -20,7 +20,7 @@
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="ramoneando.com" /></head>
 <body><header class="site-header" role="banner">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   <div class="wrapper"><a class="site-title" rel="author" href="/">ramoneando.com</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -31,10 +31,9 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/now/">What I&#39;m doing Now</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/portfolio/">Portfolio</a><a class="page-link" href="/ai/">AI</a></div>
+        <div class="trigger"><a class="page-link" href="/now/">What I&#39;m doing Now</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/portfolio/">Portfolio</a><a class="page-link" href="/ai/">Notes on AI</a></div>
       </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
+</header><main class="page-content" aria-label="Content">
       <div class="wrapper">
         <article class="post">
 
@@ -176,25 +175,121 @@ See what I’m doing now here
 </article>
 
       </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
+    </main><style>
+  /* 1. Force the column to take up full width so links have room to breathe */
+  .footer-col-full {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
+
+  /* 2. Style the list as a horizontal row */
+  .custom-footer-list {
+    display: flex !important;
+    flex-direction: row !important; /* Force horizontal */
+    flex-wrap: wrap !important;     /* Allow wrapping if screen is tiny */
+    justify-content: flex-start;
+    gap: 25px;                      /* Space between items */
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* 3. Style the individual items */
+  .custom-footer-list li {
+    margin-bottom: 0 !important;   /* Remove theme's bottom margin */
+  }
+
+  .custom-footer-list li a {
+    text-decoration: none !important;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: #828282; /* Theme's default grey */
+  }
+
+  .custom-footer-list li a:hover {
+    color: #333;
+    text-decoration: underline !important;
+  }
+
+  /* 4. Small Screen Adjustment */
+  @media (max-width: 600px) {
+    .custom-footer-list {
+      flex-direction: column !important; /* Back to vertical on phones */
+      gap: 12px;
+    }
+  }
+</style>
+
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.0.0/css/all.min.css">
+
+<footer class="site-footer h-card" id="footer">
+  <data class="u-url" value="/"></data>
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">ramoneando.com</h2>
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">ramoneando.com</li><li><a class="u-email" href="mailto:venhamon@gmail.com">venhamon@gmail.com</a></li></ul>
+  
+      <div class="footer-col">
+
+<!-- Status -->
+      
+      <div class="status-indicator">
+        <span class="status-dot"></span>
+        <p>
+          <strong>Status:</strong> Currently open to Product, or co-founding roles 
+          <span class="status-date">(Last checked: December 2025)</span>
+        </p>
+      </div>
+      
+
+<!-- Social Media -->
+<!-- <div class="footer-col footer-col-full"> -->
+  <ul class="custom-footer-list">
+    
+      <li>
+        <a href="/docs/benji-goals.pdf">
+          <i class="fa-solid fa-star fa-fw"></i> 
+          <span>Goals</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/docs/benji-cv.pdf">
+          <i class="fa-solid fa-id-card fa-fw"></i> 
+          <span>CV</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="https://www.linkedin.com/in/bj-pm">
+          <i class="fa-brands fa-linkedin fa-fw"></i> 
+          <span>LinkedIn</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="mailto:venhamon@gmail.com">
+          <i class="fa-solid fa-envelope fa-fw"></i> 
+          <span>Email</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="https://calendly.com/venhamon">
+          <i class="fa-solid fa-calendar-check fa-fw"></i> 
+          <span>Book a Chat</span>
+        </a>
+      </li>
+    
+  </ul>
+
+<!-- Description -->
+      </div>
+      <div class="footer-col">
+        <p>This site is all about sharing my interests and connecting with others.  I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books.  I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting.  What are you into?</p>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/naihloan"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">naihloan</span></a></li><li><a href="https://www.linkedin.com/in/bj-pm"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">bj-pm</span></a></li><li><a href="https://www.twitter.com/venhamon"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">venhamon</span></a></li></ul>
-</div>
-
-      <div class="footer-col footer-col-3">
-        <p>This site is all about sharing my interests and connecting with others.  I´m into tech, product, user experience [UX], wellness, social impact and media publishing: music and books.  I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting.  What are you into?</p>
-      </div>
     </div>
 
   </div>

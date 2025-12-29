@@ -87,7 +87,7 @@ I´m looking to create real impact with a tech <strong>product</strong>, focusin
 <br/><br/>
 
 If you're building, or looking into partnering, and/or funding: 
-<a href="https://calendly.com/venhamon">let's meet!</a>
+<a href="https://calendly.com/venhamon" target="_blank">let's meet!</a>
 
 </div>
 
@@ -95,8 +95,6 @@ About building something new, I've already started research on,
 * problem: people who want to do vermi-composting but find it too hard to do, with worries about smell, space, and overall not knowing how to handle it.
 * solution: build the know-how along with your community.
 * monetization: pending (metadata showing impact on life quality?)
-
----
 
 <br/> 
 
@@ -110,16 +108,6 @@ About building something new, I've already started research on,
   font-weight: 500;
 }
 </style>
-
-<!--
-I've got a plan for the next 5+ years. 
-I'm also sharing my 
-CV, AI stance, 
-as my 
-product portfolio to share ideas, and show how I collaborate and my building mindset. 
-Let's build!
-
--->
 
 <!-- Monochrome scale button with elevated effect -->
 <style>
@@ -148,29 +136,6 @@ Let's build!
   }
 }
 </style>
-
-<p>
-  
-<a href="/docs/benji-goals.pdf" class="mono-scale-btn" aria-label="Contact me via email">
-<em>My Goals</em>
-</a> 
-<a href="/docs/benji-cv.pdf" class="mono-scale-btn" aria-label="Contact me via email">
-CV
-</a>
-<a href="/portfolio/" class="mono-scale-btn" aria-label="Contact me via email">
-Product Portfolio
-</a>
-<a href="/ai/" class="mono-scale-btn" aria-label="Contact me via email">
-My take on AI
-</a>
-<a href="https://www.linkedin.com/in/bj-pm/" class="mono-scale-btn" aria-label="Contact me via LinkedIn">
-LinkedIn
-</a>
-<a href="mailto:venhamon@gmail.com" class="mono-scale-btn" aria-label="Contact me via email">
-e-mail
-</a>
-
-</p>
 
 # Playing Music
 Playing Bass as a power trio with Sinapsys. 

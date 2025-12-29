@@ -73,7 +73,9 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
 [![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
 -->
 
-📃 Feel free to know more about me, and reach out:  
+📃 Feel free to know more about me, and reach out: check my goals and cv in [footer](#footer). 
+
+
 
 <!-- Monochrome scale button with elevated effect -->
 <style>
@@ -102,31 +104,6 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
   }
 }
 </style>
-
-<p>
-
-
-
-<a href="/docs/benji-goals.pdf" class="mono-scale-btn" aria-label="Contact me via email">
-<em>My Goals</em>
-</a> 
-<a href="/docs/benji-cv.pdf" class="mono-scale-btn" aria-label="Contact me via email">
-CV
-</a>
-<a href="/portfolio/" class="mono-scale-btn" aria-label="Contact me via email">
-Product Portfolio
-</a>
-<a href="/ai/" class="mono-scale-btn" aria-label="Contact me via email">
-My take on AI
-</a>
-<a href="https://www.linkedin.com/in/bj-pm/" class="mono-scale-btn" aria-label="Contact me via LinkedIn">
-LinkedIn
-</a>
-<a href="mailto:venhamon@gmail.com" class="mono-scale-btn" aria-label="Contact me via email">
-e-mail
-</a>
-
-</p>
 
 
 <!-- Monochrome scale button with elevated effect -->

@@ -1,5 +1,5 @@
 ---
-title: AI
+title: Notes on AI
 permalink: /ai/
 layout: page
 description: Benji’s take on AI

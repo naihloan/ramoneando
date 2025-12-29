@@ -22,16 +22,40 @@ title: ramoneando.com
 email: venhamon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is all about sharing my interests and connecting with others. 
-  I´m into tech, product, user experience [UX], wellness, social impact and media publishing: music and books. 
+  I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books. 
   I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. 
   What are you into?
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "naihloan.github.io/ramoneando" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: venhamon
-github_username:  naihloan
+# twitter_username: venhamon
+# github_username:  naihloan
+Goals: /goals/
 linkedin_username: bj-pm # e.g., yourusername (not full URL)
-stackexchange_username: user:6253165 # e.g., 123456 (Stack Exchange user ID)
+# stackexchange_username: user:6253165 # e.g., 123456 (Stack Exchange user ID)
 google_analytics: UA-XXXXX-Y
+
+# Professional Status
+current_status: "Currently open to Product, or co-founding roles"
+status_last_checked: "December 2025"
+
+# Professional Links for Footer
+footer_action_links:
+  - label: "Goals"
+    url: "./docs/benji-goals.pdf"
+    icon: "fa-solid fa-star"
+#    icon: "fa-solid fa-bullseye"
+  - label: "CV"
+    url: "./docs/benji-cv.pdf"
+    icon: "fa-solid fa-id-card"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/bj-pm"
+    icon: "fa-brands fa-linkedin"
+  - label: "Email"
+    url: "mailto:venhamon@gmail.com"
+    icon: "fa-solid fa-envelope"
+  - label: "Book a Chat"
+    url: "https://calendly.com/venhamon"
+    icon: "fa-solid fa-calendar-check"
 
 collections:
   posts:

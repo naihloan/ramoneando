@@ -1,0 +1,95 @@
+<style>
+  /* 1. Force the column to take up full width so links have room to breathe */
+  .footer-col-full {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
+
+  /* 2. Style the list as a horizontal row */
+  .custom-footer-list {
+    display: flex !important;
+    flex-direction: row !important; /* Force horizontal */
+    flex-wrap: wrap !important;     /* Allow wrapping if screen is tiny */
+    justify-content: flex-start;
+    gap: 25px;                      /* Space between items */
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* 3. Style the individual items */
+  .custom-footer-list li {
+    margin-bottom: 0 !important;   /* Remove theme's bottom margin */
+  }
+
+  .custom-footer-list li a {
+    text-decoration: none !important;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: #828282; /* Theme's default grey */
+  }
+
+  .custom-footer-list li a:hover {
+    color: #333;
+    text-decoration: underline !important;
+  }
+
+  /* 4. Small Screen Adjustment */
+  @media (max-width: 600px) {
+    .custom-footer-list {
+      flex-direction: column !important; /* Back to vertical on phones */
+      gap: 12px;
+    }
+  }
+</style>
+
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.0.0/css/all.min.css">
+
+<footer class="site-footer h-card" id="footer">
+  <data class="u-url" value="{{ '/' | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+  
+      <div class="footer-col">
+
+<!-- Status -->
+      {% if site.current_status %}
+      <div class="status-indicator">
+        <span class="status-dot"></span>
+        <p>
+          <strong>Status:</strong> {{ site.current_status }} 
+          <span class="status-date">(Last checked: {{ site.status_last_checked }})</span>
+        </p>
+      </div>
+      {% endif %}
+
+<!-- Social Media -->
+<!-- <div class="footer-col footer-col-full"> -->
+  <ul class="custom-footer-list">
+    {% for link in site.footer_action_links %}
+      <li>
+        <a href="{{ link.url | relative_url }}">
+          <i class="{{ link.icon }} fa-fw"></i> 
+          <span>{{ link.label }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+<!-- Description -->  
+      {%- if site.author %}
+
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>
