@@ -8,59 +8,59 @@
     <html xmlns="http://www.w3.org/1999/xhtml">
       <head>
         <title>Site Index | ramoneando.com</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <style type="text/css">
           body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
-            background: #f9f9f9; 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+            background: #f4f4f7; 
             color: #333; 
-            padding: 40px 20px; 
-            line-height: 1.5;
+            margin: 0;
+            padding: 20px; 
+            font-size: 16px; /* Base size for mobile readability */
           }
           .container { 
             max-width: 800px; 
             margin: auto; 
             background: white; 
-            padding: 40px; 
+            padding: 25px; 
             border-radius: 12px; 
-            box-shadow: 0 4px 20px rgba(0,0,0,0.08); 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
           }
-          h1 { font-size: 24px; margin-bottom: 10px; color: #111; }
-          p { color: #666; margin-bottom: 30px; font-size: 14px; }
-          table { width: 100%; border-collapse: collapse; }
+          h1 { font-size: 1.5rem; margin-top: 0; color: #111; }
+          table { width: 100%; border-collapse: collapse; table-layout: fixed; }
           th { 
             text-align: left; 
             padding: 12px; 
             border-bottom: 2px solid #2a7ae2; 
             color: #2a7ae2; 
-            text-transform: uppercase; 
-            font-size: 12px; 
-            letter-spacing: 1px;
+            font-size: 0.75rem;
+            text-transform: uppercase;
           }
-          td { padding: 12px; border-bottom: 1px solid #eee; font-size: 15px; }
-          tr:hover { background: #fcfcfc; }
+          td { 
+            padding: 15px 12px; 
+            border-bottom: 1px solid #eee; 
+            word-wrap: break-word; /* Prevents overflow on mobile */
+          }
           a { color: #2a7ae2; text-decoration: none; font-weight: 500; }
-          a:hover { text-decoration: underline; }
           .priority-badge {
-            display: inline-block;
-            padding: 2px 8px;
-            border-radius: 12px;
-            font-size: 11px;
-            font-weight: bold;
             background: #eef4ff;
             color: #2a7ae2;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: bold;
           }
-          .high-priority { background: #2a7ae2; color: white; }
+          .high { background: #2a7ae2; color: white; }
         </style>
       </head>
       <body>
         <div class="container">
           <h1>ramoneando.com Index</h1>
-          <p>A directory of content organized by priority. Search engines use the XML version of this file to index the site.</p>
           <table>
             <thead>
               <tr>
-                <th>Path</th>
-                <th>Priority</th>
+                <th width="75%">Path</th>
+                <th width="25%">Priority</th>
               </tr>
             </thead>
             <tbody>
@@ -69,19 +69,23 @@
                 <tr>
                   <td>
                     <a href="{sitemap:loc}">
-                      <xsl:variable name="path" select="substring-after(sitemap:loc, 'ramoneando.com')"/>
+                      <xsl:variable name="rawPath" select="sitemap:loc"/>
                       <xsl:choose>
-                        <xsl:when test="$path = ''">/</xsl:when>
-                        <xsl:otherwise><xsl:value-of select="$path"/></xsl:otherwise>
+                        <xsl:when test="contains($rawPath, 'ramoneando.com')">
+                          /<xsl:value-of select="substring-after($rawPath, 'ramoneando.com/')"/>
+                        </xsl:when>
+                        <xsl:when test="contains($rawPath, 'naihloan.github.io/ramoneando')">
+                          /<xsl:value-of select="substring-after($rawPath, 'ramoneando/')"/>
+                        </xsl:when>
+                        <xsl:otherwise><xsl:value-of select="$rawPath"/></xsl:otherwise>
                       </xsl:choose>
                     </a>
                   </td>
                   <td>
-                    <span>
-                      <xsl:attribute name="class">
-                        <xsl:text>priority-badge</xsl:text>
-                        <xsl:if test="sitemap:priority &gt;= 0.8"> high-priority</xsl:if>
-                      </xsl:attribute>
+                    <span class="priority-badge">
+                      <xsl:if test="sitemap:priority &gt;= 0.8">
+                        <xsl:attribute name="class">priority-badge high</xsl:attribute>
+                      </xsl:if>
                       <xsl:value-of select="sitemap:priority"/>
                     </span>
                   </td>
