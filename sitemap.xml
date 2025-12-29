@@ -1,0 +1,19 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+    {% if page.url contains '.xml' or page.url contains '.css' or page.sitemap == false %}
+      {% continue %}
+    {% endif %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+      {% if page.last_modified_at %}
+        <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>{% if page.sitemap.changefreq %}{{ page.sitemap.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.sitemap.priority %}{{ page.sitemap.priority }}{% else %}0.5{% endif %}</priority>
+    </url>
+  {% endfor %}
+</urlset>
