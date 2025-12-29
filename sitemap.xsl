@@ -32,34 +32,25 @@
               <xsl:for-each select="sitemap:urlset/sitemap:url">
                 <xsl:sort select="sitemap:priority" data-type="number" order="descending"/>
                 <tr>
+                  
                   <td>
                     <xsl:variable name="itemUrl" select="sitemap:loc"/>
-                    <xsl:variable name="pathOnly">
-                      <xsl:choose>
-                        <xsl:when test="contains($itemUrl, 'ramoneando.com/')">
-                          <xsl:value-of select="substring-after($itemUrl, 'ramoneando.com/')"/>
-                        </xsl:when>
-                        <xsl:otherwise>/</xsl:otherwise>
-                      </xsl:choose>
-                    </xsl:variable>
-
                     <a href="{$itemUrl}" class="page-title">
                       <xsl:choose>
-                        <xsl:when test="$pathOnly = '' or $pathOnly = '/'">Home</xsl:when>
+                        <xsl:when test="substring($itemUrl, string-length($itemUrl)) = '/' and not(contains(substring-after($itemUrl, '://'), '/'))">
+                          Home
+                        </xsl:when>
                         <xsl:otherwise>
-                          <xsl:variable name="cleanLabel" select="translate(translate($pathOnly, '/', ''), '-', ' ')"/>
-                          <xsl:value-of select="translate(substring($cleanLabel, 1, 1), 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-                          <xsl:value-of select="substring($cleanLabel, 2)"/>
+                          <xsl:variable name="slug" select="tokenize($itemUrl, '/')[last()]" />
+                          <xsl:value-of select="translate(translate($slug, '-', ' '), 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
                         </xsl:otherwise>
                       </xsl:choose>
                     </a>
                     <span class="page-path">
-                      <xsl:choose>
-                        <xsl:when test="$pathOnly = '' or $pathOnly = '/'">/</xsl:when>
-                        <xsl:otherwise>/<xsl:value-of select="$pathOnly"/></xsl:otherwise>
-                      </xsl:choose>
+                      <xsl:value-of select="concat('/', substring-after(substring-after($itemUrl, '://'), '/'))"/>
                     </span>
                   </td>
+                  
                   <td>
                     <span class="badge">
                       <xsl:if test="sitemap:priority &gt;= 0.8"><xsl:attribute name="class">badge high</xsl:attribute></xsl:if>
