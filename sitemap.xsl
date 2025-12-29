@@ -10,46 +10,15 @@
         <title>Site Index | ramoneando.com</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <style type="text/css">
-          body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
-            background: #f4f4f7; 
-            color: #333; 
-            margin: 0;
-            padding: 20px; 
-            font-size: 16px; /* Base size for mobile readability */
-          }
-          .container { 
-            max-width: 800px; 
-            margin: auto; 
-            background: white; 
-            padding: 25px; 
-            border-radius: 12px; 
-            box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
-          }
+          body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f4f4f7; color: #333; margin: 0; padding: 20px; font-size: 16px; }
+          .container { max-width: 800px; margin: auto; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
           h1 { font-size: 1.5rem; margin-top: 0; color: #111; }
-          table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-          th { 
-            text-align: left; 
-            padding: 12px; 
-            border-bottom: 2px solid #2a7ae2; 
-            color: #2a7ae2; 
-            font-size: 0.75rem;
-            text-transform: uppercase;
-          }
-          td { 
-            padding: 15px 12px; 
-            border-bottom: 1px solid #eee; 
-            word-wrap: break-word; /* Prevents overflow on mobile */
-          }
-          a { color: #2a7ae2; text-decoration: none; font-weight: 500; }
-          .priority-badge {
-            background: #eef4ff;
-            color: #2a7ae2;
-            padding: 4px 10px;
-            border-radius: 20px;
-            font-size: 0.8rem;
-            font-weight: bold;
-          }
+          table { width: 100%; border-collapse: collapse; }
+          th { text-align: left; padding: 12px; border-bottom: 2px solid #2a7ae2; color: #2a7ae2; font-size: 0.75rem; text-transform: uppercase; }
+          td { padding: 15px 12px; border-bottom: 1px solid #eee; }
+          .page-name { font-weight: 600; color: #111; display: block; }
+          .page-link { font-size: 0.85rem; color: #666; font-family: monospace; }
+          .priority-badge { background: #eef4ff; color: #2a7ae2; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; }
           .high { background: #2a7ae2; color: white; }
         </style>
       </head>
@@ -59,7 +28,7 @@
           <table>
             <thead>
               <tr>
-                <th width="75%">Path</th>
+                <th width="75%">Content</th>
                 <th width="25%">Priority</th>
               </tr>
             </thead>
@@ -69,16 +38,19 @@
                 <tr>
                   <td>
                     <a href="{sitemap:loc}">
-                      <xsl:variable name="rawPath" select="sitemap:loc"/>
-                      <xsl:choose>
-                        <xsl:when test="contains($rawPath, 'ramoneando.com')">
-                          /<xsl:value-of select="substring-after($rawPath, 'ramoneando.com/')"/>
-                        </xsl:when>
-                        <xsl:when test="contains($rawPath, 'naihloan.github.io/ramoneando')">
-                          /<xsl:value-of select="substring-after($rawPath, 'ramoneando/')"/>
-                        </xsl:when>
-                        <xsl:otherwise><xsl:value-of select="$rawPath"/></xsl:otherwise>
-                      </xsl:choose>
+                      <span class="page-name">
+                        <xsl:variable name="slug" select="substring-before(substring-after(sitemap:loc, 'ramoneando.com/'), '/')"/>
+                        <xsl:choose>
+                          <xsl:when test="$slug = ''">Home</xsl:when>
+                          <xsl:otherwise>
+                            <xsl:value-of select="translate(substring($slug, 1, 1), 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
+                            <xsl:value-of select="substring($slug, 2)"/>
+                          </xsl:otherwise>
+                        </xsl:choose>
+                      </span>
+                      <span class="page-link">
+                        /<xsl:value-of select="substring-after(sitemap:loc, 'ramoneando.com/')"/>
+                      </span>
                     </a>
                   </td>
                   <td>
