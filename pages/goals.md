@@ -85,7 +85,7 @@ Inspired by *Pay It Forward (2000)*, I have been giving away vermicomposting-rec
 
 ###### /Goals/ page: Last updated on Decemeber 29, 2025
 
-###### PDF version of this page: [here](../assets/docs/benji-goals.pdf).
+###### PDF version of this page: [here](../docs/benji-goals.pdf).
 
 
 
