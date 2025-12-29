@@ -8,7 +8,7 @@ layout: null
     {% if page.url contains '.xml' or page.url contains '.css' or page.sitemap == false %}{% continue %}{% endif %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
-      <priority>{{ page.sitemap.priority | default: 0.5 }}</priority>
+      <priority>{{ page.sitemap_priority | default: page.sitemap.priority | default: 0.5 }}</priority>
     </url>
   {% endfor %}
 </urlset>
