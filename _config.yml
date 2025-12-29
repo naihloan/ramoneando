@@ -45,7 +45,7 @@ footer_action_links:
     icon: "fa-solid fa-star"
 #    icon: "fa-solid fa-bullseye"
   - label: "CV"
-    url: "./docs/cv/"
+    url: "./cv/"
     icon: "fa-solid fa-id-card"
   - label: "LinkedIn"
     url: "https://www.linkedin.com/in/bj-pm"

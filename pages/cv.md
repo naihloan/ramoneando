@@ -14,10 +14,52 @@ sitemap_priority: 0.9
 American Citizen, based in Argentina (Time Zone: Americas/NYC/Buenos Aires)  
 [LinkedIn](https://linkedin.com/in/bj-pm) | [3-Min Pitch @ ETH Argentina](https://youtu.be/OZIIEEaVkq0?t=5203) | [venhamon@gmail.com](mailto:venhamon@gmail.com)
 
-
 ## Professional Summary
 Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX and pre-seed incubation. Proven track record of launching impactful products and leading cross-functional teams. Skilled in data-driven decision-making and user engagement, with a focus on industries like Meditation, Fundraising, and Music. Passionate about building meaningful, user-centered solutions and driving innovation in startups.
 
+<style>
+  .skills-matrix {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+  }
+  .skill-category {
+    border: 1px solid #e1e4e8;
+    padding: 15px;
+    border-radius: 6px;
+  }
+  .skill-category h4 { margin-top: 0; color: #2a7ae2; font-size: 0.9rem; text-transform: uppercase; }
+  .skill-list { list-style: none; padding: 0; margin: 0; font-size: 0.85rem; line-height: 1.6; }
+</style>
+
+<div class="skills-matrix">
+  <div class="skill-category">
+    <h4>Product & Strategy</h4>
+    <ul class="skill-list">
+      <li>Early-Stage Scaling </li>
+      <li>SaaS Lifecycle </li>
+      <li>Go-to-Market [GTM]</li>
+    </ul>
+  </div>
+  <div class="skill-category">
+    <h4>Design & UX</h4>
+    <ul class="skill-list">
+      <li>UX Research </li>
+      <li>User-Centered Design </li>
+      <li>Figma & Miro</li>
+    </ul>
+  </div>
+  <div class="skill-category">
+    <h4>Technical Stack</h4>
+    <ul class="skill-list">
+      <li>Web3 & Blockchain</li>
+      <li>JIRA</li>
+      <li>SQL & APIs </li>
+      <li>Agile / Scrum / LeSS </li>
+    </ul>
+  </div>
+</div>
 
 <!-- --> 
 <div style="text-transform: uppercase; font-size: 3.7rem; letter-spacing: 2px; color: #999; margin-bottom: 10px;"> 
