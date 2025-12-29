@@ -5,10 +5,18 @@ layout: null
 <?xml-stylesheet type="text/xsl" href="{{ '/sitemap.xsl' | relative_url }}"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for page in site.pages %}
-    {% if page.url contains '.xml' or page.url contains '.css' or page.sitemap == false %}{% continue %}{% endif %}
+    {% if page.url contains 'index.html' or page.url contains '.xml' or page.url contains '.css' or page.sitemap == false or page.title == nil %}
+      {% continue %}
+    {% endif %}
     <url>
-      <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
-      <priority>{{ page.sitemap_priority | default: page.sitemap.priority | default: 0.5 }}</priority>
+      <loc>https://ramoneando.com{{ page.url | remove: 'index.html' }}</loc>
+      <priority>
+        {% if page.url == "/" %}1.0
+        {% elif page.url contains "cv" or page.url contains "portfolio" %}0.9
+        {% elif page.url contains "goals" or page.url contains "now" %}0.8
+        {% elif page.url contains "about" %}0.7
+        {% else %}0.5{% endif %}
+      </priority>
     </url>
   {% endfor %}
 </urlset>
