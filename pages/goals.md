@@ -2,6 +2,7 @@
 title: Goals
 permalink: /goals/
 layout: page
+sitemap_priority: 0.8
 nav_exclude: true
 description: Benji’s goals.
 ---

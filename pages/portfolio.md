@@ -2,6 +2,7 @@
 layout: default
 title: "Portfolio"
 permalink: /portfolio/
+sitemap_priority: 0.9
 description: Product Manager working in tech over the past 5+ years. I also have a background with a masters´ degree as a Sociologist. And I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. Actively looking for a UX-focused Product Manager role (5+ years in SaaS, Crypto, Blockchain & Music) for the next Series A adventure in wellbeing, social impact or media. I ship products people actually love, speak fluent backlog-to-roadmap, and can turn user insights into growth faster than I can play a bass solo with Sinapsys. Open to PM / Senior PM / Head of Product roles — remote or LATAM. Also happy to jump in on Project Management when needed. Let’s build something meaningful together → just say hi!
 portfolio:
   - name: Products Launched

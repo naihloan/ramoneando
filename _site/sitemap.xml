@@ -1,61 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/blog/2025/08/07/welcome-to-jekyll</loc>
-<lastmod>2025-08-07T22:54:26-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/2025/08/07/now</loc>
-<lastmod>2025-08-07T22:54:26-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/about/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/ai/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/books/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/cv/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/goals/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/music/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/now/</loc>
-<lastmod>2025-11-26T07:30:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/now/</loc>
-<lastmod>2025-08-12T07:30:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/portfolio/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/benji-cv.pdf</loc>
-<lastmod>2025-12-29T16:34:29-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/docs/benji-cv.pdf</loc>
-<lastmod>2025-08-11T12:19:47-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/docs/benji-goals.pdf</loc>
-<lastmod>2025-08-11T12:19:47-03:00</lastmod>
-</url>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>http://localhost:4000/404.html</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/about/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/ai/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/blog/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/books/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/cv/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/goals/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/music/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/now/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/now/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    <url>
+      <loc>http://localhost:4000/portfolio/</loc>
+      <priority>0.5</priority>
+    </url>
+  
+    
+    
+    
 </urlset>

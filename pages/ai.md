@@ -2,6 +2,7 @@
 title: Notes on AI
 permalink: /ai/
 layout: page
+sitemap_priority: 0.7
 description: Benji’s take on AI
 ---
 

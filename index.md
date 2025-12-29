@@ -1,6 +1,7 @@
 ---
 title: 
 layout: page
+sitemap_priority: 1
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations.
 ---
 

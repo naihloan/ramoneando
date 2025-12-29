@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+sitemap_priority: 0.9
 ---
 
 # Benji J
