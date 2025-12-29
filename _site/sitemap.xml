@@ -3,21 +3,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     
-    <url>
-      <loc>http://localhost:4000/404.html</loc>
-      <priority>0.5</priority>
-    </url>
-  
+    
     
     <url>
       <loc>http://localhost:4000/about/</loc>
-      <priority>0.5</priority>
+      <priority>0.7</priority>
     </url>
   
     
     <url>
       <loc>http://localhost:4000/ai/</loc>
-      <priority>0.5</priority>
+      <priority>0.7</priority>
     </url>
   
     
@@ -35,13 +31,13 @@
     
     <url>
       <loc>http://localhost:4000/cv/</loc>
-      <priority>0.5</priority>
+      <priority>0.9</priority>
     </url>
   
     
     <url>
       <loc>http://localhost:4000/goals/</loc>
-      <priority>0.5</priority>
+      <priority>0.8</priority>
     </url>
   
     
@@ -53,7 +49,7 @@
     
     <url>
       <loc>http://localhost:4000/</loc>
-      <priority>0.5</priority>
+      <priority>1</priority>
     </url>
   
     
@@ -65,7 +61,7 @@
     
     <url>
       <loc>http://localhost:4000/now/</loc>
-      <priority>0.5</priority>
+      <priority>0.8</priority>
     </url>
   
     
@@ -77,7 +73,7 @@
     
     <url>
       <loc>http://localhost:4000/portfolio/</loc>
-      <priority>0.5</priority>
+      <priority>0.9</priority>
     </url>
   
     
