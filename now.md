@@ -82,7 +82,36 @@ I´m looking to create real impact with a tech <strong>product</strong>, focusin
 <br/><br/>
 
 If you're building, or looking into partnering, and/or funding: 
-<a href="https://calendly.com/venhamon" target="_blank">let's meet!</a>
+<br/><br/>
+<a href="https://calendly.com/venhamon" class="custom-button">
+  Let's meet!
+</a>
+
+<style>
+  .custom-button {
+    display: inline-flex;
+    align-items: center;
+    background-color: #2a7ae2; /* Matches Minima Blue */
+    color: white !important;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .custom-button:hover {
+    background-color: #1756a9;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  }
+
+  .custom-button i {
+    margin-right: 10px;
+  }
+</style>
 
 </div>
 

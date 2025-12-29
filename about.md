@@ -7,23 +7,23 @@ description: Benji’s journey as a worker in tech and Product, including career
 
 ## I´m Benji, a Product Manager in tech
 
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
-
 <img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
+
+## Welcome
 
 ☺️ Hi, thanks for coming over. 
 
+(I'm really curious to know how you got here, and to know more about you. My expectation is that you're a bit of a indie navigator of sorts. I aim more for connection than for virality.)
+
+## Working
+
 🏆 I´ve been working in tech over the past 5+ years.
 I have a background with a masters´ degree as a Sociologist researching urban spaces and public behaviour and patterns. I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. 
+
+## Building
+
+<i class="fa-solid fa-web-awesome"></i>
+I've been building a website with github for over a decade. Always fun to keep learning more git, static website, UX, and sometimes more `vim`. 
 
 <!-- Bootstrap Primary button – clean white-text hover -->
 <style>
@@ -63,17 +63,22 @@ I have a background with a masters´ degree as a Sociologist researching urban s
   See my product portfolio, and let’s talk!
 </a>
 
+## Interests and challenges
 
-👾 Fun facts: I've completed a study on urban art from a sociological and ethnographic view. On product and tech, I aim to learn more about Customer Experience [CX], User Experience [UX], Information Architecture [IA], and Artificial Intelligence [[AI](../ai/)]. 
+👾 Fun facts: I've completed a study on urban art from a sociological and ethnographic view. On product and tech, I aim to learn more about Customer Experience [CX], User Experience [UX], and Artificial Intelligence [[AI](../ai/)]. I love Information Architecture [IA]: it's a fun challenge to trim out the parts that don't matter. My site was much worse before, always aiming to improve. :) As [Goktug](https://goktug.io/) says:
+
+> ~~I’m open to~~ I crave any and all sort of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
+
+
 
 🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
-See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
+See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203).
 
 <!--
 [![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
 -->
 
-📃 Feel free to know more about me, and reach out: check my goals and cv in [footer](#footer). 
+📃 Feel free to know more about me, and reach out: check my _goals_ and _cv_ in [footer](#footer). 
 
 
 
@@ -149,7 +154,7 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203)
 	- Goto: [localhost:4000](http://localhost:4000)
 	- [Deploy!](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 
-## Do you have a product vision, or idea? 
+## Connecting: Do you have a product vision, or idea? 
 
 Open to PM roles. Let´s connect and make it happen! :D
 
@@ -157,3 +162,14 @@ When is
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
   the best time for you?
 </a>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
