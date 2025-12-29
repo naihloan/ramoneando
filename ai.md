@@ -13,6 +13,11 @@ Answers tend to be more on the cryptic and ambiguous side; rather than accurate,
 
 I try to avoid content that is entirely produced by AI both in writing and in reading. Please don't make me read your AI content without telling me: it feels alienating. Or maybe that's just me. Maybe you can surprise me, that can be a happy moment.
 
+| ![The Oracle of Delphi Entranced by Heinrich Leutemann](../assets/images/delphi--by-Heinrich-Leutemann.png) | 
+|:--:| 
+| *Picture of the The Oracle of Delphi Entranced by Heinrich Leutemann, circa 1880* |
+
+
 ## How I use, and read, on AI
 
 

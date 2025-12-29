@@ -52,11 +52,6 @@ description: Benji’s current projects as a Product Manager, including career g
 }
 </style>
 
-<a href="/about/" class="bootstrap-primary-btn" aria-label="Contact me">
-    <!-- Got a product role? -->
-  Who am I? About section here
-</a>
-
 
 <!--
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
@@ -137,6 +132,8 @@ About building something new, I've already started research on,
 }
 </style>
 
+![Now time!](../assets/images/nowclock.jpg) 
+
 # Playing Music
 Playing Bass as a power trio with Sinapsys. 
 <!-- [Sinapsys](https://www.instagram.com/sinapsysok/). -->
@@ -153,6 +150,15 @@ Diving into **CX**, **UX**, **AI**, **data**, and **culture**. It helps to sharp
 <a href="/books/" class="mono-scale-btn" aria-label="Contact me via email">
 My Favorite Books
 </a>
+
+# Who am I? 
+
+<a href="/about/" class="mono-scale-btn" aria-label="Contact me">
+    <!-- Got a product role? -->
+  About section here
+</a>
+
+
 
 # Reaching Out
 Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? I'm open to PM roles, :). Let's talk! When is:
