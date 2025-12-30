@@ -1,0 +1,61 @@
+---
+---
+@import "minima";
+
+/* 1. Base Readability */
+body {
+  background-color: #1a1b1e !important;
+  color: #e8e8e8 !important;
+  font-size: 18px; /* Safe size that won't break the layout */
+}
+
+/* 2. THE NAVBAR FIX - Ensuring visibility */
+.site-header {
+  background-color: #1a1b1e !important;
+  border-bottom: 1px solid #373a40 !important;
+}
+
+.site-title, .site-title:visited, .site-nav .page-link {
+  color: #ffffff !important;
+  background-color: transparent !important; /* Ensure no white blocks */
+}
+
+/* Ensure the hamburger menu (mobile) and links are visible */
+.site-nav {
+  background-color: transparent !important;
+}
+
+/* 3. CAPTIONS & TABLES - Fix the grey-on-black */
+figcaption, caption, .table-caption, em {
+  color: #b0b0b0 !important; /* Light grey that pops on dark charcoal */
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+table {
+  color: #e8e8e8 !important;
+}
+
+td, th {
+  border-bottom: 1px solid #373a40 !important;
+}
+
+/* 4. Portfolio/Post specific fixes */
+.post-content p, .post-content li {
+  color: #e8e8e8 !important;
+}
+
+/* 5. HOVER FIX - Prevent text from disappearing */
+a:hover, 
+.site-title:hover, 
+.site-nav .page-link:hover {
+  color: #74c0fc !important;       /* A nice tech-blue that pops */
+  background-color: transparent !important; /* Prevents dark blocks */
+  text-decoration: underline !important;
+}
+
+/* Ensure footer links and portfolio links follow the same rule */
+.site-footer a:hover, 
+.post-content a:hover {
+  color: #74c0fc !important;
+}

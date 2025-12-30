@@ -9,10 +9,14 @@ sitemap_priority: 0.9
 
 <img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
 
-**Product Manager** 
+## Product Manager
 
-American Citizen, based in Argentina (Time Zone: Americas/NYC/Buenos Aires)  
-[LinkedIn](https://linkedin.com/in/bj-pm) | [3-Min Pitch @ ETH Argentina](https://youtu.be/OZIIEEaVkq0?t=5203) | [venhamon@gmail.com](mailto:venhamon@gmail.com)
+### Open to Product roles, consulting, freelancing, and co-founding
+
+American Citizen. Based in Argentina   
+Time Zone. Americas | NYC | Buenos Aires  
+Trilingual. English | Spanish | Portuguese  
+| [3-Min Pitch @ ETH Argentina 2023](https://youtu.be/OZIIEEaVkq0?t=5203) | [venhamon@gmail.com](mailto:venhamon@gmail.com) |
 
 ## Professional Summary
 Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX and pre-seed incubation. Proven track record of launching impactful products and leading cross-functional teams. Skilled in data-driven decision-making and user engagement, with a focus on industries like Meditation, Fundraising, and Music. Passionate about building meaningful, user-centered solutions and driving innovation in startups.
