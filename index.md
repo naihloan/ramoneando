@@ -26,10 +26,10 @@ description: Benji’s journey as a worker in tech and Product, including career
 > </div>
 -->
 
-# My Website, by Benji 
-
 <!--
 ## What is this all?
+
+# My Website, by Benji 
 
 bundle exec jekyll serve --livereload
 
@@ -37,11 +37,30 @@ http://localhost:4000
 
 -->
 
-Hi! Here I:
-* update on things I´m doing publicly
-* reach out for ideas and connection
-* am [open to work in product](/about/), as freelance, consultant, or otherwise
-* Open to PM roles, :). Let's talk! When is:
+# I like building products and understanding human behaviour, patterns and systems.
+
+|   | Product & Personal Approaches |
+| :--- | :--- |
+| **at NEWM** | I've built product for a decentralized music ecosystem, enabling artists to own their distribution. |
+| **Explorer** | I'm a bit of a dinosaur by choice in some areas: a very very late mobile adopter, almost zero social media. On the other hand, I prefer using a Dvorak keyboard (seems more logical and easier on the hands), vim and git, even as a product person. |
+| **Researcher** | I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
+| **The DIY (Do-It-Yourself) spirit** | I´ve learned to build a static site (like this one) over a decade ago not out of need, but because I want to learn how to build away from bloated platforms and companies that only focus on market value. There's more to it dude. |
+
+## Here are some hats I wear:
+- Product Manager [PM]
+- Project Manager[PM]
+- and all things delivery
+- building
+- researching
+- discovery
+- creating real value for real users
+
+## I'm [open to work in product roles](/about/):
+- as freelance
+- consultant
+- or otherwise
+
+## Open to PM roles, :). Let's talk! When is:
 
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
   the best time for you?

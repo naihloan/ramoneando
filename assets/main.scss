@@ -159,3 +159,74 @@ body, .site-header, .site-footer, html {
   padding-top: 20px !important;
   padding-bottom: 20px !important;
 }
+
+/* 9. THE FINAL TABLE RESET - Eliminating Grey-on-White */
+
+/* Reset the container */
+.post-content table, 
+table {
+  background-color: #1f2124 !important;
+  border-collapse: collapse !important;
+  margin: 2rem 0 !important;
+  border: 1px solid #3b3e45 !important;
+  display: table !important; /* Ensures it doesn't break into a block */
+}
+
+/* Force EVERY row, header, and cell to be dark */
+table tr, 
+table td, 
+table th,
+table thead,
+table tbody,
+.post-content table tr:nth-child(2n) {
+  background-color: #1f2124 !important;
+  color: #e8e8e8 !important; /* Bright text */
+  border: 1px solid #3b3e45 !important;
+  padding: 12px 15px !important;
+}
+
+/* Highlight the labels in the first column */
+table td:first-child, 
+table th:first-child {
+  color: #ffffff !important;
+  font-weight: bold;
+  background-color: #282a2e !important; /* Slightly distinct dark grey */
+  width: 25%;
+}
+
+/* Remove any theme-based shadows or zebra stripes */
+table tr:nth-child(even), 
+table tr:nth-child(odd),
+table tr:hover {
+  background-color: #1f2124 !important;
+}
+
+/* 10. THE SOVEREIGN RESET - No more white rows */
+
+/* Target every single table element across the entire site */
+table, thead, tbody, tfoot, tr, th, td {
+  background-color: #1f2124 !important; /* Your Obsidian Grey */
+  color: #e8e8e8 !important;            /* Light Grey Text */
+  border: 1px solid #3b3e45 !important;
+}
+
+/* Specifically kill the 'Zebra' stripes that Minima forces */
+table tr:nth-child(even),
+table tr:nth-child(2n),
+.post-content table tr:nth-child(even),
+table tbody tr:nth-child(even) {
+  background-color: #1f2124 !important;
+  color: #e8e8e8 !important;
+}
+
+/* Ensure the text is never black/dark grey */
+table td, table th, table p, table span {
+  color: #e8e8e8 !important;
+}
+
+/* Make the first column (your labels) pop */
+table td:first-child {
+  color: #ffffff !important;
+  font-weight: bold;
+  background-color: #282a2e !important;
+}
