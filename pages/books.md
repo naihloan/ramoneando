@@ -27,10 +27,12 @@ description: Benji’s journey as a worker in tech and Product, including career
 
 ## Favorite books in 2025
 
+* *Project Hail Mary.* By Andy Weir
 * *Player Piano.*
 By Kurt Vonnegut Jr.
 * *UX for Beginners: A Crash Course in 100 Short Lessons.* By Joel Marsh
 * *The 4 Pillar Plan: How to Relax, Eat, Move, Sleep Your Way to a Longer, Healthier Life.* By Dr Rangan Chatterjee
+* *Help Thanks Wow: The Three Essential Prayers*. by Anne Lamott
 * *Six Memos for the Next Millennium.* By Italo Calvino
 * *The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company.* By Robert Iger
 * *The Music Lesson: A Spiritual Search for Growth Through Music.* By Victor L. Wooten

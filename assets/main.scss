@@ -73,3 +73,89 @@ a:hover,
 .site-footer a:hover {
   color: #ffffff !important;
 }
+
+/* 6. CODE & SYNTAX HIGHLIGHTING - Dark Mode Fix */
+
+/* For inline code (like `this`) */
+code {
+  background-color: #2b2c31 !important; /* Slightly lighter charcoal */
+  color: #74c0fc !important;           /* Tech Blue for visibility */
+  padding: 2px 6px !important;
+  border-radius: 4px !important;
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* For larger code blocks (triple backticks ```) */
+pre, .highlight {
+  background-color: #121212 !important; /* Deepest black for code wells */
+  border: 1px solid #373a40 !important;
+  border-radius: 8px !important;
+  padding: 15px !important;
+  overflow-x: auto;                     /* Prevents breaking layout on mobile */
+}
+
+/* Ensure text inside code blocks is readable */
+pre code, .highlight code {
+  background-color: transparent !important;
+  color: #e8e8e8 !important;
+  padding: 0 !important;
+}
+
+/* If you use keyboard tags <kbd> */
+kbd {
+  background-color: #4a4b50 !important;
+  color: #ffffff !important;
+  border-bottom: 3px solid #1a1b1e !important;
+  border-radius: 4px;
+  padding: 2px 5px;
+}
+
+/* 7. PREMIUM POLISH: Soften Background & Clean Header */
+
+/* Softening the overall background */
+body, .site-header, .site-footer, html {
+  background-color: #1f2124 !important; /* Lighter "Obsidian" grey */
+}
+
+/* Fixing the "Dirty" Border under the Title */
+.site-header {
+  border-bottom: 1px solid #32363d !important; /* Subtle, crisp divider */
+  box-shadow: none !important;                 /* Removes any "glow" or smudge */
+}
+
+/* Adjusting Card/Container backgrounds to stay distinct */
+.container, .skill-category, pre, .highlight {
+  background-color: #282a2e !important; /* Slightly lighter than the new body bg */
+  border: 1px solid #3b3e45 !important;
+}
+
+/* Adjusting the hover background to match the softer tone */
+#nav-trigger:checked ~ .trigger {
+  background-color: #282a2e !important;
+  border: 1px solid #3b3e45 !important;
+}
+
+/* 8. BRANDING POLISH: The "ramoneando" Title */
+
+.site-title, .site-title:visited {
+  color: #ffffff !important;         /* Pure white for maximum brand impact */
+  font-weight: 700 !important;       /* Bold, but not chunky */
+  letter-spacing: -0.5px !important; /* Tighter spacing for a modern, "logo" feel */
+  font-size: 1.6rem !important;      /* Slightly larger presence */
+  transition: all 0.3s ease;
+  border: none !important;           /* Ensures no weird bottom borders on the text itself */
+  text-decoration: none !important;
+}
+
+/* Hover state for the Title */
+.site-title:hover {
+  color: #74c0fc !important;         /* Soft blue fade on hover */
+  opacity: 0.9;
+  text-decoration: none !important;  /* No underline on the logo-title */
+}
+
+/* Ensuring the "wrapper" doesn't add extra padding that misaligns it */
+.site-header .wrapper {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
