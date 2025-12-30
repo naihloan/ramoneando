@@ -45,17 +45,31 @@ td, th {
   color: #e8e8e8 !important;
 }
 
-/* 5. HOVER FIX - Prevent text from disappearing */
-a:hover, 
-.site-title:hover, 
-.site-nav .page-link:hover {
-  color: #74c0fc !important;       /* A nice tech-blue that pops */
-  background-color: transparent !important; /* Prevents dark blocks */
-  text-decoration: underline !important;
+/* 5. HIGH-CONTRAST LINK SYSTEM */
+
+/* Default Link State (Non-hover) */
+a, .site-nav .page-link, .post-content a {
+  color: #82caff !important; /* Brighter, more saturated sky blue */
+  text-decoration: none;
+  border-bottom: 1px solid rgba(130, 202, 255, 0.2); /* Subtle "indicator" line */
 }
 
-/* Ensure footer links and portfolio links follow the same rule */
-.site-footer a:hover, 
-.post-content a:hover {
-  color: #74c0fc !important;
+/* Hover State - High Visibility */
+a:hover, 
+.site-nav .page-link:hover, 
+.site-title:hover {
+  color: #ffffff !important; /* Turn pure white on hover for maximum contrast */
+  background-color: transparent !important;
+  text-decoration: underline !important;
+  /* Subtle glow to define letter edges against charcoal */
+  text-shadow: 0 0 8px rgba(130, 202, 255, 0.6) !important; 
+}
+
+/* Footer specific (usually smaller text, needs more contrast) */
+.site-footer a {
+  color: #b0b0b0 !important;
+}
+
+.site-footer a:hover {
+  color: #ffffff !important;
 }
