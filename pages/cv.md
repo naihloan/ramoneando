@@ -1,22 +1,24 @@
 ---
 layout: page
-title: CV
+title: 
 permalink: /cv/
 sitemap_priority: 0.9
 ---
 
-# Benji J
+# CV
 
 <img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
 
-## Product Manager
+# Benji J  | Product builder with focus on social and sociological systems
 
-### Open to Product roles, consulting, freelancing, and co-founding
-
-American Citizen. Based in Argentina   
-Time Zone. Americas | NYC | Buenos Aires  
-Trilingual. English | Spanish | Portuguese  
-| [3-Min Pitch @ ETH Argentina 2023](https://youtu.be/OZIIEEaVkq0?t=5203) | [venhamon@gmail.com](mailto:venhamon@gmail.com) |
+| | Milestones & Highlights |
+| :--- | :--- |
+| **Experienced Delivery builder** | Making awesome products since 2020. |
+| **Incubated Founder** | Selected for Incubation at Speezard, validating our pre-seed Project from 0 to 1. |
+| **Hackathon enthusiast & Speaker:** | Prototyped a decentralized solution and gained prizes. Presented a [3-minute pitch](https://youtu.be/OZIIEEaVkq0?t=5203) to a live audience of 2K people at ETH Argentina 2023. |
+| **Status: American Citizen** | Based in Argentina. |
+| **Time Zone: Availability** | NYC/Buenos Aires/Americas. |
+| **Linguistics: Trilingual** | English/Spanish/Portuguese. |
 
 ## Professional Summary
 Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX and pre-seed incubation. Proven track record of launching impactful products and leading cross-functional teams. Skilled in data-driven decision-making and user engagement, with a focus on industries like Meditation, Fundraising, and Music. Passionate about building meaningful, user-centered solutions and driving innovation in startups.

@@ -5,37 +5,9 @@ sitemap_priority: 1
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations.
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
 
 [![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
 *[My 3-Minute Pitch @ ETH past Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
-
-<!--
-> <div style="text-align: right;">
-> "We play not to avoid losing but to find out what we are capable of"  
->   <br/>
-> — Jane McGonigal 
-> </div>
--->
-
-<!--
-## What is this all?
-
-# My Website, by Benji 
-
-bundle exec jekyll serve --livereload
-
-http://localhost:4000
-
--->
 
 # I like building products and understanding human behaviour, patterns and systems.
 
@@ -44,9 +16,16 @@ http://localhost:4000
 | **at NEWM** | I've built product for a decentralized music ecosystem, enabling artists to own their distribution. |
 | **Explorer** | I'm a bit of a dinosaur by choice in some areas: a very very late mobile adopter, almost zero social media. On the other hand, I prefer using a Dvorak keyboard (seems more logical and easier on the hands), vim and git, even as a product person. |
 | **Researcher** | I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
-| **The DIY (Do-It-Yourself) spirit** | I´ve learned to build a static site (like this one) over a decade ago not out of need, but because I want to learn how to build away from bloated platforms and companies that only focus on market value. There's more to it dude. |
+| **Execution** | I've built and pitched products across 2 Hackathons and a Startup Incubation. I've also worked as a freelance Project Manager over the years.
+| **The DIY (Do-It-Yourself) spirit** | I´ve learned to build a static site (like this one) over a decade ago not out of need, but because I want to learn how to build away from bloated platforms and companies that only focus on market value. There's more to it dude. Let's do awesome things together. :) |
 
-## Here are some hats I wear:
+## Open to PM roles, :). Let's talk! When is:
+
+<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
+  the best time for you?
+</a>
+
+## Here are some hats I've used so far:
 - Product Manager [PM]
 - Project Manager[PM]
 - and all things delivery
@@ -56,15 +35,27 @@ http://localhost:4000
 - creating real value for real users
 
 ## I'm [open to work in product roles](/about/):
-- as freelance
+- full-time
+- freelance
 - consultant
-- or otherwise
+- co-founder
+- otherwise
 
-## Open to PM roles, :). Let's talk! When is:
 
-<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
-  the best time for you?
-</a>
+
+<!-- > <div style="text-align: right;">
+> "We play not to avoid losing but to find out what we are capable of"  >   <br/> > — Jane McGonigal > </div>
+
+# > "The only way to do great work is to love what you do."  
+# > — Steve Jobs
+
+## What is this all?
+# My Website, by Benji 
+bundle exec jekyll serve --livereload
+http://localhost:4000
+
+-->
+
 
 <!-- Bootstrap Primary button – clean white-text hover -->
 <style>
@@ -130,8 +121,12 @@ http://localhost:4000
 }
 </style>
 
-<!--
-# > "The only way to do great work is to love what you do."  
-# > — Steve Jobs
--->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
