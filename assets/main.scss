@@ -230,3 +230,11 @@ table td:first-child {
   font-weight: bold;
   background-color: #282a2e !important;
 }
+
+/* Hide the separators in modern browsers, but w3m will ignore this and show them */
+.screen-reader-only {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
