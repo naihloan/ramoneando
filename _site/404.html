@@ -54,6 +54,74 @@
 
 <p><a href="https://pbfcomics.com/comics/game-boy/"><img src="/assets/images/PBF-Game_Boy.png" alt="Perry Bible Fellowship" /></a></p>
 
+<h2 id="what-are-you-up-to">What are you up to?</h2>
+
+<p>Go <a href="/">/home/</a>. Or go 
+<a href="#" id="random-link" class="btn">/random/</a>.</p>
+
+<script>
+  // 1. Jekyll Liquid generates the array of URLs
+  const pages = [
+    
+      
+    
+      
+    
+      
+        "/about/",
+      
+    
+      
+        "/ai/",
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        "/goals/",
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        "/now/",
+      
+    
+      
+        "/now/",
+      
+    
+      
+        "/portfolio/",
+      
+    
+      
+    
+      
+    
+  ];
+
+  // 2. JavaScript picks one on click
+  const randomLink = document.getElementById('random-link');
+  
+  randomLink.addEventListener('click', function(e) {
+    e.preventDefault();
+    const randomPage = pages[Math.floor(Math.random() * pages.length)];
+    window.location.href = randomPage;
+  });
+</script>
+
+
   </div>
 
 </article>
