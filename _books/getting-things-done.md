@@ -5,7 +5,7 @@ featured: true
 weight: 10
 permalink: /books/getting-things-done/
 category: Delivery and Productivity
-tags: ["delivery", "task management", "project management", "productivity", "david allen", "getting things done", "Time Management", "Systems", "Professional Development"]
+tags: ["Product Delivery", "Project Management", "Systems"]
 last_modified_at: 2026-01-04
 # timestamp: 2026-01-05
 # slug: getting-things-done

@@ -49,6 +49,9 @@
 <loc>http://localhost:4000/portfolio/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/benji-cv.pdf</loc>
 <lastmod>2025-12-29T16:34:29-03:00</lastmod>
 </url>
