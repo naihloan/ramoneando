@@ -109,7 +109,7 @@ Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/
 
 ###### Inspired by Derek Sivers and the /now movement. See others: [nownownow.com](https://nownownow.com/)
 
-###### /now/ page: Last updated on Decemeber 29, 2025
+###### /now/ page: Last updated on January, 2026
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>

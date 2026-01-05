@@ -55,7 +55,7 @@ This book is useful managing teams and tasks, not so focused on how learn what i
 
 | ![Flow Diagram time!](/assets/images/GTD_WorkflowDiagram_Clarify.png) | 
 | :--: |
-| Decision Tree Model Diagram. GTD image in [Luca Palootta´s blog](https://www.lucapallotta.com/book-summary-getting-things-done-by-david-allen/) | 
+| Decision Tree Model Diagram. GTD image in [Luca Palootta´s blog target](https://www.lucapallotta.com/book-summary-getting-things-done-by-david-allen/){:target="_blank"} | 
 
 ## Key take away, in practice
 
