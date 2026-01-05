@@ -92,7 +92,6 @@ http://localhost:4000
 
 
 
-<p> <a href="/now/" class="mono-scale-btn" aria-label="Contact me via email">Check out what I’m doing now here </a></p>
 <!-- Monochrome scale button with elevated effect -->
 <style>
 .mono-scale-btn {
@@ -135,26 +134,39 @@ http://localhost:4000
 {% assign all_content = site.posts | concat: site.books | concat: site.pages %}
 {% assign sorted_items = all_content | where: "featured", true | sort: "weight" %}
 
-<h3>Recent Updates</h3>
+<section id="home-page">
 
-<ul style="list-style: none; padding: 0;">
-  {% for item in sorted_items %}
-    <li style="margin-bottom: 10px; display: flex; align-items: baseline; gap: 10px;">
-      
-      <a href="{{ item.url | relative_url }}" style="font-weight: 600; text-decoration: none; flex-shrink: 0;">
-        {{ item.title }}
-      </a>
+  <section id="what-i-am-doing">
+    <h3 >What I'm Doing Now</h3>
 
-      {% if item.category %}
-        <span style="font-size: 0.7em; color: #777; text-transform: uppercase; letter-spacing: 1px;">
-          • {{ item.category }}
-        </span>
-      {% endif %}
 
-      <span style="font-family: monospace; font-size: 0.85em; color: #999; margin-left: auto;">
-        {{ item.date | date: "%b %Y" }}
-      </span>
-      
-    </li>
-  {% endfor %}
-</ul>
+<p> <a href="/now/" class="mono-scale-btn" aria-label="Contact me via email">Check out what I’m doing now here </a></p>
+
+
+
+  <section id="recent-posts">
+    <h3 >Recent Updates</h3>
+    <ul style="list-style: none; padding: 0;">
+      {% for item in sorted_items %}
+        <li style="margin-bottom: 10px; display: flex; align-items: baseline; gap: 10px;">
+
+          <a href="{{ item.url | relative_url }}" style="font-weight: 600; text-decoration: none; flex-shrink: 0;">
+            {{ item.title }}
+          </a>
+
+          {% if item.category %}
+            <span style="font-size: 0.7em; color: #777; text-transform: uppercase; letter-spacing: 1px;">
+              • {{ item.category }}
+            </span>
+          {% endif %}
+
+          <span style="font-family: monospace; font-size: 0.85em; color: #999; margin-left: auto;">
+            {{ item.date | date: "%b %Y" }}
+          </span>
+
+        </li >
+      {% endfor %}
+    </ul >
+  </section>
+
+</section>
