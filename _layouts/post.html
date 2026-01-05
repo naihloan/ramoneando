@@ -1,0 +1,8 @@
+<div class="post-tags">
+  {% if page.tags %}
+    <i class="fa fa-tags"></i> Tags: 
+    {% for tag in page.tags %}
+      <span class="tag-badge">{{ tag }}</span>
+    {% endfor %}
+  {% endif %}
+</div>

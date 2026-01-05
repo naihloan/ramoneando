@@ -1,11 +1,14 @@
 ---
 title: Getting Things Done, by David Allen
 layout: post
+featured: true
+weight: 10
 # slug: getting-things-done
 permalink: /books/getting-things-done/
-category: Productivity
+category: Delivery & Productivity
 tags: ["delivery", "task management", "project management", "productivity", "david allen", "getting things done", "Time Management", "Systems", "Professional Development"]
-timestamp: 2026-01-05
+# timestamp: 2026-01-05
+last_modified_at: 2026-01-04 10:29:00 +0000
 ---
 
 ![Book time!](/assets/images/unsplash-books.jpg) 

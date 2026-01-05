@@ -2,10 +2,14 @@
 title: Now
 permalink: /now/
 layout: page
+featured: true
+weight: 1
 sitemap_priority: 0.8
 description: Benji’s current projects as a Product Manager, including career goals, music with Sinapsys, and book recommendations. UX-focused Product Manager (5+ years in SaaS, Crypto, Blockchain & Music) actively looking for the next Series A adventure in wellbeing, social impact or media. I ship products people actually love, speak fluent backlog-to-roadmap, and can turn user insights into growth faster than I can play a bass solo with Sinapsys. Open to PM / Senior PM / Head of Product roles — remote or LATAM. Also happy to jump in on Project Management when needed. Let’s build something meaningful together > just say hi!
-categories: update
-last_modified_at: 2025-11-26 10:30:00 +0000
+category: Updates
+# categories: update
+date: 2026-01-05
+last_modified_at: 2026-01-05 10:30:00 +0000
 ---
 
 ![Now time!](../assets/images/nowclock.jpg) 

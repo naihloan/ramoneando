@@ -130,3 +130,31 @@ http://localhost:4000
 
   gtag('config', 'G-7Z9R6XC60Z');
 </script>
+
+{% comment %} 1. Merge all sources and Sort Newest First {% endcomment %}
+{% assign all_content = site.posts | concat: site.books | concat: site.pages %}
+{% assign sorted_items = all_content | where: "featured", true | sort: "weight" %}
+
+<h3>Recent Updates</h3>
+
+<ul style="list-style: none; padding: 0;">
+  {% for item in sorted_items %}
+    <li style="margin-bottom: 10px; display: flex; align-items: baseline; gap: 10px;">
+      
+      <a href="{{ item.url | relative_url }}" style="font-weight: 600; text-decoration: none; flex-shrink: 0;">
+        {{ item.title }}
+      </a>
+
+      {% if item.category %}
+        <span style="font-size: 0.7em; color: #777; text-transform: uppercase; letter-spacing: 1px;">
+          • {{ item.category }}
+        </span>
+      {% endif %}
+
+      <span style="font-family: monospace; font-size: 0.85em; color: #999; margin-left: auto;">
+        {{ item.date | date: "%b %Y" }}
+      </span>
+      
+    </li>
+  {% endfor %}
+</ul>
