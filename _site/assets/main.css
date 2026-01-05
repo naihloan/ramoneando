@@ -920,5 +920,17 @@ table td:first-child {
     line-height: 1 !important;
   }
 }
+@media (prefers-color-scheme: dark) {
+  /* Targeted fix for secondary buttons */
+  .btn-secondary, .button-secondary {
+    background-color: #444 !important; /* Slightly lighter than the background */
+    color: #ffffff !important; /* Force white text */
+    border: 1px solid #666 !important; /* Visible border */
+  }
+  /* Optional: Hover state for better UX */
+  .btn-secondary:hover {
+    background-color: #555 !important;
+  }
+}
 
 /*# sourceMappingURL=main.css.map */

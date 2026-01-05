@@ -1,29 +1,29 @@
 ---
+title: Books
 permalink: /books/
 layout: page
 nav_exclude: true
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
-
-## Books
-
-<img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:65%; height:auto;">
-
 > <div style="text-align: right;">
 > "We play not to avoid losing but to find out what we are capable of"  
 >   <br/>
 > — Jane McGonigal 
 > </div>
+
+<img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:65%; height:auto;">
+
+## What I've learned from books
+
+I know there's a certain amount of lessons I can learn from others. Of course, you always need the real-world experience. So seems the best of both worlds to gain traction in the two at once. 
+
+Some of the books listed here link into more detail about summaries of what I've learned so far. Open to discussion and insights that point in other directions too.
+
+## Books I've enjoyed overall
+
+* I love reading books.
+* Here's a list of books I've enjoyed recently. 
 
 ## Favorite books in 2025
 
@@ -66,7 +66,7 @@ By Kurt Vonnegut Jr.
 
 ## Favorite books in 2021
 
-* *Getting Things Done: The Art of Stress-Free Productivity.* By David Allen
+* [*Getting Things Done: The Art of Stress-Free Productivity.* By David Allen](../books/getting-things-done)
 * *The Culture Map: Breaking Through the Invisible Boundaries of Global Business.* By Erin Meyer
 * *Born a Crime: Stories From a South African Childhood.* By Trevor Noah
 * *In the Name of Wild: One Family, Five Years, Ten Countries, and a New Vision of Wildness.* By Phillip Vannini, April Vannini, Autumn Vannini
@@ -119,3 +119,12 @@ See what I'm doing now here
 </a>
 --> 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>

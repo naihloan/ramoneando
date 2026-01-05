@@ -16,10 +16,16 @@ description: Benji’s journey as a worker in tech and Product, including career
 
 (I'm really curious to know how you got here, and to know more about you. My expectation is that you're a bit of a indie navigator of sorts. I aim more for connection than for virality.)
 
-## Working
+## Academic Background
+
+* Sociologist: I did a masters´ research on urban spaces and public behaviour. 
+* System´s Analyst: Finishing thesis, on a Internal Inventory Management System. 
+
+## Working 
 
 🏆 I´ve been working in tech over the past 5+ years.
-I have a background with a masters´ degree as a Sociologist researching urban spaces and public behaviour and patterns. I´m now finishing my thesis as a System´s Analyst. Best-case scenario I aim that all these skills bundle up together in the long run. I aim to build tech products with real-world impact. 
+
+Best-case scenario I aim that all these skills in sociology and systems' analysis bundle up together in the long run. I aim to build tech products with real-world impact. 
 
 ## Building
 
@@ -140,9 +146,6 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203).
 }
 </style>
 
-
-
-
 # About this Site 
 * This page is built with jekyll, ruby, markdown and HTML
 * I prefer to use code, not a no-code solution
@@ -165,7 +168,13 @@ I share [Josh Sherman´s belief:](https://joshtronic.com/ai/)
 
 > _It's my belief that everybody should have their own slice of the Internet. Share your opinions, document your life. Control the narrative, instead of giving the content away to some soulless corporation._
 
+## Books
 
+Check out what I've learned from reading so far
+
+<a href="/books/" target="_blank" class="bootstrap-primary-btn">
+  /books/
+</a>
 
 ## Connecting: Do you have a product vision, or idea? 
 
@@ -175,7 +184,6 @@ When is
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
   the best time for you?
 </a>
-
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
