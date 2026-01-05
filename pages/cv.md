@@ -1,11 +1,13 @@
 ---
 layout: page
-title: 
+title: CV
 permalink: /cv/
 sitemap_priority: 0.9
 ---
 
+<!--
 # CV
+-->
 
 <img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
 
