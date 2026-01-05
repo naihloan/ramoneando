@@ -1,5 +1,5 @@
 ---
-title: Getting Things Done, by David Allen
+title: Getting Things Done, The Art of Stress-Free Productivity. By David Allen. [My Book Review]
 layout: post
 featured: true
 weight: 10
@@ -7,9 +7,11 @@ permalink: /books/getting-things-done/
 category: Delivery and Productivity
 tags: ["Product Delivery", "Project Management", "Systems"]
 last_modified_at: 2026-01-04
-# timestamp: 2026-01-05
+timestamp: 2026-01-04
 # slug: getting-things-done
 ---
+
+###### Published on: 2026-01-05
 
 ![Book time!](/assets/images/unsplash-books.jpg) 
 
