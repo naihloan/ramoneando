@@ -14,6 +14,38 @@ description: Benji’s journey as a worker in tech and Product, including career
 
 <img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:65%; height:auto;">
 
+{% comment %} 
+  1. We must re-define the content and sort it here 
+  so the variable 'sorted_items' isn't empty on this page.
+{% endcomment %}
+{% assign all_content = site.posts | concat: site.books | concat: site.pages %}
+{% assign sorted_items = all_content | where: "featured", true | sort: "date" | reverse %}
+
+<section id="recent-posts">
+  <h3>Featured Reviews & Updates</h3>
+  <ul class="update-list">
+    {% for item in sorted_items %}
+      <li class="update-item">
+        <div class="update-main">
+          {% comment %} 
+            Using 'relative_url' ensures that even from /pages/books/, 
+            it points correctly back to the root site.
+          {% endcomment %}
+          <a href="{{ item.url | relative_url }}" class="update-title">
+            {{ item.title }}
+          </a>
+          {% if item.category %}
+            <span class="update-category">• {{ item.category }}</span>
+          {% endif %}
+        </div>
+        <span class="update-date">
+          {{ item.date | date: "%b %Y" }}
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
 ## What I've learned from books
 
 I know there's a certain amount of lessons I can learn from others. Of course, you always need the real-world experience. So seems the best of both worlds to gain traction in the two at once. 

@@ -142,7 +142,7 @@ http://localhost:4000
   </section>
 
   <section id="recent-posts">
-    <h3>Recent Updates</h3>
+    <h3>Last Updates</h3>
     <ul class="update-list">
       {% for item in sorted_items %}
         <li class="update-item">
