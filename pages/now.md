@@ -12,7 +12,9 @@ date: 2026-01-05
 last_modified_at: 2026-01-05 10:30:00 +0000
 ---
 
-![Now time!](../assets/images/nowclock.jpg) 
+| ![Now time!](../assets/images/now-in-time-Gemini.png) |
+| :--: |
+| Gemini image inspired on the *In Time* (2011) movie | 
 
 ### Working as a Product Manager in tech
 
