@@ -150,13 +150,18 @@ See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203).
 * This page is built with jekyll, ruby, markdown and HTML
 * I prefer to use code, not a no-code solution
 <!-- , or a dependency like WordPress, not there´s anything wrong with that -->
-* You can do the same in a terminal: 
+* You can make your own page from mine if you do this in a terminal: 
 	- `git clone https://github.com/naihloan/ramoneando`
 	- `cd $_`
 	- [install ruby, jekyll and dependencies](https://jekyllrb.com/docs/installation/)
 	- `bundle exec jekyll serve --livereload`
 	- Goto: [localhost:4000](http://localhost:4000)
-	- [Deploy!](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+  - You can even open a terminal and close the terminal with this command 
+  - `bundle exec jekyll serve --livereload & disown`
+  - (That's optional: to keep a lesser number of windows open)
+  - And then, if needed, find and kill the process later:
+  - `pgrep -f jekyll` + `kill [ID]`  
+- [Deploy!](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 
 ## Creed
 

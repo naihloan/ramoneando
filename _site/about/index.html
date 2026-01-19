@@ -187,16 +187,21 @@ See my <a href="https://youtu.be/0ZllEEaVkq0?t=5203">3-minute pitch at live even
   <li>This page is built with jekyll, ruby, markdown and HTML</li>
   <li>I prefer to use code, not a no-code solution
 <!-- , or a dependency like WordPress, not there´s anything wrong with that --></li>
-  <li>You can do the same in a terminal:
+  <li>You can make your own page from mine if you do this in a terminal:
     <ul>
       <li><code class="language-plaintext highlighter-rouge">git clone https://github.com/naihloan/ramoneando</code></li>
       <li><code class="language-plaintext highlighter-rouge">cd $_</code></li>
       <li><a href="https://jekyllrb.com/docs/installation/">install ruby, jekyll and dependencies</a></li>
       <li><code class="language-plaintext highlighter-rouge">bundle exec jekyll serve --livereload</code></li>
       <li>Goto: <a href="http://localhost:4000">localhost:4000</a></li>
-      <li><a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll">Deploy!</a></li>
+      <li>You can even open a terminal and close the terminal with this command</li>
+      <li><code class="language-plaintext highlighter-rouge">bundle exec jekyll serve --livereload &amp; disown</code></li>
+      <li>(That’s optional: to keep a lesser number of windows open)</li>
+      <li>And then, if needed, find and kill the process later:</li>
+      <li><code class="language-plaintext highlighter-rouge">pgrep -f jekyll</code> + <code class="language-plaintext highlighter-rouge">kill [ID]</code></li>
     </ul>
   </li>
+  <li><a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll">Deploy!</a></li>
 </ul>
 
 <h2 id="creed">Creed</h2>

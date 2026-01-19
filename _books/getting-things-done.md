@@ -56,7 +56,9 @@ This is all useful for short, mid and long-term commitments.
 
 ### Overall: This book is great for product delivery, not for discovery	
 
-This book is useful managing teams and tasks, not so focused on how learn what is the right thing to build in a company environment.
+This book is useful managing tasks and teams. The book is not so focused on how to learn what is the right thing to build in a company environment. 
+
+###### (See more about discovery below: The Mom Test, By Rob Fitzpatrick.)
 
 | ![Flow Diagram time!](/assets/images/GTD_WorkflowDiagram_Clarify.png) | 
 | :--: |
