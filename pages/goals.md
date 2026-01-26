@@ -15,8 +15,6 @@ I'm Benji, and this is what I'm looking for.
 
 # I'm a [Product Manager](/about/)
 
-### I'm into these industries: Health, Social Impact, Music
-
 The goal of this page is to help others understand what I offer, uncover opportunities I haven't considered, and connect with people in the industry.
 
 ## Job Hunting: Candidate-Market Fit [CMF]
@@ -24,6 +22,9 @@ The goal of this page is to help others understand what I offer, uncover opportu
 <div class="note">
 
 I am seeking a <strong>Product Manager role </strong> at an early-stage startup <strong>Series A</strong>. I'm at my best at the intersection of design, customer experience (UX), and high-impact industries.
+
+<h4> I'm into these industries:
+Health, Social Impact, Music </h4>
 
 </div>
 
