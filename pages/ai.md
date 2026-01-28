@@ -21,9 +21,10 @@ I try to avoid content that is entirely produced by AI both in writing and in re
 
 ## How I use, and read, on AI
 
+I do believe that certain kinds of prompts with AI can be very useful and I'd like to tailor my requests in a way that can be useful to myself and others. I like to see how others do prompting. So maybe sharing my core prompts can help. See my [AGENTS.md](/agents/). 
 
-
-I do believe that certain kinds of prompts with AI can be very useful and I'd like to tailor my requests in a way that can be useful to myself and others. So maybe sharing core prompts can help. This is what I usually say when interacting with AI:
+<!--
+This is what I usually say when interacting with AI:
 
 <div class="copy-card">
   <div id="copy2">
@@ -31,7 +32,7 @@ I do believe that certain kinds of prompts with AI can be very useful and I'd li
 Product Manager | Bassist | AI tinkerer  
 Open to PM roles @ Series A startups (wellbeing · social impact · media)  
 venhamon@gmail.com
--->
+
 
 > Ask me more questions to move things further forward  
 <br/>
@@ -52,6 +53,7 @@ thanks! you rule!
   <button onclick="copyThis('copy2')" class="copy-btn">Copy</button>
   <span id="copied2" class="copied-msg">Copied!</span>
 </div>
+-->
 
 <style>
 .copy-card {
@@ -107,6 +109,7 @@ function copyThis(id) {
 }
 </script>
 
+<!--
 ## Tools I use
 
 * ollama
@@ -116,17 +119,16 @@ function copyThis(id) {
 * perplexity 
 * claude 
 * also regular check on builder apps 
+-->
 
 ## Books on AI I've enjoyed so far
 
 * Player Piano. By Kurt Vonnegut.
-* Co-Intelligence: Living and Working with AI. By Ethan Mollick.
 * The Nvidia Way: Jensen Huang and the Making of a Tech Giant. By Tae Kim
+* Co-Intelligence: Living and Working with AI. By Ethan Mollick. Excerpt:
 
--- Quotation from Ethan Mollick: _Co-Intelligence Living and Working With AI_. Penguin Publishing Group (2024) (pp. xvii-xviii). Kindle Edition:
-
-
-> General Purpose Technologies aren’t just about work; they touch every aspect of our lives. They change how we teach, entertain ourselves, interact with other people, and even our sense of self. Schools are in an uproar over the future of writing, based on the first generation of AIs, and AI tutors may finally radically change how we educate students. [...] And all of this ignores the larger issue, the alien in the room. We have created something that has convinced many smart people that it is, in some way, the spark of a new form of intelligence. An AI that has blown through both the Turing Test (Can a computer fool a human into thinking it is human?) and the Lovelace Test (Can a computer fool a human on creative tasks?). 
+> General Purpose Technologies aren’t just about work; they touch every aspect of our lives. They change how we teach, entertain ourselves, interact with other people, and even our sense of self. Schools are in an uproar over the future of writing, based on the first generation of AIs, and AI tutors may finally radically change how we educate students. [...] And all of this ignores the larger issue, the alien in the room. We have created something that has convinced many smart people that it is, in some way, the spark of a new form of intelligence. An AI that has blown through both the Turing Test (Can a computer fool a human into thinking it is human?) and the Lovelace Test (Can a computer fool a human on creative tasks?).  
+-- Quotation from Ethan Mollick: _Co-Intelligence Living and Working With AI_. Penguin Publishing Group (2024) (pp. xvii-xviii). Kindle Edition.
 
 
 
