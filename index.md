@@ -6,10 +6,14 @@ description: Benji’s journey as a worker in tech and Product, including career
 ---
 
 
-[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
-*[My 3-Minute Pitch @ ETH past Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
+<img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
+
+# *Hi! I'm Benji, aka venhamon. :D*
 
 # I like building products and understanding human behaviour, patterns and systems.
+
+[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
+*[My 3-Minute Pitch @ ETH past Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
 
 |   | Product & Personal Approaches |
 | :--- | :--- |
