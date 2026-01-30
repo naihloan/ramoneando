@@ -10,6 +10,10 @@ description: Benji’s journey as a worker in tech and Product, including career
 
 # *Hi! I'm Benji, aka venhamon. :D*
 
+###### Making awesome products since 2019
+
+###### ---or since 2009 depending on how you count---
+
 # I like building products and understanding human behaviour, patterns and systems.
 
 [![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
