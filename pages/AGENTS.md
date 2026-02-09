@@ -27,7 +27,8 @@ title: AI Agents & Guidelines
 	* let me know about my blind spots
 	* don’t be overly pleasing, just tell me the the truth
 	* I want to learn what are critical and strategical areas that I'm not fully aware of
-	* Keep in mind I want to learn to be more clear and polish my website
+	* show me in good light with my real skills, but without adding extra fluff, I want to get product work that matches well with my profile so that it's a win-win for all
+	* keep in mind I want to learn to be more clear and polish my website
 	* let me know where I lack clarity in prompts, or in pages of my website
 	* show me examples where and how to get better with Information Architecture
 * Feel free to:
@@ -46,7 +47,7 @@ title: AI Agents & Guidelines
 
 * Enable asking in specific styles:
 	* "Explain Like I'm Five", with ELIF acronym
-	* no longer than 70 words, "short" or "tldr"
+	* no longer than 70 words, "short" or "tldr" (too long, didn't read version)
 * Enable short responses by default, that I can read without pressing the next page button, or scrolling
 * Enable longer responses when requested
 * Offer:

@@ -1,162 +1,71 @@
 ---
-title: 
+title: Home
 layout: page
 sitemap_priority: 1
-description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations.
+description: Benji’s journey as a Product Manager. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to PM and Product Owner roles.
 ---
 
+# *Hi, I’m Benji.* 
+## I like building products and understanding human behaviour, patterns and systems.
 
-<img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
+**[Open to Work: Product Manager / Product Owner / Project Manager / Consultant]** 
 
-# *Hi! I'm Benji, aka venhamon. :D*
+*Available for Full-time, Freelance, or Startup Co-founding.*
+
+<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
+  Book a Call with me
+</a> Please tell me what you're interested about
+
+<img src="/assets/images/profile-2.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 50%; border: 2px solid #f0f0f0;">
 
 ###### Making awesome products since 2019
 
 ###### ---or since 2009 depending on how you count---
 
-# I like building products and understanding human behaviour, patterns and systems.
+## >> Here's what I've done so far
+
+| Role | Impact & Focus |
+| :--- | :--- |
+| **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution.|
+| **Pitched & Built** | I've built and pitched products from 0 to 1 across **2 Hackathons** and a **Startup Incubation** program. I’ve also worked as a **freelance** Project Manager over the years. |
+| **Tech Tinkerer & DIY** | I have a Sociology background combined with a "build-it-yourself" spirit. I've used a number of tools and languages to build this site: markdown, gitpages, vim, and a Dvorak keyboard, learning to build away from bloated platforms and companies that only focus on market value. There’s more to it dude. Let’s do awesome things together. :) |
+| **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
 
 [![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
-*[My 3-Minute Pitch @ ETH past Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
+*[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
 
-|   | Product & Personal Approaches |
-| :--- | :--- |
-| **at NEWM** | I've built product for a decentralized music ecosystem, enabling artists to own their distribution. |
-| **Explorer** | I'm a bit of a dinosaur by choice in some areas: a very very late mobile adopter, almost zero social media. On the other hand, I prefer using a Dvorak keyboard (seems more logical and easier on the hands), vim and git, even as a product person. |
-| **Researcher** | I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
-| **Execution** | I've built and pitched products across 2 Hackathons and a Startup Incubation. I've also worked as a freelance Project Manager over the years.
-| **The DIY (Do-It-Yourself) spirit** | I´ve learned to build a static site (like this one) over a decade ago not out of need, but because I want to learn how to build away from bloated platforms and companies that only focus on market value. There's more to it dude. Let's do awesome things together. :) |
+---
 
-## Open to PM roles, :). Let's talk! When is:
+## >> My Product Thinking
+I aim for bringing value to teams and users users asap:
+- **Execution & Delivery:** Managing the product development lifecycle from ideation, to team alignment, concept, deployment, and improving.
+- **Product Discovery & Research:** Understanding why, and what users need. Easier said than done, but my academics help me, methinks.
+- **System Thinking:** Analyzing the systems and patterns behind and below the tech and communities that spreag in digital and physical spaces.
+- **DeFi & FOSS:** Into decentralized finance and open-source over a decade.
 
-<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
-  the best time for you?
-</a>
+###### I might write a post about (my) product thinking. What do you think, interested? Please [let me know, send me an email](mailto:venhamon@gmail.com)
 
-## Here are some hats I've used so far:
-- Product Manager [PM]
-- Project Manager[PM]
-- and all things delivery
-- building
-- researching
-- discovery
-- creating real value for real users
-
-## I'm [open to work in product roles](/about/):
-- full-time
-- freelance
-- consultant
-- co-founder
-- otherwise
-
-
-
-<!-- > <div style="text-align: right;">
-> "We play not to avoid losing but to find out what we are capable of"  >   <br/> > — Jane McGonigal > </div>
-
-# > "The only way to do great work is to love what you do."  
-# > — Steve Jobs
-
-## What is this all?
-# My Website, by Benji 
-bundle exec jekyll serve --livereload
-http://localhost:4000
-
--->
-
-
-<!-- Bootstrap Primary button – clean white-text hover -->
-<style>
-.bootstrap-primary-btn {
-  display: inline-block;
-  padding: 12px 28px;
-  background-color: #0d6efd;
-  color: white !important;                  /* force white */
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 1rem;
-  border-radius: 6px;
-  border: none;
-  box-shadow: 0 4px 6px rgba(13, 110, 253, 0.25);
-  transform: translateY(-2px);
-  transition: all 0.25s ease;
-}
-.bootstrap-primary-btn:hover {
-  background-color: #0b5ed7;                /* slightly darker blue */
-  color: white !important;                  /* stays white */
-  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
-  transform: translateY(-4px);
-}
-.bootstrap-primary-btn:active {
-  transform: translateY(-1px);
-}
-@media (max-width: 600px) {
-  .bootstrap-primary-btn {
-    padding: 10px 20px;
-    font-size: 0.95rem;
-  }
-}
-</style>
-
-
-
-<!-- Monochrome scale button with elevated effect -->
-<style>
-.mono-scale-btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: transparent;
-  color: #000000; /* Black text */
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  text-align: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
-  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
-}
-.mono-scale-btn:hover {
-  color: #6c757d; /* Grey text */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-  transform: translateY(-4px) scale(1.05); /* Slight scale */
-}
-@media screen and (max-width: 600px) {
-  .mono-scale-btn {
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
-}
-</style>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
+---
 
 {% comment %} 1. Merge all sources and Sort Newest First {% endcomment %}
 {% assign all_content = site.posts | concat: site.books | concat: site.pages %}
-{% assign sorted_items = all_content | where: "featured", true | sort: "weight" %}
+{% assign sorted_items = all_content | where: "featured", true | sort: "date" | reverse %}
 
 <section id="home-page">
 
   <section id="what-i-am-doing">
-    <h3>What I'm Doing Now</h3>
+    <h2>What I'm Doing Now</h2>
     <p><a href="{{ '/now/' | relative_url }}" class="mono-scale-btn">Check out what I’m doing now here</a></p>
   </section>
 
   <section id="recent-posts">
-    <h3>Last Updates</h3>
+    <h2>Last Updates</h2>
     <ul class="update-list">
       {% for item in sorted_items %}
         <li class="update-item">
           <div class="update-main">
             <a href="{{ item.url | relative_url }}" class="update-title">
-              {{ item.title }}
+             📚 {{ item.title }}
             </a>
             {% if item.category %}
               <span class="update-category">• {{ item.category }}</span>
@@ -171,6 +80,10 @@ http://localhost:4000
   </section>
 
 </section>
+
+<!--
+###### (Page last updated: {{ "now" | date: "%B %Y" }})
+-->
 
 <style>
   .update-list {
@@ -227,3 +140,13 @@ http://localhost:4000
     }
   }
 </style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>

@@ -6,7 +6,8 @@ weight: 10
 permalink: /books/getting-things-done/
 category: Delivery and Productivity
 tags: ["Product Delivery", "Project Management", "Systems"]
-last_modified_at: 2026-01-04
+date: 2026-01-05  
+# last_modified_at: 2026-01-04
 timestamp: 2026-01-04
 # slug: getting-things-done
 ---

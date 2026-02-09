@@ -949,5 +949,22 @@ table td:first-child {
     color: #eee;
   }
 }
+/* This forces the titles to show fully and wrap if they are long */
+.update-title,
+.update-main,
+.site-title {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  max-width: 100% !important;
+  display: inline-block !important; /* Ensures it doesn't try to stay on one line */
+}
+
+/* This fixes the container that might be squeezing the title */
+.update-item {
+  display: flex;
+  flex-wrap: wrap; /* Allows date to drop to next line on mobile if title is long */
+  height: auto !important;
+}
 
 /*# sourceMappingURL=main.css.map */
