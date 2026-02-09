@@ -3,199 +3,62 @@ layout: page
 title: About 
 permalink: /about/
 sitemap_priority: 0.7
-description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
+description: Benji, a Product Manager mixing Sociology and Systems Analysis to build tech with impact and meaning. Focus on UX research, media, wellness, decentralized ecosystems, and human-centric product strategy.
 ---
 
-## I´m Benji, a Product Manager in tech
+# Product Sociologist
 
-<img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
+<img src="/assets/images/profile-2.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 8px; float: right; margin-left: 20px;">
 
-## Welcome
+I am a **Product Manager** with over 5 years of experience in the tech industry. My unique edge comes from combining a **Master’s in Sociology** with **Systems Analysis**. 
 
-☺️ Hi, thanks for coming over. 
+I don't just build features; 
+I analyze how users and communities behave to create products that mean something. It's not just about delivery, but like the late Tony Hsieh said "delivering happiness".
 
-(I'm really curious to know how you got here, and to know more about you. My expectation is that you're a bit of a indie navigator of sorts. I aim more for connection than for virality.)
-
-## Academic Background
-
-* Sociologist: I did a masters´ research on urban spaces and public behaviour. 
-* System´s Analyst: Finishing thesis, on a Internal Inventory Management System. 
-
-## Working 
-
-🏆 I´ve been working in tech over the past 5+ years.
-
-Best-case scenario I aim that all these skills in sociology and systems' analysis bundle up together in the long run. I aim to build tech products with real-world impact. 
-
-## Building
-
-<i class="fa-solid fa-web-awesome"></i>
-I've been building a website with github for over a decade. Always fun to keep learning more git, static website, UX, and sometimes more `vim`. 
-
-<!-- Bootstrap Primary button – clean white-text hover -->
-<style>
-.bootstrap-primary-btn {
-  display: inline-block;
-  padding: 12px 28px;
-  background-color: #0d6efd;
-  color: white !important;                  /* force white */
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 1rem;
-  border-radius: 6px;
-  border: none;
-  box-shadow: 0 4px 6px rgba(13, 110, 253, 0.25);
-  transform: translateY(-2px);
-  transition: all 0.25s ease;
-}
-.bootstrap-primary-btn:hover {
-  background-color: #0b5ed7;                /* slightly darker blue */
-  color: white !important;                  /* stays white */
-  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
-  transform: translateY(-4px);
-}
-.bootstrap-primary-btn:active {
-  transform: translateY(-1px);
-}
-@media (max-width: 600px) {
-  .bootstrap-primary-btn {
-    padding: 10px 20px;
-    font-size: 0.95rem;
-  }
-}
-</style>
-
-<a href="/portfolio/" class="bootstrap-primary-btn" aria-label="Contact me">
-    <!-- Got a product role? -->
-  See my product portfolio, and let’s talk!
+<a href="/portfolio/" class="bootstrap-primary-btn">
+  See my Product Portfolio
 </a>
 
-## Interests and challenges
+---
 
-👾 Fun facts: I've completed a study on urban art from a sociological and ethnographic view. On product and tech, I aim to learn more about Customer Experience [CX], User Experience [UX], and Artificial Intelligence [[AI](../ai/)]. I love Information Architecture [IA]: it's a fun challenge to trim out the parts that don't matter. My site was much worse before, always aiming to improve. :) As [Goktug](https://goktug.io/) says:
+## >> My strengths
 
-> ~~I’m open to~~ I crave any and all sort of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser.
+### 1. Product Strategy & Discovery
+It's super important to listen to users. I have a background in **ethnographic research** which makes me look for the insights that serve to best understand problems and ideate solutions. 
+* **NEWM:** I was the main staff product person to build a decentralized music ecosystem from o to 1, one product at a time, giving distribution and ownership to artists.
+* **Incubation:** Pitched and prototyped over a year, with 2 Hackathons, and a project presented at **ETHargentina 2023**. [See my 3-minute pitch](https://youtu.be/0ZllEEaVkq0?t=5203).
 
+### 2. Systems Thinking
+Currently finishing a **Systems Analyst thesis** on Internal Inventory Management. I look to resolve how to build the complex backend logic and processes, and at the same time make it so the frontend experience is intuitive with UX and Information Architecture.
 
+### 3. Tech Aim
+I'm not a developer, but still I believe that people can build things by themselves. I've believed this since using Linux in 2005. Becoming "Technical Independent" can take a long time, but I've always preferred building with static code myself (or some "free" AI assistance) because ownership matters, as well as understanding the raw materials of how to build stuff. This site is not full of flare but a milestone of building with the bare bones, rather than a no-code black box.
+<!-- > "Control the narrative, instead of giving the content away to some soulless corporation."  -->
+> "It’s my belief that everybody should have their own slice of the Internet. Share your opinions, document your life."
+— [*Josh Sherman*](https://joshtronic.com/ai/)
 
-🎤 Builder presentation: I did an incubation project in 2023 and presented at ETHargentina. Ongoing.
-See my [3-minute pitch at live event](https://youtu.be/0ZllEEaVkq0?t=5203).
+---
 
-<!--
-[![alt text](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
--->
+## 🎓 My Academic Background
+* **M.A. in Sociology:** I made my Thesis research on urban spaces and public art behavior. These days, I still use the skillset to keep **Information Architecture (IA)** clean, and listen to users closely with an alert eye to **Customer Experience (CX)**.
+* **Systems Analysis:** I have a decent understanding of system logic and architecture, data quality, data structures, inventory logic, technical delivery, business rules, and how everything needs to sync together to make the whole tech and human system work.
 
-📃 Feel free to know more about me, and reach out: check my _goals_ and _cv_ in [footer](#footer). 
+---
 
-
-
-<!-- Monochrome scale button with elevated effect -->
-<style>
-.mono-scale-btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: transparent;
-  color: #000000; /* Black text */
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  text-align: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
-  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
-}
-.mono-scale-btn:hover {
-  color: #6c757d; /* Grey text */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-  transform: translateY(-4px) scale(1.05); /* Slight scale */
-}
-@media screen and (max-width: 600px) {
-  .mono-scale-btn {
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
-}
-</style>
+## 🎯 Next Step Challenges
+I am now leaning and reading more into **Artificial Intelligence**, **Product Discovery**, and every piece of text, even memoirs and bios, that teach me more about product and leadership. 
+###### If you have feedback on these or other topics, please let me know. It's tough love perhaps, but much encouraged. Thanks! 
+<!-- I crave feedback to improve my awareness and systems. -->
 
 
-<!-- Monochrome scale button with elevated effect -->
-<style>
-.mono-scale-btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: transparent;
-  color: #000000; /* Black text */
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  text-align: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
-  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
-}
-.mono-scale-btn:hover {
-  color: #6c757d; /* Grey text */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-  transform: translateY(-4px) scale(1.05); /* Slight scale */
-}
-@media screen and (max-width: 600px) {
-  .mono-scale-btn {
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
-}
-</style>
+---
 
-# About this Site 
-* This page is built with jekyll, ruby, markdown and HTML
-* I prefer to use code, not a no-code solution
-<!-- , or a dependency like WordPress, not there´s anything wrong with that -->
-* You can make your own page from mine if you do this in a terminal: 
-	- `git clone https://github.com/naihloan/ramoneando`
-	- `cd $_`
-	- [install ruby, jekyll and dependencies](https://jekyllrb.com/docs/installation/)
-	- `bundle exec jekyll serve --livereload`
-	- Goto: [localhost:4000](http://localhost:4000)
-  - You can even open a terminal and close the terminal with this command 
-  - `bundle exec jekyll serve --livereload & disown`
-  - (That's optional: to keep a lesser number of windows open)
-  - And then, if needed, find and kill the process later:
-  - `pgrep -f jekyll` + `kill [ID]`  
-- [Deploy!](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+## Let's Connect
+I'm looking for PM roles where I can apply sociological insights to technical products. 
 
-## Creed
+**Is your team building something with a strong human, or community, component?**
 
-# Tech independence + avoiding free trojan-like gifts
-
-There's a number of personal blogs that I like to read. There's a certain spirit of let's build an opinion, a connection, and overall take personal notes about the world, the seld, and so on.
-
-I share [Josh Sherman´s belief:](https://joshtronic.com/ai/)
-
-> _It's my belief that everybody should have their own slice of the Internet. Share your opinions, document your life. Control the narrative, instead of giving the content away to some soulless corporation._
-
-## Books
-
-Check out what I've learned from reading so far
-
-<a href="/books/" target="_blank" class="bootstrap-primary-btn">
-  /books/
-</a>
-
-## Connecting: Do you have a product vision, or idea? 
-
-Open to PM roles. Let´s connect and make it happen! :D
-
-When is
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
-  the best time for you?
-</a>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
+  Book a Discovery Call
+</a> / 
+<a href="/books/" class="mono-scale-btn">Browse My Library</a>
