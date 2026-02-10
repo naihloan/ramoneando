@@ -12,7 +12,13 @@ description: Benji’s journey as a worker in tech and Product, including career
 > — Jane McGonigal 
 > </div>
 
-<img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:65%; height:auto;">
+| <img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:45%; height:auto;"> | 
+|:--:| 
+| A picture of my bookshelf, at home |
+
+<!--
+<img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:45%; height:auto;">
+-->
 
 {% comment %} 
   1. We must re-define the content and sort it here 
@@ -98,7 +104,7 @@ By Kurt Vonnegut Jr.
 
 ## Favorite books in 2021
 
-* [*Getting Things Done: The Art of Stress-Free Productivity.* By David Allen](../books/getting-things-done)
+* [*Getting Things Done: The Art of Stress-Free Productivity.* By David Allen. See My Book Review: Here](../books/getting-things-done)
 * *The Culture Map: Breaking Through the Invisible Boundaries of Global Business.* By Erin Meyer
 * *Born a Crime: Stories From a South African Childhood.* By Trevor Noah
 * *In the Name of Wild: One Family, Five Years, Ten Countries, and a New Vision of Wildness.* By Phillip Vannini, April Vannini, Autumn Vannini

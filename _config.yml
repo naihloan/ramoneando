@@ -37,7 +37,7 @@ google_analytics: UA-XXXXX-Y
 
 # Professional Status
 current_status: "Currently open to Product, or co-founding roles"
-status_last_checked: "January 2026"
+status_last_checked: "February 2026"
 
 # Professional Links for Footer
 footer_action_links:
@@ -45,9 +45,12 @@ footer_action_links:
     url: "/goals/"
     icon: "fa-solid fa-star"
 #    icon: "fa-solid fa-bullseye"
-  - label: "CV"
-    url: "./cv/"
-    icon: "fa-solid fa-id-card"
+#  - label: "CV"
+#    url: "./cv/"
+#    icon: "fa-solid fa-id-card"
+  - label: "Portfolio"
+    url: "./portfolio/"
+    icon: "fa-solid fa-id-card"    
   - label: "LinkedIn"
     url: "https://www.linkedin.com/in/bj-pm"
     icon: "fa-brands fa-linkedin"
@@ -79,9 +82,11 @@ header_pages:
   - pages/index.markdown
   - pages/now.md
   - pages/about.md
+  - pages/cv.md
   - pages/books.md
-  - pages/portfolio.md
+#  - pages/portfolio.md
   - pages/ai.md
+  - pages/AGENTS.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

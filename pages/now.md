@@ -12,15 +12,28 @@ date: 2026-01-05
 last_modified_at: 2026-01-05 10:30:00 +0000
 ---
 
-| ![Now time!](../assets/images/now-in-time-Gemini.png) |
+<!--
+| <img src="../assets/images/now-in-time-Gemini.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 8px; float: right; margin-left: 20px;"> |
 | :--: |
 | Gemini image inspired on the *In Time* (2011) movie | 
+-->
+
+<div style="float:right; margin:0 0 20px 20px; width:25%; text-align:center;">
+  <img src="../assets/images/now-in-time-Gemini.png" alt="Gemini image inspired on the In Time (2011) movie" style="width:100%; height:auto; border-radius:8px;">
+  <p style="font-size:0.9rem; color:#adb5bd; margin-top:8px;">
+    Gemini image inspired on the <em>In Time </em> (2011) movie
+  </p>
+</div>
 
 ### Working as a Product Manager in tech
 
 #### Looking for a new gig :)
 
-Over 2024 and 2025 I've done consulting at small and big tech companies. I feel at a crossroads.
+Over 2024 and 2025 I've done consulting at small and big tech companies. I feel at a crossroads. 
+
+I'm looking for work now.
+
+
 
 <!--
 Here´s how I see that the market perceives me, and where I can provide the most value.  

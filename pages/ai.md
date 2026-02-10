@@ -1,5 +1,5 @@
 ---
-title: Notes on AI
+title: AI
 permalink: /ai/
 layout: page
 sitemap_priority: 0.7

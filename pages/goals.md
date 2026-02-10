@@ -41,7 +41,7 @@ Health, Social Impact, Music </h4>
 
 | ![Roadmap and Growth](../assets/images/mount-fuji.png) | 
 |:--:| 
-| *The path ahead* |
+| *The path ahead* (a random inspiring picture of Mount Fuji, in Japan) |
 
 ## Roadmap & Growth
 
@@ -62,9 +62,9 @@ Health, Social Impact, Music </h4>
 * **Leadership:** Building and managing cross-functional teams to inspire innovation.
 * **Venture:** Joining a startup as a co-founder or starting a new venture.
 
-| ![Don't let your dreams be dreams. Just do it!](../assets/images/shia.gif) | 
+| ![Don't let your dreams be dreams. Just do it!](../assets/images/stewart-brand.jpg) | 
 |:--:| 
-| *Sometimes you just do things* |
+| *A realm of intimate, personal power is developing - power of the individual to conduct his own education, find his own inspiration, shape his own environment, and share his adventure with whoever is interested.* -- Stewart Brand (See also [Bright green environmentalism](https://en.wikipedia.org/wiki/Bright_green_environmentalism)) |
 
 ## Strengths (Gallup-Based)
 * **Philomath/Curious:** I prefer ongoing questions over closed answers. *"The mind is not a vessel to be filled, but a fire to be kindled." — Plutarch*
@@ -77,22 +77,6 @@ Health, Social Impact, Music </h4>
 
 #### Dream Idea: Earthworms
 Inspired by *Pay It Forward (2000)*, I have been giving away vermicomposting-recycling for a decade. I am constantly exploring how to create a global chain reaction for environmental impact.
-
-## Connect
-
-
-<p> <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn" aria-label="Contact me via email">Let's meet up! :)</a></p>
-
----
-
-###### /Goals/ page: Last updated on Decemeber 29, 2025
-
-###### PDF version of this page: [here](../docs/benji-goals.pdf).
-
-
-
-
-
 
 <style>
 .note {
@@ -166,3 +150,16 @@ Inspired by *Pay It Forward (2000)*, I have been giving away vermicomposting-rec
   }
 }
 </style>
+
+## Connect
+
+<p> <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn" aria-label="Contact me via email">Let's meet up! :)</a></p>
+
+---
+
+###### /Goals/ page: Last updated on February, 2026
+
+###### PDF version of this page: [here](../docs/benji-goals.pdf).
+
+# See [my CV](../cv/) too
+

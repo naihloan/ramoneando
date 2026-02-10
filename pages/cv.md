@@ -137,16 +137,14 @@ Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX a
 * **Languages:** English, Spanish, Portuguese.
 
 ### In Progress
-* Large-Scale Scrum (LeSS), User Acquisition/Engagement/Retention, Pricing Models & Cohort Analysis, Gamification, and Customer Journey Maps (CJM).
+* Large-Scale Scrum (LeSS)
+* User Acquisition/Engagement/Retention
+* Pricing Models & Cohort Analysis
+* Gamification
+* Customer Journey Maps (CJM)
 
 ### Tools
 PRDs, OKRs, KPIs, JIRA, Figma, Miro, Slack, Typeform, Mailchimp, Postman, Linux, and more.
-
----
-
-###### /cv/ page: Last updated on Decemeber 29, 2025
-
-###### PDF version of this page: [here](../docs/benji-cv.pdf).
 
 
 <style>
@@ -160,3 +158,12 @@ h2 {
   padding-bottom: 10px;
 }
 </style>
+
+---
+
+###### /cv/ page: Last updated on February, 2026
+
+###### PDF version of this page: [here](../docs/benji-cv.pdf).
+
+# See [my goals](../goals/) too
+

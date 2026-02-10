@@ -1,7 +1,7 @@
 ---
-layout: default
+title: Agents
 permalink: /agents/
-title: AI Agents & Guidelines
+layout: default
 ---
 
 # AGENTS.md
