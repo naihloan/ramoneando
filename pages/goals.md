@@ -161,5 +161,4 @@ Inspired by *Pay It Forward (2000)*, I have been giving away vermicomposting-rec
 
 ###### PDF version of this page: [here](../docs/benji-goals.pdf).
 
-# See [my CV](../cv/) too
-
+# Also see my [CV](../cv/) and [About](../about/) sections

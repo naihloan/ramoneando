@@ -165,5 +165,5 @@ h2 {
 
 ###### PDF version of this page: [here](../docs/benji-cv.pdf).
 
-# See [my goals](../goals/) too
+# Also see my [Goals](../goals/) and [About](../about/) sections
 
