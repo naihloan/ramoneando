@@ -48,6 +48,12 @@ footer_action_links:
 #  - label: "CV"
 #    url: "./cv/"
 #    icon: "fa-solid fa-id-card"
+  - label: "Books"
+    url: "./books/"
+    icon: "fa-solid fa-book-bookmark"    
+  - label: "Music"
+    url: "./music/"
+    icon: "fa-solid fa-music"    
   - label: "Portfolio"
     url: "./portfolio/"
     icon: "fa-solid fa-id-card"    
@@ -83,7 +89,7 @@ header_pages:
   - pages/now.md
   - pages/about.md
   - pages/cv.md
-  - pages/books.md
+#  - pages/books.md
 #  - pages/portfolio.md
   - pages/ai.md
   - pages/AGENTS.md

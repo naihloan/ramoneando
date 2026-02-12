@@ -5,6 +5,8 @@ nav_exclude: true
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
 
+# Music
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
 <script>
