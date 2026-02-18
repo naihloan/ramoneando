@@ -26,21 +26,21 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
 | Role | Impact & Focus |
 | :--- | :--- |
-| **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution.|
+| **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too.|
 | **Pitched & Built** | I've built and pitched products from 0 to 1 across **2 Hackathons** and a **Startup Incubation** program. I’ve also worked as a **freelance** Project Manager over the years. |
 | **Tech Tinkerer & DIY** | I have a Sociology background combined with a "build-it-yourself" spirit. I've used a number of tools and languages to build this site: markdown, gitpages, vim, and a Dvorak keyboard, learning to build away from bloated platforms and companies that only focus on market value. There’s more to it dude. Let’s do awesome things together. :) |
 | **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
 
-[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203)
+[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203){:target="_blank"}
 *[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
 
 ---
 
 ## >> My Product Thinking
-I aim for bringing value to teams and users users asap:
-- **Execution & Delivery:** Managing the product development lifecycle from ideation, to team alignment, concept, deployment, and improving.
+I aim for bringing value to teams and users asap as possible:
+- **Delivery and Execution:** Managing the product development lifecycle from ideation, to team alignment, concept, deployment, and improving.
 - **Product Discovery & Research:** Understanding why, and what users need. Easier said than done, but my academics help me, methinks.
-- **System Thinking:** Analyzing the systems and patterns behind and below the tech and communities that spreag in digital and physical spaces.
+- **System Thinking:** Analyzing the systems and patterns behind and below the tech and communities that spread in digital and physical spaces.
 - **DeFi & FOSS:** Into decentralized finance and open-source over a decade.
 
 ###### I might write a post about (my) product thinking. What do you think, interested? Please [let me know, send me an email](mailto:venhamon@gmail.com)

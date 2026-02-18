@@ -37,6 +37,11 @@ Currently finishing a **Systems Analyst thesis** on Internal Inventory Managemen
 ### 3. Tech Aim
 I'm not a developer, but still I believe that people can build things by themselves. I've believed this since using Linux in 2005. Becoming "Technical Independent" can take a long time, but I've always preferred building with static code myself (or some "free" AI assistance) because ownership matters, as well as understanding the raw materials of how to build stuff. This site is not full of flare but a milestone of building with the bare bones, rather than a no-code black box.
 <!-- > "Control the narrative, instead of giving the content away to some soulless corporation."  -->
+
+| [![Note: Should we learn to build more DIY tech!?](../assets/images/outage.png)](https://downforeveryoneorjustme.com/){:target="_blank"} |
+|:--:| 
+| *Several major platforms are known to have had outages. Picture from February 2026* |
+
 > "It’s my belief that everybody should have their own slice of the Internet. Share your opinions, document your life."
 — [*Josh Sherman*](https://joshtronic.com/ai/)
 
