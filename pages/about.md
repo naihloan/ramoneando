@@ -59,7 +59,7 @@ JB: Execution
 Tizi: Strategy
 -->
 
-## Strong, and nice, things people say about me
+## Strong, nice, things people say about me and how I work
 
 <!--
 <section id="recommendations" style="margin-top: 50px;">
