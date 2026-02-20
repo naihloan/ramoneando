@@ -6,6 +6,23 @@ nav_exclude: true
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
 
+# Let's play music together!
+
+ Have you even used [ninjam](https://www.cockos.com/ninjam/) to jam online?
+
+In case you feel you need some musical resources:
+
+* [Inspiring Jamming Instructions](/music/jamming)
+* Learning scales
+  * [Minor](music/a-minor-pentatonic/)
+  * [Major](/music/c-major-pentatonic/)
+
+<!--
+* [12 Bar Blues Chord Progression]
+-->
+
+<br/>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
 <script>
@@ -16,10 +33,12 @@ description: Benji’s journey as a worker in tech and Product, including career
   gtag('config', 'G-7Z9R6XC60Z');
 </script>
 
+## Some of My Favourite LPs, Songs and Music Videos
+
 [![David Byrne, in Stop Making Sense: Psycho Killer](/assets/images/DavidByrne.png)](https://youtu.be/wke3tdWrd3k?t=15)
 *[David Byrne, in Stop Making Sense: Psycho Killer.](https://youtu.be/wke3tdWrd3k?t=15) This Talking Heads recording starts with the main performer alone on stage with a guitar, a recorded drum beat, and his voice. It´s so powerful and hypnotic, both in sound and in visuals.*
 
-## Some of My Favourite LPs and Songs 
+
 
 
 | Artist | Top Track | Year + LP  | 
@@ -44,6 +63,8 @@ description: Benji’s journey as a worker in tech and Product, including career
 --> 
 
 #### [See More](/music/lps)
+
+<br/> 
 
 # What do you like to listen?
 

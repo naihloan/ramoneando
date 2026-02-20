@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-20T19:10:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ramoneando.com</title><subtitle>This site is all about sharing my interests and connecting with others.  I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books.  I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting.  What are you into?</subtitle><entry><title type="html">𝄢 LPs</title><link href="http://localhost:4000/music/lps/" rel="alternate" type="text/html" title="𝄢 LPs" /><published>2026-02-20T00:00:00-03:00</published><updated>2026-02-20T00:00:00-03:00</updated><id>http://localhost:4000/music/lps</id><content type="html" xml:base="http://localhost:4000/music/lps/"><![CDATA[<!-- Google tag (gtag.js) -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-20T20:09:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ramoneando.com</title><subtitle>This site is all about sharing my interests and connecting with others.  I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books.  I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting.  What are you into?</subtitle><entry><title type="html">𝄢 LPs</title><link href="http://localhost:4000/music/lps/" rel="alternate" type="text/html" title="𝄢 LPs" /><published>2026-02-20T00:00:00-03:00</published><updated>2026-02-20T00:00:00-03:00</updated><id>http://localhost:4000/music/lps</id><content type="html" xml:base="http://localhost:4000/music/lps/"><![CDATA[<!-- Google tag (gtag.js) -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
 
 <script>
@@ -332,7 +332,7 @@ Let me know about your favorite music to listen or play!
 <a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
 Let me know about your favorite music to listen or play!
 </a>
--->]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">C Major Pentatonic Diagrams</title><link href="http://localhost:4000/bass/c-major-pentatonic/" rel="alternate" type="text/html" title="C Major Pentatonic Diagrams" /><published>2026-02-15T00:00:00-03:00</published><updated>2026-02-15T00:00:00-03:00</updated><id>http://localhost:4000/bass/C-major-pentatonic</id><content type="html" xml:base="http://localhost:4000/bass/c-major-pentatonic/"><![CDATA[<html lang="en">
+-->]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">C Major Pentatonic Diagrams</title><link href="http://localhost:4000/music/c-major-pentatonic/" rel="alternate" type="text/html" title="C Major Pentatonic Diagrams" /><published>2026-02-15T00:00:00-03:00</published><updated>2026-02-15T00:00:00-03:00</updated><id>http://localhost:4000/music/C-major-pentatonic</id><content type="html" xml:base="http://localhost:4000/music/c-major-pentatonic/"><![CDATA[<html lang="en">
 <head>
     <meta charset="UTF-8" />
     <title>C Major Scale Schematic</title>
@@ -414,15 +414,7 @@ Let me know about your favorite music to listen or play!
             --card-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
 
-body {
-    background-color: #0f0f0f !important;   /* or whatever your dark bg is */
-    color: #e0e0e0 !important;
-}
 
-h1, .section-header {
-    color: #f0f0f0 !important;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.6);
-}
 
 .theory-note, .theory-note em {
     color: #ccc !important;
@@ -1043,7 +1035,7 @@ h1, .section-header {
   </p>
 </div>
 
-<h5 id="more-jamming-groovebox-sampling-live-dancing-singing">More Jamming: <a href="https://www.youtube.com/shorts/_vCCdZNvCVQ">Groovebox</a>, <a href="https://www.youtube.com/shorts/zJbKKwN0Sns">Sampling Live</a>, <a href="https://www.youtube.com/shorts/G2GZn4xrj7M">Dancing</a>, <a href="https://www.youtube.com/shorts/8px1P67D0KA">Singing</a>.</h5>
+<h4 id="more-jamming-groovebox-sampling-live-dancing-singing">More Jamming: <a href="https://www.youtube.com/shorts/_vCCdZNvCVQ">Groovebox</a>, <a href="https://www.youtube.com/shorts/zJbKKwN0Sns">Sampling Live</a>, <a href="https://www.youtube.com/shorts/G2GZn4xrj7M">Dancing</a>, <a href="https://www.youtube.com/shorts/8px1P67D0KA">Singing</a>.</h4>
 
 <p><br /></p>
 
@@ -1068,46 +1060,41 @@ h1, .section-header {
 </div>
 
 <svg width="180" height="260" viewBox="0 0 160 220" xmlns="http://www.w3.org/2000/svg">
-  <rect x="30" y="30" width="100" height="175" fill="none" stroke="#555" stroke-width="2" />
+  <rect x="35" y="30" width="100" height="175" fill="none" stroke="#555" stroke-width="2" />
   
   
     
-    <line x1="30" y1="65" x2="130" y2="65" stroke="#444" stroke-width="1" />
+    <line x1="35" y1="65" x2="135" y2="65" stroke="#444" stroke-width="1" />
   
     
-    <line x1="30" y1="100" x2="130" y2="100" stroke="#444" stroke-width="1" />
+    <line x1="35" y1="100" x2="135" y2="100" stroke="#444" stroke-width="1" />
   
     
-    <line x1="30" y1="135" x2="130" y2="135" stroke="#444" stroke-width="1" />
+    <line x1="35" y1="135" x2="135" y2="135" stroke="#444" stroke-width="1" />
   
     
-    <line x1="30" y1="170" x2="130" y2="170" stroke="#444" stroke-width="1" />
+    <line x1="35" y1="170" x2="135" y2="170" stroke="#444" stroke-width="1" />
   
   
   
     
-    <line x1="50" y1="30" x2="50" y2="205" stroke="#444" stroke-width="1" />
+    <line x1="55" y1="30" x2="55" y2="205" stroke="#444" stroke-width="1" />
   
     
-    <line x1="70" y1="30" x2="70" y2="205" stroke="#444" stroke-width="1" />
+    <line x1="75" y1="30" x2="75" y2="205" stroke="#444" stroke-width="1" />
   
     
-    <line x1="90" y1="30" x2="90" y2="205" stroke="#444" stroke-width="1" />
+    <line x1="95" y1="30" x2="95" y2="205" stroke="#444" stroke-width="1" />
   
     
-    <line x1="110" y1="30" x2="110" y2="205" stroke="#444" stroke-width="1" />
+    <line x1="115" y1="30" x2="115" y2="205" stroke="#444" stroke-width="1" />
   
 
-  <text x="5" y="55" fill="#888" font-family="monospace" font-size="12">8</text>
-  <text x="5" y="125" fill="#888" font-family="monospace" font-size="12">10</text>
-  <text x="5" y="195" fill="#888" font-family="monospace" font-size="12">12</text>
+  <text x="5" y="85" fill="#888" font-family="sans-serif" font-size="11" font-weight="600">IX</text>
+  <text x="5" y="190" fill="#888" font-family="sans-serif" font-size="11" font-weight="600">XII</text>
 
-  <circle cx="130" cy="47" r="8" fill="#74c0fc" />
-  <circle cx="130" cy="117" r="8" fill="#74c0fc" />
-  <circle cx="110" cy="117" r="8" fill="#74c0fc" />
-
-  <circle cx="130" cy="152" r="7" fill="none" stroke="#74c0fc" stroke-width="2" stroke-dasharray="3,2" />
-  <circle cx="130" cy="187" r="7" fill="none" stroke="#74c0fc" stroke-width="2" stroke-dasharray="3,2" />
+  <circle cx="135" cy="47" r="8" fill="#74c0fc" /> <circle cx="135" cy="117" r="8" fill="#74c0fc" /> <circle cx="115" cy="117" r="8" fill="#74c0fc" /> <circle cx="135" cy="152" r="7" fill="none" stroke="#74c0fc" stroke-width="2" stroke-dasharray="3,2" />
+  <circle cx="135" cy="187" r="7" fill="none" stroke="#74c0fc" stroke-width="2" stroke-dasharray="3,2" />
 </svg>
 
 <ul>
@@ -1141,7 +1128,7 @@ h1, .section-header {
 
 <h5 id="blues-chords-for-riffs"><a href="https://www.youtube.com/shorts/--2l0xLir4A">Blues Chords For Riffs</a></h5>
 
-<h5 id="blues-riff-in-minor-pentatonic-by-ricardo-mollo-from-divididos"><a href="https://www.youtube.com/shorts/tVWiQj5Xit4">Blues Riff in Minor Pentatonic, by Ricardo Mollo, from Divididos</a>.</h5>
+<h5 id="blues-riff-in-minor-pentatonic-by-ricardo-mollo-from-divididos"><a href="https://www.youtube.com/shorts/tVWiQj5Xit4">Blues Riff in Minor Pentatonic, by Ricardo Mollo, from Divididos</a></h5>
 
 <style>
   .jam-card-container {
@@ -1284,9 +1271,45 @@ h1, .section-header {
   }
 </style>
 
-<p><br /></p>
+<h1 id="12-bar-blues-chord-progression">12 Bar Blues Chord Progression</h1>
 
-<h1 id="12-bar-blues-chord-progression">12 Bar Blues Chord Progression</h1>]]></content><author><name></name></author><summary type="html"><![CDATA[A quick fun inspiration to jam (optional, if needed)]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-08-07T22:54:26-03:00</published><updated>2025-08-07T22:54:26-03:00</updated><id>http://localhost:4000/blog/2025/08/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<div class="jam-card-container">
+  <a href="https://www.youtube.com/watch?v=DBUyusoZ1kk" target="_blank" rel="noopener" class="jam-card">
+    <div class="jam-thumbnail-box" style="aspect-ratio: 16 / 9;"> <img src="https://img.youtube.com/vi/DBUyusoZ1kk/maxresdefault.jpg" alt="Blues Bass Formulas" class="jam-img" />
+      
+      <div class="jam-overlay">
+        <div class="play-circle">
+          <i class="fa-solid fa-play"></i>
+        </div>
+        <span class="jam-label">Press Play to Jam ↗</span>
+      </div>
+    </div>
+  </a>
+  <div class="jam-caption">
+    <p><em>7 Easy Blues Bass Line Formulas: The Blues Box.</em> How to improvise with your band, over a chord progression.</p>
+  </div>
+</div>
+
+<h4 id="more">More</h4>
+
+<h5 id="beginner-blues-bass-survival-shapes-simple-method-for-12-bar-blues-learn-shapes-by-bassbuzz">Beginner Blues Bass “Survival Shapes” (Simple Method for 12 Bar Blues). <a href="https://youtu.be/tiloGr59WOg?t=61">Learn Shapes! by @BassBuzz</a></h5>
+
+<h5 id="how-to-play-the-blues-on-bass-with-tabs-and-playalong-learn-the-blues-groove-by-yonit-spiegelman">How to Play the Blues on Bass (with tabs and playalong). <a href="https://www.youtube.com/watch?v=qyUyoZ4cYhU">Learn the Blues Groove! by Yonit Spiegelman</a></h5>
+
+<h6 id="yonit-above-teaches-3-ways--beginner-intermediate--advanced">Yonit above teaches 3 ways- beginner, intermediate &amp; advanced</h6>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="/assets/images/12barsblues-bassbuzz.png" alt="Learn the blues, in 12 bars" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Chord Progression from the Root –1–, to IV and V. Courtesy of <a href="https://forum.bassbuzz.com/t/beginner-blues-bass-survival-shapes-simple-method-for-12-bar-blues/3424">BassBuzz</a>.</em></td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[A quick fun inspiration to jam (optional, if needed)]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-08-07T22:54:26-03:00</published><updated>2025-08-07T22:54:26-03:00</updated><id>http://localhost:4000/blog/2025/08/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 

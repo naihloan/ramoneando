@@ -2,7 +2,7 @@
 layout: post          # or 'page' / 'default' depending on your theme
 title:  "C Major Pentatonic Diagrams"
 date:   2026-02-15    # optional but good practice for posts
-permalink: /bass/c-major-pentatonic/   # optional – controls the URL
+permalink: /music/c-major-pentatonic/   # optional – controls the URL
 ---
 
 <html lang="en">
