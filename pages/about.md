@@ -116,7 +116,7 @@ Tizi: Strategy
 
     <div class="testimonial-card">
       <div class="testimonial-header">
-        <img src="https://media.licdn.com/dms/image/v2/C4E03AQHtN_AH5ch24g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1657634021405?e=1772064000&v=beta&t=4C7ndtFNM6Ky5f5BylFmNGoDXncKHaCHvKwQJyHn8w0" alt="Colleague 2" class="testimonial-avatar">
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQEtmcX9fC9jGg/profile-displayphoto-scale_400_400/B4EZxmgjqVKoAg-/0/1771246339577?e=1773273600&v=beta&t=ICQAj1dP6baMOuC00FDQWxrbzmjcRMs0hvjR2YvHmg8" alt="Colleague 2" class="testimonial-avatar">
         <div class="testimonial-meta">
           <strong>Tiziana Pittini</strong>
           <span>CPO @ NEWM</span>
