@@ -1,14 +1,14 @@
 ---
-title: Agents
+title: AGENTS.md
 permalink: /agents/
 layout: default
 ---
 
-# AGENTS.md
+# AI Agent Guidelines
 
-## AI Agent Guidelines
+<br/>
 
-### Goal
+## Goal
 
 * Here I want to show an AI what I expect as broad guidelines and set expectations
 * See my [./ai](./ai) page on more of *how I do and don't use AI*
@@ -16,12 +16,15 @@ layout: default
 	* I mostly avoid writing and publishing with AI
 * I'll avoid repeating myself on each prompt
 
-### My Profile
+<br/>
+
+## My Profile
 
 * Please fetch my information from [this website](https://ramoneando.com/) and connected pages
 * Let me know if you can access my website and connected pages
 
-### Output Iteration and Information Architecture
+<br/>
+## Output Iteration and Information Architecture
 
 * Please do this, and assist me: 
 	* let me know about my blind spots
@@ -43,7 +46,9 @@ layout: default
 	* red for feelings and emotion; 
 	* black for negative comments.
 
-### Output Quantity and Style
+<br/>
+
+## Output Quantity and Style
 
 * Enable asking in specific styles:
 	* "Explain Like I'm Five", with ELIF acronym

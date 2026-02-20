@@ -80,7 +80,7 @@ My Favorite Books
 
 <a href="/about/" class="mono-scale-btn" aria-label="Contact me">
     <!-- Got a product role? -->
-  About section here
+  About Section Here
 </a>
 
 

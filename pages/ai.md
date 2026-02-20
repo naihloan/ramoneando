@@ -18,6 +18,7 @@ I try to avoid content that is entirely produced by AI both in writing and in re
 |:--:| 
 | *Picture of the The Oracle of Delphi Entranced by Heinrich Leutemann, circa 1880* |
 
+<br/>
 
 ## How I use, and read, on AI
 
@@ -121,6 +122,7 @@ function copyThis(id) {
 * also regular check on builder apps 
 -->
 
+<br/>
 ## Books on AI I've enjoyed so far
 
 * Player Piano. By Kurt Vonnegut.
@@ -131,7 +133,7 @@ function copyThis(id) {
 -- Quotation from Ethan Mollick: _Co-Intelligence Living and Working With AI_. Penguin Publishing Group (2024) (pp. xvii-xviii). Kindle Edition.
 
 
-
+<br/>
 
 ## Do you want to discuss AI and product with me?
 

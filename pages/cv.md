@@ -15,7 +15,7 @@ sitemap_priority: 0.9
 
 | | Milestones & Highlights |
 | :--- | :--- |
-| **Experienced Delivery builder** | Making awesome products since 2020. |
+| **Experienced Delivery builder** | Making awesome products since 2019. |
 | **Incubated Founder** | Selected for Incubation at Speezard, validating our pre-seed Project from 0 to 1. |
 | **Hackathon enthusiast & Speaker:** | Prototyped a decentralized solution and gained prizes. Presented a [3-minute pitch](https://youtu.be/OZIIEEaVkq0?t=5203) to a live audience of 2K people at ETH Argentina 2023. |
 | **Status: American Citizen** | Based in Argentina. |
@@ -69,7 +69,8 @@ Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX a
   </div>
 </div>
 
-<!-- --> 
+<br/>
+
 <div style="text-transform: uppercase; font-size: 3.7rem; letter-spacing: 2px; color: #999; margin-bottom: 10px;"> 
 	Work History </div>
 
@@ -101,6 +102,7 @@ Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX a
 * **Product Launch:** Developed big data workflows for Dirección General de Rentas (B2B).
 
 
+<br/>
 
 <!-- --> 
 <div style="text-transform: uppercase; font-size: 3.7rem; letter-spacing: 2px; color: #999; margin-bottom: 10px;">
@@ -110,7 +112,7 @@ Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX a
 * **Master’s in Sociology:** UNICAMP, Brazil (2012–2014).
 * **Graduate in Sociology:** UBA, Buenos Aires, Argentina (2002–2009).
 
-
+<br/>
 <!-- --> 
 <div style="text-transform: uppercase; font-size: 3.7rem; letter-spacing: 2px; color: #999; margin-bottom: 10px;">
   	Resources </div>
@@ -164,6 +166,8 @@ h2 {
 ###### /cv/ page: Last updated on February, 2026
 
 ###### PDF version of this page: [here](../docs/benji-cv.pdf).
+
+<br/>
 
 # Also see my [Goals](../goals/) and [About](../about/) sections
 

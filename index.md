@@ -21,8 +21,9 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 <img src="/assets/images/profile-2.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 50%; border: 2px solid #f0f0f0;">
 
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
-  Book a Call with me
-</a> Please tell me what you're interested about
+  Book a Call to work with me.</a>   What are you interested about?
+
+<!-- Please tell me what you're interested about -->
 
 <br/>
 
@@ -44,7 +45,7 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
 <br/>
 
-## >> My Product Thinking
+## My Product Thinking
 I aim for bringing value to teams and users asap as possible:
 - **Delivery and Execution:** Managing the product development lifecycle from ideation, to team alignment, concept, deployment, and improving.
 - **Product Discovery & Research:** Understanding why, and what users need. Easier said than done, but my academics help me, methinks.
