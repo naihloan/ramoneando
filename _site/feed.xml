@@ -1,4 +1,338 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-20T16:17:15-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ramoneando.com</title><subtitle>This site is all about sharing my interests and connecting with others.  I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books.  I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting.  What are you into?</subtitle><entry><title type="html">C Major Pentatonic Diagrams</title><link href="http://localhost:4000/bass/c-major-pentatonic/" rel="alternate" type="text/html" title="C Major Pentatonic Diagrams" /><published>2026-02-15T00:00:00-03:00</published><updated>2026-02-15T00:00:00-03:00</updated><id>http://localhost:4000/bass/C-major-pentatonic</id><content type="html" xml:base="http://localhost:4000/bass/c-major-pentatonic/"><![CDATA[<html lang="en">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-20T19:10:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ramoneando.com</title><subtitle>This site is all about sharing my interests and connecting with others.  I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books.  I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting.  What are you into?</subtitle><entry><title type="html">𝄢 LPs</title><link href="http://localhost:4000/music/lps/" rel="alternate" type="text/html" title="𝄢 LPs" /><published>2026-02-20T00:00:00-03:00</published><updated>2026-02-20T00:00:00-03:00</updated><id>http://localhost:4000/music/lps</id><content type="html" xml:base="http://localhost:4000/music/lps/"><![CDATA[<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
+
+<h2 id="some-of-my-favourite-lps-and-songs">Some of My Favourite LPs and Songs</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Artist</th>
+      <th style="text-align: left">Top Track</th>
+      <th style="text-align: left">Year + LP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">Nirvana</td>
+      <td style="text-align: left">About A Girl</td>
+      <td style="text-align: left">1994. Unplugged</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Charly García</td>
+      <td style="text-align: left">Pasajera En Trance</td>
+      <td style="text-align: left">1995. Unplugged</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Proceso A Ricutti</td>
+      <td style="text-align: left">Yo No Transé</td>
+      <td style="text-align: left">1991. Demodé Moderno</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Red Hot Chili Peppers</td>
+      <td style="text-align: left">I Could Have Lied</td>
+      <td style="text-align: left">1991. Blood Sugar Sex Magik</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Nirvana</td>
+      <td style="text-align: left">All Apologies</td>
+      <td style="text-align: left">1993. In Utero</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Stone Temple Pilots</td>
+      <td style="text-align: left">Press Play</td>
+      <td style="text-align: left">1996. Tiny Music… Songs from the Vatican Gift Shop</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Radiohead</td>
+      <td style="text-align: left">Paranoid Android</td>
+      <td style="text-align: left">1997. OK Computer</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Cienfuegos</td>
+      <td style="text-align: left">Ella De Pontevedra</td>
+      <td style="text-align: left">1998. Hacia El Cosmos</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">The Chemical Brothers</td>
+      <td style="text-align: left">Dream On</td>
+      <td style="text-align: left">1999. Surrender</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Francisco Bochatón</td>
+      <td style="text-align: left">Ausente</td>
+      <td style="text-align: left">2000. Píntame Los Labios</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Rita Lee</td>
+      <td style="text-align: left">A Hard Day’s Night</td>
+      <td style="text-align: left">2000. Aqui,  Ali,  Em Qualquer Lugar</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Willy Crook &amp; Funky Torinos</td>
+      <td style="text-align: left">Eternity</td>
+      <td style="text-align: left">2001. Eco</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Belle &amp; Sebastian</td>
+      <td style="text-align: left">Fiction</td>
+      <td style="text-align: left">2002. Storytelling</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Daft Punk</td>
+      <td style="text-align: left">Lose Yourself To Dance</td>
+      <td style="text-align: left">2013. Random Access Memories</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">John Frusciante</td>
+      <td style="text-align: left">Murderers</td>
+      <td style="text-align: left">2001. To Record Only Water for Ten Days</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Talking Heads</td>
+      <td style="text-align: left">Psycho Killer</td>
+      <td style="text-align: left">1984. Stop Making Sense</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Pixies</td>
+      <td style="text-align: left">Gigantic</td>
+      <td style="text-align: left">1987. Surfer Rosa</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Pixies</td>
+      <td style="text-align: left">Wave Of Mutilation</td>
+      <td style="text-align: left">1989. Doolittle</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Nirvana</td>
+      <td style="text-align: left">Drain You</td>
+      <td style="text-align: left">1991. Nevermind</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">U2</td>
+      <td style="text-align: left">Numb</td>
+      <td style="text-align: left">1993. Zooropa</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">The Presidents of the United States of America</td>
+      <td style="text-align: left">Peaches</td>
+      <td style="text-align: left">1994. The Presidents of the United States of America</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Los Rodríguez</td>
+      <td style="text-align: left">Extraño</td>
+      <td style="text-align: left">1996. Palabras Más, Palabras Menos</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Sheryl Crow</td>
+      <td style="text-align: left">Everyday Is a Winding Road</td>
+      <td style="text-align: left">1996. Sheryl Crow</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">U2</td>
+      <td style="text-align: left">Discothèque</td>
+      <td style="text-align: left">1997. Pop</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">U2</td>
+      <td style="text-align: left">God Part II</td>
+      <td style="text-align: left">1998. Rattle and Hum</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Easy Star All-Stars</td>
+      <td style="text-align: left">Brain Damage</td>
+      <td style="text-align: left">2003. Dub Side of the Moon</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Wilco</td>
+      <td style="text-align: left">Theologians</td>
+      <td style="text-align: left">2004. A Ghost Is Born</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">LCD Soundsystem</td>
+      <td style="text-align: left">New York,  I Love You but You’re Bringing Me Down</td>
+      <td style="text-align: left">2007. Sound Of Silver</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">LCD Soundsystem</td>
+      <td style="text-align: left">Dance Yrself Clean</td>
+      <td style="text-align: left">2010. This Is Happening</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Jozef van Wissem and Sqürl</td>
+      <td style="text-align: left">Funnel Of Love</td>
+      <td style="text-align: left">2014. Only Lovers Left Alive (Original Motion Picture Soundtrack)</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Khruangbin</td>
+      <td style="text-align: left">May Ninth</td>
+      <td style="text-align: left">2024. A La Sala</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Pink Floyd</td>
+      <td style="text-align: left">Astronomy Domine</td>
+      <td style="text-align: left">1967. The Piper at the Gates of Dawn</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Jorge Cafrune</td>
+      <td style="text-align: left">No Soy De Aquí Ni Soy De Allá</td>
+      <td style="text-align: left">1970. Esenciales</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Sumo</td>
+      <td style="text-align: left">Heroine</td>
+      <td style="text-align: left">1986. Llegando los Monos</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Nirvana</td>
+      <td style="text-align: left">About A Girl</td>
+      <td style="text-align: left">1989. Bleach</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Pixies</td>
+      <td style="text-align: left">Velouria</td>
+      <td style="text-align: left">1990. Bossanova</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Divididos</td>
+      <td style="text-align: left">Paisano De Hurlingham</td>
+      <td style="text-align: left">1993. La Era De La Boludez</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Radiohead</td>
+      <td style="text-align: left">My Iron Lung</td>
+      <td style="text-align: left">1995. The Bends</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Soda Stereo</td>
+      <td style="text-align: left">Zoom</td>
+      <td style="text-align: left">1995. Sueño Stereo</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Divididos</td>
+      <td style="text-align: left">Par Mil</td>
+      <td style="text-align: left">2000. Narigón Del Siglo</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Racionais MC’s</td>
+      <td style="text-align: left">A Vida é Desafio</td>
+      <td style="text-align: left">2002. Nada Como Um Dia Após O Outro Dia</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Antonio Birabent</td>
+      <td style="text-align: left">Río En Espiral</td>
+      <td style="text-align: left">2002. Cardinal</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Los Piojos</td>
+      <td style="text-align: left">Canción De Cuna</td>
+      <td style="text-align: left">2003. Máquina de sangre</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Stone Temple Pilots</td>
+      <td style="text-align: left">Days Of The Week</td>
+      <td style="text-align: left">2003. Thank You</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Molotov</td>
+      <td style="text-align: left">Here We Kum</td>
+      <td style="text-align: left">2003. Dance And Dense Denso</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">St. Vincent</td>
+      <td style="text-align: left">Los Ageless</td>
+      <td style="text-align: left">2017. MassEducation</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Jethro Tull</td>
+      <td style="text-align: left">Aqualung</td>
+      <td style="text-align: left">1971. Aqualung</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Pescado Rabioso</td>
+      <td style="text-align: left">Bajan</td>
+      <td style="text-align: left">1973. Artaud</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">David Bowie &amp; Queen</td>
+      <td style="text-align: left">Under Pressure</td>
+      <td style="text-align: left">1981. Greatest Hits</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Titãs</td>
+      <td style="text-align: left">Comida</td>
+      <td style="text-align: left">1987. Jesus não tem dentes no país dos banguelas</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Sheryl Crow</td>
+      <td style="text-align: left">Soak Up the Sun</td>
+      <td style="text-align: left">2002. C’mon,  C’mon</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Intoxicados</td>
+      <td style="text-align: left">Felicidad,  Depresion</td>
+      <td style="text-align: left">2003. No es sólo rock and roll</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Ben Lee</td>
+      <td style="text-align: left">Catch My Disease</td>
+      <td style="text-align: left">2005. Awake Is The New Sleep</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Hipnótica</td>
+      <td style="text-align: left">Apocalipso</td>
+      <td style="text-align: left">2024. Hipnótica</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="what-do-you-like-to-listen">What do you like to listen?</h1>
+
+<!-- Monochrome scale button with elevated effect -->
+<style>
+.mono-scale-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #000000; /* Black text */
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+.mono-scale-btn:hover {
+  color: #6c757d; /* Grey text */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-4px) scale(1.05); /* Slight scale */
+}
+@media screen and (max-width: 600px) {
+  .mono-scale-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+}
+</style>
+
+<p><a href="mailto:venhamon@gmail.com" class="mono-scale-btn" aria-label="Contact me via email">
+Let me know about your favorite music to listen or play!
+<!-- Check out what I'm doing now here -->
+</a></p>
+
+<!--
+<a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">
+Let me know about your favorite music to listen or play!
+</a>
+-->]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">C Major Pentatonic Diagrams</title><link href="http://localhost:4000/bass/c-major-pentatonic/" rel="alternate" type="text/html" title="C Major Pentatonic Diagrams" /><published>2026-02-15T00:00:00-03:00</published><updated>2026-02-15T00:00:00-03:00</updated><id>http://localhost:4000/bass/C-major-pentatonic</id><content type="html" xml:base="http://localhost:4000/bass/c-major-pentatonic/"><![CDATA[<html lang="en">
 <head>
     <meta charset="UTF-8" />
     <title>C Major Scale Schematic</title>
@@ -687,7 +1021,272 @@ h1, .section-header {
     </div>
 
 </body>
-</html>]]></content><author><name></name></author><summary type="html"><![CDATA[A Minor. Natural and Pentatonic]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-08-07T22:54:26-03:00</published><updated>2025-08-07T22:54:26-03:00</updated><id>http://localhost:4000/blog/2025/08/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+</html>]]></content><author><name></name></author><summary type="html"><![CDATA[A Minor. Natural and Pentatonic]]></summary></entry><entry><title type="html">𝄢 Jamming and Improvising</title><link href="http://localhost:4000/music/jamming/" rel="alternate" type="text/html" title="𝄢 Jamming and Improvising" /><published>2026-02-15T00:00:00-03:00</published><updated>2026-02-15T00:00:00-03:00</updated><id>http://localhost:4000/music/jamming</id><content type="html" xml:base="http://localhost:4000/music/jamming/"><![CDATA[<p><br /></p>
+<h1 id="a-quick-fun-inspiration-to-jam-optional-if-needed">A quick fun inspiration to jam (optional, if needed)</h1>
+
+<div class="jam-card-container">
+  <a href="https://www.youtube.com/shorts/9U7ZCMGDywk" target="_blank" rel="noopener" class="jam-card">
+    <div class="jam-thumbnail-box">
+      <img src="https://img.youtube.com/vi/9U7ZCMGDywk/maxresdefault.jpg" alt="Jamming Session" class="jam-img" />
+      
+      <div class="jam-overlay">
+        <div class="play-circle">
+          <i class="fa-solid fa-play"></i>
+        </div>
+        <span class="jam-label">Watch Jam ↗</span>
+      </div>
+    </div>
+  </a>
+  <p class="jam-caption">
+    <em>"It ain't over till it's over"</em> — @fultonleemusic
+     teaching a stranger how to jam.
+  </p>
+</div>
+
+<h5 id="more-jamming-groovebox-sampling-live-dancing-singing">More Jamming: <a href="https://www.youtube.com/shorts/_vCCdZNvCVQ">Groovebox</a>, <a href="https://www.youtube.com/shorts/zJbKKwN0Sns">Sampling Live</a>, <a href="https://www.youtube.com/shorts/G2GZn4xrj7M">Dancing</a>, <a href="https://www.youtube.com/shorts/8px1P67D0KA">Singing</a>.</h5>
+
+<p><br /></p>
+
+<h1 id="1-2-3-blues-jam-on-guitar">1, 2, 3 blues jam on guitar</h1>
+
+<div class="jam-card-container">
+  <a href="https://www.youtube.com/shorts/rwpZ5Sis3bE" target="_blank" rel="noopener" class="jam-card">
+    <div class="jam-thumbnail-box">
+      <img src="https://img.youtube.com/vi/rwpZ5Sis3bE/maxresdefault.jpg" alt="Blues Jam with BB King" class="jam-img" />
+      
+      <div class="jam-overlay">
+        <div class="play-circle">
+          <i class="fa-solid fa-play"></i>
+        </div>
+        <span class="jam-label">Listen to the Blues ↗</span>
+      </div>
+    </div>
+  </a>
+  <div class="jam-caption">
+    <p><em>"Call and response like BB King."</em> Play a 3-note pattern to find the notes that sound good, and how to let the music breathe with space.</p>
+  </div>
+</div>
+
+<svg width="180" height="260" viewBox="0 0 160 220" xmlns="http://www.w3.org/2000/svg">
+  <rect x="30" y="30" width="100" height="175" fill="none" stroke="#555" stroke-width="2" />
+  
+  
+    
+    <line x1="30" y1="65" x2="130" y2="65" stroke="#444" stroke-width="1" />
+  
+    
+    <line x1="30" y1="100" x2="130" y2="100" stroke="#444" stroke-width="1" />
+  
+    
+    <line x1="30" y1="135" x2="130" y2="135" stroke="#444" stroke-width="1" />
+  
+    
+    <line x1="30" y1="170" x2="130" y2="170" stroke="#444" stroke-width="1" />
+  
+  
+  
+    
+    <line x1="50" y1="30" x2="50" y2="205" stroke="#444" stroke-width="1" />
+  
+    
+    <line x1="70" y1="30" x2="70" y2="205" stroke="#444" stroke-width="1" />
+  
+    
+    <line x1="90" y1="30" x2="90" y2="205" stroke="#444" stroke-width="1" />
+  
+    
+    <line x1="110" y1="30" x2="110" y2="205" stroke="#444" stroke-width="1" />
+  
+
+  <text x="5" y="55" fill="#888" font-family="monospace" font-size="12">8</text>
+  <text x="5" y="125" fill="#888" font-family="monospace" font-size="12">10</text>
+  <text x="5" y="195" fill="#888" font-family="monospace" font-size="12">12</text>
+
+  <circle cx="130" cy="47" r="8" fill="#74c0fc" />
+  <circle cx="130" cy="117" r="8" fill="#74c0fc" />
+  <circle cx="110" cy="117" r="8" fill="#74c0fc" />
+
+  <circle cx="130" cy="152" r="7" fill="none" stroke="#74c0fc" stroke-width="2" stroke-dasharray="3,2" />
+  <circle cx="130" cy="187" r="7" fill="none" stroke="#74c0fc" stroke-width="2" stroke-dasharray="3,2" />
+</svg>
+
+<ul>
+  <li>Find 3 notes
+    <ul>
+      <li>You can use use 1 3 4</li>
+      <li>More:
+        <ul>
+          <li>add a blue note: 1/2 step after the 4th</li>
+          <li>add a 5th</li>
+          <li><del>use a only <a href="https://www.youtube.com/shorts/TjBHejWrDK8">pentatonic or major scale if you’re looking for more</a>. not required</del></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Stick to those notes</li>
+  <li>Find the important note, the 1 –or root– and go back to it to mark phrases</li>
+  <li>Leave some space (silence), and bends</li>
+  <li>Repeat</li>
+  <li>If in doubt to jam:
+    <ul>
+      <li><a href="https://www.youtube.com/shorts/EIx0MNOAZI4">ask</a></li>
+      <li><a href="https://www.youtube.com/shorts/EIx0MNOAZI4">or explain what you’re doing</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="more-blues-tips">More Blues Tips:</h4>
+
+<h5 id="12-bar-blues-chord-progression-turn-around-tension-and-release"><a href="https://www.youtube.com/shorts/kCbJ87AE6Ac">12 Bar Blues Chord Progression Turn Around Tension and Release</a></h5>
+
+<h5 id="blues-chords-for-riffs"><a href="https://www.youtube.com/shorts/--2l0xLir4A">Blues Chords For Riffs</a></h5>
+
+<h5 id="blues-riff-in-minor-pentatonic-by-ricardo-mollo-from-divididos"><a href="https://www.youtube.com/shorts/tVWiQj5Xit4">Blues Riff in Minor Pentatonic, by Ricardo Mollo, from Divididos</a>.</h5>
+
+<style>
+  .jam-card-container {
+    max-width: 320px; 
+    margin: 50px auto;
+    text-align: center;
+  }
+  .jam-card {
+    display: block;
+    text-decoration: none;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 12px 24px rgba(0,0,0,0.5);
+    border: 1px solid #3b3e45;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
+  .jam-card:hover {
+    transform: translateY(-8px);
+    border-color: #74c0fc;
+  }
+  .jam-thumbnail-box {
+    position: relative;
+    aspect-ratio: 9 / 16;
+    background: #000;
+  }
+  .jam-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.85;
+  }
+  .jam-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,0.1);
+  }
+  .play-circle {
+    width: 64px;
+    height: 64px;
+    background: rgba(116, 192, 252, 0.2); /* Subtle blue tint to match your links */
+    backdrop-filter: blur(8px);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    color: white;
+    margin-bottom: 12px;
+    border: 1px solid rgba(116, 192, 252, 0.4);
+  }
+  .jam-label {
+    color: white;
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    background: rgba(26, 27, 30, 0.8);
+    padding: 6px 16px;
+    border-radius: 20px;
+  }
+  .jam-caption {
+    margin-top: 20px;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #b0b0b0;
+  }
+</style>
+
+<style>
+  .jam-card-container {
+    max-width: 320px; /* Kept narrow for the vertical video look */
+    margin: 40px auto;
+    text-align: center;
+  }
+  .jam-card {
+    display: block;
+    text-decoration: none;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+    border: 1px solid #3b3e45;
+    transition: transform 0.2s ease;
+  }
+  .jam-card:hover {
+    transform: translateY(-5px);
+    border-color: #74c0fc;
+  }
+  .jam-thumbnail-box {
+    position: relative;
+    aspect-ratio: 9 / 16;
+    background: #000;
+  }
+  .jam-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.9;
+  }
+  .jam-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,0.2);
+  }
+  .play-circle {
+    width: 60px;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 10px;
+    border: 1px solid rgba(255,255,255,0.4);
+  }
+  .jam-label {
+    color: white;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: rgba(0,0,0,0.6);
+    padding: 4px 12px;
+    border-radius: 20px;
+  }
+  .jam-caption {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #888;
+  }
+</style>
+
+<p><br /></p>
+
+<h1 id="12-bar-blues-chord-progression">12 Bar Blues Chord Progression</h1>]]></content><author><name></name></author><summary type="html"><![CDATA[A quick fun inspiration to jam (optional, if needed)]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-08-07T22:54:26-03:00</published><updated>2025-08-07T22:54:26-03:00</updated><id>http://localhost:4000/blog/2025/08/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2025/08/07/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 

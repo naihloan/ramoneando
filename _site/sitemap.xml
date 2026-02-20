@@ -26,6 +26,14 @@
 <lastmod>2026-02-15T00:00:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/music/jamming/</loc>
+<lastmod>2026-02-15T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/music/lps/</loc>
+<lastmod>2026-02-20T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/agents/</loc>
 </url>
 <url>
