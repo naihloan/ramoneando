@@ -59,7 +59,7 @@ JB: Execution
 Tizi: Strategy
 -->
 
-## Strong, nice, things people say about me and how I work
+## Strong, nice, things people say about how I work
 
 <!--
 <section id="recommendations" style="margin-top: 50px;">
@@ -101,7 +101,7 @@ Tizi: Strategy
     
     <div class="testimonial-card">
       <div class="testimonial-header">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFkunQrHU2PBw/profile-displayphoto-scale_400_400/B4DZmbRkTHJMAg-/0/1759246698377?e=1772064000&v=beta&t=Q_KkR2imjcKuI7HFCCTjJ9TtiC_tSzx_Yv6ao027G9s" alt="Colleague 1" class="testimonial-avatar" referrerpolicy="no-referrer">
+        <img src="/assets/images/recs/jb.png" alt="Colleague 1" class="testimonial-avatar" referrerpolicy="no-referrer">
         <div class="testimonial-meta">
           <strong>Juan (JB) Bidondo </strong>
           <span>CEO @ TOTS</span>
@@ -111,12 +111,12 @@ Tizi: Strategy
       <p class="testimonial-text">
         "[Benji] will just jump over and start shaking things up fast and for the best. He manages strong attributes when it comes to precise communication and following precise roadmaps. We were looking for a special person to add order and personality to a special app launch and we definitely found it."
       </p>
-      <a href="https://www.linkedin.com/in/bj-pm/details/recommendations/" target="_blank" class="testimonial-link">LinkedIn ↗</a>
+      <a href="https://www.linkedin.com/in/bj-pm/details/recommendations/" target="_blank" class="testimonial-link">Read More on LinkedIn ↗</a>
     </div>
 
     <div class="testimonial-card">
       <div class="testimonial-header">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQEtmcX9fC9jGg/profile-displayphoto-scale_400_400/B4EZxmgjqVKoAg-/0/1771246339577?e=1773273600&v=beta&t=ICQAj1dP6baMOuC00FDQWxrbzmjcRMs0hvjR2YvHmg8" alt="Colleague 2" class="testimonial-avatar">
+        <img src="/assets/images/recs/tizi.png" alt="Colleague 2" class="testimonial-avatar">
         <div class="testimonial-meta">
           <strong>Tiziana Pittini</strong>
           <span>CPO @ NEWM</span>
@@ -126,12 +126,12 @@ Tizi: Strategy
       <p class="testimonial-text">
         "Benji was pivotal in the successful launch of our flagship product, NEWM Studio, as well as the Stream Token Marketplace. These products in the ecosystem, and Benji as the PM, were key in the organisation of the development team’s tasks and priorities."
       </p>
-      <a href="https://www.linkedin.com/in/bj-pm/details/recommendations/" target="_blank" class="testimonial-link">LinkedIn ↗</a>
+      <a href="https://www.linkedin.com/in/bj-pm/details/recommendations/" target="_blank" class="testimonial-link">Read More on LinkedIn ↗</a>
     </div>
 
     <div class="testimonial-card">
       <div class="testimonial-header">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFk9Dsn-5RZXg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1723828359771?e=1772064000&v=beta&t=5sUDLtuOOCbPkHmQwEM9RidA6wGi1hL2lF9_7Bghp5Y" alt="Colleague 3" class="testimonial-avatar">
+        <img src="/assets/images/recs/pixo.png" alt="Colleague 3" class="testimonial-avatar">
         <div class="testimonial-meta">
           <strong>Andres (Pixo) Perea </strong>
           <span>CEO @ WillDom</span>
@@ -141,7 +141,7 @@ Tizi: Strategy
       <p class="testimonial-text">
         "I was impressed by Benjamin's ability to handle any situation calmly and patiently, even with the toughest projects. This natural skill of his has helped us to grow our marketing engine."
       </p>
-      <a href="https://www.linkedin.com/in/bj-pm/details/recommendations/" target="_blank" class="testimonial-link">LinkedIn ↗</a>
+      <a href="https://www.linkedin.com/in/bj-pm/details/recommendations/" target="_blank" class="testimonial-link">Read More on LinkedIn ↗</a>
     </div>
 
   </div>
