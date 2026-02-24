@@ -6,6 +6,8 @@ sitemap_priority: 0.7
 description: Benji’s take on AI
 ---
 
+<br/>
+
 ## My opinionated take on AI
 
 AI is, in my opinion, great as an idea generator, like ancient greek oracles. 

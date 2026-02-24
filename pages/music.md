@@ -6,47 +6,13 @@ nav_exclude: true
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
 
-<!--
-# Paisano! 
+# Playing Music
+Playing Bass as a power trio with 
+[Sinapsys](https://www.instagram.com/sinapsysok/){:target="_blank"}. 
 
-Measure 1: | X x X x | . . . . |  (Hits on 1, &, 2, &)  
-Measure 2: | X x X x | . . X-x |  (Hits on 1, &, 2, &, 4 sustained)  
+Played our first live gigs in 2025-2026.
 
-<div style="display: flex; font-family: monospace; text-align: center; border: 1px solid #000; width: 300px;">
-  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
-    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">1</div>
-    <b>X</b><br><b>X</b>
-  </div>
-  <div style="flex: 1; border-right: 1px solid #ccc;">
-    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
-    <b>x</b><br><b>x</b>
-  </div>
-  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
-    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">2</div>
-    <b>X</b><br><b>X</b>
-  </div>
-  <div style="flex: 1; border-right: 2px solid #000;">
-    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
-    <b>x</b><br><b>x</b>
-  </div>
-  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
-    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">3</div>
-    <b>&nbsp;</b>
-  </div>
-  <div style="flex: 1; border-right: 1px solid #ccc;">
-    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
-    <b>&nbsp;</b>
-  </div>
-  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
-    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">4</div>
-    <b>&nbsp;</b><br><b>X</b>
-  </div>
-  <div style="flex: 1;">
-    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
-    <b>&nbsp;</b><br><b>---</b>
-  </div>
-</div>
--->
+<br/>
 
 # Let's play music together!
 
@@ -149,3 +115,46 @@ Let me know about your favorite music to listen or play!
 </a>
 -->
 
+
+
+<!--
+# Paisano! 
+
+Measure 1: | X x X x | . . . . |  (Hits on 1, &, 2, &)  
+Measure 2: | X x X x | . . X-x |  (Hits on 1, &, 2, &, 4 sustained)  
+
+<div style="display: flex; font-family: monospace; text-align: center; border: 1px solid #000; width: 300px;">
+  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
+    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">1</div>
+    <b>X</b><br><b>X</b>
+  </div>
+  <div style="flex: 1; border-right: 1px solid #ccc;">
+    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
+    <b>x</b><br><b>x</b>
+  </div>
+  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
+    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">2</div>
+    <b>X</b><br><b>X</b>
+  </div>
+  <div style="flex: 1; border-right: 2px solid #000;">
+    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
+    <b>x</b><br><b>x</b>
+  </div>
+  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
+    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">3</div>
+    <b>&nbsp;</b>
+  </div>
+  <div style="flex: 1; border-right: 1px solid #ccc;">
+    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
+    <b>&nbsp;</b>
+  </div>
+  <div style="flex: 1; border-right: 1px solid #ccc; background: #eee;">
+    <div style="border-bottom: 1px solid #000; background: #ddd; font-weight: bold;">4</div>
+    <b>&nbsp;</b><br><b>X</b>
+  </div>
+  <div style="flex: 1;">
+    <div style="border-bottom: 1px solid #000; background: #f9f9f9; font-weight: bold;">&</div>
+    <b>&nbsp;</b><br><b>---</b>
+  </div>
+</div>
+-->

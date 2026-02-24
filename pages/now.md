@@ -1,5 +1,5 @@
 ---
-title: Now
+title: NOW
 permalink: /now/
 layout: page
 # featured: true
@@ -12,11 +12,12 @@ date: 2026-01-05
 last_modified_at: 2026-01-05 10:30:00 +0000
 ---
 
-<!--
-| <img src="../assets/images/now-in-time-Gemini.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 8px; float: right; margin-left: 20px;"> |
-| :--: |
-| Gemini image inspired on the *In Time* (2011) movie | 
--->
+
+##### This is my "now" page. This page reflects what I´m up to now.  
+
+###### Inspired by Derek Sivers and the /now movement. See others: [nownownow.com](https://nownownow.com/)
+
+###### /now/ page: Last updated on February, 2026
 
 <div style="float:right; margin:0 0 20px 20px; width:25%; text-align:center;">
   <img src="../assets/images/now-in-time-Gemini.png" alt="Gemini image inspired on the In Time (2011) movie" style="width:100%; height:auto; border-radius:8px;">
@@ -25,14 +26,17 @@ last_modified_at: 2026-01-05 10:30:00 +0000
   </p>
 </div>
 
+<br/>
+
 ### Working as a Product Manager in tech
 
-#### Looking for a new gig :)
+#### Looking for a new company :)
 
+<!--
 Over 2024 and 2025 I've done consulting at small and big tech companies. I feel at a crossroads. 
 
 I'm looking for work now.
-
+-->
 
 
 <!--
@@ -59,15 +63,20 @@ About building something new, I've already started research on,
 
 <br/> 
 
+<!--
 # Playing Music
 Playing Bass as a power trio with Sinapsys. 
-<!-- [Sinapsys](https://www.instagram.com/sinapsysok/). -->
+[Sinapsys](https://www.instagram.com/sinapsysok/). 
 Played my first live gigs in 2025
+-->
 
+<!--
 <a href="/music/" class="mono-scale-btn" aria-label="Contact me via email">
 My Favorite Music
-<!-- Songs and Albums -->
 </a>
+-->
+
+<br/>
 
 # Reading Books
 Diving into **CX**, **UX**, **AI**, **data**, and **culture**. It helps to sharpen my Product Management skills. I´ve read plenty of product and business books this year, along with cyber security and some music memoirs and bios. Exploring a book exchange app idea to connect readers: I saw this idea [in paper at a local book store.](/books/#project-inception-favorite-book-sharing)
@@ -76,14 +85,18 @@ Diving into **CX**, **UX**, **AI**, **data**, and **culture**. It helps to sharp
 My Favorite Books
 </a>
 
+<!--
+<br/>
+
 # Who am I? 
 
 <a href="/about/" class="mono-scale-btn" aria-label="Contact me">
-    <!-- Got a product role? -->
+    <!-- Got a product role? 
   About Section Here
 </a>
+-->
 
-
+<br/>
 
 # Reaching Out
 Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? I'm open to PM roles, :). Let's talk! When is:
@@ -122,13 +135,8 @@ Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/
 </a>
 
 
----
 
-##### This is my "now" page. This page reflects what I´m up to now.  
 
-###### Inspired by Derek Sivers and the /now movement. See others: [nownownow.com](https://nownownow.com/)
-
-###### /now/ page: Last updated on January, 2026
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
@@ -201,12 +209,6 @@ Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/
   }
 </style>
 
-
-<!--
-<a href="/about/" style="display: inline-block; padding: 10px 20px; border: 2px solid #6c757d; color: #6c757d; text-decoration: none; border-radius: 5px; background-color: transparent;" onmouseover="this.style.backgroundColor='#6c757d'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#6c757d';">Who am I? About section here</a>
---> 
-
-
 <style>
 .note {
   background: linear-gradient(90deg, #0d6efd11, transparent);
@@ -245,3 +247,4 @@ Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/
   }
 }
 </style>
+
