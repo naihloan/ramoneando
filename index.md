@@ -7,21 +7,142 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
 ## I like building products and understanding human behaviour, patterns and systems.
 
+<br/>
+
+<!--
 #### [Open to Work: Product Manager / Product Owner] 
 
 ###### Available for Full-time, Freelance, or Startup Co-founding. 
 
 ###### Making awesome products since 2019
-<!-- 
----or since 2009 depending on how you count---
--->
+
 
 <img src="/assets/images/profile-2.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 50%; border: 2px solid #f0f0f0;">
 
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
   Book a Call to work with me.</a>   What are you interested about?
+  -->
 
-<!-- Please tell me what you're interested about -->
+<section class="compact-hero">
+  <div class="compact-flex">
+    <div class="compact-avatar-box">
+      <img src="/assets/images/profile-2.png" alt="Benji" class="compact-avatar">
+      <span class="status-dot"></span>
+    </div>
+
+    <div class="compact-info">
+      <h2 class="compact-name">Benji <span class="role-tag">Product Manager</span></h2>
+      <p class="compact-status">Making awesome products since 2019. Available for new roles.</p>
+    </div>
+
+    <div class="compact-ctas">
+      <a href="https://calendly.com/venhamon" target="_blank" class="btn-sm-primary">Book a Call</a>
+      <a href="mailto:venhamon@gmail.com" class="btn-sm-outline"><i class="fa-regular fa-envelope"></i></a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .compact-hero {
+    background: #fdfdfd;
+    border: 1px solid #eee;
+    border-radius: 12px;
+    padding: 15px 25px;
+    margin: 20px 0 40px 0;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+  }
+
+  .compact-flex {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .compact-avatar-box {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+  }
+
+  .compact-avatar {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #74c0fc;
+  }
+
+  .status-dot {
+    position: absolute;
+    bottom: 2px;
+    right: 2px;
+    width: 12px;
+    height: 12px;
+    background: #44ff44;
+    border: 2px solid #fff;
+    border-radius: 50%;
+  }
+
+  .compact-info {
+    flex-grow: 1;
+    min-width: 250px;
+  }
+
+  .compact-name {
+    margin: 0;
+    font-size: 1.1rem;
+    color: #1a1b1e;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .role-tag {
+    font-size: 0.75rem;
+    background: #f0f7ff;
+    color: #329af0;
+    padding: 2px 8px;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+
+  .compact-status {
+    margin: 2px 0 0 0;
+    font-size: 0.85rem;
+    color: #666;
+  }
+
+  .compact-ctas {
+    display: flex;
+    gap: 10px;
+  }
+
+  .btn-sm-primary {
+    background: #329af0;
+    color: #fff !important;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .btn-sm-outline {
+    color: #329af0 !important;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid #329af0;
+    text-decoration: none;
+  }
+
+  /* Mobile adjustment */
+  @media (max-width: 600px) {
+    .compact-flex { justify-content: center; text-align: center; }
+    .compact-ctas { width: 100%; justify-content: center; }
+  }
+</style>
 
 <br/>
 
