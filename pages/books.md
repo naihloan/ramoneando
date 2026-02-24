@@ -1,11 +1,10 @@
 ---
+title: Books
 permalink: /books/
 layout: page
 nav_exclude: true
 description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
-
-# Books
 
 | <img src="/assets/images/books-2025.jpeg" alt="Benji´s books" style="width:45%; height:auto;"> | 
 |:--:| 
