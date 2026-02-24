@@ -1,11 +1,9 @@
 ---
-title: 
+title: Hi, I’m Benji.
 layout: page
 sitemap_priority: 1
 description: Benji’s journey as a Product Manager. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to PM and Product Owner roles.
 ---
-
-# *Hi, I’m Benji.* 
 
 ## I like building products and understanding human behaviour, patterns and systems.
 
