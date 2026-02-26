@@ -9,25 +9,11 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
 <br/>
 
-<!--
-#### [Open to Work: Product Manager / Product Owner] 
-
-###### Available for Full-time, Freelance, or Startup Co-founding. 
-
-###### Making awesome products since 2019
-
-
-<img src="/assets/images/profile-2.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 50%; border: 2px solid #f0f0f0;">
-
-<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
-  Book a Call to work with me.</a>   What are you interested about?
-  -->
-
 <section class="compact-hero">
   <div class="compact-flex">
     <div class="compact-avatar-box">
       <img src="/assets/images/profile-2.png" alt="Benji" class="compact-avatar">
-      <span class="status-dot"></span>
+      <span class="hero-status-dot"></span>
     </div>
 
     <div class="compact-info">
@@ -43,6 +29,7 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 </section>
 
 <style>
+  /* Hero Container */
   .compact-hero {
     background: #fdfdfd;
     border: 1px solid #eee;
@@ -59,10 +46,11 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
     flex-wrap: wrap;
   }
 
+  /* Avatar & Scoped Status Dot */
   .compact-avatar-box {
     position: relative;
-    width: 60px;
-    height: 60px;
+    width: 65px;
+    height: 65px;
     flex-shrink: 0;
   }
 
@@ -74,17 +62,19 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
     border: 2px solid #74c0fc;
   }
 
-  .status-dot {
+  .hero-status-dot {
     position: absolute;
     bottom: 2px;
     right: 2px;
-    width: 12px;
-    height: 12px;
+    width: 13px;
+    height: 13px;
     background: #44ff44;
     border: 2px solid #fff;
     border-radius: 50%;
+    z-index: 2;
   }
 
+  /* Text Info */
   .compact-info {
     flex-grow: 1;
     min-width: 250px;
@@ -92,55 +82,70 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
   .compact-name {
     margin: 0;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: #1a1b1e;
     display: flex;
     align-items: center;
     gap: 10px;
+    font-weight: 700;
   }
 
   .role-tag {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     background: #f0f7ff;
     color: #329af0;
-    padding: 2px 8px;
+    padding: 3px 8px;
     border-radius: 4px;
     text-transform: uppercase;
+    letter-spacing: 0.5px;
   }
 
   .compact-status {
-    margin: 2px 0 0 0;
-    font-size: 0.85rem;
+    margin: 4px 0 0 0;
+    font-size: 0.9rem;
     color: #666;
   }
 
+  /* Buttons */
   .compact-ctas {
     display: flex;
-    gap: 10px;
+    gap: 12px;
   }
 
   .btn-sm-primary {
     background: #329af0;
     color: #fff !important;
-    padding: 8px 16px;
-    border-radius: 6px;
+    padding: 10px 18px;
+    border-radius: 8px;
     font-size: 0.85rem;
     font-weight: 600;
     text-decoration: none;
+    transition: background 0.2s;
   }
+
+  .btn-sm-primary:hover { background: #1c7ed6; }
 
   .btn-sm-outline {
     color: #329af0 !important;
-    padding: 8px 12px;
-    border-radius: 6px;
+    padding: 10px 14px;
+    border-radius: 8px;
     border: 1px solid #329af0;
     text-decoration: none;
+    transition: all 0.2s;
   }
 
-  /* Mobile adjustment */
-  @media (max-width: 600px) {
-    .compact-flex { justify-content: center; text-align: center; }
+  .btn-sm-outline:hover { background: #f0f7ff; }
+
+  /* Responsive Stacking Logic */
+  @media (max-width: 650px) {
+    .compact-flex { 
+      flex-direction: column; 
+      text-align: center; 
+      padding: 10px 0;
+    }
+    .compact-avatar-box { width: 80px; height: 80px; }
     .compact-ctas { width: 100%; justify-content: center; }
+    .compact-name { justify-content: center; }
   }
 </style>
 
@@ -153,49 +158,23 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 | **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too.|
 | **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
 
-<!--
-| **Pitched & Built** | I've built and pitched products from 0 to 1 across **2 Hackathons** and a **Startup Incubation** program. I’ve also worked as a **freelance** Project Manager over the years. |
-| **Tech Tinkerer & DIY** | I have a Sociology background combined with a "build-it-yourself" spirit. I've used a number of tools and languages to build this site: markdown, gitpages, vim, and a Dvorak keyboard, learning to build away from bloated platforms and companies that only focus on market value. There’s more to it dude. Let’s do awesome things together. :) |
--->
-
 [![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203){:target="_blank"}
 *[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
-
 
 <br/>
 
 ## My Product Thinking
-I aim for bringing value to teams and users asap as possible:
+I aim for bringing value to teams and users as soon as possible:
 - **Delivery and Execution:** Managing the product development lifecycle from ideation, to team alignment, concept, deployment, and improving.
 - **Product Discovery & Research:** Understanding why, and what users need. Easier said than done, but my academics help me, methinks.
 
-<!--
-- **System Thinking:** Analyzing the systems and patterns behind and below the tech and communities that spread in digital and physical spaces.
-- **DeFi & FOSS:** Into decentralized finance and open-source over a decade.
--->
+<br/>
 
-<!--
-###### I might write a post about (my) product thinking. What do you think, interested? Please [let me know, send me an email](mailto:venhamon@gmail.com)
--->
-
-
-{% comment %} 1. Merge all sources and Sort Newest First {% endcomment %}
+{% comment %} Merge and Sort Content {% endcomment %}
 {% assign all_content = site.posts | concat: site.books | concat: site.pages %}
 {% assign sorted_items = all_content | where: "featured", true | sort: "date" | reverse %}
 
-<br/>
-
 <section id="home-page">
-
-
-  <section id="what-i-am-doing">
-
-<!--
-    <h2>What I'm Doing Now</h2>
-    <p><a href="{{ '/now/' | relative_url }}" class="mono-scale-btn">Check out what I’m doing now here</a></p>
-  </section>
-    -->
-
   <section id="recent-posts">
     <h2>Last Updates</h2>
     <ul class="update-list">
@@ -203,7 +182,7 @@ I aim for bringing value to teams and users asap as possible:
         <li class="update-item">
           <div class="update-main">
             <a href="{{ item.url | relative_url }}" class="update-title">
-             📚 {{ item.title }}
+              📚 {{ item.title }}
             </a>
             {% if item.category %}
               <span class="update-category">• {{ item.category }}</span>
@@ -216,75 +195,22 @@ I aim for bringing value to teams and users asap as possible:
       {% endfor %}
     </ul>
   </section>
-
 </section>
 
-<!--
-###### (Page last updated: {{ "now" | date: "%B %Y" }})
--->
-
 <style>
-  .update-list {
-    list-style: none;
-    padding: 0;
-  }
-  .update-item {
-    margin-bottom: 12px;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 10px;
-  }
-  .update-main {
-    display: flex;
-    align-items: baseline;
-    gap: 10px;
-    overflow: hidden; /* Contains the shrinking category */
-    flex: 1;
-  }
-  .update-title {
-    font-weight: 600;
-    text-decoration: none;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis; /* "Getting Things Done..." */
-    max-width: 60%;
-  }
-  .update-category {
-    font-size: 0.7em;
-    color: #777;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis; 
-    max-width: 30%; /* Limits the category width */
-    flex-shrink: 1;  /* Allows it to get smaller if needed */
-  }
-  .update-date {
-    font-family: monospace;
-    font-size: 0.85em;
-    color: #999;
-    flex-shrink: 0; /* Ensures the date never shrinks or disappears */
-  }
-
-  /* Mobile: When the screen is really small, hide the category */
-  @media (max-width: 480px) {
-    .update-category {
-      display: none;
-    }
-    .update-title {
-      max-width: 100%; /* Title takes up the full space if category is hidden */
-    }
-  }
+  .update-list { list-style: none; padding: 0; }
+  .update-item { margin-bottom: 12px; display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+  .update-main { display: flex; align-items: baseline; gap: 10px; flex: 1; overflow: hidden; }
+  .update-title { font-weight: 600; text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
+  .update-category { font-size: 0.7em; color: #777; text-transform: uppercase; letter-spacing: 1px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 30%; flex-shrink: 1; }
+  .update-date { font-family: monospace; font-size: 0.85em; color: #999; flex-shrink: 0; }
+  @media (max-width: 480px) { .update-category { display: none; } .update-title { max-width: 100%; } }
 </style>
 
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-7Z9R6XC60Z');
 </script>
