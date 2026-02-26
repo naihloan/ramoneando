@@ -1,13 +1,10 @@
 ---
-title: Hi, I’m Benji.
+title: 
 layout: page
 sitemap_priority: 1
 description: Benji’s journey as a Product Manager. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to PM and Product Owner roles.
 ---
 
-## I like building products and understanding human behaviour, patterns and systems.
-
-<br/>
 
 <section class="compact-hero">
   <div class="compact-flex">
@@ -17,7 +14,7 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
     </div>
 
     <div class="compact-info">
-      <h2 class="compact-name">Benji <span class="role-tag">Product Manager</span></h2>
+      <h2 class="compact-name">Hi, I'm Benji. <span class="role-tag">Product Manager</span></h2>
       <p class="compact-status">Making awesome products since 2019. Available for new roles.</p>
     </div>
 
@@ -27,6 +24,86 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
     </div>
   </div>
 </section>
+
+
+## I like building products and understanding human behaviour, patterns and systems.
+
+##### I´m looking to create real impact with a tech product, focusing on customer experience (CX), on industries like wellbeing, social impact, and media. 
+
+<!--
+(With trilingual skills in: English, Spanish and Portuguese) 
+-->
+
+<!--
+(Ideally I'd work with at a global company in a US timezone, where I can bring value with trilingual skills in English, Spanish and Portuguese.)
+-->
+
+<br/>
+
+## Here's a quick peek of what I've done so far
+
+| Role | Impact & Focus |
+| :--- | :--- |
+| **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too.|
+| **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
+
+[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203){:target="_blank"}
+*[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
+
+<br/>
+
+## My Product Thinking
+I aim for bringing value to teams and users as soon as possible:
+- **Delivery and Execution:** Managing the product development lifecycle from ideation, to team alignment, concept, deployment, and improving.
+- **Product Discovery & Research:** Understanding why, and what users need. Easier said than done, but my academics help me, methinks.
+
+<br/>
+
+{% comment %} Merge and Sort Content {% endcomment %}
+{% assign all_content = site.posts | concat: site.books | concat: site.pages %}
+{% assign sorted_items = all_content | where: "featured", true | sort: "date" | reverse %}
+
+<section id="home-page">
+  <section id="recent-posts">
+    <h2>Last Updates</h2>
+    <ul class="update-list">
+      {% for item in sorted_items %}
+        <li class="update-item">
+          <div class="update-main">
+            <a href="{{ item.url | relative_url }}" class="update-title">
+              📚 {{ item.title }}
+            </a>
+            {% if item.category %}
+              <span class="update-category">• {{ item.category }}</span>
+            {% endif %}
+          </div>
+          <span class="update-date">
+            {{ item.date | date: "%b %Y" }}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</section>
+
+<style>
+  .update-list { list-style: none; padding: 0; }
+  .update-item { margin-bottom: 12px; display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+  .update-main { display: flex; align-items: baseline; gap: 10px; flex: 1; overflow: hidden; }
+  .update-title { font-weight: 600; text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
+  .update-category { font-size: 0.7em; color: #777; text-transform: uppercase; letter-spacing: 1px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 30%; flex-shrink: 1; }
+  .update-date { font-family: monospace; font-size: 0.85em; color: #999; flex-shrink: 0; }
+  @media (max-width: 480px) { .update-category { display: none; } .update-title { max-width: 100%; } }
+</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-7Z9R6XC60Z');
+</script>
+
 
 <style>
   /* Hero Container */
@@ -148,69 +225,3 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
     .compact-name { justify-content: center; }
   }
 </style>
-
-<br/>
-
-## Here's a quick peek of what I've done so far
-
-| Role | Impact & Focus |
-| :--- | :--- |
-| **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too.|
-| **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
-
-[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203){:target="_blank"}
-*[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
-
-<br/>
-
-## My Product Thinking
-I aim for bringing value to teams and users as soon as possible:
-- **Delivery and Execution:** Managing the product development lifecycle from ideation, to team alignment, concept, deployment, and improving.
-- **Product Discovery & Research:** Understanding why, and what users need. Easier said than done, but my academics help me, methinks.
-
-<br/>
-
-{% comment %} Merge and Sort Content {% endcomment %}
-{% assign all_content = site.posts | concat: site.books | concat: site.pages %}
-{% assign sorted_items = all_content | where: "featured", true | sort: "date" | reverse %}
-
-<section id="home-page">
-  <section id="recent-posts">
-    <h2>Last Updates</h2>
-    <ul class="update-list">
-      {% for item in sorted_items %}
-        <li class="update-item">
-          <div class="update-main">
-            <a href="{{ item.url | relative_url }}" class="update-title">
-              📚 {{ item.title }}
-            </a>
-            {% if item.category %}
-              <span class="update-category">• {{ item.category }}</span>
-            {% endif %}
-          </div>
-          <span class="update-date">
-            {{ item.date | date: "%b %Y" }}
-          </span>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
-</section>
-
-<style>
-  .update-list { list-style: none; padding: 0; }
-  .update-item { margin-bottom: 12px; display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
-  .update-main { display: flex; align-items: baseline; gap: 10px; flex: 1; overflow: hidden; }
-  .update-title { font-weight: 600; text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
-  .update-category { font-size: 0.7em; color: #777; text-transform: uppercase; letter-spacing: 1px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 30%; flex-shrink: 1; }
-  .update-date { font-family: monospace; font-size: 0.85em; color: #999; flex-shrink: 0; }
-  @media (max-width: 480px) { .update-category { display: none; } .update-title { max-width: 100%; } }
-</style>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
