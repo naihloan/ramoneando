@@ -28,9 +28,9 @@ last_modified_at: 2026-01-05 10:30:00 +0000
 
 <br/>
 
-### Working as a Product Manager in tech
+## Working as a Product Manager in Tech
 
-#### Looking for a new company :)
+### Looking for a new company :)
 
 <!--
 Over 2024 and 2025 I've done consulting at small and big tech companies. I feel at a crossroads. 
@@ -56,10 +56,10 @@ This is my Candidate-Market Fit [CMF]:
 
 </div>
 
-About building something new, I've already started research on, 
-* problem: people who want to do vermi-composting but find it too hard to do, with worries about smell, space, and overall not knowing how to handle it.
-* solution: build the know-how along with your community.
-* monetization: pending (metadata showing impact on life quality?)
+## On building something new, I've started research on 
+* Problem: people who want to do vermi-composting but find it too hard to do, with worries about smell, space, and overall not knowing how to handle it.
+* Solution: build the know-how along with your community.
+* Monetization: pending (metadata showing impact on life quality?)
 
 <br/> 
 

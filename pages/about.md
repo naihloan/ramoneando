@@ -21,7 +21,7 @@ I analyze how users and communities behave to create products that mean somethin
 </a>
 
 <br/>
-## *I make tech startups launch products from 0-to-1, mixing deep user insights with sociology and systems analysis.*
+## *I make early tech startups launch products from 0-to-1, mixing deep user insights with sociology and systems analysis*
 <br/>
 
 ## My strengths
