@@ -103,32 +103,7 @@ Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/
 
 
 <!-- Monochrome scale button with elevated effect -->
-<style>
-.mono-scale-btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: transparent;
-  color: #000000; /* Black text */
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  text-align: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
-  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
-}
-.mono-scale-btn:hover {
-  color: #6c757d; /* Grey text */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-  transform: translateY(-4px) scale(1.05); /* Slight scale */
-}
-@media screen and (max-width: 600px) {
-  .mono-scale-btn {
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
-}
-</style>
+{% include now-styles.html %}
 
 <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
   the best time for you?
@@ -138,113 +113,13 @@ Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/
 
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
+{% include now-scripts.html %}
 
 
 <!-- Bootstrap Primary button – clean white-text hover -->
-<style>
-.bootstrap-primary-btn {
-  display: inline-block;
-  padding: 12px 28px;
-  background-color: #0d6efd;
-  color: white !important;                  /* force white */
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 1rem;
-  border-radius: 6px;
-  border: none;
-  box-shadow: 0 4px 6px rgba(13, 110, 253, 0.25);
-  transform: translateY(-2px);
-  transition: all 0.25s ease;
-}
-.bootstrap-primary-btn:hover {
-  background-color: #0b5ed7;                /* slightly darker blue */
-  color: white !important;                  /* stays white */
-  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
-  transform: translateY(-4px);
-}
-.bootstrap-primary-btn:active {
-  transform: translateY(-1px);
-}
-@media (max-width: 600px) {
-  .bootstrap-primary-btn {
-    padding: 10px 20px;
-    font-size: 0.95rem;
-  }
-}
-</style>
+{% comment %} .bootstrap-primary-btn styles moved to now-styles.html {% endcomment %}
 
 
-<style>
-  .custom-button {
-    display: inline-flex;
-    align-items: center;
-    background-color: #2a7ae2; /* Matches Minima Blue */
-    color: white !important;
-    padding: 12px 24px;
-    border-radius: 4px;
-    font-weight: 600;
-    text-decoration: none !important;
-    transition: all 0.2s ease;
-    border: none;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  }
+{% comment %} .custom-button and .note styles moved to now-styles.html {% endcomment %}
 
-  .custom-button:hover {
-    background-color: #1756a9;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-  }
-
-  .custom-button i {
-    margin-right: 10px;
-  }
-</style>
-
-<style>
-.note {
-  background: linear-gradient(90deg, #0d6efd11, transparent);
-  border: 1px solid #0d6efd44;
-  padding: 16px 20px;
-  border-radius: 8px;
-  margin: 2em 0;
-  font-weight: 500;
-}
-</style>
-
-<!-- Monochrome scale button with elevated effect -->
-<style>
-.mono-scale-btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: transparent;
-  color: #000000; /* Black text */
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  text-align: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
-  transition: color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
-}
-.mono-scale-btn:hover {
-  color: #6c757d; /* Grey text */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-  transform: translateY(-4px) scale(1.05); /* Slight scale */
-}
-@media screen and (max-width: 600px) {
-  .mono-scale-btn {
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
-}
-</style>
 
