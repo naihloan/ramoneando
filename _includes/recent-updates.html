@@ -1,3 +1,7 @@
+{% comment %} Merge and Sort Content {% endcomment %}
+{% assign all_content = site.posts | concat: site.books | concat: site.pages %}
+{% assign sorted_items = all_content | where: "featured", true | sort: "date" | reverse %}
+
 <section id="home-page">
   <section id="recent-posts">
     <h2>Last Updates</h2>

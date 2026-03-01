@@ -42,32 +42,7 @@ I aim for bringing value to teams and users as soon as possible:
 
 <br/>
 
-{% comment %} Merge and Sort Content {% endcomment %}
-{% assign all_content = site.posts | concat: site.books | concat: site.pages %}
-{% assign sorted_items = all_content | where: "featured", true | sort: "date" | reverse %}
-
-<section id="home-page">
-  <section id="recent-posts">
-    <h2>Last Updates</h2>
-    <ul class="update-list">
-      {% for item in sorted_items %}
-        <li class="update-item">
-          <div class="update-main">
-            <a href="{{ item.url | relative_url }}" class="update-title">
-              📚 {{ item.title }}
-            </a>
-            {% if item.category %}
-              <span class="update-category">• {{ item.category }}</span>
-            {% endif %}
-          </div>
-          <span class="update-date">
-            {{ item.date | date: "%b %Y" }}
-          </span>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
-</section>
+{% include recent-updates.html %}
 
 
 
