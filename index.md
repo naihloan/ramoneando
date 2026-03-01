@@ -6,24 +6,7 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 ---
 
 
-<section class="compact-hero">
-  <div class="compact-flex">
-    <div class="compact-avatar-box">
-      <img src="/assets/images/profile-2.png" alt="Benji" class="compact-avatar">
-      <span class="hero-status-dot"></span>
-    </div>
-
-    <div class="compact-info">
-      <h2 class="compact-name">Hi, I'm Benji. <span class="role-tag">Product Manager</span></h2>
-      <p class="compact-status">Making awesome products since 2019. Available for new roles.</p>
-    </div>
-
-    <div class="compact-ctas">
-      <a href="https://calendly.com/venhamon" target="_blank" class="btn-sm-primary">Book a Call</a>
-      <a href="mailto:venhamon@gmail.com" class="btn-sm-outline"><i class="fa-regular fa-envelope"></i></a>
-    </div>
-  </div>
-</section>
+{% include hero-book-a-call.html %}
 
 
 ## I like building products and understanding human behaviour, patterns and systems.
