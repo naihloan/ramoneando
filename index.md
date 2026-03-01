@@ -5,9 +5,7 @@ sitemap_priority: 1
 description: Benji’s journey as a Product Manager. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to PM and Product Owner roles.
 ---
 
-
 {% include hero-book-a-call.html %}
-
 
 ## I like building products and understanding human behaviour, patterns and systems.
 
@@ -44,15 +42,7 @@ I aim for bringing value to teams and users as soon as possible:
 
 {% include recent-updates.html %}
 
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Z9R6XC60Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-7Z9R6XC60Z');
-</script>
+{% include gtag.html %}
 
 <style>
   /* Hero Container */
