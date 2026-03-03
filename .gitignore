@@ -1,3 +1,5 @@
 CNAME
 list.md
 README.md
+# ignore Jekyll output
+_site/
