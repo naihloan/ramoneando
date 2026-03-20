@@ -40,10 +40,6 @@ I aim for bringing value to teams and users as soon as possible:
 
 <br/>
 
-{% include recent-updates.html %}
-
-<br/>
-
 ## Strong, nice, things people say about how I work
 
 <section id="testimonials" style="margin-top: 40px; color: #f0f0f0;">
@@ -97,6 +93,11 @@ I aim for bringing value to teams and users as soon as possible:
 
   </div>
 </section>
+
+<br/>
+
+{% include recent-updates.html %}
+
 
 <style>
   .testimonial-grid {

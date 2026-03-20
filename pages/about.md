@@ -61,40 +61,6 @@ Tizi: Strategy
 
 ## Strong, nice, things people say about how I work
 
-<!--
-<section id="recommendations" style="margin-top: 50px;">
-  {% for rec in site.data.recommendations %}
-  <div style="margin-bottom: 50px; display: flex; gap: 20px; align-items: flex-start;">
-    
-    <div style="flex-shrink: 0;">
-      <img src="{{ rec.image }}" 
-           alt="{{ rec.name }}" 
-           style="width: 60px; height: 60px; border-radius: 8px; object-fit: cover; filter: grayscale(100%); border: 1px solid #333;"
-           onerror="this.style.display='none'">
-    </div>
-
-    <div style="flex: 1; border-left: 1px solid #333; padding-left: 20px;">
-      <h4 style="margin: 0; color: #ffffff; font-size: 1.1rem;">{{ rec.name }}</h4>
-      <p style="font-size: 0.85rem; color: #888; margin: 2px 0 12px 0;">
-        {{ rec.role }} • <span style="color: #74c0fc; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.5px;">{{ rec.type }}</span>
-      </p>
-      
-      <blockquote style="font-style: italic; color: #d1d1d1; border: none; padding: 0; margin: 0; line-height: 1.6;">
-        "{{ rec.quote }}"
-      </blockquote>
-      
-      <div style="margin-top: 12px;">
-        <a href="{{ rec.link }}" target="_blank" style="font-size: 0.8rem; color: #74c0fc; text-decoration: none; opacity: 0.8;">
-          Verify on LinkedIn ↗
-        </a>
-      </div>
-    </div>
-    
-  </div>
-  {% endfor %}
-</section>
--->
-
 <section id="testimonials" style="margin-top: 40px; color: #f0f0f0;">
   
   <div class="testimonial-grid">
