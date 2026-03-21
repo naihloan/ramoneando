@@ -11,13 +11,8 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
 ##### I´m looking to create real impact with a tech product, focusing on customer experience (CX), on industries like wellbeing, social impact, and media. 
 
-<!--
-(With trilingual skills in: English, Spanish and Portuguese) 
--->
-
-<!--
-(Ideally I'd work with at a global company in a US timezone, where I can bring value with trilingual skills in English, Spanish and Portuguese.)
--->
+[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203){:target="_blank"}
+*[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
 
 <br/>
 
@@ -27,9 +22,6 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 | :--- | :--- |
 | **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too.|
 | **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
-
-[![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203){:target="_blank"}
-*[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
 
 <br/>
 
