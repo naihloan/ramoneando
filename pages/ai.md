@@ -10,15 +10,24 @@ description: Benji’s take on AI
 
 ## My opinionated take on AI
 
-AI is, in my opinion, great as an idea generator, like ancient greek oracles. 
+#### AI is great as an idea generator, like ancient greek oracles 
 
 Answers tend to be more on the cryptic and ambiguous side; rather than accurate, precise and predictable. Results can be quite artistic, or even guesswork or hallucinations, but can still be useful to inspire getting into new territories, for strategizing and taking steps that have the highest impact when you want to do something new, or understand a novel thing quickly, even if not always based on hard evidence.
-
-I try to avoid content that is entirely produced by AI both in writing and in reading. Please don't make me read your AI content without telling me: it feels alienating. Or maybe that's just me. Maybe you can surprise me, that can be a happy moment.
 
 | ![The Oracle of Delphi Entranced by Heinrich Leutemann](../assets/images/delphi--by-Heinrich-Leutemann.png) | 
 |:--:| 
 | *Picture of the The Oracle of Delphi Entranced by Heinrich Leutemann, circa 1880* |
+
+
+#### AI is not great as a a content generator 
+
+I try to avoid content that is entirely produced by AI both in writing and in reading. Please don't make me read your AI content without telling me: it feels alienating. Or maybe that's just me. Maybe you can surprise me, that can be a happy moment.
+
+#### AI is promising as a code generator 
+
+* I've built some things by prompt like this static page with jekyll, ruby, and markdown.
+* I'm also building a  React project for my System's Analysis thesis, with AntiGravity. 
+* (I didn't say the code's clean, but at least I'm ~~making~~ *using* some code).
 
 <br/>
 

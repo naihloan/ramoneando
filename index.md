@@ -7,7 +7,7 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
 {% include hero-book-a-call.html %}
 
-## I like building products and understanding human behaviour, patterns and systems.
+## I like building products and understanding people's behaviour, patterns and systems.
 
 ##### I´m looking to create real impact with a tech product, focusing on customer experience (CX), on industries like wellbeing, social impact, and media. 
 
