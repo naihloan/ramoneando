@@ -64,7 +64,9 @@ Some of the books listed here link into more detail about summaries of what I've
 * I love reading books.
 * Here's a list of books I've enjoyed recently. 
 
-## Favorite books in 2025
+# Favorite books 
+
+## 2025
 
 * *Project Hail Mary.* By Andy Weir
 * *Player Piano.*
@@ -79,7 +81,7 @@ By Kurt Vonnegut Jr.
 * *The Creative Act: A Way of Being.* By Rick Rubin
 * *Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal.* By Nick Bilton
 
-## Favorite books in 2024
+## 2024
 
 * *Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect.* By Will Guidara
 * *The Lessons of History.* By Will Durant and Ariel Durant
@@ -91,11 +93,11 @@ By Kurt Vonnegut Jr.
 * *The New One Minute Manager.* By Kenneth H. Blanchard and Spencer Johnson
 * *Field Trip to the Moon.* By John L. Hare
 
-## Favorite books in 2023
+## 2023
 
 * *The Anthropocene Reviewed: Essays on a Human-Centered Planet.* By John Green
 
-## Favorite books in 2022
+## 2022
 
 * *The Culture Code: The Secrets of Highly Successful Groups.* By Daniel Coyle
 * *I Will Judge You by Your Bookshelf.* By Grant Snider
@@ -103,12 +105,14 @@ By Kurt Vonnegut Jr.
 * *No Rules Rules: Netflix and the Culture of Reinvention.* By Reed Hastings and Erin Meyer
 * *An Unquiet Mind: A Memoir of Moods and Madness.* By Kay Redfield Jamison
 
-## Favorite books in 2021
+## 2021
 
 * [*Getting Things Done: The Art of Stress-Free Productivity.* By David Allen. See My Book Review: Here](../books/getting-things-done)
 * *The Culture Map: Breaking Through the Invisible Boundaries of Global Business.* By Erin Meyer
 * *Born a Crime: Stories From a South African Childhood.* By Trevor Noah
 * *In the Name of Wild: One Family, Five Years, Ten Countries, and a New Vision of Wildness.* By Phillip Vannini, April Vannini, Autumn Vannini
+
+<br/>
 
 ## Project Inception: Favorite Book Sharing
 
