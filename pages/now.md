@@ -12,13 +12,6 @@ date: 2026-01-05
 last_modified_at: 2026-01-05 10:30:00 +0000
 ---
 
-
-##### This is my "now" page. This page reflects what I´m up to now.  
-
-###### Inspired by Derek Sivers and the /now movement. See others: [nownownow.com](https://nownownow.com/)
-
-###### /now/ page: Last updated on February, 2026
-
 <div style="float:right; margin:0 0 20px 20px; width:25%; text-align:center;">
   <img src="../assets/images/now-in-time-Gemini.png" alt="Gemini image inspired on the In Time (2011) movie" style="width:100%; height:auto; border-radius:8px;">
   <p style="font-size:0.9rem; color:#adb5bd; margin-top:8px;">
@@ -26,9 +19,54 @@ last_modified_at: 2026-01-05 10:30:00 +0000
   </p>
 </div>
 
+##### This is my "now" page. This page reflects what I´m up to now.  
+
+###### Inspired by Derek Sivers and the /now movement. See others: [nownownow.com](https://nownownow.com/)
+
+###### /now/ page: Last updated on April, 2026
+
+
+
 <br/>
 
-## Working as a Product Manager in Tech
+## Doing Product in Tech
+
+### Building with [Fabio](https://fabiogiacometti.framer.website/){:target="_blank"}
+
+<br/>
+
+#### Historic Safari 
+
+<!-- ###### One-liner -->
+
+> It's a map for important events in history: current and past. 
+
+[Check The Prototype Here!](https://history-safari.vercel.app/) 
+
+<br/>
+
+##### FIFA WorldCup Safari 2026
+
+This is our spearhead to validate the product.
+
+> It's a roadmap for important soccer events this year in Americas
+
+| ![FIFA WorldCup Historic Safari](../assets/images/fifa.png) | 
+|:--:| 
+| *FIFA WorldCup Historic Safari, 2026* |
+| [Check The Prototype Here!](https://2026-fixture.vercel.app) |
+
+<!-- 
+[Check The Prototype Here!](https://2026-fixture.vercel.app) -->
+
+<!-- 
+
+* Problem: people who want to do vermi-composting but find it too hard to do, with worries about smell, space, and overall not knowing how to handle it.
+* Solution: build the know-how along with your community.
+* Monetization: pending (metadata showing impact on life quality?) -->
+
+<br/> 
+
 
 ### Looking for a new company :)
 
@@ -56,13 +94,13 @@ This is my Candidate-Market Fit [CMF]:
 
 </div>
 
-## On building something new, I've started research on 
+<!-- ## Building something new, I've started research on 
 * Problem: people who want to do vermi-composting but find it too hard to do, with worries about smell, space, and overall not knowing how to handle it.
 * Solution: build the know-how along with your community.
 * Monetization: pending (metadata showing impact on life quality?)
 
 <br/> 
-
+ -->
 <!--
 # Playing Music
 Playing Bass as a power trio with Sinapsys. 
@@ -99,7 +137,11 @@ My Favorite Books
 <br/>
 
 # Reaching Out
-Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? I'm open to PM roles, :). Let's talk! When is:
+Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? 
+
+<!-- I'm open to PM roles, :).  -->
+
+Let's talk! When is:
 
 
 <!-- Monochrome scale button with elevated effect -->
