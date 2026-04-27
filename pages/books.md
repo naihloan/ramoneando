@@ -66,6 +66,10 @@ Some of the books listed here link into more detail about summaries of what I've
 
 # Favorite books 
 
+## 2026
+
+* *John and Paul: A Love Story in Songs*. By Ian Leslie
+
 ## 2025
 
 * *Project Hail Mary.* By Andy Weir
