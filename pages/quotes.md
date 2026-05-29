@@ -4,6 +4,11 @@ title: Quotes
 permalink: /quotes/
 ---
 
+<!-- 
+look at 
+._data/quotes.yml 
+-->
+
 <section id="mental-library" style="margin-top: 50px;">
   <h3 style="color: #888; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px;">Core Philosophy</h3>
   
