@@ -31,15 +31,27 @@ last_modified_at: 2026-01-05 10:30:00 +0000
 
 ## Doing Product in Tech
 
-### Building with [Fabio](https://fabiogiacometti.framer.website/){:target="_blank"}
+### Building *Che Safari* with [Fabio](https://fabiogiacometti.framer.website/){:target="_blank"}
 
 <br/>
 
-#### Historic Safari 
+Che Safari is: An event platform to find live music near you.
+
+# &#128053; [https://chesafari.xyz/](https://chesafari.xyz/)
+
+* Problem: people want to go see live music but doomscroll through instagram and ticket platforms. This happens to users, venues and artists, they can't find each other.
+* Solution: build the dedicated platform for this. It doesn't exist yet as a major solution, there's just fragmented solutions. Maybe we can even plan the whole night, or week ahead of time. No login required. Just search and get out.
+  * "Che" stands for nudging friends in Argentina
+  * "Safari" stands for exploring what's outside
+* Monetization: We don't charge anything to end users. If we can show that enough people use the platform, we expect venues and artists are going to want to be a part of this. Fingers crossed. 
+
+
+
+<!-- #### Historic Safari  -->
 
 <!-- ###### One-liner -->
 
-> It's a map for important events in history: current and past. 
+<!-- > It's a map for important events in history: current and past. 
 
 [Check The Prototype Here!](https://history-safari.vercel.app/) 
 
@@ -54,13 +66,12 @@ This is our spearhead to validate the product.
 | ![FIFA WorldCup Historic Safari](../assets/images/fifa.png) | 
 |:--:| 
 | *FIFA WorldCup Historic Safari, 2026* |
-| [Check The Prototype Here!](https://2026-fixture.vercel.app) |
+| [Check The Prototype Here!](https://2026-fixture.vercel.app) | -->
 
 <!-- 
 [Check The Prototype Here!](https://2026-fixture.vercel.app) -->
 
 <!-- 
-
 * Problem: people who want to do vermi-composting but find it too hard to do, with worries about smell, space, and overall not knowing how to handle it.
 * Solution: build the know-how along with your community.
 * Monetization: pending (metadata showing impact on life quality?) -->
@@ -86,9 +97,9 @@ This is my Candidate-Market Fit [CMF]:
 
   I´m looking to create real impact with a tech <strong>product</strong>, focusing on customer experience (CX), on industries like <strong>wellbeing, social impact, and media</strong>. I'm exploring these options: <br/><br/>
 
+  • Co-founding a new company, solving a real problem, with great people that want to focus on the above industries. <br/>
   • As a hired, or consulting-contractor, Product Manager at a global company in a US timezone, where I can bring value with trilingual skills in English, Spanish and Portuguese.  <br/>
-  • Co-founding a new company, solving a real problem, with great people that want to focus on the above industries. <br/><br/>
-
+  
   If you're building, or looking into partnering, and/or funding:  <br/><br/>
   <a href="https://calendly.com/venhamon" class="custom-button">    Let's meet!  </a>
 
@@ -123,33 +134,32 @@ Diving into **CX**, **UX**, **AI**, **data**, and **culture**. It helps to sharp
 My Favorite Books
 </a>
 
-<!--
+
 <br/>
 
-# Who am I? 
+<!-- # Who am I? 
 
 <a href="/about/" class="mono-scale-btn" aria-label="Contact me">
-    <!-- Got a product role? 
+   Got a product role? 
   About Section Here
 </a>
--->
 
-<br/>
+<br/> -->
 
-# Reaching Out
-Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share? 
+<!-- # Reaching Out
+Do you know about [small blogging](https://jeremeyduvall.com/writing-on-the-web/) outside of the mainstream marketing sites? Do you know of other sites with pages like this one you´d like to share?  
 
-<!-- I'm open to PM roles, :).  -->
+I'm open to PM roles, :).  
 
-Let's talk! When is:
-
+Let's talk! When is:  -->
 
 <!-- Monochrome scale button with elevated effect -->
-{% include now-styles.html %}
+{% include now-styles.html %} 
 
-<a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
+<!-- <a href="https://calendly.com/venhamon" target="_blank" class="bootstrap-primary-btn">
   the best time for you?
-</a>
+</a> 
+
 
 
 
