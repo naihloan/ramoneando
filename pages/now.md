@@ -23,7 +23,7 @@ last_modified_at: 2026-01-05 10:30:00 +0000
 
 ###### Inspired by Derek Sivers and the /now movement. See others: [nownownow.com](https://nownownow.com/)
 
-###### /now/ page: Last updated on April, 2026
+###### /now/ page: Last updated on June, 2026
 
 
 
