@@ -6,6 +6,12 @@ sitemap_priority: 0.7
 description: Benji, a Product Manager mixing Sociology and Systems Analysis to build tech with impact and meaning. Focus on UX research, media, wellness, decentralized ecosystems, and human-centric product strategy.
 --- 
 
+## Hi! I'm Benji
+
+### Thanks for coming over! 
+
+#### What are you looking for? Please let me know! :D 
+
 <br/>
 # Product Sociologist
 
@@ -13,12 +19,22 @@ description: Benji, a Product Manager mixing Sociology and Systems Analysis to b
 
 I am a **Product Manager** with over 5 years of experience in the tech industry. My unique edge comes from combining a **Master’s in Sociology** with **Systems Analysis**. 
 
-I don't just build features; 
-I analyze how users and communities behave to create products that mean something. It's not just about delivery, but like the late Tony Hsieh, Zappos´ CEO, said "delivering happiness".
-
+### Product Portfolio
 <a href="/portfolio/" class="bootstrap-primary-btn">
   See my Product Portfolio
 </a>
+
+### Product Inspiration & Direction
+I try to understand how users and communities behave to create products that mean something, and solve real pain points. It's not just about delivery, but like the late Tony Hsieh, Zappos´ CEO, said "delivering happiness". I also find deep inspiration from Will Guidara's book and spirit (co-producer of The Bear: See "[Forks](https://www.imdb.com/title/tt26230388/)"): "Unreasonable Hospitality".
+
+<div class="project-screenshot">
+  <a href="https://www.imdb.com/title/tt26230388/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="../assets/images/will-guidara.png" alt="The Bear's best episode ever?" loading="lazy">
+    <h5 style="margin-top: 12px;">Inspirational Reading: Unreasonable Hospitality is the spirit of this episode of The Bear: Forks (s02e07) </h5>
+  </a>
+</div> 
+
+<!-- I don't aim to build features (outcomes over output mindset). -->
 
 <br/>
 ## *I make early tech startups launch products from 0-to-1, mixing deep user insights with sociology and systems analysis*
