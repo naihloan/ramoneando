@@ -57,15 +57,9 @@ footer_action_links:
   - label: "Quotes"
     url: "./quotes/"
     icon: "fa-solid fa-quote-left"      
-  - label: "LinkedIn"
-    url: "https://www.linkedin.com/in/bj-pm"
-    icon: "fa-brands fa-linkedin"
-  - label: "Email"
-    url: "mailto:venhamon@gmail.com"
+  - label: "Contact"
+    url: "/contact/"
     icon: "fa-solid fa-envelope"
-  - label: "Book a Chat"
-    url: "https://calendly.com/venhamon"
-    icon: "fa-solid fa-calendar-check"
 
 collections:
   posts:
