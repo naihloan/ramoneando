@@ -88,9 +88,12 @@ portfolio:
   gtag('config', 'G-7Z9R6XC60Z');
 </script>
 
-# My Web3 Product Portfolio
+# My Product Portfolio
 
-Here is some of my work, in the spirit of OnePage/OneHour[+](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process, and projects as a Product Manager driving Web3 innovation. (Please don´t mind too much about the UI, I´m not a designer.)
+Here is some of my work, in the spirit of OnePage/OneHour[+](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process, and projects as a Product Manager driving 
+<!-- Web3  -->
+innovation. 
+(Please don´t mind too much about the UI, I´m not a designer.)
 
 These are some of my UX case studies, including industries like wellbeing, media, and even hackathons and startup participations, as well as challenges done while interviewing with hiring companies.
 
