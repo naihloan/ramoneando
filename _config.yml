@@ -89,6 +89,7 @@ header_pages:
   - pages/now.md
   - pages/about.md
   - pages/cv.md
+  - pages/contact.md
 #  - pages/books.md
 #  - pages/portfolio.md
 #  - pages/ai.md
