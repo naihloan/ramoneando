@@ -74,8 +74,9 @@ Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX a
 <div style="text-transform: uppercase; font-size: 3.7rem; letter-spacing: 2px; color: #999; margin-bottom: 10px;"> 
 	Work History </div>
 
-### **NEWM: Web3 Music Ecosystem** | Product Manager & Quality Manager
-*Dec 2022 – Present* 
+### **NEWM: Web3 Music Ecosystem** | Product Manager 
+<!-- & Quality Manager -->
+*Dec 2022 – June 2026* 
 
 * **Product Launches:** Studio, Stream Token Marketplace, Streaming (B2C, B2B, B2B2C).
 * **UX & Research:** Launched a UX research initiative that drove product discovery, informed roadmap decisions, and improved user satisfaction.
