@@ -5,7 +5,14 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">🔦 {{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+      {%- if site.brand_emoji contains '/' or site.brand_emoji contains '.' -%}
+        <img src="{{ site.brand_emoji | relative_url }}" alt="Logo" style="height: 24px; width: auto; vertical-align: middle; margin-right: 6px;">
+      {%- else -%}
+        {{ site.brand_emoji | default: '🔦' }}&nbsp;
+      {%- endif -%}
+      {{ site.title | escape }}
+    </a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -26,6 +33,7 @@
             {%- endif -%}
           {%- endfor -%}
           <a class="page-link" href="https://chesafari.xyz/" target="_blank" rel="noopener noreferrer">CheSafari 🐒</a>
+          <a class="page-link" href="{{ '/contact/' | relative_url }}">Contact</a>
         </div>
       </nav>
     {%- endif -%}
