@@ -59,7 +59,7 @@ footer_action_links:
     icon: "fa-solid fa-quote-left"      
   - label: "Contact"
     url: "/contact/"
-    icon: "fa-solid fa-envelope"
+    icon: "fa-solid fa-message"
 
 collections:
   posts:
