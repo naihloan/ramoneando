@@ -132,4 +132,27 @@
       max-width: 280px;
     }
   }
+
+  /* Premium Details Accordion Styles */
+  details.premium-accordion summary {
+    list-style: none; /* Hide default marker in standard browsers */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    outline: none;
+    user-select: none;
+  }
+  
+  details.premium-accordion summary::-webkit-details-marker {
+    display: none; /* Hide default marker in webkit (Safari/Chrome) */
+  }
+
+  details.premium-accordion[open] summary i {
+    transform: rotate(90deg); /* Rotate the custom icon when expanded */
+  }
+
+  details.premium-accordion:hover {
+    border-color: rgba(13, 110, 253, 0.4) !important;
+    box-shadow: 0 6px 16px rgba(13, 110, 253, 0.06) !important;
+  }
 </style>

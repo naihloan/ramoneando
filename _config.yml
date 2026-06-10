@@ -58,9 +58,9 @@ footer_action_links:
   - label: "Quotes"
     url: "./quotes/"
     icon: "fa-solid fa-quote-left"      
-  - label: "CheSafari"
-    url: "https://chesafari.xyz/"
-    icon: "fa-solid fa-compass"
+  - label: "CV"
+    url: "/cv/"
+    icon: "fa-solid fa-briefcase"
   - label: "Contact"
     url: "/contact/"
     icon: "fa-solid fa-message"
@@ -86,7 +86,7 @@ header_pages:
   - pages/index.markdown
   - pages/now.md
   - pages/about.md
-  - pages/cv.md
+# - pages/cv.md
 #  - pages/books.md
 #  - pages/portfolio.md
 #  - pages/ai.md

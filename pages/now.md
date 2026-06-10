@@ -1,5 +1,5 @@
 ---
-title: NOW
+title: Now
 permalink: /now/
 layout: page
 # featured: true
@@ -15,6 +15,8 @@ last_modified_at: 2026-06-05 10:30:00 +0000
 
 ## Doing Product in Tech
 
+<br/>
+
 ### Building *Che Safari* with [Fabio](https://fabiogiacometti.framer.website/){:target="_blank"}
 
 # &#128053; [https://chesafari.xyz/](https://chesafari.xyz/)
@@ -22,11 +24,12 @@ last_modified_at: 2026-06-05 10:30:00 +0000
 Che Safari is: An event platform to find live music near you.
 
 
-<details style="cursor: pointer; margin: 1.5em 0; border: 1px solid #eee; border-radius: 8px; padding: 12px 16px; background-color: #fdfdfd;" markdown="1">
+<details class="premium-accordion" style="margin: 1.5em 0; border: 1px solid rgba(13, 110, 253, 0.15); border-radius: 12px; padding: 16px 20px; background: linear-gradient(135deg, #fdfdfd, #f8f9fa); box-shadow: 0 4px 12px rgba(0,0,0,0.02); transition: all 0.3s ease; cursor: pointer;" markdown="1">
   <summary style="font-weight: 600; color: #0d6efd; outline: none; user-select: none;">
-    Show project details & screenshot
+    <span>Show Che Safari Details & Showcase</span>
+    <i class="fa-solid fa-chevron-right" style="font-size: 0.85rem; transition: transform 0.2s ease;"></i>
   </summary>
-  <div style="margin-top: 15px;" markdown="1">
+  <div style="margin-top: 15px; border-left: 2px solid rgba(13, 110, 253, 0.2); padding-left: 15px;" markdown="1">
 
 * **Problem:** people want to go see live music but doomscroll through instagram and ticket platforms. This happens to users, venues and artists, they can't find each other.
 * **Solution:** build the dedicated platform for this. It doesn't exist yet as a major solution, there's just fragmented solutions. Maybe we can even plan the whole night, or week ahead of time. No login required. Just search and get out.
@@ -42,7 +45,7 @@ Che Safari is: An event platform to find live music near you.
 </div>
 
   </div>
-</details> 
+</details>
 
 
 
