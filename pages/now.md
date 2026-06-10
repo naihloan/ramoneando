@@ -5,11 +5,10 @@ layout: page
 # featured: true
 weight: 1
 sitemap_priority: 0.8
-description: Benji’s current projects as a Product Manager, including career goals, music with Sinapsys, and book recommendations. UX-focused Product Manager (5+ years in SaaS, Crypto, Blockchain & Music) actively looking for the next Series A adventure in wellbeing, social impact or media. I ship products people actually love, speak fluent backlog-to-roadmap, and can turn user insights into growth faster than I can play a bass solo with Sinapsys. Open to PM / Senior PM / Head of Product roles — remote or LATAM. Also happy to jump in on Project Management when needed. Let’s build something meaningful together > just say hi!
+description: Benji’s current projects as a Product Manager, including career goals, music with Sinapsys, and book recommendations. UX-focused Product Manager (5+ years in SaaS & Music) actively looking for the next Series A adventure in wellbeing, social impact or media. I ship products people actually love, speak fluent backlog-to-roadmap, and can turn user insights into growth faster than I can play a bass solo with Sinapsys. Open to PM / Senior PM / Head of Product roles — remote or LATAM. Also happy to jump in on Project Management when needed. Let’s build something meaningful together > just say hi!
 category: Updates
-# categories: update
-date: 2026-01-05
-last_modified_at: 2026-01-05 10:30:00 +0000
+date: 2026-06-05
+last_modified_at: 2026-06-05 10:30:00 +0000
 ---
 
 
@@ -18,24 +17,32 @@ last_modified_at: 2026-01-05 10:30:00 +0000
 
 ### Building *Che Safari* with [Fabio](https://fabiogiacometti.framer.website/){:target="_blank"}
 
-<br/>
+# &#128053; [https://chesafari.xyz/](https://chesafari.xyz/)
 
 Che Safari is: An event platform to find live music near you.
 
-# &#128053; [https://chesafari.xyz/](https://chesafari.xyz/)
 
-* Problem: people want to go see live music but doomscroll through instagram and ticket platforms. This happens to users, venues and artists, they can't find each other.
-* Solution: build the dedicated platform for this. It doesn't exist yet as a major solution, there's just fragmented solutions. Maybe we can even plan the whole night, or week ahead of time. No login required. Just search and get out.
+<details style="cursor: pointer; margin: 1.5em 0; border: 1px solid #eee; border-radius: 8px; padding: 12px 16px; background-color: #fdfdfd;" markdown="1">
+  <summary style="font-weight: 600; color: #0d6efd; outline: none; user-select: none;">
+    Show project details & screenshot
+  </summary>
+  <div style="margin-top: 15px;" markdown="1">
+
+* **Problem:** people want to go see live music but doomscroll through instagram and ticket platforms. This happens to users, venues and artists, they can't find each other.
+* **Solution:** build the dedicated platform for this. It doesn't exist yet as a major solution, there's just fragmented solutions. Maybe we can even plan the whole night, or week ahead of time. No login required. Just search and get out.
   * "Che" stands for nudging friends in Argentina
   * "Safari" stands for exploring what's outside
-* Monetization: We don't charge anything to end users. If we can show that enough people use the platform, we expect venues and artists are going to want to be a part of this. Fingers crossed. 
+* **Monetization:** We don't charge anything to end users. If we can show that enough people use the platform, we expect venues and artists are going to want to be a part of this. Fingers crossed. 
 
 <div class="project-screenshot">
   <a href="https://chesafari.xyz/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="../assets/images/chesafari.png" alt="Che Safari Mobile Screenshot" loading="lazy">
     <h4 style="margin-top: 12px;">Try CheSafari! </h4>
   </a>
-</div> 
+</div>
+
+  </div>
+</details> 
 
 
 
