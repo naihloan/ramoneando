@@ -64,7 +64,12 @@ Some of the books listed here link into more detail about summaries of what I've
 * I love reading books.
 * Here's a list of books I've enjoyed recently. 
 
-# Favorite books 
+<details class="premium-accordion" style="margin: 1.5em 0; border: 1px solid rgba(13, 110, 253, 0.15); border-radius: 12px; padding: 16px 20px; background: linear-gradient(135deg, #fdfdfd, #f8f9fa); box-shadow: 0 4px 12px rgba(0,0,0,0.02); transition: all 0.3s ease; cursor: pointer;" markdown="1">
+  <summary style="font-weight: 600; color: #0d6efd; outline: none; user-select: none; display: flex; align-items: center; justify-content: space-between;">
+    <h1 style="margin: 0 !important; padding: 0 !important; border: none !important; color: #0d6efd !important; font-size: 2rem; display: inline-block;">Favorite books</h1>
+    <i class="fa-solid fa-chevron-right" style="font-size: 0.85rem; transition: transform 0.2s ease;"></i>
+  </summary>
+  <div style="margin-top: 15px; border-left: 2px solid rgba(13, 110, 253, 0.2); padding-left: 15px;" markdown="1">
 
 ## 2026
 
@@ -115,6 +120,8 @@ By Kurt Vonnegut Jr.
 * *The Culture Map: Breaking Through the Invisible Boundaries of Global Business.* By Erin Meyer
 * *Born a Crime: Stories From a South African Childhood.* By Trevor Noah
 * *In the Name of Wild: One Family, Five Years, Ten Countries, and a New Vision of Wildness.* By Phillip Vannini, April Vannini, Autumn Vannini
+</div>
+</details>
 
 <br/>
 
@@ -175,3 +182,5 @@ See what I'm doing now here
 
   gtag('config', 'G-7Z9R6XC60Z');
 </script>
+
+{% include now-styles.html %}

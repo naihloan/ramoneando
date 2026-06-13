@@ -54,8 +54,16 @@ self.addEventListener('activate', (event) => {
 
 // Fetch Event - Network-First caching strategy
 self.addEventListener('fetch', (event) => {
-  // Only handle HTTP/HTTPS requests (ignores devtools/chrome-extensions)
-  if (!event.request.url.startsWith('http')) return;
+  // Only handle GET requests targeting the same origin (prevents breaking external assets like YouTube)
+  const requestURL = new URL(event.request.url);
+  if (event.request.method !== 'GET' || requestURL.origin !== self.location.origin) {
+    return;
+  }
+
+  // Bypass if the request is a range request (for video/audio streams)
+  if (event.request.headers.has('range')) {
+    return;
+  }
 
   event.respondWith(
     fetch(event.request)

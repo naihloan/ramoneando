@@ -47,7 +47,12 @@ Health, Social Impact, Music </h4>
 |:--:| 
 | *The path ahead* (a random inspiring picture of Mount Fuji, in Japan) |
 
-## Roadmap & Growth
+<details class="premium-accordion" style="margin: 1.5em 0; border: 1px solid rgba(13, 110, 253, 0.15); border-radius: 12px; padding: 16px 20px; background: linear-gradient(135deg, #fdfdfd, #f8f9fa); box-shadow: 0 4px 12px rgba(0,0,0,0.02); transition: all 0.3s ease; cursor: pointer;" markdown="1">
+  <summary style="font-weight: 600; color: #0d6efd; outline: none; user-select: none; display: flex; align-items: center; justify-content: space-between;">
+    <h2 style="margin: 0 !important; padding: 0 !important; border: none !important; color: #0d6efd !important; font-size: 1.5rem; display: inline-block;">Roadmap & Growth</h2>
+    <i class="fa-solid fa-chevron-right" style="font-size: 0.85rem; transition: transform 0.2s ease;"></i>
+  </summary>
+  <div style="margin-top: 15px; border-left: 2px solid rgba(13, 110, 253, 0.2); padding-left: 15px;" markdown="1">
 
 ### Short-Term: Core Data Skills [6-12 Months]
 *Focus: Strengthening Al framing and impact with a data-driven mindset.*
@@ -66,9 +71,12 @@ Health, Social Impact, Music </h4>
 * **Leadership:** Building and managing cross-functional teams to inspire innovation.
 * **Venture:** Joining a startup as a co-founder or starting a new venture.
 
-| ![Don't let your dreams be dreams. Just do it!](../assets/images/stewart-brand.jpg) | 
+| [![Don't let your dreams be dreams. Just do it!](../assets/images/stewart-brand.jpg) | 
 |:--:| 
 | *A realm of intimate, personal power is developing - power of the individual to conduct his own education, find his own inspiration, shape his own environment, and share his adventure with whoever is interested.* -- Stewart Brand (See also [Bright green environmentalism](https://en.wikipedia.org/wiki/Bright_green_environmentalism)) |
+
+</div>
+</details>
 
 ## Strengths (Gallup-Based)
 * **Philomath/Curious:** I prefer ongoing questions over closed answers. *"The mind is not a vessel to be filled, but a fire to be kindled." — Plutarch*

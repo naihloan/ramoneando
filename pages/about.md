@@ -40,7 +40,12 @@ I try to understand how users and communities behave to create products that mea
 ## *I make early tech startups launch products from 0-to-1, mixing deep user insights with sociology and systems analysis*
 <br/>
 
-## My strengths
+<details class="premium-accordion" style="margin: 1.5em 0; border: 1px solid rgba(13, 110, 253, 0.15); border-radius: 12px; padding: 16px 20px; background: linear-gradient(135deg, #fdfdfd, #f8f9fa); box-shadow: 0 4px 12px rgba(0,0,0,0.02); transition: all 0.3s ease; cursor: pointer;" markdown="1">
+  <summary style="font-weight: 600; color: #0d6efd; outline: none; user-select: none; display: flex; align-items: center; justify-content: space-between;">
+    <h2 style="margin: 0 !important; padding: 0 !important; border: none !important; color: #0d6efd !important; font-size: 1.5rem; display: inline-block;">My strengths</h2>
+    <i class="fa-solid fa-chevron-right" style="font-size: 0.85rem; transition: transform 0.2s ease;"></i>
+  </summary>
+  <div style="margin-top: 15px; border-left: 2px solid rgba(13, 110, 253, 0.2); padding-left: 15px;" markdown="1">
 
 ### 1. Product Strategy & Discovery
 It's super important to listen to users. I have a background in **ethnographic research** which makes me look for the insights that serve to best understand problems and ideate solutions. 
@@ -61,11 +66,23 @@ I'm not a developer, but still I believe that people can build things by themsel
 > "It’s my belief that everybody should have their own slice of the Internet. Share your opinions, document your life."
 — [*Josh Sherman*](https://joshtronic.com/ai/)
 
+</div>
+</details>
+
 <br/>
 
-## 🎓 My Academic Background
+<details class="premium-accordion" style="margin: 1.5em 0; border: 1px solid rgba(13, 110, 253, 0.15); border-radius: 12px; padding: 16px 20px; background: linear-gradient(135deg, #fdfdfd, #f8f9fa); box-shadow: 0 4px 12px rgba(0,0,0,0.02); transition: all 0.3s ease; cursor: pointer;" markdown="1">
+  <summary style="font-weight: 600; color: #0d6efd; outline: none; user-select: none; display: flex; align-items: center; justify-content: space-between;">
+    <h2 style="margin: 0 !important; padding: 0 !important; border: none !important; color: #0d6efd !important; font-size: 1.5rem; display: inline-block;">🎓 My Academic Background</h2>
+    <i class="fa-solid fa-chevron-right" style="font-size: 0.85rem; transition: transform 0.2s ease;"></i>
+  </summary>
+  <div style="margin-top: 15px; border-left: 2px solid rgba(13, 110, 253, 0.2); padding-left: 15px;" markdown="1">
+
 * **M.A. in Sociology:** I made my Thesis research on urban spaces and public art behavior. These days, I still use the skillset to keep **Information Architecture (IA)** clean, and listen to users closely with an alert eye to **Customer Experience (CX)**.
 * **Systems Analysis:** I have a decent understanding of system logic and architecture, data quality, data structures, inventory logic, technical delivery, business rules, and how everything needs to sync together to make the whole tech and human system work.
+
+</div>
+</details>
 
 <br/>
 
@@ -192,3 +209,7 @@ I'm looking for PM roles where I can apply sociological insights to technical pr
 
 
 
+
+{% include now-styles.html %}
+
+<!-- </content> -->
