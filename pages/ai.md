@@ -143,6 +143,16 @@ function copyThis(id) {
 > General Purpose Technologies aren’t just about work; they touch every aspect of our lives. They change how we teach, entertain ourselves, interact with other people, and even our sense of self. Schools are in an uproar over the future of writing, based on the first generation of AIs, and AI tutors may finally radically change how we educate students. [...] And all of this ignores the larger issue, the alien in the room. We have created something that has convinced many smart people that it is, in some way, the spark of a new form of intelligence. An AI that has blown through both the Turing Test (Can a computer fool a human into thinking it is human?) and the Lovelace Test (Can a computer fool a human on creative tasks?).  
 -- Quotation from Ethan Mollick: _Co-Intelligence Living and Working With AI_. Penguin Publishing Group (2024) (pp. xvii-xviii). Kindle Edition.
 
+<br/>
+
+## Specific tools
+
+* A Primary LLM: Gemini 
+* A Research tool: Grok 
+* A Transcription tool: Granola
+* An Agent: Hermes 
+* A Builder tool: Codex
+* A Design tool: Figma
 
 <br/>
 
