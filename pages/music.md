@@ -45,12 +45,10 @@ Using different platforms to find different styles of music:
 [![David Byrne, in Stop Making Sense: Psycho Killer](/assets/images/DavidByrne.png)](https://youtu.be/wke3tdWrd3k?t=15)
 *[David Byrne, in Stop Making Sense: Psycho Killer.](https://youtu.be/wke3tdWrd3k?t=15) This Talking Heads recording starts with the main performer alone on stage with a guitar, a recorded drum beat, and his voice. It´s so powerful and hypnotic, both in sound and in visuals.*
 
+<br>
 
-<iframe 
-  src="https://tidal.com/playlist/2f646e50-ce44-4b88-a842-a2edd588c1d0"
-  allow="autoplay; encrypted-media;" 
-  style="width: 100%; height: 500px; border: none; border-radius: 8px;">
-</iframe>
+<iframe src="https://embed.tidal.com/playlists/2f646e50-ce44-4b88-a842-a2edd588c1d0" width="100%" height="450" allow="encrypted-media; fullscreen; clipboard-write https://embed.tidal.com; web-share" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox" style="color-scheme: light dark; border: none; overflow: hidden;" title="TIDAL Embed Player"></iframe>
+
 
 <!-- 
 | Artist | Top Track | Year + LP  | 
