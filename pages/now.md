@@ -1,17 +1,15 @@
 ---
-title: Now
+title: NOW
 permalink: /now/
 layout: page
 # featured: true
 weight: 1
 sitemap_priority: 0.8
-description: Benji’s current projects as a Product Manager, including career goals, music with Sinapsys, and book recommendations. UX-focused Product Manager (5+ years in SaaS & Music) actively looking for the next Series A adventure in wellbeing, social impact or media. I ship products people actually love, speak fluent backlog-to-roadmap, and can turn user insights into growth faster than I can play a bass solo with Sinapsys. Open to PM / Senior PM / Head of Product roles — remote or LATAM. Also happy to jump in on Project Management when needed. Let’s build something meaningful together > just say hi!
+description: Benji’s current projects as a Product builder, including career goals, music with Sinapsys, and book recommendations. UX-focused Product Person (5+ years in SaaS & Music) actively looking for the next Series A adventure in wellbeing, social impact or media. I ship products people actually love, speak fluent backlog-to-roadmap, and can turn user insights into growth faster than I can play a bass solo with Sinapsys. Open to Product Manager (PM) / Senior Product Manager (Sr. PM) / Head of Product roles — remote or LATAM. Also happy to jump in on Project Management when needed. Let’s build something meaningful together > just say hi!
 category: Updates
-date: 2026-06-05
-last_modified_at: 2026-06-05 10:30:00 +0000
+date: 2026-07-28
+last_modified_at: 2026-07-28 10:30:00 +0000
 ---
-
-
 
 ## Doing Product in Tech & Media
 
