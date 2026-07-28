@@ -3,31 +3,30 @@ title: Music
 permalink: /music/
 layout: page
 nav_exclude: true
-description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes NSA, for Never Search Alone method, book and community, as well as now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
+description: Benji’s journey as a worker in tech and Product, including career goals, interests, networking, small blogging, playing bass and music with his band Sinapsys, and book recommendations. Includes Benji’s profile as a Sociologist, Anthropologist, Ethnographer, urban researcher, and general interest in UX, data, culture and strategy. Also likes now pages. This site is all about sharing my interests and connecting with others. I´m into tech, product, user experience, wellness, social impact and media publishing, music and books. I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
 ---
 
 # Playing Music
-Playing Bass as a power trio with 
-[Sinapsys](https://www.instagram.com/sinapsysok/){:target="_blank"}. 
-
-Played our first live gigs in 2025-2026.
+* From age 15 onwards
+* Bass since 2021
+* As a power trio with 
+[SINAPSYS](https://www.instagram.com/sinapsysok/){:target="_blank"}
+* Live gigs since 2025--
 
 <br/>
 
-# Let's play music together!
+# Music Curating
 
- Have you even used [ninjam](https://www.cockos.com/ninjam/) to jam online?
+Using different platforms to find different styles of music:
 
-In case you feel you need some musical resources:
-
-* [Inspiring Jamming Instructions](/music/jamming)
-* Learning scales
-  * [Minor](music/a-minor-pentatonic/)
-  * [Major](/music/c-major-pentatonic/)
-
-<!--
-* [12 Bar Blues Chord Progression]
--->
+* Chill, indie, poetic, in: [my Soundcloud](https://soundcloud.com/ben-j-arlt/sets/music)
+* Original soundtracks from films, remixes, drum machine inspirations: [my YouTube](https://www.youtube.com/watch?v=kXpn8thEGbE&list=PLhkJgNs5nXRdMzQIAihX4-c0PccVjdoPV)
+* All time favorites: 
+  * [my Tidal Short List](https://tidal.com/playlist/2f646e50-ce44-4b88-a842-a2edd588c1d0)
+  * [my Tidal Diverse Complete LPs](https://tidal.com/playlist/96186c54-2e09-4b11-9000-babb0f7e9b99)
+* Exploratory, synths: [free expression](https://soundcloud.com/ben-j-arlt/ventanita-hermosa)
+* Atmospheric, house: [themusicalism](https://www.themusicalism.com/), by [ivan minuti](https://ivanminuti.com/)
+* Rare finds, eclectic: [diverse DJ](https://www.ethrealsound.com/ethr-x-whatmagazine-42)
 
 <br/>
 
@@ -47,8 +46,13 @@ In case you feel you need some musical resources:
 *[David Byrne, in Stop Making Sense: Psycho Killer.](https://youtu.be/wke3tdWrd3k?t=15) This Talking Heads recording starts with the main performer alone on stage with a guitar, a recorded drum beat, and his voice. It´s so powerful and hypnotic, both in sound and in visuals.*
 
 
+<iframe 
+  src="https://tidal.com/playlist/2f646e50-ce44-4b88-a842-a2edd588c1d0"
+  allow="autoplay; encrypted-media;" 
+  style="width: 100%; height: 500px; border: none; border-radius: 8px;">
+</iframe>
 
-
+<!-- 
 | Artist | Top Track | Year + LP  | 
 | -----: | :-------- | :--------- | 
 | Belle & Sebastian | Fiction |2002. Storytelling | 
@@ -61,7 +65,7 @@ In case you feel you need some musical resources:
 | Los Piojos | Canción De Cuna |2003. Máquina de sangre  | 
 | Stone Temple Pilots | Days Of The Week |2003. Thank You | 
 | St. Vincent | Los Ageless |2017. MassEducation | 
-| Hipnótica | Apocalipso |2024. Hipnótica | 
+| Hipnótica | Apocalipso |2024. Hipnótica |  -->
 
 <!--
 | Easy Star All-Stars | Brain Damage |2003. Dub Side of the Moon | 
@@ -73,6 +77,27 @@ In case you feel you need some musical resources:
 #### [See More](/music/lps)
 
 <br/> 
+
+
+# Let's play music together!
+
+ Have you even used [ninjam](https://www.cockos.com/ninjam/) to jam online?
+
+In case you feel you need some musical resources:
+
+* [Inspiring Jamming Instructions](/music/jamming)
+* Learning scales
+  * Major + Pentatonic
+  * Minor + Pentatonic
+
+<!--   * [Minor](music/a-minor-pentatonic/)
+  * [Major](/music/c-major-pentatonic/) -->
+
+<!--
+* [12 Bar Blues Chord Progression]
+-->
+
+<br/>
 
 # What do you like to listen?
 

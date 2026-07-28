@@ -13,7 +13,7 @@ last_modified_at: 2026-06-05 10:30:00 +0000
 
 
 
-## Doing Product in Tech
+## Doing Product in Tech & Media
 
 <br/>
 
@@ -35,7 +35,11 @@ Che Safari is: An event platform to find live music near you.
 * **Solution:** build the dedicated platform for this. It doesn't exist yet as a major solution, there's just fragmented solutions. Maybe we can even plan the whole night, or week ahead of time. No login required. Just search and get out.
   * "Che" stands for nudging friends in Argentina
   * "Safari" stands for exploring what's outside
-* **Monetization:** We don't charge anything to end users. If we can show that enough people use the platform, we expect venues and artists are going to want to be a part of this. Fingers crossed. 
+* **Monetization:** We don't charge anything to end users. If we can show that enough people use the platform, we expect that users travelling 
+<!-- venues and artists  -->
+are going to want to be a part of this. 
+Model is now B2B, making arrangements with Embassies and Consulates, Universities, and Tourist Guides.
+<!-- Fingers crossed.  -->
 
 <div class="project-screenshot">
   <a href="https://chesafari.xyz/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
@@ -130,7 +134,7 @@ My Favorite Books
 
 ###### Inspired by Derek Sivers and the /now movement. See others: [nownownow.com](https://nownownow.com/)
 
-###### /now/ page: Last updated on June, 2026
+###### /now/ page: Last updated on July, 2026
 
 <!-- # Who am I? 
 
