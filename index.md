@@ -2,14 +2,22 @@
 title: 
 layout: page
 sitemap_priority: 1
-description: Benji’s journey as a Product Manager. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to PM and Product Owner roles.
+description: Benji’s journey as a Product Builder and Strategist. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to Product Manager (PM) and Product Owner roles, also interested in new challenges like more responsability, reports, and more.
 ---
 
 {% include hero-book-a-call.html %}
 
 ## I like building products and understanding people's behaviour, patterns and systems
 
-##### I´m looking to create real impact with a tech product, focusing on customer experience (CX), on industries like music, media & wellbeing
+#####  I have 3 hats, which I like to combine
+
+###### 1. As a **Sociologist**: I aim to listen, but also to see, what it is that people need solved.
+
+###### 2. As a **Systems' Analyst**: I check what users and business need, and the constraints to get there.
+
+###### 3. As a **Product Builder**: I test and iteration solutions, move to build it, and keep the team engaged.  
+
+##### Industry focus: music, media, social impact & wellbeing.
 
 <!-- , social impact, and media.  -->
 
@@ -18,10 +26,11 @@ description: Benji’s journey as a Product Manager. Expert in tech, decentraliz
 
 <br/>
 
-## Here's a quick peek of what I've done so far
+## Here's a quick peek of what I've done recently
 
 | Role | Impact & Focus |
 | :--- | :--- |
+| **Co-Founder @ Che Safari** | Testing business models with a **live music discovery** ecosystem in Argentina: connecting indie fans, artists, and independent venues. Building with Fabio Giacometti. Incubated @ Founder Institute. 
 | **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too.|
 | **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
 
