@@ -17,10 +17,17 @@ description: "Live music discovery platform incubated at Founder Institute 2026.
 
 ## 1. Executive Summary & Vision
 
-**Che Safari** is an event discovery platform designed to connect people with local live music and independent cultural scenes without algorithmic noise or mandatory friction.
+**Che Safari** is a live music discovery platform designed to connect audiences with authentic local music scenes while unlocking the hidden capacity of cultural venues and performing artists.
 
-* **The Problem:** Live music discovery is broken and fragmented. Fans, tourists, and locals doomscroll through algorithmic social media (Instagram) or search through disconnected ticketing sites, often missing authentic local gigs. Artists struggle to fill rooms, venues struggle with promotion overhead, and producers lack unified audience reach.
-* **The Solution:** A zero-login, instant-discovery web app that curates and maps cultural events by date, neighborhood, and venue. Users find what is happening tonight or this week in seconds, get directions, and head out.
+* **The Core Market Problem:** Live music discovery is heavily fragmented across Instagram stories and disparate ticketing apps. 
+  * Independent venues operate at an average **~60% capacity**, suffering a **40% lost revenue/attendance gap** (especially Monday–Thursday weeknights).
+  * Independent artists waste hours in unstandardized cold-booking DMs and struggle to prove real ticket draw.
+  * Tourists, exchange students, and locals miss out on vibrant indie shows due to algorithmic ad noise.
+* **The Solution:** A zero-login, instant-discovery web app that maps verified live gigs by date, neighborhood, and venue. Users discover what is happening tonight in seconds and route directly to ticket checkout flows or venue doors.
+* **Traction to Date:**
+  * **2,000+** web app visits & **~160+** unique active discovery users.
+  * **300+** verified independent cultural venues mapped in Córdoba, Argentina.
+  * **Organic Global Footprint:** 70% split between Argentina and US audiences, plus organic shares across 10+ countries.
 * **The Name:** 
   * *"Che"*: Argentine cultural nudge among friends ("hey", "listen up", "let's go").
   * *"Safari"*: An urban expedition to explore the authentic local scene outside digital silos.
@@ -29,27 +36,27 @@ description: "Live music discovery platform incubated at Founder Institute 2026.
 
 ## 2. Multi-Stakeholder Ecosystem (5 Personas)
 
-Che Safari is engineered as a multi-sided cultural ecosystem addressing five key personas:
+Che Safari is engineered as a multi-sided cultural network addressing five interconnected personas:
 
-### 1. Live Music Fans, Locals & Tourists 
-* **Pain Point:** Overwhelmed by social media doomscrolling; missing indie shows because event announcements get buried; lack of neighborhood-level visibility when traveling.
-* **Value Delivered:** Zero-login instant search, calendar reminder sync, route mapping, and authentic local discovery without algorithmic ad clutter.
+### 1. Live Music Fans, Locals & Cultural Tourists
+* **Pain Point:** Overwhelmed by social media doomscrolling; missing indie shows because event announcements get buried; lack of neighborhood-level visibility when traveling or studying abroad (university exchange students & tourists seeking authentic local tango, indie, and jazz).
+* **Value Delivered:** Zero-login instant search, calendar sync (Google/iCal), map route navigation, and authentic discovery without algorithmic ad clutter.
 
 ### 2. Independent Cultural Venues (300+ Verified in Córdoba)
-* **Pain Point:** High marketing overhead, limited staff for event promotion, dependence on paid social ads with diminishing reach.
-* **Value Delivered:** High-intent foot traffic from active live-music seekers; frictionless event verification and listing workflows.
+* **Pain Point:** Operating with a **40% unsold capacity margin** on weeknights; high marketing overhead; limited staff to manage booking inquiries and promote schedules.
+* **Value Delivered:** Targeted local foot traffic from active live-music seekers; streamlined intake tools to activate off-peak capacity and fill rooms.
 
 ### 3. Artists & Independent Bands
-* **Pain Point:** Playing to half-empty venues due to fragmented promotion; difficulty reaching new audiences outside existing follower circles.
-* **Value Delivered:** Direct discovery by fans actively seeking specific genres and live performances in their immediate vicinity.
+* **Pain Point:** Administrative exhaustion managing booking requests over Instagram DMs; playing to underfilled rooms; lack of a single "Calendly-style" professional showcase profile.
+* **Value Delivered:** Standardized discovery profiles, audio previews, direct fan reach, and friction-free booking connections with venue programmers.
 
 ### 4. Event Producers & Promoters
-* **Pain Point:** Fragmented communication channels, uncertain turnouts for niche or indie events, difficulty coordinating multi-venue circuits.
-* **Value Delivered:** Centralized discovery node aggregating cultural demand across urban centers.
+* **Pain Point:** Fragmented marketing spend; unpredictable attendance for indie shows; difficulty coordinating multi-venue urban circuits.
+* **Value Delivered:** Centralized discovery node aggregating cultural demand and surfacing real-time neighborhood interest.
 
 ### 5. Ticketing Platforms (Affiliate & Distribution Partners)
-* **Pain Point:** High customer acquisition cost (CAC) for niche and independent events.
-* **Value Delivered:** Che Safari operates as a non-competing, top-of-funnel discovery engine routing qualified, high-intent ticket buyers directly to partner checkout flows via external CTAs.
+* **Pain Point:** High customer acquisition cost (CAC) for small-to-midsize indie events; lack of hyper-local visual discovery maps.
+* **Value Delivered:** Che Safari operates as a **non-competing top-of-funnel engine** routing qualified, high-intent ticket buyers directly to partner checkout flows (Alpogo, Ticketek, Passline) via external CTAs.
 
 ---
 
@@ -60,14 +67,14 @@ Che Safari is engineered as a multi-sided cultural ecosystem addressing five key
   <!-- Horizon 1 -->
   <div class="horizon-card horizon-completed">
     <div class="horizon-header">
-      <span class="horizon-badge badge-done">Horizon 1 • Shipped (Q1–Q2 2026)</span>
+      <span class="horizon-badge badge-done">Horizon 1 • Shipped & Validated (Q1–Q2 2026)</span>
       <h3 class="horizon-title">Validation With Public User & Core Build</h3>
       <p class="horizon-focus"><strong>Focus:</strong> Frictionless discovery with zero barriers to entry.</p>
     </div>
     <ul class="task-list">
-      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>Founder Institute Validation:</strong> Personas, problem validation, and lean business model.</li>
-      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>Core Discovery Web App Launched:</strong> Instant search by date & venue without sign-up wall.</li>
-      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>External Ticketing Integration:</strong> Direct CTAs to official ticket checkout platforms.</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>Founder Institute Validation:</strong> 5-persona problem discovery, customer development interviews, and lean unit economics.</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>Core Discovery Web App Launched:</strong> Instant search by date & venue without sign-up wall (<a href="https://chesafari.xyz/" target="_blank">chesafari.xyz</a>).</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>External Ticketing Integration:</strong> Direct CTAs routing buyers to official ticket checkout platforms.</li>
       <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>300+ Venue Mapping:</strong> Verified pipeline of independent cultural venues in Córdoba.</li>
       <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>Aggregation Engine:</strong> Lean weekly ingestion and data normalization workflows.</li>
       <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked disabled /><strong>Genre & Mood Filters:</strong> Optional lightweight filtering by music style and vibe.</li>
@@ -110,12 +117,16 @@ Che Safari is engineered as a multi-sided cultural ecosystem addressing five key
 
 ## 4. Business Model & GTM Strategy
 
-* **Phase 1 (User & Venue Adoption):** Free access for users, zero-fee listings for verified cultural venues. Focus on maximizing local network effects, retention, and weekly active discovery.
-* **Phase 2 (B2B Cultural Partnerships):** Strategic collaborations with Tourism Boards, Consulates/Embassies, Universities, and Local Hospitality guides to serve as the default cultural guide for travelers and students.
-* **Phase 3 (Affiliate & Data Monetization):**
-  * Affiliate commissions on ticket checkouts routed through external partner links.
-  * Premium placement and promoted showcase slots for major festivals and indie producers.
-  * Aggregated cultural demand insights for municipal and private event organizers.
+* **Phase 1: Zero-Friction User & Venue Adoption (Current)**
+  * Free access for music seekers, zero-fee listings for verified cultural venues. Focus on maximizing local network density, retention, and weekly active discovery.
+* **Phase 2: B2B Venue Yield Management & Inbound Booking SaaS**
+  * Automated booking inbox tools for venue operators (filtering artist DMs, collecting tech riders, and scheduling).
+  * **Yield Management for the 40% Capacity Gap:** Off-peak promotional mechanisms helping venues monetize unsold tickets on slower weeknights without brand dilution.
+* **Phase 3: Institutional Destination Marketing & Cultural Partnerships**
+  * Strategic partnerships with Municipal Tourism Boards, Cultural Secretariats, Consulates/Embassies, and University Student Exchange networks as the default English/Spanish cultural discovery layer.
+* **Phase 4: Ticketing Revenue Share & B2B Data Insights**
+  * Affiliate fees on ticket sales routed through external checkout partners.
+  * Aggregated neighborhood cultural demand and genre heatmaps for event promoters and brand sponsors.
 
 ---
 
@@ -127,10 +138,10 @@ Che Safari is engineered as a multi-sided cultural ecosystem addressing five key
   <p>My experience building <a href="https://chesafari.xyz/" target="_blank">Che Safari</a> (from 0 to 1) @ Founder Institute Córdoba gave me (and my partner Fabio) a boost in ownership and teamwork, understanding of a product development cycle useful to real users, and leadership capabilities:</p>
 
   <ul>
-    <li><strong>0→1 Product Discovery:</strong> Validated genuine market pull through structured qualitative interviews across all 5 stakeholder groups.</li>
-    <li><strong>Frictionless UX Strategy:</strong> Championed a zero-login architecture with Fabio Giacometti (UX/Design), optimizing for time-to-value (&lt; 10 seconds to discover a live show).</li>
-    <li><strong>Lean Execution &amp; Data Pipelines:</strong> Designed low-overhead ingestion systems to map and maintain 300+ venues with rapid weekly updates.</li>
-    <li><strong>Cross-Functional Co-Founding:</strong> Seamless collaboration bridging product strategy, systems modeling, UX design, and stakeholder relations.</li>
+    <li><strong>0→1 Multi-Stakeholder Discovery:</strong> Validated user pains across 5 distinct ecosystem groups (fans, venues, artists, promoters, ticketing partners), identifying the unmonetized 40% venue capacity opportunity.</li>
+    <li><strong>Frictionless UX Architecture:</strong> Built and shipped a zero-login web app with Fabio Giacometti (UX/Design), optimizing for sub-10-second time-to-value for spontaneous concertgoers.</li>
+    <li><strong>Lean Data & Aggregation Pipelines:</strong> Engineered ingestion workflows to map and maintain 300+ independent cultural venues with rapid weekly updates.</li>
+    <li><strong>Cross-Functional Startup Leadership:</strong> Managed product strategy, user validation cycles, mentor hotseats, and institutional partnership exploratory tracks (tourism, embassies, universities).</li>
   </ul>
 </div>
 

@@ -28,7 +28,7 @@ This page lists all machine-readable files, ground-truth dossiers, and structure
 │
 └── 📁 <span class="tree-folder">docs/</span>
     ├── <a href="/docs/che-safari/" target="_blank" class="tree-link">che-safari</a> <span class="badge badge-md">MD</span> <span class="tree-desc">— Che Safari 5-Persona Roadmap & Founder Institute 2026</span>
-    ├── <a href="/docs/experience/" target="_blank" class="tree-link">experience</a> <span class="badge badge-md">MD</span> <span class="tree-desc">— 3-Hat Framework & NEWM Product Manager Track Record</span>
+    ├── <a href="/docs/experience/" target="_blank" class="tree-link">experience</a> <span class="badge badge-md">MD</span> <span class="tree-desc">— 3-Hat Framework & Product Manager Track Record</span>
     ├── <a href="/docs/llms-full.txt" target="_blank" class="tree-link">llms-full.txt</a> <span class="badge badge-txt">TXT</span> <span class="tree-desc">— Single-file full context for deep LLM ingestion</span>
     ├── <a href="/docs/benji-cv.pdf" target="_blank" class="tree-link">benji-cv.pdf</a> <span class="badge badge-pdf">PDF</span> <span class="tree-desc">— Downloadable CV Document</span>
     └── <a href="/docs/benji-goals.pdf" target="_blank" class="tree-link">benji-goals.pdf</a> <span class="badge badge-pdf">PDF</span> <span class="tree-desc">— Goals and Vision Document</span>
