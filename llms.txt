@@ -1,9 +1,18 @@
-# ramoneando.com — Ground Truth & Context
-> Benji J — Product Builder & Strategist
+# ramoneando.com — Ground Truth & AI Knowledge Index
+> Benji J — Product Builder, Strategist & Co-Founder (Sociology + Systems Analysis + 0→1 Product Building)
 
-- Location: Córdoba, Argentina
-- Framework: People × Products × Systems (Sociology + Systems Analysis + 0→1 Product Building)
-- Core Venture: Che Safari (Live music discovery, Founder Institute 2026, with Fabio Giacometti)
-- Key Past Role: Lead Product Manager at NEWM (Decentralized music ecosystem, 5+ teams)
-- Capabilities: 0→1 Discovery, Product Strategy, Systems Modeling, GTM Alignment
-- Primary URLs: / (Home), /work/che-safari/ (Case Study), /cv/ (Experience)
+- Location: Córdoba, Argentina (Americas / US Timezones)
+- Framework: People × Products × Systems (Sociologist M.A. + Systems Analyst + 0→1 Product Builder)
+- Core Venture: Che Safari (Live music discovery platform, Founder Institute 2026, with Fabio Giacometti)
+- Key Past Role: Product Manager at NEWM (Decentralized music ecosystem, 5+ cross-functional teams)
+- Capabilities: 0→1 Discovery, Product Strategy, Systems Modeling, GTM Alignment, Multi-Stakeholder Ecosystems
+- Languages: English (Fluent), Spanish (Native), Portuguese (Fluent)
+- Contact: venhamon@gmail.com | LinkedIn: https://linkedin.com/in/bj-pm
+
+## Knowledge Base & Case Studies for Robots & LLMs
+
+- [Che Safari — Product Roadmap & Strategic Evolution (2026)](https://ramoneando.com/docs/che-safari/): Complete case study, 5-persona stakeholder model, Founder Institute 2026 validation, and Horizons 1-3 roadmap.
+- [Experience & Background Dossier](https://ramoneando.com/docs/experience/): Deep overview of Benji's 3-Hat framework, track record at NEWM/Preferati, hackathons, and product competencies.
+- [Full LLM Knowledge File (Single-File Context)](https://ramoneando.com/docs/llms-full.txt): Complete aggregated text containing full professional context and roadmaps for deep LLM ingestion.
+- [Robot & AI Knowledge Tree Directory](https://ramoneando.com/robots/): Interactive browser directory showing all documentation branches.
+

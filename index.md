@@ -22,7 +22,7 @@ description: Benji’s journey as a Product Builder and Strategist. Expert in te
 <!-- , social impact, and media.  -->
 
 [![Giver ETH](/assets/images/banner.png)](https://youtu.be/0ZllEEaVkq0?t=5203){:target="_blank"}
-*[My 3-Minute Pitch @ ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203)*
+*[Pitching with 3-Minute bursts since 2023 onwards, here @ ETH Event in Argentina](https://youtu.be/0ZllEEaVkq0?t=5203)*
 
 <br/>
 
@@ -30,8 +30,8 @@ description: Benji’s journey as a Product Builder and Strategist. Expert in te
 
 | Role | Impact & Focus |
 | :--- | :--- |
-| **Co-Founder @ Che Safari** | Testing business models with a **live music discovery** ecosystem in Argentina: connecting indie fans, artists, and independent venues. Building with Fabio Giacometti. Incubated @ Founder Institute. 
-| **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too.|
+| **Co-Founder @ Che Safari** | Testing business models with a **live music discovery** ecosystem in Argentina: connecting indie fans, artists, and independent venues. Building with [Fabio Giacometti](https://fabiogiacometti.framer.website/). Incubated @ [Founder Institute](https://fi.co/) in 2026. 
+| **Product @ NEWM** | I’ve built products for a decentralized **music media ecosystem**, enabling artists with direct ownership of their music and distribution, and allow listeners to be part of the process and IP owners too. Started as 1st full-time Product Manager under CPO, until closure Mid-2026. |
 | **Presenter & Researcher** | See [my 3-Minute Pitch at ETH Event (2023)](https://youtu.be/0ZllEEaVkq0?t=5203) to see how I communicate product problems and thinking. I’d like to better know how communities organize in real space, and in the digital world. With this, I enjoy DeFi (Descentralized Finances), FOSS (Free and open-source software). I think I read a lot of books. |
 
 <br/>

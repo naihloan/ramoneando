@@ -1,5 +1,12 @@
 User-agent: *
 Allow: /
 Sitemap: https://ramoneando.com/sitemap.xml
-Disallow: https://ramoneando.com/PIXO/intro.html  # Replace with the actual old URL
+
+# AI & LLM Knowledge Layer
+# Machine-readable documentation standard (llmstxt.org)
+# Index: https://ramoneando.com/llms.txt
+# Tree Directory: https://ramoneando.com/robots/
+# Full Context: https://ramoneando.com/docs/llms-full.txt
+
+Disallow: https://ramoneando.com/PIXO/intro.html
 Disallow: https://ramoneando.com/citas/jauretche.html

@@ -24,7 +24,7 @@ favicon: "assets/images/logo.png"
 email: venhamon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"  This site is all about sharing my interests and connecting with others. I´m into tech, product, customer experience [CX], wellness, social impact and media publishing: music and books.   I´m also interested in crypto, urbanism, ethnography, art, and vermicomposting. What are you into?
   I'm a Product person into social impact, wellness, media (music and books), blockchain, privacy, vermicomposting and urbanism. What are you into?
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "naihloan.github.io/ramoneando" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: venhamon
 # github_username:  naihloan
@@ -35,7 +35,7 @@ google_analytics: UA-XXXXX-Y
 
 # Professional Status
 current_status: "Currently open to Co-Founding roles, or Product Consultancy"
-status_last_checked: "August 2026"
+status_last_checked: "September 2026"
 
 # Professional Links for Footer
 footer_action_links:

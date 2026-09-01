@@ -1,0 +1,98 @@
+# ramoneando.com — Complete Ground Truth & Knowledge File for AI Models
+
+> **Benji J — Product Builder, Strategist & Co-Founder**  
+> *Primary Website:* https://ramoneando.com/  
+> *Location:* Córdoba, Argentina (Americas / US Timezones)  
+> *Contact:* venhamon@gmail.com | LinkedIn: https://linkedin.com/in/bj-pm  
+> *Languages:* English (Fluent), Spanish (Native), Portuguese (Fluent)
+
+---
+
+## 1. Professional Identity & The 3-Hat Framework
+
+Benji combines social sciences, formal systems analysis, and hands-on 0→1 product leadership to build products with real-world impact.
+
+* **1. As a Sociologist (M.A. UNICAMP, B.A. UBA):** Understands community dynamics, human incentives, and ethnographic qualitative research. Identifies what people actually need vs. what they say they need.
+* **2. As a Systems Analyst (ESCMB / UNC):** Analyzes architecture, technical feasibility, relational data structures, API boundaries, and system constraints.
+* **3. As a Product Builder:** Drives agile delivery, converts user insights into crisp PRDs and roadmaps, executes rapid prototypes, and keeps cross-functional teams aligned.
+
+---
+
+## 2. Current Venture: Che Safari (Founder Institute 2026)
+
+* **Co-Founders:** Benji (Product & Strategy) & Fabio Giacometti (UX & Design)
+* **Incubation:** Founder Institute 2026 @ Córdoba, Argentina
+* **Live Product:** https://chesafari.xyz/
+* **Overarching Mission:** Connect live music seekers with authentic independent cultural scenes without algorithmic noise, mandatory sign-ups, or doomscrolling.
+
+### Multi-Stakeholder Ecosystem (5 Personas)
+1. **Live Music Fans, Locals & Tourists/Expats:** Instant, zero-login discovery by date, neighborhood, and genre. One-click calendar reminders and map navigation.
+2. **Independent Cultural Venues (300+ mapped in Córdoba):** High-intent foot traffic with minimal promotion overhead and streamlined verification workflows.
+3. **Artists & Independent Bands:** Direct discovery by fans actively seeking local shows without pay-to-play algorithms.
+4. **Event Producers & Promoters:** Aggregated demand node for niche and indie festival circuits.
+5. **Ticketing Platforms:** Non-competing top-of-funnel partner; Che Safari routes high-intent buyers directly to external ticketing checkout flows.
+
+### Strategic Roadmap & Horizons
+* **Horizon 1 (Completed & Validated):** Zero-login web app (chesafari.xyz), 300+ local cultural venues mapped, weekly ingestion pipeline, external ticketing CTAs, genre filters.
+* **Horizon 2 (Active Execution - Q3 2026):** Venue self-submission portal, map routing to venues, instant calendar reminders, WhatsApp and social sharing loops.
+* **Horizon 3 (Planned Expansion):** Multi-city rollout (Rosario, Mendoza, Buenos Aires underground scenes), ticketing referral revenue sharing, artist audio previews, granular venue analytics dashboard.
+
+---
+
+## 3. Career Track Record & Work History
+
+### Co-Founder & Product Lead | Che Safari
+*Jan 2026 – Present | Córdoba, Argentina*
+* Incubated at Founder Institute 2026.
+* Validated 0→1 market pull across 5 stakeholder personas; launched zero-login web discovery platform; mapped 300+ cultural venues.
+
+### Product Manager | NEWM (Decentralized Music Ecosystem)
+*Dec 2022 – June 2026 | Remote*
+* Product Manager across 5+ cross-functional teams (iOS, Android, Web, Smart Contracts, Backend).
+* Launched **NEWM Studio** (music distribution platform enabling 100+ artists to distribute to DSPs with 100% royalty retention).
+* Launched **NEWM Marketplace** (music royalty token marketplace with complete PRD and UX specification).
+* Launched **NEWM TheRecordStore** (v2.0 collectibles marketplace for 150+ music items).
+* Unified UX across mobile apps (iOS / Android) and ran continuous qualitative UX research.
+
+### Product Specialist | Preferati
+*Aug 2021 – July 2022 | Remote*
+* Built an internal Applicant Tracking System (ATS) from scratch as product lead.
+* Developed CRM workflows, customer journey maps, and gamification prototypes.
+
+### Product Marketing Manager | WillDom
+*July 2020 – July 2021*
+* Scaled content strategy for 15,000+ tech subscribers and organized internal hackathons.
+
+### Back End Web Developer | Ross Outside the Box
+*Nov 2019 – May 2020*
+* Built ETL data workflows for Dirección General de Rentas (B2B public sector).
+
+---
+
+## 4. Hackathons & Startup Recognition
+
+* **Founder Institute 2026:** Selected founder cohort for Che Safari.
+* **ETH Argentina Buildathon (2023):** Quadratic Funding winner for *Giver* (NGO reputation system); 3-minute pitch to 2,000+ people.
+* **Speezard Incubator (2023):** Pre-seed Web3 incubation with full fee waiver for *Trust Pay*.
+* **Think & Dev Hackathon (2023):** Won Clean Code & Documentation Award.
+
+---
+
+## 5. Core Competencies
+
+* **Product Management:** 0→1 Discovery, Product Strategy, Product Roadmapping, Backlog Grooming, PRDs, Agile / Scrum / LeSS, OKRs, KPIs.
+* **UX & Research:** User Interviews, Persona Modeling, Customer Journey Mapping (CJM), Usability Testing, Information Architecture.
+* **Technical Skills:** Systems Analysis, SQL, REST APIs, Git, Web3 Architecture, Linux.
+* **Tools:** Figma, Miro, JIRA, Postman, Google Analytics, Typeform, Slack.
+* **Languages:** English (Fluent), Spanish (Native), Portuguese (Fluent).
+
+---
+
+## 6. Canonical Robot Resource URLs
+
+* Root AI Index: https://ramoneando.com/llms.txt
+* Che Safari Deep Roadmap: https://ramoneando.com/docs/che-safari/
+* Detailed Experience: https://ramoneando.com/docs/experience/
+* Full Text Knowledge: https://ramoneando.com/docs/llms-full.txt
+* Tree Directory: https://ramoneando.com/robots/
+* Main Web: https://ramoneando.com/
