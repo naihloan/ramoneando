@@ -37,7 +37,46 @@
   }
 }
 
-/* Existing styles (portfolio, music, etc.) */
-.music-table { ... }
-.portfolio-section { ... }
-/* Add other existing styles */
+/* Task List Checkbox Styling */
+.task-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 1.2em 0 2em 0 !important;
+}
+
+.task-list-item {
+  position: relative !important;
+  list-style: none !important;
+  padding-left: 30px !important;
+  margin-bottom: 12px !important;
+  line-height: 1.6 !important;
+}
+
+.task-list-item-checkbox {
+  position: absolute !important;
+  left: 0 !important;
+  top: 4px !important;
+  margin: 0 !important;
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 4px !important;
+  border: 2px solid #16a34a !important;
+  background-color: #16a34a !important;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'%3E%3C/polyline%3E%3C/svg%3E") !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: 11px 11px !important;
+  cursor: default !important;
+  opacity: 1 !important;
+}
+
+input[type="checkbox"].task-list-item-checkbox:not(:checked) {
+  background-color: transparent !important;
+  background-image: none !important;
+  border: 2px solid #94a3b8 !important;
+}
+
+

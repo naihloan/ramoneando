@@ -5,21 +5,23 @@ permalink: /docs/experience/
 description: "Comprehensive experience dossier, 3-Hat Framework (Sociology + Systems Analysis + Product Execution), and track record at NEWM, Che Safari, and Preferati."
 ---
 
-# Benji J — Product Builder & Strategist
+<!-- # Benji J — Product Builder & Strategist -->
 
-> **Ground Truth & Comprehensive Experience Profile**  
+# **Base Truth & Experience Profile**  
 > *Website:* [https://ramoneando.com/](https://ramoneando.com/)  
-> *Location:* Córdoba, Argentina (Americas / US Timezones)  
-> *Languages:* English (Fluent), Spanish (Native), Portuguese (Fluent)  
-> *Contact:* venhamon@gmail.com | [LinkedIn](https://linkedin.com/in/bj-pm)
+> *Location:* Córdoba, Argentina 🇦🇷 (Americas / US Timezones)  
+> *Languages:* 🇬🇧 English (Native), 🇪🇸 Spanish (Native), 🇧🇷 Portuguese (Fluent)  
+> *Email:* [venhamon@gmail.com](venhamon@gmail.com)  
+> *Social Media, Profesional Profile:* [LinkedIn](https://linkedin.com/in/bj-pm)
+
 
 ---
 
 ## 1. Professional Overview & Core Framework
 
-Benji is a Product Manager and Startup Builder with 5+ years of experience across 0→1 venture creation, SaaS, digital media, music tech, and decentralized ecosystems.
+Benji is a Product Manager and Startup Builder with 7+ years of experience across 0→1 venture creation, SaaS, digital media, music tech ecosystems, and startups.
 
-### The 3-Hat Framework (People × Products × Systems)
+### The 3-Hat Framework (People | Systems | Products)
 1. **As a Sociologist (M.A. UNICAMP, B.A. UBA):** Analyzes community dynamics, human incentives, user behavior, and ethnography to conduct deep qualitative discovery and uncover unmet user needs.
 2. **As a Systems Analyst (ESCMB / UNC):** Evaluates technical constraints, information architecture, relational data flows, API boundaries, and business rules.
 3. **As a Product Builder:** Translates user insights into clear roadmaps, PRDs, rapid prototypes, and agile delivery cycles while maintaining strong cross-functional alignment.
@@ -29,12 +31,12 @@ Benji is a Product Manager and Startup Builder with 5+ years of experience acros
 ## 2. Track Record & Key Roles
 
 ### Co-Founder & Product Lead | Che Safari
-*Jan 2026 – Present | Córdoba, Argentina*
+*Mar 2026 – Present | Córdoba, Argentina*
 * **Incubation:** Founder Institute 2026 (Córdoba Chapter). Co-founded with Fabio Giacometti (UX/Design).
 * **0→1 Discovery & Validation:** Conducted problem discovery across 5 stakeholder personas (fans, cultural venues, artists, promoters, ticketing platforms) to solve live music fragmentation.
 * **Product Execution:** Launched zero-login event discovery web app ([chesafari.xyz](https://chesafari.xyz/)) mapping 300+ cultural venues across Córdoba, driving users to external ticketing checkouts.
 * **Traction & Roadmap:** Delivered Horizon 1 (curation engine, genre filters), currently executing Horizon 2 (venue self-submission, map routing, calendar reminders, WhatsApp sharing loops).
-* **Detailed Case Study:** [https://ramoneando.com/docs/che-safari.md](https://ramoneando.com/docs/che-safari.md)
+* **Detailed Case Study:** [https://ramoneando.com/docs/che-safari](https://ramoneando.com/docs/che-safari)
 
 ### Product Manager | NEWM (Decentralized Music Ecosystem)
 *Dec 2022 – June 2026 | Remote*
