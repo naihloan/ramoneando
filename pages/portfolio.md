@@ -7,6 +7,11 @@ description: Product Manager working in tech over the past 5+ years. I also have
 portfolio:
   - name: Products Launched
     images:
+      - url: /docs/che-safari/
+        thumb: /assets/images/chesafari.png
+        alt: "Che Safari Live Music Discovery"
+        caption_title: "Che Safari: Live Music Discovery (2026)"
+        caption_text: "Co-founded zero-login cultural discovery web app mapping 300+ venues in Córdoba, connecting fans to local gigs without algorithmic friction. Incubated @ Founder Institute."
       - url: https://newm.io
         thumb: /assets/images/newm.png
         alt: "NEWM Ecosystem"
