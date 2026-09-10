@@ -79,16 +79,34 @@ input[type="checkbox"].task-list-item-checkbox:not(:checked) {
   border: 2px solid #94a3b8 !important;
 }
 
-/* Sub-heading Asides (Eyebrow & Section Signposts) */
+/* Eyebrow Asides & Section Signposts */
 aside, .post-content aside, .page-content aside {
   display: block !important;
-  font-size: 0.82rem !important;
+  font-size: 0.8rem !important;
   font-weight: 600 !important;
   text-transform: uppercase !important;
-  letter-spacing: 1.2px !important;
+  letter-spacing: 1.5px !important;
   color: #6c757d !important; /* Proper gray matching site buttons (#6c757d) */
-  margin: 0.35rem 0 0.75rem 0 !important;
+  margin-top: 5rem !important;
+  margin-bottom: 0.25rem !important;
   line-height: 1.4 !important;
+}
+
+/* Connect h2 smoothly when preceded by an eyebrow aside */
+aside + h2,
+.post-content aside + h2,
+.page-content aside + h2 {
+  margin-top: 0.25rem !important;
+  padding-top: 0 !important;
+  border-top: none !important;
+}
+
+aside + h2::before,
+.post-content aside + h2::before,
+.page-content aside + h2::before {
+  display: none !important;
+  content: none !important;
+  height: 0 !important;
 }
 
 /* Responsive Discovery Walkthrough GIF (Desktop & Mobile Switching) */
@@ -112,9 +130,21 @@ aside, .post-content aside, .page-content aside {
   margin-bottom: 0.5rem !important;
 }
 
+/* Sub-heading / Problem focus (smaller and italic to not compete with h2 title) */
 .post-content h3, .page-content h3 {
-  margin-top: 0.85rem !important;
-  margin-bottom: 1.5rem !important;
+  font-size: 1.15rem !important;
+  font-weight: 400 !important;
+  font-style: italic !important;
+  color: #555555 !important;
+  margin-top: 0.35rem !important;
+  margin-bottom: 1.75rem !important;
+  line-height: 1.5 !important;
+}
+
+.post-content h3 em, .page-content h3 em,
+.post-content h3 i, .page-content h3 i {
+  font-style: italic !important;
+  font-weight: 400 !important;
 }
 
 .post-content h4, .page-content h4 {
@@ -138,6 +168,9 @@ aside, .post-content aside, .page-content aside {
     margin: 3.5rem 0 4rem 0 !important;
   }
   .post-content h2, .page-content h2 {
+    margin-top: 3.5rem !important;
+  }
+  aside, .post-content aside, .page-content aside {
     margin-top: 3.5rem !important;
   }
 }

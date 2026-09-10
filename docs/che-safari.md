@@ -20,9 +20,9 @@ description: "Live music discovery platform incubated at Founder Institute 2026.
   </picture>
 </div>
 
-## Validating and Building For 2 Quarters with [Fabio](https://fabiogiacometti.framer.website/)
 <aside>Executive Summary & Vision</aside>
-### Testing Live-Music Fans Discovery Process: Does Sofia Really Want to (And Can) Avoid Doomscrolling Social Media?
+## Validating and Building For 2 Quarters with [Fabio](https://fabiogiacometti.framer.website/)
+### *Testing Live-Music Fans Discovery Process: Does Sofia Really Want to (And Can) Avoid Doomscrolling Social Media?*
 <!-- and Unlocking 40% Venue Capacity -->
 
 **Che Safari** is a live music discovery platform designed to connect audiences with authentic local music scenes while unlocking the hidden capacity of cultural venues and performing artists.
@@ -40,9 +40,9 @@ description: "Live music discovery platform incubated at Founder Institute 2026.
   * *"Che"*: Argentine cultural nudge among friends ("hey", "listen up", "let's go").
   * *"Safari"*: An urban expedition to explore the authentic local scene outside digital silos.
 
-## Mapping the Multi-Stakeholder Cultural Network Across My Local City (Córdoba, Argentina 🇦🇷)
 <aside>Multi-Stakeholder Ecosystem</aside>
-### Taking Friction out mainly for Fans (also Venues, Artists, Promoters, and Ticketing Platforms)
+## Mapping the Multi-Stakeholder Cultural Network Across My Local City (Córdoba, Argentina 🇦🇷)
+### *Taking Friction out mainly for Fans (also Venues, Artists, Promoters, and Ticketing Platforms)*
 
 Che Safari is engineered as a multi-sided cultural network addressing five interconnected personas:
 
@@ -66,9 +66,9 @@ Che Safari is engineered as a multi-sided cultural network addressing five inter
 * **Pain Point:** High customer acquisition cost (CAC) for small-to-midsize indie events; lack of hyper-local visual discovery maps.
 * **Value Delivered:** Che Safari operates as a **non-competing top-of-funnel engine** routing qualified, high-intent ticket buyers directly to partner checkout flows (Alpogo, Ticketek, Passline) via external CTAs.
 
-## Enabling a Zero-Login Discovery for Users (who can later save preferences if they want to login)
 <aside>Product Roadmap & Strategic Horizons</aside>
-### Shipping Instant Search and Engineering Frictionless Venue Intake
+## Enabling a Zero-Login Discovery for Users (who can later save preferences if they want to login)
+### *Shipping Instant Search and Engineering Frictionless Venue Intake*
 
 #### Horizon: Validation With Public User & Core Build
 > **Status:** Shipped & Validated (Q1–Q2 2026)  
@@ -99,9 +99,9 @@ Che Safari is engineered as a multi-sided cultural network addressing five inter
 - [ ] **Artist Audio Preview Modules:** Direct Spotify / Bandcamp previews inside event cards.
 - [ ] **Venue Analytics Dashboard:** B2B metrics for venues on user interest and genre heatmaps.
 
-## Creating a Vision For Go-to-Market 
 <aside>Business Model & GTM Strategy</aside>
-### Monetizing High-Intent Discovery via Ticketing Affiliates
+## Creating a Vision For Go-to-Market 
+### *Monetizing High-Intent Discovery via Ticketing Affiliates*
 <!-- , Yield Tools, and Cultural Tourism -->
 
 * **Phase: Zero-Friction User & Venue Adoption (Current)**
@@ -115,9 +115,9 @@ Che Safari is engineered as a multi-sided cultural network addressing five inter
   * Affiliate fees on ticket sales routed through external checkout partners.
   * Aggregated neighborhood cultural demand and genre heatmaps for event promoters and brand sponsors.
 
-## Aiming and Showcasing For 0→1 Venture Leadership 
 <aside>🎸 I'm a Product Builder</aside>
-### Showing Product Craft to Myself, My Team, and the World
+## Aiming and Showcasing For 0→1 Venture Leadership 
+### *Showing Product Craft to Myself, My Team, and the World*
 
 My experience building [Che Safari](https://chesafari.xyz/){:target="_blank"} (from 0 to 1) at Founder Institute Córdoba gave me (and my partner Fabio) a boost in ownership and teamwork, a grounded understanding of a product development cycle useful to real users, and proven leadership capabilities:
 
