@@ -11,7 +11,9 @@
 
 ## Knowledge Base & Case Studies for Robots & LLMs
 
-- [Che Safari — Product Roadmap & Strategic Evolution (2026)](https://ramoneando.com/docs/che-safari/): Complete case study, 5-persona stakeholder model, Founder Institute 2026 validation, and Horizons 1-3 roadmap.
+- [Site Architecture & README (Technical Choices & Build Guide)](https://ramoneando.com/readme/): Jekyll static architecture, systems analyst philosophy, local build cheatsheet, and directory layout.
+- [Voice & Soul Guide (Voice, Philosophy & Commands)](https://ramoneando.com/docs/voice.md): Overarching voice guidelines, 3-tier information architecture, unnumbered formatting rules, and internal commands.
+- [Che Safari — Product Roadmap & Strategic Evolution (2026)](https://ramoneando.com/docs/che-safari/): Complete case study, 5-persona stakeholder model, Founder Institute 2026 validation, and Horizons roadmap.
 - [Experience & Background Dossier](https://ramoneando.com/docs/experience/): Deep overview of Benji's 3-Hat framework, track record at NEWM/Preferati, hackathons, and product competencies.
 - [Full LLM Knowledge File (Single-File Context)](https://ramoneando.com/docs/llms-full.txt): Complete aggregated text containing full professional context and roadmaps for deep LLM ingestion.
 - [Robot & AI Knowledge Tree Directory](https://ramoneando.com/robots/): Interactive browser directory showing all documentation branches.

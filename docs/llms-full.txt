@@ -92,6 +92,8 @@ Benji combines social sciences, formal systems analysis, and hands-on 0→1 prod
 ## 6. Canonical Robot Resource URLs
 
 * Root AI Index: https://ramoneando.com/llms.txt
+* Site Architecture & README: https://ramoneando.com/readme/
+* Voice & Soul Guide: https://ramoneando.com/docs/voice.md
 * Che Safari Deep Roadmap: https://ramoneando.com/docs/che-safari/
 * Detailed Experience: https://ramoneando.com/docs/experience/
 * Full Text Knowledge: https://ramoneando.com/docs/llms-full.txt

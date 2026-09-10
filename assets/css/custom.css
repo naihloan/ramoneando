@@ -79,4 +79,69 @@ input[type="checkbox"].task-list-item-checkbox:not(:checked) {
   border: 2px solid #94a3b8 !important;
 }
 
+/* Sub-heading Asides (Eyebrow & Section Signposts) */
+aside, .post-content aside, .page-content aside {
+  display: block !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1.2px !important;
+  color: #6c757d !important; /* Proper gray matching site buttons (#6c757d) */
+  margin: 0.35rem 0 0.75rem 0 !important;
+  line-height: 1.4 !important;
+}
+
+/* Responsive Discovery Walkthrough GIF (Desktop & Mobile Switching) */
+.preview-gif-container {
+  text-align: center;
+  margin: 4.5rem 0 5rem 0 !important;
+}
+
+.preview-gif {
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  max-width: 720px;
+}
+
+/* Generous Whitespace Between Major Sections */
+.post-content h2, .page-content h2 {
+  margin-top: 5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.post-content h3, .page-content h3 {
+  margin-top: 0.85rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.post-content h4, .page-content h4 {
+  margin-top: 2.5rem !important;
+  margin-bottom: 0.75rem !important;
+}
+
+/* Replace any remaining horizontal rules with clean white space */
+.post-content hr, .page-content hr {
+  border: 0 !important;
+  height: 0 !important;
+  margin: 4.5rem 0 !important;
+  visibility: hidden !important;
+}
+
+@media (max-width: 680px) {
+  .preview-gif {
+    max-width: 320px;
+  }
+  .preview-gif-container {
+    margin: 3.5rem 0 4rem 0 !important;
+  }
+  .post-content h2, .page-content h2 {
+    margin-top: 3.5rem !important;
+  }
+}
+
+
+
 

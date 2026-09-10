@@ -21,12 +21,13 @@ This page lists all machine-readable files, ground-truth dossiers, and structure
   </div>
   <div class="tree-content">
 <pre class="ascii-tree">
-<span class="tree-root">https://ramoneando.com/</span>
+├── <a href="/readme/" target="_blank" class="tree-link">README.md</a> <span class="badge badge-md">MD</span> <span class="tree-desc">— Architecture, local compilation cheatsheet & technical philosophy</span>
 ├── <a href="/llms.txt" target="_blank" class="tree-link">llms.txt</a> <span class="badge badge-txt">TXT</span> <span class="tree-desc">— Root AI Index & ground-truth directory (llmstxt.org)</span>
 ├── <a href="/robots.txt" target="_blank" class="tree-link">robots.txt</a> <span class="badge badge-txt">TXT</span> <span class="tree-desc">— Crawler directives & AI index pointers</span>
 ├── <a href="/sitemap.xml" target="_blank" class="tree-link">sitemap.xml</a> <span class="badge badge-xml">XML</span> <span class="tree-desc">— Standard search engine sitemap</span>
 │
 └── 📁 <span class="tree-folder">docs/</span>
+    ├── <a href="/docs/voice.md" target="_blank" class="tree-link">voice.md</a> <span class="badge badge-md">MD</span> <span class="tree-desc">— Voice, Soul, 3-Tier IA & Internal Commands</span>
     ├── <a href="/docs/che-safari/" target="_blank" class="tree-link">che-safari</a> <span class="badge badge-md">MD</span> <span class="tree-desc">— Che Safari 5-Persona Roadmap & Founder Institute 2026</span>
     ├── <a href="/docs/experience/" target="_blank" class="tree-link">experience</a> <span class="badge badge-md">MD</span> <span class="tree-desc">— 3-Hat Framework & Product Manager Track Record</span>
     ├── <a href="/docs/llms-full.txt" target="_blank" class="tree-link">llms-full.txt</a> <span class="badge badge-txt">TXT</span> <span class="tree-desc">— Single-file full context for deep LLM ingestion</span>
@@ -42,8 +43,10 @@ This page lists all machine-readable files, ground-truth dossiers, and structure
 
 | Resource | Format | Direct URL | Description & Purpose |
 | :--- | :---: | :--- | :--- |
+| **Site Architecture & README** | `Page / MD` | [`/readme/`](/readme/) | Full technical stack, Jekyll architecture, compilation commands, and repo tree. |
+| **Voice & Soul Guide** | `.md` | [`/docs/voice.md`](/docs/voice.md) | Overarching voice principles, 3-tier IA, unnumbered lists, and internal commands. |
 | **Root AI Index** | `.txt` | [`/llms.txt`](/llms.txt) | Standard `llms.txt` table of contents pointing to all documentation. |
-| **Che Safari Roadmap** | `Page / MD` | [`/docs/che-safari/`](/docs/che-safari/) | Full 0→1 case study, 5 personas (fans, venues, artists, promoters, ticketing), and Horizons 1–3. |
+| **Che Safari Roadmap** | `Page / MD` | [`/docs/che-safari/`](/docs/che-safari/) | Full 0→1 case study, 5 personas (fans, venues, artists, promoters, ticketing), and Horizons. |
 | **Experience Profile** | `Page / MD` | [`/docs/experience/`](/docs/experience/) | The 3-Hat Framework (Sociology + Systems Analysis + Product Execution) and NEWM PM achievements. |
 | **Full LLM Context** | `.txt` | [`/docs/llms-full.txt`](/docs/llms-full.txt) | All-in-one consolidated context for large-window AI engines. |
 | **Robots Directives** | `.txt` | [`/robots.txt`](/robots.txt) | Crawler permissions and pointer to knowledge layer. |
