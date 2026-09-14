@@ -1,20 +1,28 @@
 ---
 layout: page
-title: "Architecture & README"
+title: "README & Site Architecture"
 permalink: /readme/
 description: "Repository architecture, technical choices, local compilation guide, and project structure for ramoneando.com."
 ---
 
-# ramoneando.com
+<!-- # ramoneando.com -->
 
-> **Personal Portfolio, Product Case Studies & Digital Garden**  
-> *Built by:* Benji J (Product Manager, Startup Builder & Sociologist)  
-> *Live Site:* [https://ramoneando.com/](https://ramoneando.com/)  
-> *Repository:* [github.com/naihloan/ramoneando](https://github.com/naihloan/ramoneando)
+<aside>
+	<!-- <ul style="list-style: none;"> -->
+	Here's My Site With A Personal Portfolio, Product Case Studies & Random Notes Like a Blog From The 90s 
+	<br/> <br/>
+	Made by: Benji J (Product Person, Builder, Sociologist, Bass Player), aka venhamon <br/>
+	Live Site: <a href="https://ramoneando.com/">https://ramoneando.com/</a>
+	<br/>
+	Repository @ GitHub: 
+	<a href="github.com/naihloan/ramoneando">
+	naihloan/ramoneando </a>
+	<br/>
+</aside>
 
 ---
 
-## 🛠️ Architecture & Technical Philosophy
+## Architecture & Technical Philosophy
 
 This site is built as a fast, lightweight, and transparent static site using **Jekyll**, **Ruby**, and **Markdown**, styled on top of the classic **Minima** theme with custom layouts and Liquid includes.
 
@@ -25,7 +33,7 @@ This site is built as a fast, lightweight, and transparent static site using **J
 
 ---
 
-## 💻 Local Development & Compilation Cheatsheet
+## Local Development & Compilation Cheatsheet
 
 ### Prerequisites
 * **Ruby** (>= 3.0, checked on Ruby 3.3.x)
@@ -56,7 +64,7 @@ bundle exec jekyll serve --livereload
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
@@ -81,6 +89,6 @@ bundle exec jekyll serve --livereload
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 The site automatically builds and deploys via **GitHub Pages** whenever changes are pushed to the default branch.
