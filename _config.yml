@@ -19,6 +19,9 @@ status_last_checked: "September 2026"
 
 # Professional Links for Footer
 footer_action_links:
+  - label: "CV"
+    url: "/cv/"
+    icon: "fa-solid fa-briefcase"
   - label: "Goals"
     url: "/goals/"
     icon: "fa-solid fa-star"
@@ -38,9 +41,6 @@ footer_action_links:
   - label: "Quotes"
     url: "./quotes/"
     icon: "fa-solid fa-quote-left"      
-  - label: "CV"
-    url: "/cv/"
-    icon: "fa-solid fa-briefcase"
   - label: "Contact"
     url: "/contact/"
     icon: "fa-solid fa-message"
