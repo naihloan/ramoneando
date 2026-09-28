@@ -362,13 +362,14 @@ h2 {
 }
 </style>
 
----
-
-<!-- ###### /cv/ page: Last updated on {{ site.status_last_checked | default: "September 2026" }} -->
-
-<!-- ###### PDF version of this page: [Download Benji_J_Product_Manager_CV.pdf]({{ '/docs/Benji_J_Product_Manager_CV.pdf' | relative_url }}). -->
-
-  <div class="cv-action-row">
+<div class="cv-closing-card" style="text-align: center; margin: 3rem 0; padding: 2.2rem 1.8rem; background: #ffffff; border: 2px solid #d0d7de; border-radius: 12px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);">
+  <h3 style="margin-top: 0 !important; margin-bottom: 8px !important; border-top: none !important; padding-top: 0 !important; font-size: 1.35rem; color: #0f172a;">
+    Ready to build something meaningful together?
+  </h3>
+  <p style="color: #64748b; margin-bottom: 20px !important; font-size: 0.95rem;">
+    Open to Product Manager, Lead/Head, Consultancy, and Co-Founding roles.
+  </p>
+  <div class="cv-action-row" style="justify-content: center;">
     <a href="{{ site.calendly_url | default: 'https://calendly.com/venhamon' }}" target="_blank" rel="noopener noreferrer" class="cv-btn cv-btn-primary">
       <i class="fa-regular fa-calendar-days"></i> Let's meet! (30 min)
     </a>
@@ -376,6 +377,7 @@ h2 {
       <i class="fa-solid fa-file-arrow-down"></i> Download PDF CV
     </a>
   </div>
+</div>
 
 <br/>
 
