@@ -17,7 +17,7 @@ description: Benji, a Product Manager mixing Sociology and Systems Analysis to b
 
 <img src="/assets/images/profile-2.png" alt="Benji's Pic" style="width:25%; height:auto; border-radius: 8px; float: right; margin-left: 20px;">
 
-I am a **Product Manager** with over 5 years of experience in the tech industry. My unique edge comes from combining a **Master’s in Sociology** with **Systems Analysis**. 
+I am a **Product Manager** with over {% include years-in-tech.html %} years of experience in the tech industry. My unique edge comes from combining a **Master’s in Sociology** with **Systems Analysis**. 
 
 ### Product Portfolio
 <a href="/portfolio/" class="bootstrap-primary-btn">

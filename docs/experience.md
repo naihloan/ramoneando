@@ -19,7 +19,7 @@ description: "Comprehensive experience dossier, 3-Hat Framework (Sociology + Sys
 
 ## 1. Professional Overview & Core Framework
 
-Benji is a Product Manager and Startup Builder with 7+ years of experience across 0→1 venture creation, SaaS, digital media, music tech ecosystems, and startups.
+Benji is a Product Manager and Startup Builder with {% include years-in-tech.html %} years of experience across 0→1 venture creation, SaaS, digital media, music tech ecosystems, and startups.
 
 ### The 3-Hat Framework (People | Systems | Products)
 1. **As a Sociologist (M.A. UNICAMP, B.A. UBA):** Analyzes community dynamics, human incentives, user behavior, and ethnography to conduct deep qualitative discovery and uncover unmet user needs.

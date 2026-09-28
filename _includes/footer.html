@@ -158,5 +158,17 @@
         .catch(err => console.log('Service Worker registration failed:', err));
     });
   }
+
+  // Automatically ensure years-in-tech elements show accurate count client-side
+  (function() {
+    var els = document.querySelectorAll('.years-in-tech');
+    if (!els.length) return;
+    var currentYear = new Date().getFullYear();
+    els.forEach(function(el) {
+      var start = parseInt(el.getAttribute('data-start-year') || '2019', 10);
+      var diff = currentYear - start;
+      if (diff > 0) el.textContent = diff + '+';
+    });
+  })();
 </script>
 

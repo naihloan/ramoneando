@@ -14,8 +14,10 @@ linkedin_username: bj-pm # e.g., yourusername (not full URL)
 google_analytics: UA-XXXXX-Y
 
 # Professional Status
-current_status: "Currently open to Co-Founding roles, or Product Consultancy"
+current_status: "Currently open to Product Manager/Owner roles (Sr. PM, PO, Head of Product, Product Lead), or Product Consultancy"
 status_last_checked: "September 2026"
+tech_start_year: 2019
+calendly_url: "https://calendly.com/venhamon"
 
 # Professional Links for Footer
 footer_action_links:

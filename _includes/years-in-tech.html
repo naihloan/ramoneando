@@ -1,0 +1,4 @@
+{% assign start_yr = include.start_year | default: site.tech_start_year | default: 2019 | plus: 0 -%}
+{% assign current_yr = 'now' | date: '%Y' | plus: 0 -%}
+{% assign diff_years = current_yr | minus: start_yr -%}
+<span class="years-in-tech" data-start-year="{{ start_yr }}">{{ diff_years }}+</span>

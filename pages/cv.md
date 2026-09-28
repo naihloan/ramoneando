@@ -1,15 +1,215 @@
 ---
 layout: page
-title: CV
+title: "Benji J. | Product Manager & Builder CV"
 permalink: /cv/
 sitemap_priority: 0.9
+description: "Curriculum Vitae of Benji J. — Product Manager with focus on social & sociological systems, SaaS, and Web3. Specializing in UX and pre-seed incubation. Based in Americas."
 ---
 
-<!--
-# CV
--->
+<style>
+  /* CV Header Quick Card */
+  .cv-header-card {
+    background: #ffffff;
+    border: 2px solid #d0d7de;
+    border-radius: 12px;
+    padding: 22px 24px;
+    margin: 1.5rem 0 2rem 0;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  }
 
-<img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width:30%; height:auto;">
+  /* List of Meta items */
+  .cv-meta-list {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 0 20px 0 !important;
+  }
+
+  .cv-meta-item {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 12px 0;
+    border-bottom: 1px solid #eef2f6;
+    list-style: none !important;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  .cv-meta-item:last-child {
+    border-bottom: none;
+    padding-bottom: 4px;
+  }
+
+  .cv-meta-label {
+    min-width: 140px;
+    color: #475569;
+    font-weight: 700;
+    font-size: 0.84rem;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+  }
+
+  .cv-meta-value {
+    color: #0f172a;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+
+  /* Clearly defined role chips with borders */
+  .cv-role-chip {
+    display: inline-flex;
+    align-items: center;
+    background: #f1f5f9;
+    color: #0f172a;
+    border: 1.5px solid #94a3b8;
+    padding: 4px 12px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  }
+
+  .cv-linkedin-link {
+    color: #0969da !important;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    border-bottom: 1.5px solid #0969da !important;
+  }
+
+  .cv-linkedin-link:hover {
+    color: #054da7 !important;
+    border-bottom-color: #054da7 !important;
+  }
+
+  /* Buttons Row */
+  .cv-action-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    align-items: center;
+    padding-top: 10px;
+  }
+
+  .cv-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 24px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    border-radius: 8px;
+    text-decoration: none !important;
+    cursor: pointer;
+    letter-spacing: 0.3px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Primary CTA: Let's meet! (30 min) */
+  .cv-btn-primary {
+    background-color: #0969da !important;
+    color: #ffffff !important;
+    border: 2.5px solid #054da7 !important;
+    box-shadow: 0 4px 12px rgba(9, 105, 218, 0.3);
+  }
+
+  .cv-btn-primary:hover {
+    background-color: #054da7 !important;
+    border-color: #033d8b !important;
+    color: #ffffff !important;
+    box-shadow: 0 6px 16px rgba(9, 105, 218, 0.45);
+    transform: translateY(-2px);
+  }
+
+  /* Secondary CTA: Download PDF CV */
+  .cv-btn-secondary {
+    background-color: #ffffff !important;
+    color: #0969da !important;
+    border: 2.5px solid #0969da !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  }
+
+  .cv-btn-secondary:hover {
+    background-color: #f0f7ff !important;
+    border-color: #054da7 !important;
+    color: #054da7 !important;
+    box-shadow: 0 4px 12px rgba(9, 105, 218, 0.2);
+    transform: translateY(-2px);
+  }
+
+  @media screen and (max-width: 600px) {
+    .cv-header-card {
+      padding: 16px;
+    }
+    .cv-meta-item {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 6px;
+    }
+    .cv-meta-label {
+      min-width: unset;
+    }
+    .cv-action-row {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 12px;
+    }
+    .cv-btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>
+
+<!-- CV Header Bar: Skimmable Summary & Actions -->
+<div class="cv-header-card">
+  <ul class="cv-meta-list">
+    <li class="cv-meta-item">
+      <span class="cv-meta-label"><i class="fa-regular fa-calendar-check fa-fw"></i> Last Updated</span>
+      <span class="cv-meta-value">{{ site.status_last_checked | default: "September 2026" }}</span>
+    </li>
+    <li class="cv-meta-item">
+      <span class="cv-meta-label"><i class="fa-brands fa-linkedin fa-fw"></i> LinkedIn</span>
+      <span class="cv-meta-value">
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username | default: 'bj-pm' }}/" target="_blank" rel="noopener noreferrer" class="cv-linkedin-link">
+          linkedin.com/in/{{ site.linkedin_username | default: 'bj-pm' }} <i class="fa-solid fa-arrow-up-right-from-square fa-xs"></i>
+        </a>
+      </span>
+    </li>
+    <li class="cv-meta-item">
+      <span class="cv-meta-label"><i class="fa-solid fa-briefcase fa-fw"></i> Open to Roles</span>
+      <span class="cv-meta-value">
+        <span class="cv-role-chip">Product Manager (PM)</span>
+        <span class="cv-role-chip">Product Owner (PO)</span>
+        <span class="cv-role-chip">Lead PM</span>
+        <span class="cv-role-chip">Head of Product</span>
+        <span class="cv-role-chip">Product Consultant</span>
+        <span class="cv-role-chip">Product Co-Founder</span>
+      </span>
+    </li>
+  </ul>
+
+  <div class="cv-action-row">
+    <a href="{{ site.calendly_url | default: 'https://calendly.com/venhamon' }}" target="_blank" rel="noopener noreferrer" class="cv-btn cv-btn-primary">
+      <i class="fa-regular fa-calendar-days"></i> Let's meet! (30 min)
+    </a>
+    <a href="{{ '/docs/Benji_J_Product_Manager_CV.pdf' | relative_url }}" class="cv-btn cv-btn-secondary" download="Benji_J_Product_Manager_CV.pdf">
+      <i class="fa-solid fa-file-arrow-down"></i> Download PDF CV
+    </a>
+  </div>
+</div>
+
+<img src="/assets/images/profile-2.png" alt="Benji´s Pic" style="width: 140px; height: auto; border-radius: 8px; border: 2px solid #3b3e45; margin-bottom: 15px;">
 
 # Benji J  | Product builder with focus on social and sociological systems
 
@@ -23,7 +223,7 @@ sitemap_priority: 0.9
 | **Linguistics: Trilingual** | English/Spanish/Portuguese. |
 
 ## Professional Summary
-Experienced Product Manager with 5+ years in SaaS and Web3, specializing in UX and pre-seed incubation. Proven track record of launching impactful products and leading cross-functional teams. Skilled in data-driven decision-making and user engagement, with a focus on industries like Meditation, Fundraising, and Music. Passionate about building meaningful, user-centered solutions and driving innovation in startups.
+Experienced Product Manager with {% include years-in-tech.html %} years in SaaS and Web3, specializing in UX and pre-seed incubation. Proven track record of launching impactful products and leading cross-functional teams. Skilled in data-driven decision-making and user engagement, with a focus on industries like Meditation, Fundraising, and Music. Passionate about building meaningful, user-centered solutions and driving innovation in startups.
 
 <style>
   .skills-matrix {
@@ -164,9 +364,9 @@ h2 {
 
 ---
 
-###### /cv/ page: Last updated on February, 2026
+###### /cv/ page: Last updated on {{ site.status_last_checked | default: "September 2026" }}
 
-###### PDF version of this page: [here](../docs/benji-cv.pdf).
+###### PDF version of this page: [Download Benji_J_Product_Manager_CV.pdf]({{ '/docs/Benji_J_Product_Manager_CV.pdf' | relative_url }}).
 
 <br/>
 
