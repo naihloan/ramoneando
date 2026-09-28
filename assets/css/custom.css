@@ -1,39 +1,77 @@
-/* Button styles for consistent look across site */
-.btn {
-  display: inline-block;
+/* ==========================================================================
+   Global Button Styles (Unified Across Site)
+   ========================================================================== */
+.btn,
+.bootstrap-primary-btn,
+.btn-sm-primary,
+.cv-btn,
+.custom-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
   padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 5px;
-  font-size: 1rem;
-  text-align: center;
-  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  font-size: 0.92rem;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none !important;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+  transition: all 0.2s ease-in-out;
 }
 
-.btn-primary {
-  background-color: #007bff; /* Vibrant blue */
-  color: white;
+/* Primary Button Style (Brand Blue) */
+.btn-primary,
+.bootstrap-primary-btn,
+.btn-sm-primary,
+.cv-btn-primary,
+.custom-button {
+  background-color: #329af0 !important;
+  color: #ffffff !important;
+  border: 2px solid #329af0 !important;
+  box-shadow: 0 2px 8px rgba(50, 154, 240, 0.25);
 }
 
-.btn-primary:hover {
-  background-color: #0056b3; /* Darker blue on hover */
-  color: white;
+.btn-primary:hover,
+.bootstrap-primary-btn:hover,
+.btn-sm-primary:hover,
+.cv-btn-primary:hover,
+.custom-button:hover {
+  background-color: #1c7ed6 !important;
+  border-color: #1c7ed6 !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(50, 154, 240, 0.4);
+  transform: translateY(-1px);
 }
 
-.btn-secondary {
-  background-color: transparent;
-  border: 2px solid #6c757d; /* Gray from existing buttons */
-  color: #6c757d;
+/* Secondary / Outline Button Style */
+.btn-secondary,
+.btn-sm-outline,
+.cv-btn-secondary,
+.mono-scale-btn {
+  background-color: #ffffff !important;
+  color: #329af0 !important;
+  border: 2px solid #329af0 !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
-.btn-secondary:hover {
-  background-color: #6c757d;
-  color: white;
+.btn-secondary:hover,
+.btn-sm-outline:hover,
+.cv-btn-secondary:hover,
+.mono-scale-btn:hover {
+  background-color: #f0f7ff !important;
+  border-color: #1c7ed6 !important;
+  color: #1c7ed6 !important;
+  box-shadow: 0 4px 12px rgba(50, 154, 240, 0.2);
+  transform: translateY(-1px);
 }
 
 @media screen and (max-width: 600px) {
-  .btn {
-    padding: 8px 16px; /* Slightly smaller on mobile */
-    font-size: 0.9rem;
+  .btn,
+  .bootstrap-primary-btn,
+  .cv-btn {
+    padding: 10px 16px;
+    font-size: 0.88rem;
   }
 }
 
@@ -289,34 +327,34 @@ aside + h2::before,
 
 /* Primary CTA: Let's meet! (30 min) */
 .cv-btn-primary {
-  background-color: #2563eb !important;
+  background-color: #329af0 !important;
   color: #ffffff !important;
-  border: 2px solid #60a5fa !important;
-  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.45);
+  border: 2px solid #329af0 !important;
+  box-shadow: 0 2px 8px rgba(50, 154, 240, 0.25);
 }
 
 .cv-btn-primary:hover {
-  background-color: #1d4ed8 !important;
-  border-color: #93c5fd !important;
+  background-color: #1c7ed6 !important;
+  border-color: #1c7ed6 !important;
   color: #ffffff !important;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(37, 99, 235, 0.6);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(50, 154, 240, 0.4);
 }
 
 /* Secondary CTA: Download PDF */
 .cv-btn-secondary {
-  background-color: #1e293b !important;
-  color: #93c5fd !important;
-  border: 2px solid #38bdf8 !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  background-color: #ffffff !important;
+  color: #329af0 !important;
+  border: 2px solid #329af0 !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
 .cv-btn-secondary:hover {
-  background-color: #2563eb !important;
-  border-color: #93c5fd !important;
-  color: #ffffff !important;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 14px rgba(56, 189, 248, 0.4);
+  background-color: #f0f7ff !important;
+  border-color: #1c7ed6 !important;
+  color: #1c7ed6 !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(50, 154, 240, 0.2);
 }
 
 @media screen and (max-width: 600px) {

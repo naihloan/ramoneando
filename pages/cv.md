@@ -104,10 +104,10 @@ description: "Curriculum Vitae of Benji J. — Product Manager with focus on soc
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
-    padding: 12px 24px;
-    font-size: 0.95rem;
-    font-weight: 700;
+    gap: 8px;
+    padding: 10px 20px;
+    font-size: 0.92rem;
+    font-weight: 600;
     border-radius: 8px;
     text-decoration: none !important;
     cursor: pointer;
@@ -117,34 +117,34 @@ description: "Curriculum Vitae of Benji J. — Product Manager with focus on soc
 
   /* Primary CTA: Let's meet! (30 min) */
   .cv-btn-primary {
-    background-color: #0969da !important;
+    background-color: #329af0 !important;
     color: #ffffff !important;
-    border: 2.5px solid #054da7 !important;
-    box-shadow: 0 4px 12px rgba(9, 105, 218, 0.3);
+    border: 2px solid #329af0 !important;
+    box-shadow: 0 2px 8px rgba(50, 154, 240, 0.25);
   }
 
   .cv-btn-primary:hover {
-    background-color: #054da7 !important;
-    border-color: #033d8b !important;
+    background-color: #1c7ed6 !important;
+    border-color: #1c7ed6 !important;
     color: #ffffff !important;
-    box-shadow: 0 6px 16px rgba(9, 105, 218, 0.45);
-    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(50, 154, 240, 0.4);
+    transform: translateY(-1px);
   }
 
   /* Secondary CTA: Download PDF CV */
   .cv-btn-secondary {
     background-color: #ffffff !important;
-    color: #0969da !important;
-    border: 2.5px solid #0969da !important;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    color: #329af0 !important;
+    border: 2px solid #329af0 !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   }
 
   .cv-btn-secondary:hover {
     background-color: #f0f7ff !important;
-    border-color: #054da7 !important;
-    color: #054da7 !important;
-    box-shadow: 0 4px 12px rgba(9, 105, 218, 0.2);
-    transform: translateY(-2px);
+    border-color: #1c7ed6 !important;
+    color: #1c7ed6 !important;
+    box-shadow: 0 4px 12px rgba(50, 154, 240, 0.2);
+    transform: translateY(-1px);
   }
 
   @media screen and (max-width: 600px) {
@@ -364,9 +364,18 @@ h2 {
 
 ---
 
-###### /cv/ page: Last updated on {{ site.status_last_checked | default: "September 2026" }}
+<!-- ###### /cv/ page: Last updated on {{ site.status_last_checked | default: "September 2026" }} -->
 
-###### PDF version of this page: [Download Benji_J_Product_Manager_CV.pdf]({{ '/docs/Benji_J_Product_Manager_CV.pdf' | relative_url }}).
+<!-- ###### PDF version of this page: [Download Benji_J_Product_Manager_CV.pdf]({{ '/docs/Benji_J_Product_Manager_CV.pdf' | relative_url }}). -->
+
+  <div class="cv-action-row">
+    <a href="{{ site.calendly_url | default: 'https://calendly.com/venhamon' }}" target="_blank" rel="noopener noreferrer" class="cv-btn cv-btn-primary">
+      <i class="fa-regular fa-calendar-days"></i> Let's meet! (30 min)
+    </a>
+    <a href="{{ '/docs/Benji_J_Product_Manager_CV.pdf' | relative_url }}" class="cv-btn cv-btn-secondary" download="Benji_J_Product_Manager_CV.pdf">
+      <i class="fa-solid fa-file-arrow-down"></i> Download PDF CV
+    </a>
+  </div>
 
 <br/>
 

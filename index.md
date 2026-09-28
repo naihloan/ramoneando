@@ -138,28 +138,51 @@ I aim for bringing value to teams and users as soon as possible:
   }
 
   .btn-sm-primary {
-    background: #329af0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background-color: #329af0;
     color: #fff !important;
+    border: 2px solid #329af0;
     padding: 10px 18px;
     border-radius: 8px;
-    font-size: 0.85rem;
+    font-size: 0.88rem;
     font-weight: 600;
     text-decoration: none;
-    transition: background 0.2s;
+    box-shadow: 0 2px 8px rgba(50, 154, 240, 0.25);
+    transition: all 0.2s ease-in-out;
   }
 
-  .btn-sm-primary:hover { background: #1c7ed6; }
+  .btn-sm-primary:hover {
+    background-color: #1c7ed6;
+    border-color: #1c7ed6;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(50, 154, 240, 0.4);
+  }
 
   .btn-sm-outline {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background-color: #ffffff;
     color: #329af0 !important;
     padding: 10px 14px;
     border-radius: 8px;
-    border: 1px solid #329af0;
+    border: 2px solid #329af0;
     text-decoration: none;
-    transition: all 0.2s;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease-in-out;
   }
 
-  .btn-sm-outline:hover { background: #f0f7ff; }
+  .btn-sm-outline:hover {
+    background-color: #f0f7ff;
+    border-color: #1c7ed6;
+    color: #1c7ed6 !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(50, 154, 240, 0.2);
+  }
 
   /* Responsive Stacking Logic */
   @media (max-width: 650px) {
