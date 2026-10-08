@@ -13,19 +13,14 @@ last_modified_at: 2026-07-28 10:30:00 +0000
 
 ## Doing Product in Tech & Media
 
-<br/>
+## Building Product Experiments with [Fabio](https://fabiogiacometti.framer.website/){:target="_blank"}
 
-### Building Product Experiments with [Fabio](https://fabiogiacometti.framer.website/){:target="_blank"}
-
-# 🃏 [Thinking In Cards](https://ooux.cards/) 
-
+### 🃏 [Thinking In Cards](https://ooux.cards/) 
 Thinking in cards is an ideation platform to document what systems need to look like so that different parties can talk (and build) over the same thing; working across teams for design, product, development, IA agents, and other decision makers. Get on the same page! :) [New domain soon!]
 
-
-# &#128053; [CheSafari.xyz/](https://chesafari.xyz/)
+### &#128053; [CheSafari.xyz/](https://chesafari.xyz/)
 
 Che Safari is: An event platform to find live music near you.
-
 
 <details class="premium-accordion" style="margin: 1.5em 0; border: 1px solid rgba(13, 110, 253, 0.15); border-radius: 12px; padding: 16px 20px; background: linear-gradient(135deg, #fdfdfd, #f8f9fa); box-shadow: 0 4px 12px rgba(0,0,0,0.02); transition: all 0.3s ease; cursor: pointer;" markdown="1">
   <summary style="font-weight: 600; color: #0d6efd; outline: none; user-select: none;">
@@ -110,6 +105,21 @@ Played my first live gigs in 2025
 My Favorite Music
 </a>
 -->
+
+
+<br/>
+
+# Creating in Person Events with ProductTank
+
+As part of Mind the Product, check past and upcoming events here for for **ProductTank Córdoba**:
+* [Linkedin Post for recent event](https://www.linkedin.com/posts/anabelurquiza_producto-productmanagement-productmanager-share-7511433604623925249-KOF6)
+* [Meetup Community](https://www.meetup.com/producttank-cordoba/)
+
+
+<div class="project-screenshot">
+    <img src="../assets/images/2026-10-08-PT-CBA.jpeg" alt="Che Safari Mobile Screenshot" loading="lazy">
+    Making in Person Product Events in Argentina 🇦🇷 
+</div>
 
 <br/>
 
