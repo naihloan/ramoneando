@@ -2,7 +2,7 @@
 title: 
 layout: page
 sitemap_priority: 1
-description: Benji’s journey as a Product Builder and Strategist. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to Product Manager (PM) and Product Owner roles, also interested in new challenges like more responsability, reports, and more.
+description: Benji’s journey as a Product Person and Strategist. Expert in tech, decentralized music ecosystems, and human-centric systems. Currently open to Product Manager (PM) and Product Owner roles, also interested in new challenges like more responsability, reports, and more.
 ---
 
 {% include hero-book-a-call.html %}
@@ -15,7 +15,7 @@ description: Benji’s journey as a Product Builder and Strategist. Expert in te
 
 ###### 2. As a **Systems' Analyst**: I check what users and business need, and the constraints to get there.
 
-###### 3. As a **Product Builder**: I test and iteration solutions, move to build it, and keep the team engaged.  
+###### 3. As a **Product Person**: I test and iteration solutions, move to build it, and keep the team engaged.  
 
 ##### Industry focus: music, media, social impact & wellbeing.
 
