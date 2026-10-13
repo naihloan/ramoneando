@@ -30,6 +30,7 @@ This site is built as a fast, lightweight, and transparent static site using **J
 * **Pure Markdown Portability:** Every article, experience dossier, and case study is written in standard GitHub Flavored Markdown. No proprietary CMS lock-in; content lives in plain text and is fully version-controlled via Git.
 * **Systems Analyst Mindset:** Choosing static generation (SSG) over heavy JavaScript frameworks prioritizes speed, security, zero server maintenance, and near-instant load times worldwide.
 * **AI-First & Machine-Readable:** Includes structured knowledge endpoints ([`/llms.txt`](https://ramoneando.com/llms.txt), [`/docs/llms-full.txt`](https://ramoneando.com/docs/llms-full.txt), and [`/robots/`](https://ramoneando.com/robots/)) engineered for seamless ingestion by LLMs and autonomous agents.
+* **Commonplace & Media Directory:** A modular digital garden at [`/stuff/`](https://ramoneando.com/stuff/) curating reading backlogs, video essays, cinema, indie web blogs, and webcomics.
 
 ---
 
@@ -80,7 +81,8 @@ bundle exec jekyll serve --livereload
 │   ├── voice.md          # Personal writing voice, IA pattern & soul guide
 │   └── llms-full.txt     # Consolidated single-file AI ingestion context
 │
-├── pages/                # Standalone site pages (robots directory, etc.)
+├── pages/                # Standalone site pages (about, now, books, etc.)
+│   └── stuff/            # Commonplace hub & partitioned subpages (books, youtube, etc.)
 ├── _includes/            # Reusable Liquid components (header, footer, portfolio)
 ├── _layouts/             # Page and post layout templates
 ├── _posts/               # Chronological blog entries & updates

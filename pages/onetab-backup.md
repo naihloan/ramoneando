@@ -1,10 +1,7 @@
 ---
-title: OneTab
-permalink: /stuff/
+title: OneTab (Backup)
+published: false
 layout: page
-weight: 1
-sitemap_priority: 0.2
-description: Benji’s current brianstorming and input
 ---
 
 <!--
@@ -144,23 +141,24 @@ description: Benji’s current brianstorming and input
 
 ### Books -- AI, Product, Business, UX
 
+* [The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World by Brad Stone]( https://www.goodreads.com/book/show/29905580-the-upstarts) 
 * [Apple in China: The Capture of the World's Greatest Company by Patrick McGee]( https://www.goodreads.com/book/show/220161058-apple-in-china?from_search=true&from_srp=true&qid=EKYScP3eOS&rank=1) 
 * [Hooked: How to Build Habit-Forming Products by Nir Eyal]( https://www.goodreads.com/book/show/22668729-hooked) 
 * [Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard H. Thaler]( https://www.goodreads.com/book/show/3450744-nudge) 
-* [The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World by Brad Stone]( https://www.goodreads.com/book/show/29905580-the-upstarts) 
 * [Evidence-Guided: Creating High Impact Products in the Face of Uncertainty by Itamar Gilad]( https://www.goodreads.com/book/show/199041292-evidence-guided) 
-* [Books by Fernando Johann (Author of Mejore Todas Sus Presentaciones En Cinco Pasos)]( https://www.goodreads.com/author/list/18969022.Fernando_Johann) 
+<!-- * [Books by Fernando Johann (Author of Mejore Todas Sus Presentaciones En Cinco Pasos)]( https://www.goodreads.com/author/list/18969022.Fernando_Johann)  -->
 * [How to Break Up with Your Phone: The 30-Day Plan to Take Back Your Life by Catherine Price]( https://www.goodreads.com/book/show/35209767-how-to-break-up-with-your-phone?ref=rae_9) 
 
 ### Books -- Memoir
 
+* [Utopia for Realists: How We Can Build the Ideal World by Rutger Bregman]( https://www.goodreads.com/book/show/40876575-utopia-for-realists) 
+* [Know My Name: A Memoir by Chanel Miller]( https://www.goodreads.com/book/show/46264398-know-my-name?from_choice=true) 
+* [Wild: From Lost to Found on the Pacific Crest Trail by Cheryl Strayed]( https://www.goodreads.com/book/show/12262741-wild) 
+* [Barbarian Days: A Surfing Life by William Finnegan]( https://www.goodreads.com/book/show/18693910-barbarian-days) 
+<!--  -->
 * [Educated by Tara Westover]( https://www.goodreads.com/book/show/35133922-educated) 
 * [Red Velvet Underground: A Rock Memoir, with Recipes by Freda Love Smith]( https://www.goodreads.com/book/show/25074355-red-velvet-underground) 
-* [Barbarian Days: A Surfing Life by William Finnegan]( https://www.goodreads.com/book/show/18693910-barbarian-days) 
-* [Know My Name: A Memoir by Chanel Miller]( https://www.goodreads.com/book/show/46264398-know-my-name?from_choice=true) 
-* [Utopia for Realists: How We Can Build the Ideal World by Rutger Bregman]( https://www.goodreads.com/book/show/40876575-utopia-for-realists) 
 * [Surely You're Joking, Mr. Feynman! Adventures of a Curious Character by Richard P. Feynman]( https://www.goodreads.com/book/show/9803995-surely-you-re-joking-mr-feynman-adventures-of-a-curious-character) 
-* [Riding the Elephant: A Memoir of Altercations, Humiliations, Hallucinations, and Observations by Craig Ferguson]( https://www.goodreads.com/book/show/41429806-riding-the-elephant?from_choice=true) 
 * [The Immortal Life of Henrietta Lacks by Rebecca Skloot]( https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks) 
 * [The Many Lives of Mama Love: A Memoir of Lying, Stealing, Writing, and Healing by Lara Love Hardin]( https://www.goodreads.com/book/show/64631561-the-many-lives-of-mama-love) 
 * [Hunger: A Memoir of (My) Body by Roxane Gay]( https://www.goodreads.com/book/show/26074156-hunger) 
@@ -174,7 +172,6 @@ description: Benji’s current brianstorming and input
 * [Unbound: My Story of Liberation and the Birth of the Me Too Movement by Tarana Burke]( https://www.goodreads.com/book/show/57351643-unbound) 
 * [Between the World and Me by Ta-Nehisi Coates]( https://www.goodreads.com/book/show/25489625-between-the-world-and-me) 
 * [The Color of Water by James McBride]( https://www.goodreads.com/book/show/29209.The_Color_of_Water) 
-* [Wild: From Lost to Found on the Pacific Crest Trail by Cheryl Strayed]( https://www.goodreads.com/book/show/12262741-wild) 
 * [Semi-Well-Adjusted Despite Literally Everything by Alyson Stoner]( https://www.goodreads.com/book/show/217387890-semi-well-adjusted-despite-literally-everything) 
 * [Recollections of My Nonexistence: A Memoir by Rebecca Solnit]( https://www.goodreads.com/book/show/49985046-recollections-of-my-nonexistence) 
 
