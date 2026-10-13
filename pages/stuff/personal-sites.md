@@ -1,5 +1,5 @@
 ---
-title: Personal Websites & Digital Gardens
+title: Personal Websites 
 permalink: /stuff/personal-sites/
 layout: page
 ---
@@ -13,43 +13,66 @@ layout: page
 <!-- PLACEHOLDER: OPTIONAL INTRODUCTORY NOTE -->
 
 ### [Derek Sivers](https://sive.rs) 
-— Philosopher, programmer, and founder. Famous for concise essays, book notes, and pioneering the [/now page movement](https://nownownow.com).
+— Founder of CDbaby, retired. Blogs about programming, travel, culture, reading, thinking and builds stuff like [/now pages](https://nownownow.com).
 
-https://sive.rs/ai | AI use by Derek Sivers
-https://sive.rs/brf | the birth and reverb of friendship | Derek Sivers
-https://sive.rs/met/168 | Michael Chen met with Derek Sivers
-https://ereader.kobo.com/en-ww/products/kobo-clara-bw | Kobo Clara BW | Rakuten Kobo eReader Store
-https://www.readthistwice.com/person/derek-sivers | 170 books Derek Sivers recommended
-https://sive.rs/htl00 | the best book ever written | Derek Sivers
-https://sive.rs/book/Story | Story - by Robert McKee | Derek Sivers
-https://sive.rs/book/StartSmallStaySmall | Start Small, Stay Small - by Rob Walling and Mike Taber | Derek Sivers
-https://sive.rs/book/ThisIsMarketing | This Is Marketing - by Seth Godin | Derek Sivers
-https://sive.rs/book/PowerOfFullEngagement | Power of Full Engagement - by Jim Loehr and Tony Schwartz | Derek Sivers
-https://sive.rs/book/4HourWorkWeek | The 4-Hour Work Week - by Tim Ferriss | Derek Sivers
-https://sive.rs/book/ZeroToOne | Zero to One - by Peter Thiel and Blake Masters | Derek Sivers
-https://sive.rs/book/PersonalMBA | The Personal MBA - by Josh Kaufman | Derek Sivers
-https://sive.rs/book/Switch | Switch - by Chip Heath and Dan Heath | Derek Sivers
-https://sive.rs/book/HappinessHypothesis | The Happiness Hypothesis - by Jonathan Haidt | Derek Sivers
-https://sive.rs/book/CowsPigsWarsWitches | Cows, Pigs, Wars, and Witches - by Marvin Harris | Derek Sivers
-https://sive.rs/book/StumblingOnHappiness | Stumbling on Happiness - by Daniel Gilbert | Derek Sivers
-https://sive.rs/book/BiggestBluff | The Biggest Bluff - by Maria Konnikova | Derek Sivers
-https://sive.rs/book/ReligionHowEvolved | How Religion Evolved - by Robin Dunbar | Derek Sivers
-https://sive.rs/book/NihilismNE | Nothing & Everything - by Val N. Tine | Derek Sivers
-https://sive.rs/book/YLLaTaILY | You Look Like a Thing and I Love You - by Janelle Shane | Derek Sivers
-https://sive.rs/book/WriteUsefulBooks | Write Useful Books - by Rob Fitzpatrick | Derek Sivers
-https://sive.rs/book/Code | Code - by Charles Petzold | Derek Sivers
-https://sive.rs/book/WildProblems | Wild Problems - by Russ Roberts | Derek Sivers
-https://sive.rs/book/RelationshipHandbook | Relationship Handbook - by George Pransky | Derek Sivers
-https://ereader.kobo.com/en-us/products/kobo-clara-bw | Kobo Clara BW | Rakuten Kobo eReader Store United States
+* [AI use by Derek Sivers](https://sive.rs/ai)
+* [the birth and reverb of friendship](https://sive.rs/brf)
+* [Michael Chen met with Derek Sivers](https://sive.rs/met/168)
+* [Kobo Clara BW Rakuten Kobo eReader Store](https://ereader.kobo.com/en-ww/products/kobo-clara-bw)
+* [170 books Derek Sivers recommended](https://www.readthistwice.com/person/derek-sivers)
+* [the best book ever written. By Derek Sivers](https://sive.rs/htl00)
+* [Story - by Robert McKee. By Derek Sivers](https://sive.rs/book/Story)
+* [Start Small, Stay Small - by Rob Walling and Mike Taber. By Derek Sivers](https://sive.rs/book/StartSmallStaySmall)
+* [This Is Marketing - by Seth Godin. By Derek Sivers](https://sive.rs/book/ThisIsMarketing)
+* [Power of Full Engagement - by Jim Loehr and Tony Schwartz. Review by Derek Sivers](https://sive.rs/book/PowerOfFullEngagement)
+* [The 4-Hour Work Week - by Tim Ferriss. Review by Derek Sivers](https://sive.rs/book/4HourWorkWeek)
+* [Zero to One - by Peter Thiel and Blake Masters. Review by Derek Sivers](https://sive.rs/book/ZeroToOne)
+* [The Personal MBA - by Josh Kaufman. Review by Derek Sivers](https://sive.rs/book/PersonalMBA)
+* [Switch - by Chip Heath and Dan Heath. Review by Derek Sivers](https://sive.rs/book/Switch)
+* [The Happiness Hypothesis - by Jonathan Haidt. Review by Derek Sivers](https://sive.rs/book/HappinessHypothesis)
+* [Cows, Pigs, Wars, and Witches - by Marvin Harris. Review by Derek Sivers](https://sive.rs/book/CowsPigsWarsWitches)
+* [Stumbling on Happiness - by Daniel Gilbert. Review by Derek Sivers](https://sive.rs/book/StumblingOnHappiness)
+* [The Biggest Bluff - by Maria Konnikova. Review by Derek Sivers](https://sive.rs/book/BiggestBluff)
+* [How Religion Evolved - by Robin Dunbar. Review by Derek Sivers](https://sive.rs/book/ReligionHowEvolved)
+* [Nothing & Everything - by Val N. Tine. Review by Derek Sivers](https://sive.rs/book/NihilismNE)
+* [You Look Like a Thing and I Love You - by Janelle Shane. Review by Derek Sivers](https://sive.rs/book/YLLaTaILY)
+* [Write Useful Books - by Rob Fitzpatrick. Review by Derek Sivers](https://sive.rs/book/WriteUsefulBooks)
+* [Code - by Charles Petzold. Review by Derek Sivers](https://sive.rs/book/Code)
+* [Wild Problems - by Russ Roberts. Review by Derek Sivers](https://sive.rs/book/WildProblems)
+* [Relationship Handbook - by George Pransky. Review by Derek Sivers](https://sive.rs/book/RelationshipHandbook)
+* [Kobo Clara BW Rakuten Kobo eReader Store United States](https://ereader.kobo.com/en-us/products/kobo-clara-bw)
 
 <!-- ###### [The /now Page Movement (nownownow.com)](https://nownownow.com) 
 — Directory of personal websites with now pages. -->
 
 
 ### [Tom Critchlow](https://tomcritchlow.com)
-— Independent consultant writing on digital gardens, library economy, strategy, and emergent consulting.
-### [Jeremy Duvall](https://jeremyduvall.com) 
-— Thoughts on leadership, remote work, operations, and deliberate life building.
+— Independent consultant, ex-founder blogging about: small-b blogging, AI, marketing, careers, library economy, strategy, and how to build a consultancy. Referred by Jeremey Duvall.
+### [Jeremy Duvall](https://jeremeyduvall.com) 
+— Thoughts on product, books, leadership, and health. Recommends specially to see one of his posts: 
+> _If you’re new, my post on [business maps](https://jeremeyduvall.com/business-maps/) is a good window into my brain._ -- Jeremey Duvall
+* [My personal moonshot](https://jeremeyduvall.com/moonshot/)
+* [Climbing the career Y-axis](https://jeremeyduvall.com/climbing-the-career-y-axis/)
+* [Notes on Outlive: The Science and Art of Longevity](https://jeremeyduvall.com/outlive/)
+
+Jeremey also recommends these other blogs: 
+
+#### [Will Larson](https://lethain.com/)
+
+* [Trying the Software Factory pattern](https://lethain.com/software-factory-experiment/)
+* [Roadmap decisions rather than dates](https://lethain.com/decisions-not-dates/)
+* [Middle management roles are also a trap](https://lethain.com/middle-management-roles-were-also-a-trap/)
+
+
+#### [Ben McCormack](https://customersetc.substack.com/)
+
+* [Where I've Been | Customers, Etc.
+A quick life update.](https://customersetc.substack.com/p/where-ive-been-customers-etc)
+
+#### [Cedric Chin](https://commoncog.com/)
+
+* [Start Here](https://commoncog.com/syllabus/)
+* [Guides](https://commoncog.com/g/)
 
 
 ### Maraoz / Manuel Araoz 
