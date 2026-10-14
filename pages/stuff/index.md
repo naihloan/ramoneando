@@ -14,8 +14,8 @@ Here's my own attempt at ~~organizing~~ gathering ideas, bookmarks, and things I
 
 ## [Books & Reading Lists](/stuff/books/)
 <!-- PLACEHOLDER: ADD PERSONAL INTRO OR NOTES -->
-- [See all book lists and reading backlogs →](/stuff/books/)
-- [Published reSees on /books/ →](/books/)
+- Reading backlog: [/stuff/books/ →](/stuff/books/)
+- The books I've loved recently, on [/books/ →](/books/)
 
 ## [YouTube & Video Highlights](/stuff/youtube/)
 <!-- PLACEHOLDER: ADD PERSONAL INTRO OR NOTES -->

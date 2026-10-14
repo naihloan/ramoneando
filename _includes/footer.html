@@ -170,5 +170,50 @@
       if (diff > 0) el.textContent = diff + '+';
     });
   })();
+
+  // Automatically open all external links in a new tab with security attributes
+  (function() {
+    function isInternalHost(hostname) {
+      if (!hostname) return true;
+      if (hostname === window.location.hostname) return true;
+      if (hostname === 'ramoneando.com' || hostname.endsWith('.ramoneando.com')) return true;
+      if (hostname === 'naihloan.github.io') return true;
+      if (hostname === 'localhost' || hostname === '127.0.0.1') return true;
+      return false;
+    }
+
+    function processExternalLink(link) {
+      var href = link.getAttribute('href');
+      if (!href) return;
+      if (href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:') || href.startsWith('javascript:')) return;
+      if (link.protocol !== 'http:' && link.protocol !== 'https:') return;
+      if (link.getAttribute('target') === '_self') return;
+
+      if (!isInternalHost(link.hostname)) {
+        link.setAttribute('target', '_blank');
+        var rel = link.getAttribute('rel') || '';
+        var relParts = rel.split(/\s+/).filter(Boolean);
+        if (relParts.indexOf('noopener') === -1) relParts.push('noopener');
+        if (relParts.indexOf('noreferrer') === -1) relParts.push('noreferrer');
+        link.setAttribute('rel', relParts.join(' '));
+      }
+    }
+
+    function processAllExternalLinks() {
+      var links = document.querySelectorAll('a[href]');
+      links.forEach(processExternalLink);
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', processAllExternalLinks);
+    } else {
+      processAllExternalLinks();
+    }
+
+    document.addEventListener('click', function(e) {
+      var link = e.target && e.target.closest && e.target.closest('a[href]');
+      if (link) processExternalLink(link);
+    }, { capture: true });
+  })();
 </script>
 
