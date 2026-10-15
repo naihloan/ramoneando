@@ -6,6 +6,30 @@ layout: default
 
 # AI Agent Guidelines
 
+How can I be more ambitious, at the same time as doing small bets? Moonshots, and bread and butter. Or do they go in opposite directions? Follow basic principles.
+
+## UX/UI
+* Don't Make Me Think 
+
+## Code
+* YAGNI: You Aren't Gonna Need It 
+* KISS: Keep It Simple Stupid
+
+## Business & Product
+* MVP, or Minimum Viable Product: Always aim to build the smallest and quickest thing to learn from what is useful to users. Marty Cagan actually coined the phrase Minimum Lovable Product, or MLP, because it's more important to have a few users that love the product and would hate to have it removed, rather than thousands of users that have a meh-lookwarm engagement.
+* Desirability, Feasibility, Viability: The classic product framework. It ensures we consider users' engagement with the product, based on simple questions: 
+	* do users want it? (desirability)
+	* can we build this product? (feasibility) 
+	* does this product makes business sense? (viability)
+* Consider Jobs-to-be-Done (JTBD): Be alert about what do users need, what are they struggling with, understanding why users need a solution, and how they find or need certain work arounds or killer solutions. 
+* Product-Market Fit, or PMF: Are we solving a strong market demand? Does it solve for a specific target audience?
+
+## Strategy
+* Pareto Principle, or 80/20 Rule: Identify and prioritize the 20% of features or efforts that will yield 80% of the impact or value.
+* Data-Informed over Data-Driven: Use research, both quantitative metrics, as qualitative insights considering user empathy, intuition, and strategic vision.
+* Fail Fast & Iterate: Mindset of treating features as hypotheses to be tested, validated, and adjusted.
+
+
 <br/>
 
 ## Goal
