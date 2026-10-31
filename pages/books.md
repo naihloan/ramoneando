@@ -74,6 +74,7 @@ Some of the books listed here link into more detail about summaries of what I've
 ## 2026
 
 * *John and Paul: A Love Story in Songs*. By Ian Leslie
+* _Let Your Mind Run: A Memoir of Thinking My Way to Victory._ By Deena Kastor
 
 ## 2025
 
