@@ -56,7 +56,7 @@ description: Benji’s journey as a worker in tech and Product, including career
 <br/> <br/>
 
 ### Favorite Books (Some)  <!-- ###### Some From All Time -->
-* _Esto no es todo_. By Quino
+* _Esto No Es Todo_. By Quino
 * _Invisible Cities_. By Italo Calvino
 * _The Anthropocene Reviewed: Essays on a Human-Centered Planet_. By John Green
 * _Project Hail Mary_. By Andy Weir
