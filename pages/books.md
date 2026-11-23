@@ -53,6 +53,20 @@ description: Benji’s journey as a worker in tech and Product, including career
   </ul>
 </section>
 
+<br/> <br/>
+
+### Favorite Books (Some)  <!-- ###### Some From All Time -->
+* _Esto no es todo_. By Quino
+* _Invisible Cities_. By Italo Calvino
+* _The Anthropocene Reviewed: Essays on a Human-Centered Planet_. By John Green
+* _Project Hail Mary_. By Andy Weir
+* _The Creative Act: A Way of Being_. By Rick Rubin
+* _Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect_. By Will Guidara
+* _The Lessons of History_. By Will Durant and Ariel Durant
+* _How to Be Perfect: The Correct Answer to Every Moral Question_. By Michael Schur
+* _Born a Crime: Stories From a South African Childhood_. By Trevor Noah
+* _The Killing Joke_. By Alan Moore
+
 ## What I've learned from books
 
 I know there's a certain amount of lessons I can learn from others. Of course, you always need the real-world experience. So seems the best of both worlds to gain traction in the two at once. 
