@@ -56,6 +56,17 @@ description: Benji’s journey as a worker in tech and Product, including career
 <br/> <br/>
 
 ### Favorite Books (Some)  <!-- ###### Some From All Time -->
+<div class="favorite-books-actions">
+  <button type="button" class="favorite-books-copy" id="copy-favorite-books">
+    <svg aria-hidden="true" viewBox="0 0 16 16">
+      <rect x="5" y="5" width="9" height="10" rx="1.5"></rect>
+      <path d="M11 5V3.5A1.5 1.5 0 0 0 9.5 2h-6A1.5 1.5 0 0 0 2 3.5v7A1.5 1.5 0 0 0 3.5 12H5"></path>
+    </svg>
+    <span>Copy list</span>
+  </button>
+  <span class="favorite-books-copy-status" id="favorite-books-copy-status" role="status" aria-live="polite"></span>
+</div>
+
 <ol class="favorite-books-list">
   <li><em>Esto No Es Todo</em>. By Quino</li>
   <li><em>Invisible Cities</em>. By Italo Calvino</li>
@@ -68,6 +79,41 @@ description: Benji’s journey as a worker in tech and Product, including career
   <li><em>Born a Crime: Stories From a South African Childhood</em>. By Trevor Noah</li>
   <li><em>The Killing Joke</em>. By Alan Moore</li>
 </ol>
+
+<script>
+  let favoriteBooksCopyTimeout;
+
+  document.getElementById("copy-favorite-books").addEventListener("click", async () => {
+    const list = document.querySelector(".favorite-books-list");
+    const status = document.getElementById("favorite-books-copy-status");
+    clearTimeout(favoriteBooksCopyTimeout);
+    status.dataset.state = "";
+    status.textContent = "";
+    const text = Array.from(list.querySelectorAll(":scope > li"))
+      .map((item, index) => `${index + 1}. ${item.innerText.trim()}`)
+      .join("\n");
+
+    if (!navigator.clipboard?.writeText) {
+      status.dataset.state = "error";
+      status.textContent = "Clipboard access is unavailable. Please select and copy the list manually.";
+      return;
+    }
+
+    try {
+      await navigator.clipboard.writeText(text);
+      status.dataset.state = "success";
+      status.textContent = "Copied!";
+      favoriteBooksCopyTimeout = window.setTimeout(() => {
+        status.dataset.state = "";
+        status.textContent = "";
+      }, 4000);
+    } catch (error) {
+      console.error("Could not copy favorite books list:", error);
+      status.dataset.state = "error";
+      status.textContent = "Could not copy. Please select and copy the list manually.";
+    }
+  });
+</script>
 
 ## What I've learned from books
 
