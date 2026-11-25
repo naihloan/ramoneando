@@ -56,16 +56,18 @@ description: Benji’s journey as a worker in tech and Product, including career
 <br/> <br/>
 
 ### Favorite Books (Some)  <!-- ###### Some From All Time -->
-* _Esto No Es Todo_. By Quino
-* _Invisible Cities_. By Italo Calvino
-* _The Anthropocene Reviewed: Essays on a Human-Centered Planet_. By John Green
-* _Project Hail Mary_. By Andy Weir
-* _The Creative Act: A Way of Being_. By Rick Rubin
-* _Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect_. By Will Guidara
-* _The Lessons of History_. By Will Durant and Ariel Durant
-* _How to Be Perfect: The Correct Answer to Every Moral Question_. By Michael Schur
-* _Born a Crime: Stories From a South African Childhood_. By Trevor Noah
-* _The Killing Joke_. By Alan Moore
+<ol class="favorite-books-list">
+  <li><em>Esto No Es Todo</em>. By Quino</li>
+  <li><em>Invisible Cities</em>. By Italo Calvino</li>
+  <li><em>The Anthropocene Reviewed: Essays on a Human-Centered Planet</em>. By John Green</li>
+  <li><em>Project Hail Mary</em>. By Andy Weir</li>
+  <li><em>The Creative Act: A Way of Being</em>. By Rick Rubin</li>
+  <li><em>Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect</em>. By Will Guidara</li>
+  <li><em>The Lessons of History</em>. By Will Durant and Ariel Durant</li>
+  <li><em>How to Be Perfect: The Correct Answer to Every Moral Question</em>. By Michael Schur</li>
+  <li><em>Born a Crime: Stories From a South African Childhood</em>. By Trevor Noah</li>
+  <li><em>The Killing Joke</em>. By Alan Moore</li>
+</ol>
 
 ## What I've learned from books
 
